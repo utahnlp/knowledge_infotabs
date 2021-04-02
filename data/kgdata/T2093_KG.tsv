@@ -1,0 +1,36 @@
+key	keyword	definition	description	source
+Observed by	observe	Observation is the active acquisition of information from a primary source. In living beings, observation employs the senses. In science, observation can also involve the perception and recording of data via the use of scientific instruments. The term may also refer to any data collected during the scientific activity. Observations can be qualitative, that is, only the absence or presence of a property is noted, or quantitative if a numerical value is attached to the observed phenomenon by counting or measuring.	active acquisition of information from a primary source	wikipedia
+Observed by	observed	show respect towards	respect, honor, honour, abide_by, observe	wordnet
+Observed by	observed	fulfil or comply with (a social, legal, ethical, or religious obligation).	NA	owlbot
+Type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Type	type	a design on either side of a medal or coin.	NA	owlbot
+Type	type	A type is a kind	NA	GenericsKB
+Significance	significance	In statistical hypothesis testing, a result has statistical significance when it is very unlikely to have occurred given the null hypothesis	statistical assessment of whether observations reflect a pattern rather than just chance	wikipedia
+Significance	significance	the quality of being significant	significance	wordnet
+Significance	significance	the meaning to be found in words or events.	NA	owlbot
+Significance	significance	Significance belongs to things in their relations to individuals	NA	GenericsKB
+Date	date	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+Date	date	the specified day of the month	date, day_of_the_month	wordnet
+Date	date	the day of the month or year as specified by a number.	NA	owlbot
+Date	date	Date is a day	NA	GenericsKB
+2018 date	date	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+2018 date	date	the specified day of the month	date, day_of_the_month	wordnet
+2018 date	date	the day of the month or year as specified by a number.	NA	owlbot
+2018 date	date	Date is a day	NA	GenericsKB
+2019 date	date	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+2019 date	date	the specified day of the month	date, day_of_the_month	wordnet
+2019 date	date	the day of the month or year as specified by a number.	NA	owlbot
+2019 date	date	Date is a day	NA	GenericsKB
+2020 date	date	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+2020 date	date	the specified day of the month	date, day_of_the_month	wordnet
+2020 date	date	the day of the month or year as specified by a number.	NA	owlbot
+2020 date	date	Date is a day	NA	GenericsKB
+2021 date	date	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+2021 date	date	the specified day of the month	date, day_of_the_month	wordnet
+2021 date	date	the day of the month or year as specified by a number.	NA	owlbot
+2021 date	date	Date is a day	NA	GenericsKB
+Frequency	frequency	Frequency is the number of occurrences of a repeating event per unit of time. It is also referred to as temporal frequency , which emphasizes the contrast to spatial frequency and angular frequency. Frequency is measured in units of hertz which is equal to one occurrence of a repeating event per second. The period is the duration of time of one cycle in a repeating event, so the period is the reciprocal of the frequency. For example: if a newborn baby's heart beats at a frequency of 120 times a minute , its period, T , — the time interval between beats—is half a second . Frequency is an important parameter used in science and engineering to specify the rate of oscillatory and vibratory phenomena, such as mechanical vibrations, audio signals , radio waves, and light.	inverse of the period duration	wikipedia
+Frequency	frequency	the number of occurrences within a given time period	frequency, frequence, oftenness	wordnet
+Frequency	frequency	the rate per second of a vibration constituting a wave, either in a material (as in sound waves), or in an electromagnetic field (as in radio waves and light).	NA	owlbot
+Frequency	frequency	Frequencies are rates	NA	GenericsKB

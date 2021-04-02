@@ -1,0 +1,38 @@
+{
+  "title": [
+    "Mazda J engine"
+  ],
+  "Manufacturer": [
+    "Mazda"
+  ],
+  "Configuration": [
+    "60° V6"
+  ],
+  "Displacement": [
+    "3.0 L (2,954 cc)"
+  ],
+  "Block material": [
+    "Cast-iron"
+  ],
+  "Head material": [
+    "Alloy"
+  ],
+  "Valvetrain": [
+    "DOHC or SOHC 18- or 24-valve"
+  ],
+  "Turbocharger": [
+    "Only in JFT"
+  ],
+  "Fuel type": [
+    "Gasoline"
+  ],
+  "Cooling system": [
+    "Water cooled"
+  ],
+  "Power output": [
+    "150-203 hp (112-151 kW; 152-206 PS)"
+  ],
+  "Torque output": [
+    "165 lb⋅ft (224 N⋅m)"
+  ]
+}

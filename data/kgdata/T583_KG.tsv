@@ -1,0 +1,42 @@
+key	keyword	definition	description	source
+Date	date	Date is a modern dansband from Sweden	Swedish dansband	wikipedia
+Date	date	the specified day of the month	date, day_of_the_month	wordnet
+Date	date	establish or ascertain the date of (an object or event).	NA	owlbot
+Date	date	Date is a day	NA	GenericsKB
+Location	location	In geography, location and place are used to denote a point or an area on the Earth's surface or elsewhere. The term location generally implies a higher degree of certainty than place , the latter often indicating an entity with an ambiguous boundary, relying more on human or social attributes of place identity and sense of place than on geometry.	point or an area on the Earth's surface or elsewhere	wikipedia
+Location	location	a point or extent in space	location	wordnet
+Location	location	a particular place or position.	NA	owlbot
+Location	location	Location has a significant impact on crime in India 	NA	GenericsKB
+Event type	event	A ceremony is a unified ritualistic event with a purpose, usually consisting of a number of artistic components, performed on a special occasion	event of ritual significance, performed on a special occasion	wikipedia
+Event type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Event type	event	a phenomenon that follows and is caused by some previous phenomenon	consequence, effect, outcome, result, event, issue, upshot	wordnet
+Event type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Event type	event	Events affect calf survival	NA	GenericsKB
+Event type	type	Type is a creation of both art and science	NA	GenericsKB
+Distance	distance	"Distance is a numerical measurement of how far apart objects or points are. In physics or everyday usage, distance may refer to a physical length or an estimation based on other criteria . In most cases, ""distance from A to B"" is interchangeable with ""distance from B to A"". In mathematics, a distance function or metric is a generalization of the concept of physical distance, a way of describing what it means for elements of some space to be ""close to"" or ""far away from"" each other. In psychology or social sciences distance is a non numerical measurement; Psychological distance is defined as ""the different ways in which an object might be removed from"" the self along dimensions such as ""time, space, social distance, and hypotheticality."	length of straight line that connects two points in a measurable space or in an observable physical space	wikipedia
+Distance	distance	the property created by the space between two objects or points	distance	wordnet
+Distance	distance	the length of the space between two points.	NA	owlbot
+Distance	distance	Distance also is a factor affecting demand	NA	GenericsKB
+Primary sponsor	primary	A disease is a particular abnormal condition that negatively affects the structure or function of all or part of an organism, and that is not due to any immediate external injury	abnormal condition negatively affecting organisms	wikipedia
+Primary sponsor	sponsor	A godparent , in many denominations of Christianity, is someone who bears witness to a child's christening and later is willing to help in their catechesis, as well as their lifelong spiritual formation	person who sponsors a child's baptism	wikipedia
+Primary sponsor	primary	a preliminary election where delegates or nominees are chosen	primary, primary_election	wordnet
+Primary sponsor	sponsor	do one's shopping at; do business with; be a customer or client of	patronize, patronise, shop, shop_at, buy_at, frequent, sponsor	wordnet
+Primary sponsor	primary	Primary is elections	NA	GenericsKB
+Primary sponsor	sponsor	A sponsor is a helper	NA	GenericsKB
+Established	established	The European Single Market , Internal Market or Common Market is a single market which seeks to guarantee the free movement of goods, capital, services, and labour – the ‘ four freedoms ‘ – within the European Union 	single market of the European Union and participating non-EU countries	wikipedia
+Established	established	set up or found	establish, set_up, found, launch	wordnet
+Established	established	set up on a firm or permanent basis.	NA	owlbot
+Course records	course	A course is a layer of the same unit running horizontally in a wall	layer of similar material in a structure, e.g. a row of bricks	wikipedia
+Course records	records	The archaeological record is the body of physical evidence about the past	body of physical (i.e. not written) evidence about the past	wikipedia
+Course records	course	a body of students who are taught together	class, form, grade, course	wordnet
+Course records	records	sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove	phonograph_record, phonograph_recording, record, disk, disc, platter	wordnet
+Course records	course	A course is education	NA	GenericsKB
+Course records	records	Records are books	NA	GenericsKB
+Official site	official site	A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server. Notable examples are wikipedia.org, google.com, and amazon.com. All publicly accessible websites collectively constitute the World Wide Web. There are also private websites that can only be accessed on a private network, such as a company's internal website for its employees. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social networking. Hyperlinking between web pages guides the navigation of the site, which often starts with a home page. Users can access websites on a range of devices, including desktops, laptops, tablets, and smartphones. The software application used on these devices is called a web browser.	set of related web pages served from a single web domain	wikipedia
+Official site	official	a worker who holds or is invested with an office	official, functionary	wordnet
+Official site	site	the piece of land on which something is located (or is to be located)	site, land_site	wordnet
+Official site	official site	Official sites have communities	NA	GenericsKB
+Participants	participants	e-participation is the term referring to ICT-supported participation in processes involving government and citizens	type of participation	wikipedia
+Participants	participants	a person who participates in or is skilled at some game	player, participant	wordnet
+Participants	participants	a person who takes part in something.	NA	owlbot
+Participants	participant	A participant is an associate	NA	GenericsKB

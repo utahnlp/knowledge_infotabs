@@ -1,0 +1,83 @@
+{
+  "title": [
+    "LG Optimus G"
+  ],
+  "Manufacturer": [
+    "LG Electronics"
+  ],
+  "Slogan": [
+    "\" Live without boundaries \""
+  ],
+  "Series": [
+    "Optimus  , G series"
+  ],
+  "Compatible networks": [
+    "GSM (850 / 900 / 1800 / 1900), HSDPA, CDMA (Global 800 / 850 / 1900 & South Korea LG U+ Korean Pcs 1800), LTE"
+  ],
+  "Availability by region": [
+    "November 2012 (US and Canada)"
+  ],
+  "Predecessor": [
+    "LG Optimus 4X HD"
+  ],
+  "Successor": [
+    "LG G2"
+  ],
+  "Related": [
+    "LG Optimus G Pro , Nexus 4"
+  ],
+  "Type": [
+    "Smartphone"
+  ],
+  "Form factor": [
+    "Bar"
+  ],
+  "Dimensions": [
+    "131.9 mm (5.19 in) H , 68.9 mm (2.71 in) W , 8.5 mm (0.33 in) D"
+  ],
+  "Mass": [
+    "145 g (5.11 oz)"
+  ],
+  "Operating system": [
+    "Android 4.0 Ice Cream Sandwich  , 4.1.2 Jelly Bean  , 4.4.2 KitKat"
+  ],
+  "System on chip": [
+    "Qualcomm Snapdragon S4 Pro APQ8064 , 1.4 GHz quad-core Samsung Exynos"
+  ],
+  "CPU": [
+    "1.5 GHz quad-core Qualcomm Krait , 1.4 GHz ARM Cortex-A53"
+  ],
+  "GPU": [
+    "Qualcomm Adreno 320 , Mali-400 MP2"
+  ],
+  "Memory": [
+    "2 GB LPDDR2 RAM clocked at 533mhz"
+  ],
+  "Storage": [
+    "16 & 32 GB"
+  ],
+  "Removable storage": [
+    "Not available in the Global models , microSD up to 64GB AT&T & Japan & Taiwan"
+  ],
+  "Battery": [
+    "Non-Removable  Li-ion 2100 mAh(U.S & Canada & South Korea & Global Variant) Removable Li-ion 2210 mah (Japan Variant) , Removable Li-ion 2280 mAh (Taiwan Variant)"
+  ],
+  "Data inputs": [
+    "Touch"
+  ],
+  "Display": [
+    "4.7 in (120 mm) diagonal  , \"True HD\" IPS LCD 768×1280"
+  ],
+  "Front camera": [
+    "1.3 MP, HD video recording (720p)"
+  ],
+  "Connectivity": [
+    "3.5 mm stereo audio jack , Wi-Fi 802.11 a/b/g/n, Wi-Fi Hotspot, DLNA , Bluetooth 4.0 + A2DP , micro-USB 2.0 (5-pin) port with mobile high-definition video link (MHL) for USB or HDMI connection"
+  ],
+  "Other": [
+    "1-Seg (Japan), NOTTV(NTT DoCoMo), T-DMB(South Korea)"
+  ],
+  "SAR": [
+    "0.70 W/kg (head) , 1.06 W/kg (body)"
+  ]
+}

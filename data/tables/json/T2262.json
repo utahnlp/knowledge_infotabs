@@ -1,0 +1,104 @@
+{
+    "title": [
+        "Hydrogen,\u00a0\u00a01H"
+    ],
+    "Appearance": [
+        "colorless gas"
+    ],
+    "Standard atomic weight Ar, std(H)": [
+        "[1.00784, 1.00811] conventional: 1.008"
+    ],
+    "Atomic number (Z)": [
+        "1"
+    ],
+    "Group": [
+        "1: H and alkali metals"
+    ],
+    "Period": [
+        "period 1"
+    ],
+    "Block": [
+        "s-block"
+    ],
+    "Element category": [
+        "Reactive nonmetal"
+    ],
+    "Electron configuration": [
+        "1s 1"
+    ],
+    "Electrons per shell": [
+        "1"
+    ],
+    "Phase at STP": [
+        "gas"
+    ],
+    "Melting point": [
+        "(H 2 ) 13.99 K \u200b(\u2212259.16 \u00b0C, \u200b\u2212434.49 \u00b0F)"
+    ],
+    "Boiling point": [
+        "(H 2 ) 20.271 K \u200b(\u2212252.879 \u00b0C, \u200b\u2212423.182 \u00b0F)"
+    ],
+    "Density (at STP)": [
+        "0.08988 g/L"
+    ],
+    "when liquid (at m.p.)": [
+        "0.07 g/cm 3  (solid: 0.0763 g/cm 3 )"
+    ],
+    "when liquid (at b.p.)": [
+        "0.07099 g/cm 3"
+    ],
+    "Triple point": [
+        "13.8033 K, \u200b7.041 kPa"
+    ],
+    "Critical point": [
+        "32.938 K, 1.2858 MPa"
+    ],
+    "Heat of fusion": [
+        "(H 2 ) 0.117 kJ/mol"
+    ],
+    "Heat of vaporization": [
+        "(H 2 ) 0.904 kJ/mol"
+    ],
+    "Molar heat capacity": [
+        "(H 2 ) 28.836 J/(mol\u00b7K)"
+    ],
+    "Oxidation states": [
+        "\u22121 ,  +1  (an amphoteric oxide)"
+    ],
+    "Electronegativity": [
+        "Pauling scale: 2.20"
+    ],
+    "Ionization energies": [
+        "1st: 1312.0 kJ/mol"
+    ],
+    "Covalent radius": [
+        "31\u00b15 pm"
+    ],
+    "Van der Waals radius": [
+        "120 pm"
+    ],
+    "Natural occurrence": [
+        "primordial"
+    ],
+    "Speed of sound": [
+        "1310 m/s (gas, 27 \u00b0C)"
+    ],
+    "Thermal conductivity": [
+        "0.1805 W/(m\u00b7K)"
+    ],
+    "Magnetic ordering": [
+        "diamagnetic"
+    ],
+    "Magnetic susceptibility": [
+        "\u22123.98\u00b710 \u22126  cm 3 /mol (298 K)"
+    ],
+    "CAS Number": [
+        "12385-13-6  , 1333-74-0 (H 2 )"
+    ],
+    "Discovery": [
+        "Henry Cavendish (1766)"
+    ],
+    "Named by": [
+        "Antoine Lavoisier (1783)"
+    ]
+}

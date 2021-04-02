@@ -1,0 +1,50 @@
+{
+  "title": [
+    "b48 Lorimer Street"
+  ],
+  "System": [
+    "MTA Regional Bus Operations"
+  ],
+  "Operator": [
+    "New York City Transit Authority"
+  ],
+  "Garage": [
+    "Fresh Pond Depot"
+  ],
+  "Vehicle": [
+    "Orion VII",
+    "Orion VII Next Generation",
+    "Nova Bus RTS-06",
+    "New Flyer Industries Xcelsior XD40"
+  ],
+  "Began service": [
+    "November 6, 1884 (streetcar service)  , December 14, 1947 (bus service)"
+  ],
+  "Locale": [
+    "Brooklyn"
+  ],
+  "Communities served": [
+    "Greenpoint, Williamsburg, Bedford-Stuyvesant, Clinton Hill, Prospect Lefferts Gardens"
+  ],
+  "Landmarks served": [
+    "Brooklyn Museum of Art, Brooklyn Botanic Garden, Prospect Park"
+  ],
+  "Start": [
+    "Prospect Lefferts Gardens - Ocean Avenue and Flatbush Avenue / Prospect Park"
+  ],
+  "Via": [
+    "Classon/Franklin Avenues, Lorimer Street, Nassau Avenue"
+  ],
+  "End": [
+    "Greenpoint - Meeker Avenue and Gardner Avenue"
+  ],
+  "Operates": [
+    "24 hours"
+  ],
+  "Annual patronage": [
+    "1,117,264 (2017)"
+  ],
+  "Transfers": [
+    "Yes"
+  ]
+}

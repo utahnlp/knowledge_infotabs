@@ -1,0 +1,30 @@
+key	keyword	definition	description	source
+Born	born	""" Born "" is a song written and performed by Barry Gibb that was included as the first track on his debut album The Kid's No Good in 1970"	song written and performed by Barry Gibb	wikipedia
+Born	born	cause to be born	give_birth, deliver, bear, birth, have	wordnet
+Born	born	existing as a result of birth.	NA	owlbot
+Born	born	Borns start with cries	NA	GenericsKB
+Residence	residence	A home , or domicile , is a living space used as a permanent or semi- permanent residence for an individual, family, household or several families in a tribe	dwelling-place used as a permanent or semi-permanent residence for an individual,family,household or several families in a tribe. It is often a house, apartment, or other building, or alternatively a mobile home,houseboat,yurt, other portable shelter	wikipedia
+Residence	residence	the act of dwelling in a place	residency, residence, abidance	wordnet
+Residence	residence	a person's home, especially a large and impressive one.	NA	owlbot
+Residence	residence	A residence is an address	NA	GenericsKB
+Alma mater	alma mater	"Alma mater almae matres ) is an allegorical Latin phrase for a university, school, or college that one formerly attended. In US usage, it can also mean the school from which one graduated. The phrase is variously translated as ""nourishing mother"", ""nursing mother"", or ""fostering mother"", suggesting that a school provides intellectual nourishment to its students. Before its current usage, alma mater was an honorific title for various Latin mother goddesses, especially Ceres or Cybele, and later in Catholicism for the Virgin Mary. It entered academic usage when the University of Bologna adopted the motto Alma Mater Studiorum , which describes its heritage as the oldest operating university in the Western world. It is related to alumnus , a term used for a university graduate that literally means a ""nursling"" or ""one who is nourished"". *: literal translation"	school or university that a person has attended	wikipedia
+Alma mater	alma			wordnet
+Alma mater	mater	an informal use of the Latin word for mother; sometimes used by British schoolboys or used facetiously	mater	wordnet
+Alma mater	alma mater	the university, school, or college that one formerly attended.	NA	owlbot
+Alma mater	alma mater	An alma mater is a school	NA	GenericsKB
+Occupation	occupation	"The career is an individual's metaphorical ""journey"" through learning, work and other aspects of life"	an individual's journey through learning, work, and other aspects of life	wikipedia
+Occupation	occupation	any activity that occupies a person's attention	occupation	wordnet
+Occupation	occupation	for the sole use of the occupiers of the land concerned.	NA	owlbot
+Occupation	occupation	An occupation is an activity	NA	GenericsKB
+Known for	know	"Knowledge is a familiarity, awareness, or understanding of someone or something, such as facts , skills , or objects . Knowledge can be acquired in many different ways and from many difference sources, including but not limited to experience, education, reason, memory, scientific inquiry, exploration, and practice. The philosophical study of knowledge is called epistemology. Knowledge can refer to a theoretical or practical understanding of a subject. It can be implicit or explicit ; formal or informal; systematic or particular. The philosopher Plato famously pointed out the need for a distinction between knowledge and true belief in the Theaetetus , leading many to attribute to him a definition of knowledge as ""justified true belief"". The difficulties with this definition raised by the Gettier problem have been the subject of extensive debate in epistemology for more than half a century."	experience or education by perceiving, discovering, or learning; theoretical or practical understanding of a subject	wikipedia
+Known for	known	be familiar or acquainted with a person or an object	know	wordnet
+Known for	known	have developed a relationship with (someone) through meeting and spending time with them; be familiar or friendly with.	NA	owlbot
+Known for	know	Knows are knowing	NA	GenericsKB
+Height	height	"Height is measure of vertical distance, either vertical extent or vertical position . For example, ""The height of that building is 50 m"" or ""The height of an airplane in-flight is about 10,000 m"". When the term is used to describe vertical position from sea level, height is more often called altitude. Furthermore, if the point is attached to the Earth , then altitude is called elevation. In a two-dimensional Cartesian space, height is measured along the vertical axis between a specific point and another that does not have the same y -value. If both points happen to have the same y -value, then their relative height is zero. In three-dimensional space, height is measured along the vertical z axis, describing a distance from the x-y plane."	distance between the lowest end and highest end of an object	wikipedia
+Height	height	(of a standing person) the distance from head to foot	stature, height	wordnet
+Height	height	the measurement of someone or something from head to foot or from base to top.	NA	owlbot
+Height	height	Height decreases with age	NA	GenericsKB
+Spouse(s)	spouse	A spouse is a significant other in a marriage, civil union, or common-law marriage. The term is gender neutral, whereas a male spouse is a husband and a female spouse is a wife. Although a spouse is a form of significant other, the latter term also includes non-marital partners who play a social role similar to that of a spouse, but do not have rights and duties reserved by law to a spouse.	partner in a marriage, civil union, domestic partnership or common-law marriage	wikipedia
+Spouse(s)	spouse	a person's partner in marriage	spouse, partner, married_person, mate, better_half	wordnet
+Spouse(s)	spouse	a husband or wife, considered in relation to their partner.	NA	owlbot
+Spouse(s)	spouse	A spouse is a relative	NA	GenericsKB

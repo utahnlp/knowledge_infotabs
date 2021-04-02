@@ -1,0 +1,44 @@
+{
+  "title": [
+    "Kelana Jaya line extension"
+  ],
+  "System": [
+    "Klang Valley Integrated Transit System"
+  ],
+  "Status": [
+    "Opened"
+  ],
+  "Locale": [
+    "Malaysia"
+  ],
+  "Termini": [
+    "Kelana Jaya , Putra Heights"
+  ],
+  "Stations": [
+    "13"
+  ],
+  "Services": [
+    "1"
+  ],
+  "Opened": [
+    "30 June 2016"
+  ],
+  "Owner": [
+    "Prasarana Malaysia"
+  ],
+  "Operator(s)": [
+    "RapidKL"
+  ],
+  "Depot(s)": [
+    "Lembah Subang"
+  ],
+  "Rolling stock": [
+    "Innovia ART 200"
+  ],
+  "Line length": [
+    "17.4 km"
+  ],
+  "Operating speed": [
+    "80 km/h"
+  ]
+}

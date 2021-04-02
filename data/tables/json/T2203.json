@@ -1,0 +1,111 @@
+{
+  "title": [
+    "Samsung Galaxy Note9"
+  ],
+  "Codename": [
+    "Crown"
+  ],
+  "Brand": [
+    "Samsung Galaxy"
+  ],
+  "Manufacturer": [
+    "Samsung Electronics"
+  ],
+  "Slogan": [
+    "The new super powerful Note"
+  ],
+  "Series": [
+    "Samsung Galaxy Note"
+  ],
+  "Model": [
+    "International models : , SM-N960x (Last letter varies by carrier and international models) ",
+    "Japanese models : , SCV40 (au) , SC-01L (NTT Docomo)"
+  ],
+  "Compatible networks": [
+    "2G, 3G, 4G, 4G LTE"
+  ],
+  "First released": [
+    "9 August 2018; 14 months ago (2018-08-09)"
+  ],
+  "Predecessor": [
+    "Samsung Galaxy Note 8"
+  ],
+  "Successor": [
+    "Samsung Galaxy Note 10"
+  ],
+  "Related": [
+    "Samsung Galaxy S9  ,  Samsung Galaxy A9 (2018)"
+  ],
+  "Type": [
+    "Phablet"
+  ],
+  "Form factor": [
+    "Slate"
+  ],
+  "Dimensions": [
+    "H: 161.9 mm (6.37 in) , W: 76.4 mm (3.01 in) , D: 8.8 mm (0.35 in)"
+  ],
+  "Mass": [
+    "201 g (7.1 oz)"
+  ],
+  "Operating system": [
+    "Original : Android Oreo 8.1 with Samsung Experience 9.5 ,  Current : Android Pie 9 with Samsung One UI 1.0"
+  ],
+  "System on chip": [
+    "Global : Samsung Exynos 9810 ,  USA, Canada, China and Japan : Qualcomm Snapdragon 845"
+  ],
+  "CPU": [
+    "Exynos : Octa-core (4x2.7 GHz Cortex-A55 & 4x1.7 GHz Mongoose M3) ,  Snapdragon : Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"
+  ],
+  "GPU": [
+    "Exynos:  Mali-G72 MP18",
+    "Snapdragon:  Adreno 630"
+  ],
+  "Memory": [
+    "6 GB (128 GB model) 8 GB (512 GB model)"
+  ],
+  "Storage": [
+    "128 GB or 512 GB UFS 2.1"
+  ],
+  "Removable storage": [
+    "microSD card support up to 512 GB"
+  ],
+  "Battery": [
+    "4000 mAh (non-removable)"
+  ],
+  "Data inputs (Sensors)": [
+    "Accelerometer",
+    "Barometer",
+    "Fingerprint scanner (rear-mounted)",
+    "Iris scanner",
+    "Geomagnetic sensor",
+    "Gyroscope",
+    "Hall sensor",
+    "Proximity sensor",
+    "Heart rate and blood oxygen saturation sensor"
+  ],
+  "Data inputs (Other)": [
+    "S Pen",
+    "Physical sound volume keys",
+    "Bixby key"
+  ],
+  "Display": [
+    "6.4 inches (162.0 mm)",
+    "Super AMOLED capacitive touchscreen display, 2960x1440 px resolution (516 ppi)"
+  ],
+  "Rear camera": [
+    "Dual 12 MP (1.4 μm, f/1.5/2.4) + 12 MP ((1.0 μm), f/2.4), Dual OIS, 4K at 30 or 60 fps (limited to 5 min)[1], QHD at 30 fps, 1080p at 30 or 60 fps, 720p at 30 fps and slow motion at 960 fps"
+  ],
+  "Front camera": [
+    "8 MP (1.22 μm, f/1.7), autofocus"
+  ],
+  "Sound": [
+    "Stereo speakers tuned by AKG with Dolby Atmos support"
+  ],
+  "Connectivity": [
+    "Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80, MU-MIMO, 1024-QAM Bluetooth 5.0 (LE up to 2Mbps), ANT+, USB-C, 3.5mm headphone jack, NFC, location (GPS, Galileo, GLONASS, BeiDou)"
+  ],
+  "Website": [
+    "www.samsung.com/global/galaxy/galaxy-note9/"
+  ]
+}

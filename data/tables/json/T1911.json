@@ -1,0 +1,47 @@
+{
+    "title": ["Islamic Republic of Iran"],
+    "Capital and largest city": ["Tehran"],
+    "Official Languages": ["Persian"],
+    "Recognised regional languages" : [
+    	"53% Persian",
+    	"18% Azerbaijani and other Turkish dialect(incl. Qashqai, Turkmen)",
+    	"10% Kurdish",
+    	"7% Gilak and Mazanderani",
+    	"6% Lurish",
+    	"2% Balochi",
+    	"2% Arabic",
+    	"2% other (incl. Armenian, Assyrian, Georgian, Laki, Semnani, Talysh, Tati)"
+    ],
+    "Ethnic groups":[
+    	"61% Persian",
+    	"16% Azerbaijani",
+    	"10% Kurdish",
+    	"6% Lur (incl. Bakhtiari)",
+    	"2% Turkmen and other Turkic tribes",
+    	"2% Baloch",
+    	"2% Arab",
+    	"1% other"
+    ],
+    "Religion":[
+    	"Islam (Twelver Shia)",
+    	"Islam (Hanafi, Shafl'i, Maliki, Hanbali,Zaydi)",
+    	"Christianity (Armenian, Assyrian, Chaldean)",
+    	"Judaism",
+    	"Zoroastrianism"
+    ],
+    "Demonym(s)": [
+    	"Iranian",
+    	"Persian"
+    ],
+    "Government": [
+    	"Unitary Khomeinist presidential Islamic republic",
+    	"Theocratic-republican authoritarian unitary presidential republic subject to a Supreme Leader"
+    ],
+    "Supreme Leader": ["Ali Khamenei"],
+    "President" : ["Hassan Rouhani"],
+    "First Vice President": ["Eshaq Jahangiri"],
+    "Parliament Speaker": ["Ali Larijani"],
+    "Chief Justice" : ["Sadeq Larijani"],
+    "Upper House" : ["Expediency Discernment Council Guardian Council"],
+    "Lower House" : ["Islamic Consulative Assembly"]
+}

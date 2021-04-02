@@ -1,0 +1,61 @@
+{
+  "title": [
+    "E Line"
+  ],
+  "System": [
+    "RapidRide"
+  ],
+  "Operator": [
+    "King County Metro"
+  ],
+  "Garage": [
+    "Atlantic Base"
+  ],
+  "Vehicle": [
+    "New Flyer articulated buses , New Flyer XDE60"
+  ],
+  "Began service": [
+    "February 15, 2014"
+  ],
+  "Predecessors": [
+    "Route 358X"
+  ],
+  "Locale": [
+    "King County"
+  ],
+  "Start": [
+    "Aurora Village Transit Center, Shoreline"
+  ],
+  "Via": [
+    "Aurora Avenue N , 3rd Ave"
+  ],
+  "End": [
+    "Pioneer Square, Downtown Seattle"
+  ],
+  "Length": [
+    "12.5 miles (20.1 km)"
+  ],
+  "Frequency": [
+    "Peak: 5-12 minutes",
+    "Off-peak: 10-15 minutes",
+    "Early morning & night: 24-60 minutes"
+  ],
+  "Weekend frequency": [
+    "15 minutes (most times)"
+  ],
+  "Journey time": [
+    "1 hour, 2 minutes"
+  ],
+  "Operates": [
+    "4:30 am-3:00 am"
+  ],
+  "Ridership": [
+    "15,800 (weekday average, spring 2015)"
+  ],
+  "Timetable": [
+    "E Line timetable"
+  ],
+  "Map": [
+    "E Line map"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": [
+    "b63 Fifth Avenue Line"
+  ],
+  "System": [
+    "MTA Regional Bus Operations"
+  ],
+  "Operator": [
+    "New York City Transit Authority"
+  ],
+  "Garage": [
+    "Jackie Gleason Depot"
+  ],
+  "Vehicle": [
+    "New Flyer C40LF , New Flyer XN40"
+  ],
+  "Began service": [
+    "August 28th, 1860"
+  ],
+  "Locale": [
+    "Brooklyn"
+  ],
+  "Communities served": [
+    "Bay Ridge, Sunset Park, Park Slope, Gowanus, Boerum Hill, Cobble Hill"
+  ],
+  "Start": [
+    "Brooklyn Bridge Park-Pier 6"
+  ],
+  "Via": [
+    "Fifth Avenue,  Atlantic Avenue"
+  ],
+  "End": [
+    "Bay Ridge-Shore Road"
+  ],
+  "Length": [
+    "5.8 miles (9.3 km)"
+  ],
+  "Operates": [
+    "All times except late nights"
+  ],
+  "Annual patronage": [
+    "4,132,750 (2017)"
+  ],
+  "Transfers": [
+    "Yes"
+  ]
+}

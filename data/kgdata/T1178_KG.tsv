@@ -1,0 +1,43 @@
+key	keyword	definition	description	source
+Abbreviation	abbreviation	An abbreviation is a shortened form of a word or phrase, by any method. It may consist of a group of letters, or words taken from the full version of the word or phrase; for example, the word abbreviation can itself be represented by the abbreviation abbr. , abbrv. , or abbrev. ; NBM , for nil by mouth is an abbreviated medical instruction. It may also consist of initials only, a mixture of initials and words, or words or letters representing words in another language . Some types of abbreviations are acronyms , initialisms , or grammatical contractions or crasis. An abbreviation is a shortening by any of these, or other, methods.	shortened form of a word or phrase	wikipedia
+Abbreviation	abbreviation	shortening something by omitting parts of it	abbreviation	wordnet
+Abbreviation	abbreviation	a shortened form of a word or phrase.	NA	owlbot
+Abbreviation	abbreviation	Abbreviations are shortening	NA	GenericsKB
+Formation	formation	For secondary deposits, derived from concrete, lime, or mortar, outside the cave environment, see Calthemite	a structure formed in a cave by the deposition of minerals from water, e.g., a stalactite or stalagmite.	wikipedia
+Formation	formation	the act of forming or establishing something	constitution, establishment, formation, organization, organisation	wordnet
+Formation	formation	a thing that has been formed.	NA	owlbot
+Formation	formation	A formation is an arrangement	NA	GenericsKB
+Type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Type	type	a person or thing exemplifying the ideal or defining characteristics of something.	NA	owlbot
+Type	type	Type is a creation of both art and science	NA	GenericsKB
+Purpose	purpose	Intention is a mental state that represents a commitment to carrying out an action or actions in the future. Intention involves mental activities such as planning and forethought.	mental state representing commitment to perform an action	wikipedia
+Purpose	purpose	an anticipated outcome that is intended or that guides your planned actions	purpose, intent, intention, aim, design	wordnet
+Purpose	purpose	have as one's intention or objective.	NA	owlbot
+Purpose	purpose	Purpose is a goal	NA	GenericsKB
+Headquarters	headquarters	Headquarters denotes the location where most, if not all, of the important functions of an organization are coordinated. In the United States, the corporate headquarters represents the entity at the center or the top of a corporation taking full responsibility for managing all business activities. In the United Kingdom, the term head office is most commonly used for the headquarters of large corporations. The term is also used regarding military organizations.	location where key leadership and coordination functions take place, often recognized as the central home for a disparate organization	wikipedia
+Headquarters	headquarters	provide with headquarters	headquarter	wordnet
+Headquarters	headquarters	have headquarters at a specified location.	NA	owlbot
+Location	location	In geography, location and place are used to denote a point or an area on the Earth's surface or elsewhere. The term location generally implies a higher degree of certainty than place , the latter often indicating an entity with an ambiguous boundary, relying more on human or social attributes of place identity and sense of place than on geometry.	point or an area on the Earth's surface or elsewhere	wikipedia
+Location	location	a point or extent in space	location	wordnet
+Location	location	a particular place or position.	NA	owlbot
+Location	location	Location has a significant impact on crime in India	NA	GenericsKB
+Membership	membership	A club is an association of people united by a common interest or goal	association of people united by a common interest or goal	wikipedia
+Membership	membership	the body of members of an organization or group	membership, rank	wordnet
+Membership	membership	the fact of being a member of a group.	NA	owlbot
+Membership	membership	A membership is a body	NA	GenericsKB
+Executive Director and CEO	executive	A business executive is a person responsible for running an organization, although the exact nature of the role varies depending on the organization	person responsible for running a business, or an aspect of it	wikipedia
+Executive Director and CEO	director	Aaron Director , a professor at the University of Chicago Law School, played a central role in the development of the field Law and Economics and the Chicago school of economics	American economist	wikipedia
+Executive Director and CEO	ceo	A chief executive officer , or just chief executive , is the most senior corporate, executive, or administrative officer in charge of managing an organization – especially an independent legal entity such as a company or nonprofit institution. CEOs lead a range of organizations, including public and private corporations, non-profit organizations and even some government organizations . The CEO of a corporation or company typically reports to the board of directors and is charged with maximizing the value of the entity, which may include maximizing the share price, market share, revenues or another element. In the non-profit and government sector, CEOs typically aim at achieving outcomes related to the organization's mission, such as reducing poverty, increasing literacy, etc. In the early 21st century, top executives typically have technical degrees in science, management, engineering or law.	highest-ranking corporate officer or administrator	wikipedia
+Executive Director and CEO	executive	persons who administer the law	executive	wordnet
+Executive Director and CEO	director	the person who directs the making of a film	film_director, director	wordnet
+Executive Director and CEO	ceo	the corporate executive responsible for the operations of the firm; reports to a board of directors; may appoint other managers (including a president)	chief_executive_officer, CEO, chief_operating_officer	wordnet
+Executive Director and CEO	executive	Executives are public officials	NA	GenericsKB
+Executive Director and CEO	director	Director is a administrator	NA	GenericsKB
+Budget	budget	A budget is a financial plan for a defined period, often one year. It may also include planned sales volumes and revenues, resource quantities, costs and expenses, assets, liabilities and cash flows. Companies, governments, families and other organizations use it to express strategic plans of activities or events in measurable terms. A budget is the sum of money allocated for a particular purpose and the summary of intended expenditures along with proposals for how to meet them. It may include a budget surplus, providing money for use at a future time, or a deficit in which expenses exceed income.	balance sheet or statement of estimated receipts and expenditures	wikipedia
+Budget	budget	a sum of money allocated for a particular purpose	budget	wordnet
+Budget	budget	an estimate of income and expenditure for a set period of time.	NA	owlbot
+Budget	budget	Budget is a fund	NA	GenericsKB
+Website	website	A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server. Notable examples are wikipedia.org, google.com, and amazon.com. All publicly accessible websites collectively constitute the World Wide Web. There are also private websites that can only be accessed on a private network, such as a company's internal website for its employees. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social networking. Hyperlinking between web pages guides the navigation of the site, which often starts with a home page. Users can access websites on a range of devices, including desktops, laptops, tablets, and smartphones. The software application used on these devices is called a web browser.	set of related web pages served from a single web domain	wikipedia
+Website	website	a computer connected to the internet that maintains a series of web pages on the World Wide Web	web_site, website, internet_site, site	wordnet
+Website	website	Website is an important medium for communication	NA	GenericsKB

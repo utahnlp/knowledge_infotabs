@@ -1,0 +1,47 @@
+{
+  "title": [
+    "Linux"
+  ],
+  "Developer": [
+    "Community  , Linus Torvalds"
+  ],
+  "Written in": [
+    "C, assembler"
+  ],
+  "OS family": [
+    "Unix-like"
+  ],
+  "Working state": [
+    "Current"
+  ],
+  "Source model": [
+    "Open source"
+  ],
+  "Initial release": [
+    "September 17, 1991; 28 years ago (1991-09-17)"
+  ],
+  "Marketing target": [
+    "Cloud computing, embedded devices, mainframe computers, mobile devices, personal computers, servers, supercomputers"
+  ],
+  "Available in": [
+    "Multilingual"
+  ],
+  "Platforms": [
+    "Alpha, ARC, ARM, C6x, H8/300, Hexagon, Itanium, m68k, Microblaze, MIPS, NDS32, Nios II, OpenRISC, PA-RISC, PowerPC, RISC-V, s390, SuperH, SPARC, Unicore32, x86, XBurst, Xtensa"
+  ],
+  "Kernel type": [
+    "Monolithic"
+  ],
+  "Userland": [
+    "GNU"
+  ],
+  "Default user interface": [
+    "Unix shell"
+  ],
+  "License": [
+    "GPLv2 and others (the name \"Linux\" is a trademark)"
+  ],
+  "Official website": [
+    "www .linuxfoundation .org"
+  ]
+}

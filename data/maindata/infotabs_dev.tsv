@@ -1,0 +1,1801 @@
+annotater_id	table_id	hypothesis	label
+GW0	T19	Bruno Abakanowicz died before World War I.	E
+GW0	T19	Bruno Abakanowicz was the most succesful Lithuanian inventor.	N
+GW0	T19	Bruno Abakanowicz was born in England.	C
+GW1	T19	Bruno Abakanowicz was born in the Fall of 1852.	E
+GW1	T19	Bruno Abakanowicz preferred being known as a mathematician more than an inventor.	N
+GW1	T19	Bruno Abakanowicz died in the Spring of 1900.	C
+GW4	T19	Bruno Abakanowicz was known as an inventor.	E
+GW4	T19	Bruno Abakanowicz moved from Russia to France.	N
+GW4	T19	Bruno Abakanowicz passed away when he was 60 years old.	C
+GW0	T26	Corn is an ingredient found in a Chibuku Shake.	E
+GW0	T26	The Chibuku Shake was introduced in Spring of 1962.	N
+GW0	T26	Chibuku Shake has less than 3% alcohol by volume.	C
+GW4	T26	Chibuku Shake shake is a beer that came out in the 1960s.	E
+GW4	T26	Chibuku Shake shake contains a lot of alcohol.	N
+GW4	T26	Chibuku Shake shake is a very dark beer.	C
+GW1	T26	Chibuku Shake shake was first made after the turn of the 20th century.	E
+GW1	T26	Chibuku Shake shake is very popular in Zambia.	N
+GW1	T26	Chibuku Shake shake has a really high ABV compared to other modern beers.	C
+GW4	T40	Bushwacker is a bull that weighed nearly a ton.	E
+GW4	T40	The bull Bushwacker was born in the mid 2000s.	N
+GW4	T40	The bull Bushwacker continued to work through 2012.	C
+GW2	T40	Bushwacker is a bovine.	E
+GW2	T40	Bushwacker has won over 150 ribbons.	N
+GW2	T40	Bushwacker was born in Texas.	C
+GW1	T40	Bushwacker weighed more than 1500 pounds.	E
+GW1	T40	Bushwacker died in a bull riding ring.	N
+GW1	T40	Bushwacker was active for almost 7 years.	C
+GW2	T43	James Hetfield was born on the west coast.	E
+GW2	T43	James Hetfield lives in California.	N
+GW2	T43	James Hetfield doesn't know how to play the drums.	C
+GW1	T43	The most popular band James Hetfield is associated with is Metallica.	E
+GW1	T43	James Hetfield likes singing more than he did playing the drums.	N
+GW1	T43	James Hetfield was born in the Spring of 1963.	C
+GW4	T43	James Hetfield was born on the west coast of the USA.	E
+GW4	T43	James Hetfield is a musician that has worked with Warner Bros.	N
+GW4	T43	The musician James Hetfield is known for playing bass.	C
+GW2	T63	Burt Reynolds has had 2 failed marriages.	E
+GW2	T63	Burt Reynolds has a daughter.	N
+GW2	T63	Burt Reynolds died in the winter.	C
+GW4	T63	Burt Reynolds was born in the winter of 1936.	E
+GW4	T63	Burt Reynolds is known for being a director and producer.	N
+GW4	T63	Burt Reynolds is still alive today.	C
+GW1	T63	Burt Reynolds was in the movie business for about 60 years.	E
+GW1	T63	Burt Reynolds only lived in Michigan and in Florida during his lifetime.	N
+GW1	T63	Burt Reynolds was born in the Summer of 1936.	C
+GW0	T65	Brothers in Arms was recorded in two different studios.	E
+GW0	T65	Neil Dorfsman produced and played on the Brothers in Arms album.	N
+GW0	T65	Brothers in Arms was released in winter of 1985.	C
+GW4	T65	Brothers in Arms was an album that was released in the spring of 1985.	E
+GW4	T65	The album Brothers in Arms was mostly recorded in the USA.	N
+GW4	T65	The album Brothers in Arms was over an hour in length.	C
+GW1	T65	Brothers in Arms was released in the Fall of 1985.	E
+GW1	T65	Brothers in Arms took a long time to record because of creative differences.	N
+GW1	T65	Brothers in Arms has a run time close to an hour and a half.	C
+GW2	T75	John Adams was born in the fall.	E
+GW2	T75	John Adams had 4 sons.	N
+GW2	T75	John Adams preceded his wife in death.	C
+GW1	T75	John Adams died on Independence Day 1826.	E
+GW1	T75	John Adams changed political parties at times because of his college experience.	N
+GW1	T75	John Adams was born in the Spring of 1735.	C
+GW4	T75	John Adams was born in the state of Massachusetts.	E
+GW4	T75	John Adams lived in Massachusetts his entire life.	N
+GW4	T75	John Adams had two wives throughout his life.	C
+GW4	T84	Ciara grew up in the continental United States.	E
+GW4	T84	Ciara has won many awards.	N
+GW4	T84	Ciara is known for being a classical musician	C
+GW0	T84	Ciara has been married for over two years.	E
+GW0	T84	Jazze Pha has produced all of Ciara's music.	N
+GW0	T84	Ciara has been active for less than five years.	C
+GW1	T84	Ciara is married to an NFL player.	E
+GW1	T84	Ciara likes Warner Bros. more than Epic.	N
+GW1	T84	Ciara was born in the Summer of 1985.	C
+GW4	T105	The Republic of Chile is mostly White by race.	E
+GW4	T105	The Republic of Chile only has Spanish speakers.	N
+GW4	T105	The Republic of Chile has a king that leads it.	C
+GW1	T105	The Republic of Chile is mostly white as far as ethnic groups go.	E
+GW1	T105	Carlos Montes Cisternas will replace Sebasti‡n Pi–era if Pi–era leaves as President.	N
+GW1	T105	The Chamber of Deputies is more powerful than the Senate in the Republic of Chile.	C
+GW2	T105	Chileans speak a language that originated in Spain.	E
+GW2	T105	Chile's president has been in power for less than a year.	N
+GW2	T105	The capital of Chile is not its largest city.	C
+GW1	T110	Brokeback Mountain has over a 2 hour run time.	E
+GW1	T110	Larry McMurtry wrote less of the screenplay for Brokeback Mountain than Diana Ossana.	N
+GW1	T110	Brokeback Mountain made 200 million dollars over it's budget at the box office.	C
+GW2	T110	Brokeback Mountain was first released in France.	E
+GW2	T110	Brokeback Mountain played in cinemas for 9 weeks.	N
+GW2	T110	Brokeback Mountain was distributed by River Road Entertainment.	C
+GW4	T110	Brokeback Mountain was over two hours long.	E
+GW4	T110	Brokeback Mountain came out in the United States after Europe.	N
+GW4	T110	Brokeback Mountain wound up losing money at the box office.	C
+GW4	T112	Jeffery is an album that was released in the summer of 2016.	E
+GW4	T112	The album Jeffery is known to be hip hop.	N
+GW4	T112	The album Jeffery was over an hour long.	C
+GW9	T112	Jeffery released in album in the summer of 2016.	E
+GW9	T112	Record label Atlantic resides in Southern California.	N
+GW9	T112	Cassius Jay was an executive producer.	C
+GW1	T112	Jeffery's run time is under 50 minutes long.	E
+GW1	T112	Goose played more of a role as producer on the album Jeffery than Wheezy did.	N
+GW1	T112	Jeffery was released in the Spring of 2016.	C
+GW1	T167	Nicolas Poussin is dead.	E
+GW1	T167	Nicolas Poussin's painting is on loan to the Louvre.	N
+GW1	T167	Nicolas Poussin painted Et in Arcadia ego in the 18th century.	C
+GW0	T167	Et in Arcadia ego is over 300 years old.	E
+GW0	T167	Et in Arcadia ego has only been displayed at Mus?e du Louvre.	N
+GW0	T167	Et in Arcadia ego is wider than it is tall.	C
+GW4	T167	Et in Arcadia ego was painted in the mid 1600s.	E
+GW4	T167	The piece Et in Arcadia ego is mostly made with oil paints.	N
+GW4	T167	The art piece Et in Arcadia ego is stored in the United Kingdom.	C
+GW4	T178	BtoB has been entertaining people in South Korea since the 2010s.	E
+GW4	T178	BtoB is known mostly as a K-pop band.	N
+GW4	T178	BtoB has been with four record labels over their years.	C
+GW14	T178	The band has been associated with less than 5 labels.	E
+GW14	T178	The same members of BtoB were also in United Cube.	N
+GW14	T178	The band was active during the Clinton Administration.	C
+GW1	T178	BtoB was formed in an Asian country.	E
+GW1	T178	BtoB is associated with R&B more than dance-pop.	N
+GW1	T178	BtoB has been active for over 10 years.	C
+GW4	T200	Bruce Willis was born in Germany.	E
+GW4	T200	Bruce Willis moved to the United States of America as a child.	N
+GW4	T200	Bruce Willis has had three wives.	C
+GW0	T200	Bruce Willis was born in the same state he currently resides.	E
+GW0	T200	Bruce Willis has a masters degree from Montclair State University.	N
+GW0	T200	Bruce Willis married Demi Moore after his divorce with Emma Heming.	C
+GW1	T200	Bruce Willis was born in the Spring of 1955.	E
+GW1	T200	Bruce Willis will have more children.	N
+GW1	T200	Bruce Willis has been making movies for close to 50 years.	C
+GW1	T206	Keerthy Suresh was born in the Fall of 1992.	E
+GW1	T206	Keerthy Suresh prefers to model over acting.	N
+GW1	T206	Keerthy Suresh has been active in her career since the 1990s.	C
+GW0	T206	Keerthy Suresh is younger than thirty years old.	E
+GW0	T206	Keerthy Suresh was born out of wedlock.	N
+GW0	T206	Keerthy Surest is best known as a singer.	C
+GW4	T206	Keerthy Suresh was born in the fall of 1992.	E
+GW4	T206	Keerthy Suresh has spent their whole life in India.	N
+GW4	T206	Keerthy Suresh has been working for the past 25 years.	C
+GW1	T238	The fall of 1735 is when Jesse Ramsden was born.	E
+GW1	T238	Jesse Ramsden was more interested in optics than astronomy.	N
+GW1	T238	Jesse Ramsden died in the Spring of 1800.	C
+GW2	T238	Jesse Ramsden won the Copley Medal when he was 59 or 60 years old.	E
+GW2	T238	Jesse Ramsden attended school in London.	N
+GW2	T238	Jesse Ramsden spoke only French and Swedish.	C
+GW4	T238	Jesse Ramsden was awarded the Copley Medal in the 18th century.	E
+GW4	T238	Jesse Ramsden helped develop scientific instruments.	N
+GW4	T238	Jesse Ramsden wound up living until they were 100.	C
+GW30	T262	The Cycling events in the XXXI Olympiad were between the 6 to the 21 of August.	E
+GW30	T262	The Ciclying events were dominated by the team from the USA with 17 gold medals.	N
+GW30	T262	In the XXXI Olympiad only participated in competitors from 7 countries in 10 events.	C
+GW25	T262	18 cycling events took place over 16 days at the 2016 Olympics.	E
+GW25	T262	80 different nations were represented in more than one event category.	N
+GW25	T262	The training wheels final held at the Fort Copacabana Velodrome was held on August 22, 2016.	C
+GW4	T262	Cycling at the Games of the XXXI Olympiad had 18 different events.	E
+GW4	T262	The Cycling at the Games of the XXXI Olympiad had competitors from around the world.	N
+GW4	T262	The Cycling at the Games of the XXXI Olympiad happened in Spain.	C
+GW14	T278	K.A.R.D. originated in Asia.	E
+GW14	T278	Super Junior and K.A.R.D. have performed at the same festival.	N
+GW14	T278	K.A.R.D. was formed during the Clinton Administration.	C
+GW4	T278	The band KARD is based in an Asian country.	E
+GW4	T278	The band KARD has won many awards for their music.	N
+GW4	T278	The band KARD started recording together before 2016.	C
+GW28	T278	KARD is a Kpop group from South Korea.	E
+GW28	T278	KARD is composed of two women and two men.	N
+GW28	T278	KARD has been active for over a decade under SM Entertainment.	C
+GW28	T283	Death of a Virgin was painted by Caravaggio and located in the Louvre, Paris.	E
+GW28	T283	Death of a Virgin is worth 20 million USD.	N
+GW28	T283	Death of the Virgin is bigger in centimeters than in inches.	C
+GW14	T283	Caravaggio painted at least one oil painting.	E
+GW14	T283	Caravaggio's native language was Italian	N
+GW14	T283	It only took one month for Caravaggio to paint the Death of the Virgin.	C
+GW4	T283	The painting Death of the Virgin is hanging in France.	E
+GW4	T283	The painting Death of the Virgin took nearly a decade to complete.	N
+GW4	T283	The painting Death of the Virgin is over 100 square feet in size.	C
+GW0	T285	Death Proof was produced, written, and directed by the same person.	E
+GW0	T285	Death Proof was the first part of the double-feature Grindhouse.	N
+GW0	T285	Death Proof was produced and distributed by the same movie studio.	C
+GW27	T285	Death Proof was written and directed by Quentin Tarantino.	E
+GW27	T285	Death Proof's production company is run by Death Proof's cinematographer.	N
+GW27	T285	Dimension Films released Death Proof by itself.	C
+GW28	T285	Death Proof is an American Hollywood film.	E
+GW28	T285	Death Proof is Quentin Tarantino's 10th film.	N
+GW28	T285	Death Proof was produced and distributed by the same company.	C
+GW0	T291	There are four different languages spoken in Cyprus.	E
+GW0	T291	Turks arrived in Cyprus before Greeks.	N
+GW0	T291	Nicos Anastasiades is both the president and president of parliament in Cyprus.	C
+GW28	T291	Republic of Cyprus is multi-ethnic, multi-lingual country.	E
+GW28	T291	Republic of Cyprus is an island in the Mediterranean sea.	N
+GW28	T291	Republic of Cyprus is situated near the equator.	C
+GW4	T291	The Republic of Cyprus has many Greek speakers.	E
+GW4	T291	The Republic of Cyprus has a government that holds elections.	N
+GW4	T291	The Republic of Cyprus has no Armenians in their country.	C
+GW0	T297	The novel series and animated version of FLCL is written by the same person.	E
+GW0	T297	The manga and novel series of FLCL were released simultaneously.	N
+GW0	T297	MVM Entertainment holds the North American license for FLCL.	C
+GW28	T297	FLCL novel series and original video animation is written by one man.	E
+GW28	T297	The original run for the Novel series is earlier than the original run for the Manga.	N
+GW28	T297	The Novel series and Manga target the same demographic.	C
+GW32	T297	There are two volumes of the FLCL series.	E
+GW32	T297	FLCL is a graphic novel series and more volumes are being released.	N
+GW32	T297	FLCL was originally released in the 1980's.	C
+GW0	T302	Michael Peter Balzary was born in the fall of 1972.	E
+GW0	T302	Michael Peter Balzary was given his stage name Flea, by a member of the Red Hot Chili Peppers.	N
+GW0	T302	Flea has only played lead guitar throughout his career.	C
+GW28	T302	Flea has been active since he was 17 years old	E
+GW28	T302	Flea learned to play the piano before he became active.	N
+GW28	T302	Flea plays solely string instruments as an independent musician.	C
+GW4	T302	Flea was originally born in Australia in the fall of 1962.	E
+GW4	T302	The musician Flea learned to play piano before they played bass.	N
+GW4	T302	The musician Flea has been known for playing classical standing bass.	C
+GW28	T309	Jefferson Airplane was an American rock band.	E
+GW28	T309	Jefferson Airplane played many concerts in cities around the world during their time.	N
+GW28	T309	Jefferson Airplane performed continuously since the 1960s without a break.	C
+GW30	T309	Jefferson Airplane is a California band that was active between middle 1960 and early 1970.	E
+GW30	T309	Jefferson Airplane has won two Grammys for its first album.	N
+GW30	T309	Jefferson Airplane only recorded with the Universal label.	C
+GW0	T309	Jefferson Airplane were signed to two major record labels during their years active.	E
+GW0	T309	Jefferson Airplane changed their name to Jefferson Starship in the 1980's.	N
+GW0	T309	Jefferson Airplane have been performing consecutively for over fifty years.	C
+GW30	T311	Charles Xavier Thomas was a French that invented the arithmometer.	E
+GW30	T311	The Arithmometer was the only help to do arithmetic problems until the middle of the XX century.	N
+GW30	T311	Charles Xavier Thomas lived a short life, dying beeing only 27 years old.	C
+GW28	T311	Charles Xavier Thomas' nationality is French.	E
+GW28	T311	Charles Xavier Thomas was a mathematician.	N
+GW28	T311	Charles Xavier Thomas was 74 years old when he died.	C
+GW27	T311	The inventor of the Arithmometer was born in France.	E
+GW27	T311	The Arithmometer was invented in France.	N
+GW27	T311	The inventor of the Arithmometer was Belgian.	C
+GW33	T333	Charlie Murphy is an comedian who is born in New York  in July 12, 1959 and His website is www.charliemurphycomedy.com	E
+GW33	T333	Charlie Murphy is died on April 12, 2017 at his age of 57	N
+GW33	T333	Charlie Murphy is a story writer in film industry	C
+GW28	T333	Charlie Murphy was an American entertainer.	E
+GW28	T333	Charlie Murphy started comedy before his brother Eddie.	N
+GW28	T333	Charlie Murphy was a part-time musician that played bass.	C
+GW0	T333	Charlie Murphy died in the same city that he was born in.	E
+GW0	T333	Charlie Murphy has three daughters with Tisha Murphy.	N
+GW0	T333	Charlie Murphy used a stage name different than his birth name.	C
+GW4	T337	Justin Trudeau has been the prime minister since 2015.	E
+GW4	T337	David Johnston will take over when Justin Trudeau retires.	N
+GW4	T337	Justin Trudeau took office after Stephen Harper in 2011.	C
+GW28	T337	Justin Trudeau assumed office at the end of Stephen Harper's tenure.	E
+GW28	T337	Justin Trudeau is currently the youngest Prime Minister of Canada.	N
+GW28	T337	Justin Trudeau became PC MP in the winter of 2015.	C
+GW0	T337	Stephen Harper held the PC MP office for the majority of 2015.	E
+GW0	T337	David Johnston has been Governor General longer than Julie Payette.	N
+GW0	T337	Justin Trudeau assumed office in the summer of 2015.	C
+GW28	T339	Femme aux Bras CroisŽs was painted over two years by a famous painter.	E
+GW28	T339	Femme aux Bras CroisŽs is loaned out to museums on a rotating basis.	N
+GW28	T339	Femme aux Bras CroisŽs is open for public viewing.	C
+GW32	T339	The painting, Femme Aux Bras Croises was created by artist Pablo Picasso.	E
+GW32	T339	The Femme Aux Bras Croises is held in a private collection by a very wealthy person.	N
+GW32	T339	Femme aux Bras Croises was painted in the 1970's.	C
+GW4	T339	Femme aux Bras CroisŽs was originally painted by Picasso in the early 20th century.	E
+GW4	T339	The painting Femme aux Bras CroisŽs has hung in a museum before.	N
+GW4	T339	The painting Femme aux Bras CroisŽs is made with water colors.	C
+GW0	T362	5ive have taken two different breaks during their career, spanning ten years total.	E
+GW0	T362	5ive was brought on a worldwide tour with the Spice Girls.	N
+GW0	T362	5ive have been performing for a total of less than ten years.	C
+GW28	T362	5ive is a British pop group	E
+GW28	T362	5ive is made up of five men.	N
+GW28	T362	5ive's career has spanned four decades.	C
+GW14	T362	5ive are associated with an all-girl band.	E
+GW14	T362	5ive doesn't have an official website.	N
+GW14	T362	5ive were continuously active for over two decades.	C
+GW28	T395	Jed Wolf appeared in Disney movies	E
+GW28	T395	Jed Wolf was an aggressive animal.	N
+GW28	T395	Jed Wolf worked his entire life as an actor.	C
+GW4	T395	Jed Wolf was a dog that worked for Walt Disney Pictures.	E
+GW4	T395	Jed Wolf was raised entirely in the United States.	N
+GW4	T395	Jed Wolf never did any action films.	C
+GW27	T395	Jed Wolf was a male Wolfdog.	E
+GW27	T395	Jed Wolf retired due to ill health, which caused his death a year later.	N
+GW27	T395	Clint Rowe's dog was trained in modeling at dog shows.	C
+GW48	T401	Keith Richards recorded under four labels.	E
+GW48	T401	Keith Richards graduated both Dartford Technical School and Sidcup Art College with honors.	N
+GW48	T401	Keith Richards was only ever on The Rolling stones.	C
+GW0	T401	Keith Richards has been married for over thirty years.	E
+GW0	T401	Keith Richards played in several bands before joining the Rolling Stones.	N
+GW0	T401	Keith Richards fathered five sons with his first partner.	C
+GW11	T401	Keith Richards is English.	E
+GW11	T401	Keith Richards has an AARP membership.	N
+GW11	T401	Keith Richards has a University degree.	C
+GW27	T407	James VI and I was born in Scotland and died in England.	E
+GW27	T407	James VI and I was the first of the house of Stuart to be buried in Westminster Abbey.	N
+GW27	T407	Henry Stuart had no granchildren.	C
+GW28	T407	James VI and I was born and died in different countries.	E
+GW28	T407	James VI and I is descended from French nobility.	N
+GW28	T407	James VI and I died in the 16th century.	C
+GW14	T407	James VI is the son of royalty.	E
+GW14	T407	James VI met Anne in Denmark.	N
+GW14	T407	James VI was born south of the equator.	C
+GW4	T409	The painting Equestrian Portrait of Charles V was published in the 16th century.	E
+GW4	T409	The painting Equestrian Portrait of Charles V took several years to make.	N
+GW4	T409	The art piece Equestrian Portrait of Charles V was painted with water colors.	C
+GW27	T409	Titian painted 'Equestrian Portrait of Charles V' in 1548.	E
+GW27	T409	'Equestrian Portrait of Charles V' was Titian's last oil.	N
+GW27	T409	Titian's 'Equestrian Portrait of Charles V' is in a private collection.	C
+GW28	T409	Equestrian Portrait of Charles V is located in Spain.	E
+GW28	T409	Equestrian Portrait of Charles V was framed after completion.	N
+GW28	T409	Equestrian Portrait of Charles V was a multi-year effort by multiple artists.	C
+GW28	T415	Ex Machina was a low-budget film.	E
+GW28	T415	Ex Machina was a British and American collaboration.	N
+GW28	T415	Ex Machina was released simultaneously in the United Kingdom and the United States.	C
+GW14	T415	The film, Ex Machina, earned total box office receipts of more than twice its budget.	E
+GW14	T415	Film4 and DNA Films were headquartered in the same office complex.	N
+GW14	T415	Ex Machina was written by Rob Hardy.	C
+GW27	T415	Ex Machina was written and directed by the same person.	E
+GW27	T415	Ex Machina's director hired Mark Day for editing.	N
+GW27	T415	Alex Garland's film made less than its budget.	C
+GW42	T429	Compton is a city in California.	E
+GW42	T429	The council of Compton city has more than five members.	N
+GW42	T429	The mayor	C
+GW4	T429	Compton, California has five people that are on the city council.	E
+GW4	T429	The city manager of Compton, California has the ability to lead the council.	N
+GW4	T429	Compton, California is known for being a representational democracy.	C
+GW28	T429	Compton, California is an American city.	E
+GW28	T429	Compton, California residents are largely African American.	N
+GW28	T429	Compton, California is ruled by Aja Brown.	C
+GW28	T450	Conor McGregor is an Irish professional fighter.	E
+GW28	T450	Conor McGregor trains in Ireland.	N
+GW28	T450	Conor McGregor started fighting in his thirties.	C
+GW27	T450	"Conor Anthony McGregor is known as ""The Notorious""."	E
+GW27	T450	"Conor Anthony McGregor was given ""The Notorious"" nickname by his head coach, John Kavanagh."	N
+GW27	T450	Conor Anthony McGregor has a greater number of nicknames than divisions fought in.	C
+GW0	T450	Conor McGregor has fought in three different weight divisions.	E
+GW0	T450	Conor McGregor has defended his belt every year since 2008.	N
+GW0	T450	Conor McGregor's boxing coach is also his head coach in MMA.	C
+GW33	T473	chrisbrownworld.com is Chris Brown's official website who is a Singer, rapper, songwriter, dance,r actor, record producer.	E
+GW33	T473	Christopher Maurice Brown got many awards in his musical career	N
+GW33	T473	Christopher Maurice Brown is an non american actor	C
+GW28	T473	Chris Brown is an American singer.	E
+GW28	T473	Chris Brown is an African-American.	N
+GW28	T473	Chris Brown became active as a singer in his 20s.	C
+GW4	T473	Chris Brown became famous when they were 16 years old.	E
+GW4	T473	The musician Chris Brown has recorded songs with Big Sean before.	N
+GW4	T473	The rapper Chris Brown has never won any awards for his music.	C
+GW28	T474	Cusco is a city with a small population	E
+GW28	T474	Cusco is a city in the Andes.	N
+GW28	T474	Cusco has shrunk in population since 2015.	C
+GW4	T474	The population of Cusco is over 400,000 people.	E
+GW4	T474	The population density of Cusco is increasing.	N
+GW4	T474	Cusco changes their clocks for daylight savings time.	C
+GW30	T474	Cusco has a total poblation of less than a half million and the people from there are know as cuzque–o.	E
+GW30	T474	Cusco is a very cold place where the Inuit people could live with their normal attire.	N
+GW30	T474	Cusco has a high density with a population of more than three million inhabitants.	C
+GW28	T476	Corduroy was a long-living animal.	E
+GW28	T476	Corduroy had many medical complications near the end of his life.	N
+GW28	T476	Corduroy lived in three different decades.	C
+GW27	T476	Corduroy was a male Felis domesticus.	E
+GW27	T476	Ashley Reed Okura adopted what became the oldest living cat.	N
+GW27	T476	Corduroy, a male Felis domesticus, was born and died in different states.	C
+GW14	T476	Corduroy the cat was older than 27, in human years.	E
+GW14	T476	Ashley Okura currently lives in Oregon.	N
+GW14	T476	Corduroy the cat was able to give birth to a litter of kittens.	C
+GW51	T518	ClariS is a J-Pop band from Hokkaido, Japan.	E
+GW51	T518	ClariS first became known for pop music in Korea.	N
+GW51	T518	ClariS is originally from Seoul Korea and have been active for 20 years.	C
+GW33	T518	ClariS official website is  www.clarismusic.jp	E
+GW33	T518	ClariS started his career on 2009	N
+GW33	T518	ClariS is born on 2009	C
+GW28	T518	ClariS is a Japanese music group.	E
+GW28	T518	ClariS is made up of three family members.	N
+GW28	T518	ClariS celebrates its 20th anniversary.	C
+GW33	T537	Cradle of Filth is opened and active from 1991	E
+GW33	T537	Cradle of Filth is opened at Suffolk, England, UK	N
+GW33	T537	Cradle of Filth is closed on 1991	C
+GW51	T537	The Cradle of Fifth is a metal rock band from England.	E
+GW51	T537	The Cradle of Filth are well known to be controversial with their lyrics.	N
+GW51	T537	The Cradle of Filth has managed to stay under the same label since their inception in 1982.	C
+GW28	T537	Cradle of Filth is a British metal band.	E
+GW28	T537	Cradle of Filth has won many awards for its music.	N
+GW28	T537	Cradle of Filth was faithful to their original label that signed them 30 years ago.	C
+GW27	T542	Citation's sire was Bull Lea and its Grandsire was Bull Dog.	E
+GW27	T542	Citation was foaled and died in the same century.	N
+GW27	T542	Citation had the same number of trainers and owners.	C
+GW28	T542	Citation was an American racehorse.	E
+GW28	T542	Citation was a male racehorse that eventually went to stud.	N
+GW28	T542	Citation was born in the wild of unknown parentage.	C
+GW51	T542	Citation is an American stallion.	E
+GW51	T542	Citation's name was inspired by when the owner received a parking citation right before coming to pick up the stallion a day before.	N
+GW51	T542	Citation never lost a single race during its racing career under the tutleage of trainer Ross Perot.	C
+GW51	T562	Definitely Maybe is a rock album that was released in 1994.	E
+GW51	T562	Oasis is the band that created, produced, and released Definitely Maybe.	N
+GW51	T562	Definitely Maybe is Oasis's only album that runs over an hour in their entire discography.	C
+GW28	T562	Definitely Maybe is a music album recorded and released over two years.	E
+GW28	T562	Definitely Maybe is an album with guest singers throughout.	N
+GW28	T562	Definitely Maybe was an experimental sound unheard of before.	C
+GW12	T562	Definitely Maybe was released 25 years ago.	E
+GW12	T562	Mark Coyle helped produce Definitely Maybe in the Sawmills Studios.	N
+GW12	T562	Definitely Maybe was recorded in the spring of 1993.	C
+GW51	T565	Derby is a city with a council.	E
+GW51	T565	Derby is a smaller city that exists in the United Kingdom.	N
+GW51	T565	Derby has 1 MP representative and a progressive executive.	C
+GW28	T565	Derby is city led by members of a council.	E
+GW28	T565	Derby is an English city.	N
+GW28	T565	Derby is a Labour stronghold.	C
+GW27	T565	Derby is a unitary authority with a City Council.	E
+GW27	T565	The Derby City Council appoints its leader and cabinet.	N
+GW27	T565	The City of Derby's MPs are all from the same political party.	C
+GW0	T582	Darkest Hour was written and directed by two different people.	E
+GW0	T582	Darkest hour was Joe Wright's most successful film.	N
+GW0	T582	Darkest Hour was released in the United Kingdom before the United States.	C
+GW28	T582	Darkest Hour is an American-British film.production.	E
+GW28	T582	Darkest Hour is an action movie.	N
+GW28	T582	Darkest Hour premiered in the United Kingdom first.	C
+GW51	T582	Darkest Hour is movie released in September 2017 and stars Gary Oldman.	E
+GW51	T582	Gary Oldman won an Oscar for Best Actor for his role in Darkest Hour.	N
+GW51	T582	Darkest Hour was first released in the United Kingdom before being shown in the United States.	C
+GW51	T586	Circe Offering the Cup to Ulysses is an oil painting hanging in the Gallery Oldham.	E
+GW51	T586	John William Waterhouse would never use oil on canvas again after painting Circe Offering the Cup to Ulysses.	N
+GW51	T586	Circe Offering the Cup to Ulysses was lost over a century ago and its whereabouts are unknown.	C
+GW53	T586	John Waterhouse painted this art in 1891.	E
+GW53	T586	John Waterhouse has artwork in the Gallery Oldham.	N
+GW53	T586	Circe Offering the Cup to Ulysses was painted in 1900.	C
+GW28	T586	Circe Offering the Cup to Ulysses is a 19th century work of art.	E
+GW28	T586	Circe Offering the Cup to Ulysses took one month to complete.	N
+GW28	T586	Circe Offering the Cup to Ulysses is a mural on the ceiling of a church.	C
+GW0	T595	Despicable Me was screened at MIFF several weeks before it's wide release.	E
+GW0	T595	Pharrell Williams recorded new hip-hop songs for Despicable Me.	N
+GW0	T595	Despicable Me brought in over $500 million dollars more than its' original budget at the box office.	C
+GW51	T595	Despicable me is a feature full-length film directed by Pierre Coffin and Chris Renaud.	E
+GW51	T595	Despicable Me was Steve Carrell's first voiceover role in a movie.	N
+GW51	T595	Despicable Me was originally released in 2009 by Dreamworks to French theaters.	C
+GW28	T595	Despicable Me was a Hollywood film with a well known cast of actors.	E
+GW28	T595	Despicable Me is an animated film	N
+GW28	T595	Despicable Me was a box office flop.	C
+GW28	T604	Cigar was an American racing horse that earned millions of dollars in his career.	E
+GW28	T604	Cigar went on to sire competitive race horses.	N
+GW28	T604	Cigar was born in the wild.	C
+GW33	T604	Cigar is owned by Madeleine A. Paulson and Allen E. Paulson	E
+GW33	T604	Cigar's life time earnings is more than $9,999,815	N
+GW33	T604	Cigar is born on October 7th 2014	C
+GW0	T604	Cigar earned less than ten million dollars in its career.	E
+GW0	T604	A married couple own Cigar.	N
+GW0	T604	Cigar lived to be twenty-five years old.	C
+GW27	T622	The Lord Mayor of the City of London Corporation is Peter Estlin.	E
+GW27	T622	The Lord Mayor and the Town Clerk of the City of London Corporation are in the same political party.	N
+GW27	T622	The City of London Corporation is represented by the same political party in the London Assembly and the UK Parliament.	C
+GW51	T622	The City of London is mayored by Peter Estlin.	E
+GW51	T622	The representative of City of London, Mark Field, is a famous English olympian.	N
+GW51	T622	The City of London has 4 different mayors.	C
+GW28	T622	City of London is an incorporated entity.	E
+GW28	T622	City of London is within the London metropolitan area.	N
+GW28	T622	City of London is has no representation in larger governing bodies.	C
+GW0	T628	Dave Matthews Band have been performing music for over twenty-five years.	E
+GW0	T628	Dave Matthews Band opened up for Pearl Jam in the 1990's.	N
+GW0	T628	Dave Matthews Band formed in Virginia's state capital.	C
+GW28	T628	Dave Matthews Band is an American band.	E
+GW28	T628	Dave Matthews Band is made up of 5 college roommates.	N
+GW28	T628	Dave Matthews Band has been around for a couple of decades.	C
+GW51	T628	DMB is a rock band that started in Virginia.	E
+GW51	T628	The lead singer of Dave Matthews Band is from South Africa.	N
+GW51	T628	Dave Matthews Band is most famous for their rap song with Eminem.	C
+GW0	T671	Diamond Dogs came out in the spring of 1974.	E
+GW0	T671	Diamond Dogs is Bowie's shortest album ever recorded.	N
+GW0	T671	David Bowie recorded Diamond Dogs in North America.	C
+GW28	T671	Diamond Dogs was recorded and released in less than a years time.	E
+GW28	T671	Diamond Dogs won numerous awards for its songs.	N
+GW28	T671	Diamond Dogs was recorded in America and Asia.	C
+GW51	T671	Diamond Dogs is a rock album released in 1974.	E
+GW51	T671	Diamond Dogs was one of David Bowie's earlier albums.	N
+GW51	T671	Diamond Dogs was recorded in many sessions across multiple years under Atlantic Records.	C
+GW51	T707	Dave Grohl is a famous American rock musician.	E
+GW51	T707	Dave Grohl is most well-known for his role as a musician in the band Nirvana.	N
+GW51	T707	Dave Grohl retired from music in 1990 after a falling out with Ariana Grande.	C
+GW0	T707	Dave Grohl has been playing music for over thirty years.	E
+GW0	T707	Dave Grohl started the band Scream.	N
+GW0	T707	Dave Grohl got his musical start in the same state he was born.	C
+GW28	T707	Dave Grohl is an American singer musician.	E
+GW28	T707	Dave Grohl wrote all his own music.	N
+GW28	T707	Dave Grohl has been active since his twenties.	C
+GW6	T722	A citrus-flavored soda originates from Belgium.	E
+GW6	T722	The company that manufactures Coca-Cola Light Sango is located in its country of origin.	N
+GW6	T722	Coca-Cola Light Sango is manufactured by a small company.	C
+GW51	T722	Coca-Cola Light Sango is Belgian orange flavored cola.	E
+GW51	T722	Light Sango quickly over took Crush as the best selling orange soda after it was introduced.	N
+GW51	T722	Coca-Cola Light Sango was introduced in Belgium over 20 years ago.	C
+GW28	T722	Coca-Cola Light Sango is a Belgian-American beverage.	E
+GW28	T722	Coca-Cola Light Sango is an orange-flavoured carbonated drink popular in Belgium.	N
+GW28	T722	Coca-Cola Light Sango is a decade old.	C
+GW51	T730	David Cassidy was an actor and singer who had 3 wives in his life.	E
+GW51	T730	Cassidy was first started writing music at the age of 5.	N
+GW51	T730	Cassidy married and divorced three women in the same decade.	C
+GW4	T730	David Cassidy was originally from a large city.	E
+GW4	T730	David Cassidy had both his children with his first wife.	N
+GW4	T730	David Cassidy has no other famous family members.	C
+GW28	T730	David Cassidy was an American entertainer.	E
+GW28	T730	David Cassidy won many awards for his music.	N
+GW28	T730	David Cassidy began his career in his twenties.	C
+GW14	T735	Die Another Day was released in the UK less than one week before its release in the US.	E
+GW14	T735	Die Another Day made more at the box office in the United States than in the United Kingdom.	N
+GW14	T735	Die Another Day was written and produced by the same woman.	C
+GW51	T735	Die Another Day is a James Bond based film starring Pierce Brosnan.	E
+GW51	T735	Pierce Brosnan portrayed James Bond a total of 3 times during his career.	N
+GW51	T735	Die Another Day managed to make a profit over its budget by about 10 million dollars.	C
+GW28	T735	Die Another Day is a British-America Hollywood film.	E
+GW28	T735	Die Another Day is part of the James Bond franchise.	N
+GW28	T735	Die Another Day premiered simultaneously in both the UK and US.	C
+GW2	T736	Croatian is the official language in a country where Zagreb is the capital.	E
+GW2	T736	Kolinda Grabar-Kitarovi_ is the president of the Republic of Croatia and identifies as a Christian.	N
+GW2	T736	All of the Republic of Croatia's Christians are Croats.	C
+GW28	T736	Republic of Croatia is a multi-ethnic, multi-faith European country.	E
+GW28	T736	Republic of Croatia is a former state of the Soviet Union.	N
+GW28	T736	Republic of Croatia is a landlocked country in Eastern Europe.	C
+GW27	T736	90.42% of Croatians are Croats.	E
+GW27	T736	Muslims in Croatia are mainly Serbs.	N
+GW27	T736	Muslims are more represented in Croatia than Serbs are.	C
+GW28	T739	David Cross is an American entertainer.	E
+GW28	T739	David Cross is an actor known for his TV roles.	N
+GW28	T739	David Cross began his career in his teens.	C
+GW14	T739	David Cross has been active in comedy since before the turn of the century.	E
+GW14	T739	Amber Tamblyn met David Cross on the set of a sitcom.	N
+GW14	T739	David Cross died in the same state where he was born.	C
+GW2	T739	David Cross is an American actor.	E
+GW2	T739	David Cross met his wife, Amber Tamblyn at a party.	N
+GW2	T739	David Cross has been working as a comedian for 25 years.	C
+GW4	T740	The Republic of Croatia is part of the European Union.	E
+GW4	T740	The Republic of Croatia was part of the Soviet Union	N
+GW4	T740	The Republic of Croatia never joined the Hasburgs.	C
+GW2	T740	The Republic of Croatia had a previous union with Hungary, but has since secceeded.	E
+GW2	T740	The Republic of Croatia is the third oldest country that is a member of the EU.	N
+GW2	T740	The Republic of Croatia is located in northern Africa.	C
+GW51	T740	Croatia is a Republic dating back to the 7th century.	E
+GW51	T740	Croatia has as much coastline as the country of Sweden.	N
+GW51	T740	Croatia has been part of the European Union for decades.	C
+GW0	T742	Crooked Teeth was recorded in southern California.	E
+GW0	T742	Crooked Teeth was Colin Brittain's first production credit.	N
+GW0	T742	Crooked Teeth was released on several record labels.	C
+GW4	T742	The album Crooked Teeth was made in the USA.	E
+GW4	T742	The album Crooked Teeth took over a year to make.	N
+GW4	T742	The album Crooked Teeth had only one producer.	C
+GW51	T742	Crooked Teeth is a 2017 hard rock album produced by RAS.	E
+GW51	T742	Crooked Teeth is the product of a collaboration between the musicians Crooked Eye and Nine Inch Nails.	N
+GW51	T742	Crooked Teeth was the shortest album RAS ever produced, with a run time of just over an hour.	C
+GW4	T747	David Edward Hughes helped develop the microphone.	E
+GW4	T747	David Edward Hughes only lived in London their whole life.	N
+GW4	T747	David Edward Hughes helped make light bulbs.	C
+GW51	T747	David Edward Hughes is an 1800's English Inventor.	E
+GW51	T747	Hughes invented the modern day microphone.	N
+GW51	T747	Hughes died of cancer in his 50's.	C
+GW14	T747	David Edward Hughes live for more than half a century.	E
+GW14	T747	David Edward Hughes lived in America for a time.	N
+GW14	T747	It's an established fact that David Edward Hughes was born in the same city in which he died.	C
+GW14	T748	Walt Disney Studios shared production with at least one other studio.	E
+GW14	T748	More people watched Coco in the United States than in Morelia.	N
+GW14	T748	Jason Katz co-wrote the Coco screenplay with Steve Bloom.	C
+GW51	T748	Coco is a Disney movie that made over $800 million.	E
+GW51	T748	Coco is a movie around the Central American festival, Dia de los Muertos.	N
+GW51	T748	Coco is the only Disney animated film to cost over $200 million to create.	C
+GW0	T748	Coco debuted at a festival in the fall of 2017.	E
+GW0	T748	Lee Unkrich asked the main stars to help co-write the story of Coco.	N
+GW0	T748	Coco was produced by a couple small and independent animation studious.	C
+GW28	T750	David Foster is a Canadian musician.	E
+GW28	T750	David Foster has won numerous awards for his music.	N
+GW28	T750	David Foster began his career in his teens.	C
+GW4	T750	The musician David Foster has been making albums since the 70s.	E
+GW4	T750	David Foster learned to play piano before any other instrument.	N
+GW4	T750	David Foster started performing when they were 18 years old.	C
+GW51	T750	David Foster is a musician that has been active in music for over 40 years.	E
+GW51	T750	Foster is famous for playing the piano and horn for Earth, Wind, and Fire.	N
+GW51	T750	Foster retired from music in the 1990's.	C
+GW2	T754	Crowded House is a group from Australia who recorded on Capitol.	E
+GW2	T754	Crowded House released an album on the ATO label in 2012.	N
+GW2	T754	Crowded House is a rock band from the northern hemisphere.	C
+GW51	T754	Crowded House is a rock and pop band from Austrailia.	E
+GW51	T754	The name Crowded House came from when the band first performed in a frat house that was ridiculously packed.	N
+GW51	T754	Crowded House has been together as a group for over 40 years.	C
+GW4	T754	The band Crowded House has been on two labels.	E
+GW4	T754	The band Crowded House broke up more than once.	N
+GW4	T754	The band Crowded House is from the United States.	C
+GW51	T755	Coda is a rock and roll album produced by Jimmy Page.	E
+GW51	T755	Coda was Jimmy Page's first solo album.	N
+GW51	T755	Coda took about 2 years to record before it was released.	C
+GW28	T755	Coda was a multi-decade British musical effort.	E
+GW28	T755	Coda was a compilation of unused Led Zeppelin tracks.	N
+GW28	T755	Coda was an hour-long, multi-genre, multi-lingual music album.	C
+GW4	T755	The album Coda took over a decade to make.	E
+GW4	T755	The album Coda was mostly recorded at Sol Studios.	N
+GW4	T755	The album Coda is over an hour long.	C
+GW6	T756	David Gilmour has been active since he was a teenager.	E
+GW6	T756	Polly Samson has eight children.	N
+GW6	T756	David Gilmour divorced after he retired.	C
+GW0	T756	David Gilmour has been signed to at least a dozen record labels.	E
+GW0	T756	David Gilmour still lives in his native country.	N
+GW0	T756	David Gilmour married Polly Samson before becoming a musician.	C
+GW14	T756	David Gilmour was born in the Northern Hemisphere.	E
+GW14	T756	David Gilmour released more music under the Sony label than any other.	N
+GW14	T756	David Gilmour was married more than 3 times.	C
+GW51	T773	Crush is a soft drink manufactured by Dr Pepper and Keurig.	E
+GW51	T773	Crush is the best selling orange flavored soda in the world.	N
+GW51	T773	Crush was introduced to the United States after being distributed and manufactured by Sainsbury in the United Kingdom.	C
+GW4	T773	The beverage Crush has been around for over 100 years.	E
+GW4	T773	The drink Crush has always been owned by the same company.	N
+GW4	T773	The drink Crush was made originally in Germany.	C
+GW6	T773	Crush has been around since the early 20th century.	E
+GW6	T773	Crush and Fanta both originate from North America.	N
+GW6	T773	Crush has the same distributor in all Western hemisphere countries.	C
+GW51	T780	Crystal Harris is a television personality known for role on The Girls Next Door.	E
+GW51	T780	Crystal Harris was discovered by Hugh Hefner at a comic con event in California.	N
+GW51	T780	Harris has been involved with Playboy for almost 40 years.	C
+GW2	T780	The Playboy Playmate of the month for December 2009 went on to marry Hugh Hefner.	E
+GW2	T780	The woman who was Hugh Hefner's wife in 2013 studied art at San Diego State University.	N
+GW2	T780	Hugh Hefner was younger than the woman he married in 2012.	C
+GW28	T780	Crystal Harris is an American female entertainer.	E
+GW28	T780	Crystal Harris was Hugh Hefner's favorite wife.	N
+GW28	T780	Crystal Harris married Hugh Hefner in her teens.	C
+GW14	T783	The Crystal Light brand has an online presence.	E
+GW14	T783	Kraft Foods manufactures many different brands of flavored water.	N
+GW14	T783	Crystal Light comes in a single color.	C
+GW51	T783	Crystal Light is a flavored water made by the Kraft Foods brand.	E
+GW51	T783	Crystal Light was the inspiration for La Croix to make their own sparkling water.	N
+GW51	T783	Crystal Light was introduced in the late 70's.	C
+GW4	T783	Crystal Light came out in the 1980s.	E
+GW4	T783	The drink Crystal Light came out in the United States.	N
+GW4	T783	The drink Crystal Light comes only in a clear color.	C
+GW28	T795	David with the Head of Goliath is a 17th century Italian work of art.	E
+GW28	T795	David with the Head of Goliath was Caravaggio's final painting.	N
+GW28	T795	David with the Head of Goliath is a painting bigger than an average sized man.	C
+GW51	T795	David with the Head of Goliath is an oil painting created by Caravaggio.	E
+GW51	T795	Caravaggio made only 2 paintings in his entire career as an artist.	N
+GW51	T795	David with the Head of Goliath was finally finished in the late 1600's.	C
+GW2	T795	David with the Head of Goliath is an oil painting located in France.	E
+GW2	T795	David with the Head of Goliath is the most popular painting in Kunsthistorisches Museum.	N
+GW2	T795	Caravaggio painted David with the Head of Goliath on canvas.	C
+GW51	T798	Colin Kaepernick is an NFL football player from the Midwest United States.	E
+GW51	T798	Kaepernick was originally drafted by the San Francisco 49ers.	N
+GW51	T798	Kaepernick is just a shade under six feet tall.	C
+GW28	T798	Colin Kaepernick is a taller than average, American.	E
+GW28	T798	Colin Kaepernick is a controversial sports figure.	N
+GW28	T798	Colin Kaepernick is currently playing for the San Francisco 49ers.	C
+GW4	T798	Colin Kaepernick is taller in centimeters than he is heavy in kilograms.	E
+GW4	T798	Colin Kaepernick has always lived in Wisconsin.	N
+GW4	T798	Colin Kaepernick was born after 1990.	C
+GW4	T812	The Country of Curaao still has a king leading it.	E
+GW4	T812	The Country of Curaao has more than one official language.	N
+GW4	T812	The Country of Curaao does not have a capital city.	C
+GW2	T812	The Country of Curaao has 3 official languages and has royalty.	E
+GW2	T812	The Country of Curaao has a population of 40 million.	N
+GW2	T812	The Country of Curaao's governor is Eugene Rhuggenaath.	C
+GW28	T812	Country of Curaao is an island nation near South America.	E
+GW28	T812	Country of Curaao was colonized by the Dutch.	N
+GW28	T812	Country of Curaao is located in the Gulf of Mexico.	C
+GW51	T817	Colorado Springs is a city in Colorado located over a mile above sea level.	E
+GW51	T817	Colorado Springs is the home of Colorado State University.	N
+GW51	T817	Colorado Springs lowest point is below sea level.	C
+GW4	T817	Colorado Springs, Colorado is more than a mile tall at all locations.	E
+GW4	T817	Colorado Springs, Colorado has many mountains in it.	N
+GW4	T817	Colorado Springs, Colorado is under 100 square miles in size.	C
+GW28	T817	Colorado Springs, Colorado is situated far from the ocean.	E
+GW28	T817	Colorado Springs, Colorado is the highest elevated city in America.	N
+GW28	T817	Colorado Springs, Colorado is a poor training location for endurance athletes.	C
+GW51	T818	Coloring Book is a hip hop album that was released in mid 2016.	E
+GW51	T818	Coloring Book was Chance the Rapper's debut studio album.	N
+GW51	T818	Coloring Book was produced by 3 different people before its release in late 2016.	C
+GW28	T818	Coloring Book is a label-less, independent hip-hop album.	E
+GW28	T818	Coloring Book has three Kanye West tracks.	N
+GW28	T818	Coloring Book is a classical music compilation.	C
+GW4	T818	The album Coloring Book came out in the spring of 2016.	E
+GW4	T818	The album Coloring Book was published without any label.	N
+GW4	T818	The album Coloring Book had only a single producer.	C
+GW6	T820	Colossal was written and directed by the same person.	E
+GW6	T820	Colossal was filmed mainly in Spain.	N
+GW6	T820	Colossal more than earned back its budget in box office.	C
+GW51	T820	Colossal is a 2016 movie starring Anne Hathaway and Jason Sudekis.	E
+GW51	T820	Colossal is a sequel to the movie, Cloverfield.	N
+GW51	T820	Colossal was produced and directed by Anne Hathaway.	C
+GW4	T820	The film Colossal was written and directed by the same person.	E
+GW4	T820	The film Colossal won several awards.	N
+GW4	T820	The film Colossal had a net profit at the theaters.	C
+GW14	T824	Combat Rock was finally released one month after its final recording session.	E
+GW14	T824	You can listen to Combat Rock in the span of one hour.	N
+GW14	T824	Combat Rock was recorded entirely in the United Kingdom.	C
+GW51	T824	Combat Rock is a new-wave/punk album released in the 1980's.	E
+GW51	T824	Combat Rock was the highest selling album in the history of The Clash.	N
+GW51	T824	Combat Rock took 4 years to record and produce.	C
+GW0	T824	Combat Rock was released in the Spring of 1982.	E
+GW0	T824	CBS Records released Combat Rock in the United States.	N
+GW0	T824	The Clash recorded Combat Rock entirely in their home country.	C
+GW51	T825	Combined driving is a horse racing event style.	E
+GW51	T825	Combined driving was inspired by early 1900's horse-drawn carriages.	N
+GW51	T825	Combined driving involves using a state-of-the-art indoor racetrack.	C
+GW4	T825	The sport of combined driving can be performed by men and women.	E
+GW4	T825	Combined driving involves racing horses.	N
+GW4	T825	Combined driving is an individual sport.	C
+GW28	T825	Combined driving is an organized sport pairing humans and horses.	E
+GW28	T825	Combined driving is being considered to become an Olympic sport.	N
+GW28	T825	Combined driving can be a violent sport because of the animals.	C
+GW51	T826	Come On Over was a country-rock album released in late 1997.	E
+GW51	T826	"Come on Over was the first self-produced album by ""Mutt""."	N
+GW51	T826	Come on Over was the product of over 4 years of recording in the early 90's.	C
+GW28	T826	Come On Over was an album recorded and released over a two-year period.	E
+GW28	T826	Come On Over is a multi-genre, as well as multi-lingual album.	N
+GW28	T826	Come On Over is a 21st century music album.	C
+GW4	T826	The album Come On Over took over a year to make.	E
+GW4	T826	The album Come On Over was recorded mostly in Nashville.	N
+GW4	T826	The album Come On Over had multiple producers.	C
+GW4	T827	The Commodores have been performing for over 50 years.	E
+GW4	T827	The Commodores have won awards for their music.	N
+GW4	T827	The Commodores have only been on a single label.	C
+GW28	T827	Commodores are an American music group.	E
+GW28	T827	Commodores are made up of 4 African-American members	N
+GW28	T827	Commodores have been performing since the mid-20th century.	C
+GW51	T827	The Commodores are a funk and soul group from Alabama in the U.S.	E
+GW51	T827	The Commodores are credited with a lot of the sounds and styles found in modern day rap.	N
+GW51	T827	The Commodores disbanded as a group about 9 years after their inception due to creative differences.	C
+GW28	T830	Union of the Comoros is an island located off the east coast of Africa.	E
+GW28	T830	Union of the Comoros is an independent nation.	N
+GW28	T830	Union of the Comoros is a multi-ethnic, multi-lingual, and multi-faith nation.	C
+GW4	T830	The Union of the Comoros has multiple languages spoken.	E
+GW4	T830	The Union of the Comoros has always followed Islam.	N
+GW4	T830	The Union of the Comoros has only one vice president.	C
+GW51	T830	Union of the Comoros is sovereign territory in the southern hemisphere.	E
+GW51	T830	Union of the Comoros is controlled by Afghanistan.	N
+GW51	T830	Union of the Comoros can be found north of the equator.	C
+GW4	T832	The band DAY6 has had more than one label.	E
+GW4	T832	The band DAY6 has performed with JYP nation before.	N
+GW4	T832	The band DAY6 is known for playing metal music.	C
+GW51	T832	DAY6 is a K-pop group from Korea that has been active for about 4 years.	E
+GW51	T832	The name of DAY6 was inspired by their love for Travis Scott's album, Days before Rodeo.	N
+GW51	T832	DAY6 have been releasing hip hop music for over 7 years as a group.	C
+GW59	T832	Day6 has been active on the music scene since 2015.	E
+GW59	T832	Warner Music Japan was the first label to sign Day6.	N
+GW59	T832	Day6 is known for its hard rock music.	C
+GW6	T836	Richard Linklater had three roles on Dazed and Confused.	E
+GW6	T836	Dazed and Confused was directed in 1993.	N
+GW6	T836	Dazed and Confused earned less money than it cost to make.	C
+GW4	T836	The film Dazed and Confused was able to net a profit at the box office.	E
+GW4	T836	The movie Dazed and Confused wound up winning an award.	N
+GW4	T836	The movie Dazed and Confused was written and directed by two different people.	C
+GW51	T836	Dazed and Confused is an early 90's movie directed and written by Richard Linklater.	E
+GW51	T836	Dazed and Confused is where Matthew Mcconaughey had his first feature-length film role.	N
+GW51	T836	Dazed and Confused ended up not turning a profit during its box office run.	C
+GW14	T841	Dead Poets Society was released in the 20th century.	E
+GW14	T841	Buena Vista Pictures distributes films in countries other than the United States.	N
+GW14	T841	Dead Poets Society earned exactly ten times its budget at the box office.	C
+GW0	T841	Dead Poets Society made over 200 million dollars more at the box office than it cost to make.	E
+GW0	T841	Peter Weir personally hired Robin Williams to star in Dead Poets Society.	N
+GW0	T841	Dead Poets Society was released in the winter of 1989.	C
+GW51	T841	Dead Poets Society is a late 80's moving starring Robin Williams.	E
+GW51	T841	Robin Williams was nominated for best actor for his role in Dead Poets Society.	N
+GW51	T841	Dead Poets Society was directed and written by Robin Williams.	C
+GW51	T842	Dealpool 2 is 2018 movie that starred Ryan Reynolds.	E
+GW51	T842	Deadpool 2 is the critically acclaimed sequel to the 2016 film Deadpool.	N
+GW51	T842	Deadlpool 2 was originally released in the United States before it's U.K premiere in Leicester Square.	C
+GW12	T842	Ryan Reynolds both wrote and starred in Deadpool 2.	E
+GW12	T842	20th Century Fox and Marvel Entertainment distributed Deadpool 2.	N
+GW12	T842	Simon Kinberg both produced and directed Deadpool 2.	C
+GW4	T842	The film Deadpool 2 made over $600 million in profit.	E
+GW4	T842	The movie Deadpool 2 had Ryan Reynolds as the main star.	N
+GW4	T842	The film Deadpool 2 had multiple directors in recording.	C
+GW12	T847	Wayne County is home to residents who live in Dearborn, Michigan.	E
+GW12	T847	Since first being settled, it took Dearborn, Michigan nearly 141 years to become a city.	N
+GW12	T847	Dearborn, Michigan has been settled for nearly 300 years.	C
+GW4	T847	Dearborn, Michigan has been a city for over 90 years.	E
+GW4	T847	Dearborn, Michigan has always been part of Wayne county.	N
+GW4	T847	Dearborn, Michigan was settled in the 17th century.	C
+GW28	T847	Dearborn, Michigan is an American city.	E
+GW28	T847	Dearborn, Michigan is an industrial city in the American rustbelt.	N
+GW28	T847	Dearborn, Michigan grew from village to city in just three decades.	C
+GW51	T849	Dear Zindagi is an Indian movie directed and written by Gauri Sinde.	E
+GW51	T849	Dear Zindagi is a modern day adaptation of the American movie, Dear John.	N
+GW51	T849	Dear Zindagi was first released in India before being released in the United States two days later.	C
+GW4	T849	Dear Zindagi came out in the USA before the rest of the world.	E
+GW4	T849	Dear Zindagi was controlled heavily by Gauri Shinde	N
+GW4	T849	The film Dear Zindagi was one that did not make a profit in theaters.	C
+GW14	T849	Dear Zindagi has a running time less than 3 hours.	E
+GW14	T849	Many non-Hindi speakers watched dubbed versions of Dear Zindagi.	N
+GW14	T849	Alia Bhatt collaborated with Hemanti Sarkar on the Dear Zindagi screenplay.	C
+GW14	T852	There were less than a half dozen producers working on Death Certificate.	E
+GW14	T852	Ice Cube worked closely with Priority Records.	N
+GW14	T852	You can listen to Death Certificate from start to finish more than 4 times in a 3 hour drive.	C
+GW51	T852	Death Certificate is a 90's gangsta hip album produced by Ice Cube.	E
+GW51	T852	Ice Cube was former a member of the rap group,  N.W.A. before Death Certificate was released.	N
+GW51	T852	Death Certificate took about 2 years to record in Dr. Dre's studio before released in the mid 90's.	C
+GW6	T852	A hip hop album with 3 producers was released in late October 1991.	E
+GW6	T852	Death Certificate was recorded in October 1991.	N
+GW6	T852	Priority and EMI only release albums that are shorter than one hour.	C
+GW51	T861	Bridgeport is a city that lies a few feet above sea level in Connecticut.	E
+GW51	T861	Bridgeport is the 2nd largest city in the state of Connecticut.	N
+GW51	T861	Bridgeport has a small urban region, sprawling out just 1,000 square miles.	C
+GW28	T861	Bridgeport, Connecticut is a small American city barely above sea-level.	E
+GW28	T861	Bridgeport, Connecticut is located overlooking the Long Island Sound.	N
+GW28	T861	Bridgeport, Connecticut land area is less than half the water area.	C
+GW27	T861	Bridgeport, Connecticut, has more land area than water area.	E
+GW27	T861	Bridgeport's water area gives it access to the sea.	N
+GW27	T861	A majority of Bridgeport's area is water.	C
+GW0	T900	Christianity is the most popular religion of Central African Republic.	E
+GW0	T900	Faustin-Archange Touad?ra is of Baya ethnicity.	N
+GW0	T900	People of Central African Republic speak only French.	C
+GW12	T900	Simplice Sarandji is a prominent figure as the Prime Minister of the Central African Republic.	E
+GW12	T900	Bangui is the home to President Faustin-Archange Touadera of the Central African Republic.	N
+GW12	T900	Baya is the largest city in the Central African Republic.	C
+GW51	T900	The Central African Republic is a country in Africa with a capital city of Bangui.	E
+GW51	T900	The Central African Republic formed after a massive civil war in central Africa across several tribes.	N
+GW51	T900	The Central African Republic lies south of the equator.	C
+GW28	T917	Cairo is an overpopulated city in Egypt	E
+GW28	T917	Cairo is a cultural attraction for its ancient monuments.	N
+GW28	T917	Cairo is a sparsely populated city in Egypt.	C
+GW51	T917	Cairo is a city with a population well over 19 million.	E
+GW51	T917	Cairo is the largest city in the country of Egypt.	N
+GW51	T917	Cairo has the same time zone as cities in the United States.	C
+GW27	T917	Cairo has more than 20 million people in its metro area.	E
+GW27	T917	Cairo is the largest city in Egypt.	N
+GW27	T917	Cairo has more people in its city area than in its metro area.	C
+GW28	T931	Bougainville is part of a chain of islands.	E
+GW28	T931	Bougainville is the biggest island in the Solomon Islands.	N
+GW28	T931	Bougainville is located in the Atlantic Ocean.	C
+GW51	T931	Bougainville is part of an archipelago in the Southern Hemisphere.	E
+GW51	T931	Bougainville is part of islands in Indonesia.	N
+GW51	T931	Bougainville does not a single point over sea level on its land.	C
+GW27	T931	The Solomon Islands are a part of Melanesia.	E
+GW27	T931	The Solomon Islands are south of the equator.	N
+GW27	T931	Mount Balbi tops 10,000 feet.	C
+GW27	T948	The Kingdom of France had only two kings.	E
+GW27	T948	The Kingdom of France fell to a revolution.	N
+GW27	T948	The Kingdom of France adopted a constitution a year after its restoration.	C
+GW51	T948	Kingdom of France was a government set up of France that last for almost 2 decades in the 19th century.	E
+GW51	T948	Kingdom of France followed the reign of Napoleon.	N
+GW51	T948	Kingdom of France led to the French Revolution where Louis the XVI was killed.	C
+GW28	T948	Kingdom of France was a Christian, French-speaking country led by royalty.	E
+GW28	T948	Kingdom of France was ended by a peasant revolt.	N
+GW28	T948	Kingdom of France lasted well into the 20th century.	C
+GW28	T995	Republic of Cameroon is a multi-ethnic, multi-lingual African country.	E
+GW28	T995	Republic of Cameroon was influenced by French, British and German colonizers.	N
+GW28	T995	Republic of Cameroon is a republic on the east coast of Africa.	C
+GW14	T995	The president of the Republic of Cameroon's last name starts with a letter near the beginning of the alphabet.	E
+GW14	T995	The Republic of Cameroon's Parliament's members are elected every 2 years.	N
+GW14	T995	There are more Equatorial Bantu people than Camaroon Highlanders.	C
+GW51	T995	The Republic of Cameroon is a country that most speaks French.	E
+GW51	T995	The Republic of Cameroon was originally a colony set up by France.	N
+GW51	T995	The Republic of Cameroon lies south of the equator.	C
+GW28	T998	Bursa is a municipality in Turkey.	E
+GW28	T998	Bursa is a city as well as a province in Turkey.	N
+GW28	T998	Bursa is a small quaint town with no marketing plan..	C
+GW51	T998	Bursa is a city with a couple million people who reside there.	E
+GW51	T998	Bursa is a large city located in modern day Turkey.	N
+GW51	T998	Bursa has the timezone as London.	C
+GW1	T998	Bursa has over 1.8 million people in the Metropolitan municipality.	E
+GW1	T998	The S in EEST means standard.	N
+GW1	T998	Bursa doesn't honor daily savings time.	C
+GW2	T1062	Bosintang is a dish with canine meat from Korea.	E
+GW2	T1062	Dangogiguk is a dish made with dog meat and broccoli.	N
+GW2	T1062	Bosintang is a vegetarian dish from Korea.	C
+GW28	T1062	Bosintang is a Korean food dish.	E
+GW28	T1062	Bosintang is a delicacy mostly eaten by older Koreans.	N
+GW28	T1062	Bosintang is served with noodles and shots of soju.	C
+GW51	T1062	Bosintang is a type of tang from Korea.	E
+GW51	T1062	Bosintang is made specifically from the meat of labradors.	N
+GW51	T1062	Bosintang only has one known alternative name describing the only flavor its made with.	C
+GW27	T1083	Bundaberg Rum is made by the Bundaberg Distilling Company in Australia.	E
+GW27	T1083	Bundaberg Rum is Australia's best-known rum.	N
+GW27	T1083	Bundaberg Rum is made by its distributor.	C
+GW28	T1083	Bundaberg Rum is an Australian alcohol	E
+GW28	T1083	Bundaberg Rum is made with molasses and suger cane which gives it its dark color.	N
+GW28	T1083	Bundaberg Rum's popularity is all from word-of-mouth with no additional marketing.	C
+GW12	T1083	Bundaberg Distilling Company is the manufacturer for Bundaberg Run in Australia.	E
+GW12	T1083	Diageo is the distributor for the Bundaberg Distilling Company.	N
+GW12	T1083	Introduced in 1888, Bundaberg Rum comes in only one color, dark.	C
+GW51	T1108	Caloocan is a city with Oscar Malapitan as mayor.	E
+GW51	T1108	Caloocan is a city located in the Philippines.	N
+GW51	T1108	Caloocan is one of the larger cities in the area, with just under half a million people as part of the electorate.	C
+GW27	T1108	Caloocan has two districts for representatives.	E
+GW27	T1108	Caloocan's two representative districts have roughly equal population.	N
+GW27	T1108	Caloocan's mayor and vice mayor are the same person.	C
+GW28	T1108	Caloocan is a geographic area governed by elected officials and representatives.	E
+GW28	T1108	Caloocan has two Representatives that are voted in directly by the eligible voters of Caloocan.	N
+GW28	T1108	Caloocan is ruled by a council of elders.	C
+GW1	T1145	The earnings of Caveat were about half a million dollars.	E
+GW1	T1145	Caveat only raced in the United States.	N
+GW1	T1145	Caveat won more than half of the races that it entered.	C
+GW28	T1145	Caveat is an American male racehorse.	E
+GW28	T1145	Caveat won more in winnings than it took to raise and train him.	N
+GW28	T1145	Caveat has a better than even winning percentage.	C
+GW0	T1145	Caveat earned over half a million dollars in it's career.	E
+GW0	T1145	August Belmont IV also owned Caveat's parents.	N
+GW0	T1145	Caveat was born in Europe.	C
+GW12	T1149	Celine Dion was an active performer when her husband died in the year 2016.	E
+GW12	T1149	Celine Dion, a singer born in Canada, is worth $700 million.	N
+GW12	T1149	Th?r?se Tanguay Dion is the daughter of Celine Dion.	C
+GW6	T1149	Th?r?se Tanguay Dion had a child that became a widow.	E
+GW6	T1149	Ren? Ang?lil had three children.	N
+GW6	T1149	No child of Adh?mar-Charles Dion has ever left their country of birth.	C
+GW4	T1149	Celine Dion has been performing for over 35 years.	E
+GW4	T1149	Celine Dion moved from Canada to the USA as a kid.	N
+GW4	T1149	Celine Dion has always been on the same label.	C
+GW22	T1174	National Television Awards has been first awarded in 1995.	E
+GW22	T1174	National Television Awards is produced by Indigo Television only.	N
+GW22	T1174	Dermot O'Leary is the only host of National Television Awards.	C
+GW4	T1174	The National Television Awards have been at The O2 Arena for nearly a decade.	E
+GW4	T1174	The National Television Awards has always been over two hours in length.	N
+GW4	T1174	The National Television Awards has always had the same host.	C
+GW1	T1174	The National Television Awards currently take place at The O2 Arena.	E
+GW1	T1174	The National Television Awards is only for TV shows made in the United Kingdom.	N
+GW1	T1174	The National Television Awards have a runtime of three hours.	C
+GW6	T1178	An institute in the American Center for Physics has a membership over 100,000.	E
+GW6	T1178	H. Frederick Dylla lives in College Park, Maryland.	N
+GW6	T1178	The American Institute of Physics was formed 100 years ago.	C
+GW28	T1178	American Institute of Physics was founded in the 20th century.	E
+GW28	T1178	American Institute of Physics is a members-only organization where dues are paid.	N
+GW28	T1178	American Institute of Physics is an organization that specifically helps physicists find jobs and network.	C
+GW27	T1178	The American Institute of Physics is a not-for-profit formed in 1931.	E
+GW27	T1178	The American Institute of Physics was founded in Maryland.	N
+GW27	T1178	The American Institute of Physics and its headquarters have the same acronyms.	C
+GW40	T1198	The Home Safe Collective won the Panel Prize at the 1981 Edinburgh Comedy Awards.	E
+GW40	T1198	The Edinburgh Comedy Awards is always sponsored by a website.	N
+GW40	T1198	The 1981 Edinburgh Comedy Awards was held in England.	C
+GW22	T1198	Edinburgh Comedy Awards is held in Edinburgh Festival Fringe in Scotland.	E
+GW22	T1198	lastminute.com is the only sponsor of Edinburgh Comedy Awards.	N
+GW22	T1198	There is no monetary reward for winner of Edinburgh Comedy Award winner.	C
+GW4	T1198	The Edinburgh Comedy Awards began over 30 years ago.	E
+GW4	T1198	The Edinburgh Comedy Awards has several prize levels.	N
+GW4	T1198	The Edinburgh Comedy Awards happens in London.	C
+GW1	T1230	Brigitte Nielsen was born in the Summer of 1963.	E
+GW1	T1230	Brigitte Nielsen had a singing career before a modeling one.	N
+GW1	T1230	Brigitte Nielsen has been active for over 40 years.	C
+GW4	T1230	Brigitte Nielsen is originally from Europe.	E
+GW4	T1230	Brigitte Nielsen had all their children with Sylvester Stallone.	N
+GW4	T1230	Brigitte Nielsen became famous when they were 30 years old.	C
+GW72	T1230	Brigitte Nielsen was married four times	E
+GW72	T1230	Brigitte Nielsen has 3 daughters and 2 sons	N
+GW72	T1230	Brigitte Nielsen was a famous athlete	C
+GW28	T1249	Association for the Study of Australian Literature Ltd is an Australian entity.	E
+GW28	T1249	Association for the Study of Australian Literature Ltd was formed to promote Australian propaganda	N
+GW28	T1249	Association for the Study of Australian Literature Ltd is a non-profit organization.	C
+GW27	T1249	The Association for the Study of Australian Literature is headquarted in the country it serves.	E
+GW27	T1249	The Association for the Study of Australian Literature was for-profit before 1984.	N
+GW27	T1249	The Association for the Study of Australian Literature has the same tax ID and registration numbers.	C
+GW22	T1249	Association for the Study of Australian Literature Ltd was founded in 1977 at Burwood, Victoria.	E
+GW22	T1249	Association for the Study of Australian Literature Ltd is an Australian public company, limited by guarantee working in the field of literary and education only.	N
+GW22	T1249	Association for the Study of Australian Literature Ltd's Registration no. is ABN 37 002 755 599 and Tax ID no. is ACN 002 755 599.	C
+GW1	T1258	Rutgers was established in the latter half of the 18th century.	E
+GW1	T1258	Robert L. Barchi will replace Christopher Molloy as interim Chancellor at Rutgers.	N
+GW1	T1258	Rutgers has only ever had two name changes.	C
+GW51	T1258	Rutgers is a university located in New Jersey.	E
+GW51	T1258	Rutgers is the longest established university in New Jersey, being established for over 250 years.	N
+GW51	T1258	Rutgers have just under 10,000 students when combining both undergraduates and postgraduates.	C
+GW22	T1258	Rutgers, The State University of New Jersey was established on November 10, 1766 and is located at New Brunswick-Piscataway, New Jersey, U.S.	E
+GW22	T1258	Rutgers, The State University of New Jersey has only 3 former names.	N
+GW22	T1258	Rutgers, The State University of New Jersey has more postgraduate students than undergraduates.	C
+GW76	T1274	Carl F. Auer von Welsbach is a chemist who was born on September 1, 1858.	E
+GW76	T1274	Carl F. Auer von Welsbach started his study of rare-earth elements very early in life.	N
+GW76	T1274	Carl F. Auer von Welsbach passed away in the same Austrian town he was born in.	C
+GW22	T1274	Carl F. Auer von Welsbach was born on 1 September 1858 in Vienna, Austrian Empire and died on 4 August 1929 at the age of 70.	E
+GW22	T1274	"Carl F. Auer von Welsbach received only one award named ""Elliott Cresson Medal"" during his lifetime."	N
+GW22	T1274	Carl F. Auer von Welsbach died in Vienna, Austrian Empire at the ago of 72.	C
+GW1	T1274	Carl F. Auer von Welsbach died in the Summer of 1929.	E
+GW1	T1274	Carl F. Auer von Welsbach won the Elliott Cresson Medal in 1900 for the discovery of lutetium.	N
+GW1	T1274	Carl F. Auer von Welsbach only lived in one century.	C
+GW22	T1279	International Fund for Animal Welfare is a Non-profit Organization founded in 1969 at New Brunswick, Canada.	E
+GW22	T1279	Azzedine Downes and Kathleen Savesky are the only key people of International Fund for Animal Welfare.	N
+GW22	T1279	International Fund for Animal Welfare has less than 300 employees worldwide and its annual revenue in 2013 was $99,079,000 USD.	C
+GW4	T1279	The International Fund for Animal Welfare has been around for fifty years.	E
+GW4	T1279	The International Fund for Animal Welfare donates money around the world.	N
+GW4	T1279	The International Fund for Animal Welfare has only 100 employees.	C
+GW28	T1279	International Fund for Animal Welfare - ifaw is a North American Non-profit organization.	E
+GW28	T1279	International Fund for Animal Welfare - ifaw enlists thousands of volunteers to get its message across.	N
+GW28	T1279	International Fund for Animal Welfare - ifaw is a national organization focused on only North America.	C
+GW28	T1281	Brandeis University is a private American university established in the 20th century.	E
+GW28	T1281	Brandeis University attracts a largely Jewish student body.	N
+GW28	T1281	Brandeis University has enrolled as man postgraduates as undergraduates.	C
+GW1	T1281	Brandeis University has a male mascot.	E
+GW1	T1281	Lisa M. Lynch will take over for Ronald D. Liebowitz when he leaves Brandeis University.	N
+GW1	T1281	Brandeis University has three times as many full time staff members as it does part time staff.	C
+GW12	T1281	The administrative staff at Brandeis University outnumbers the academic staff.	E
+GW12	T1281	Brandeis University is a private school established in the fall of 1948.	N
+GW12	T1281	Ollie the Owl is the nickname for Brandeis University.	C
+GW22	T1288	British Comedy Awards are awarded for most popular in Comedy in United Kingdom.	E
+GW22	T1288	British Comedy Awards's Television/radio coverage are with ITV and Channel 4 only.	N
+GW22	T1288	British Comedy Awards was first awarded in 1992 and last in 2016.	C
+GW28	T1288	British Comedy Awards was a European awards show.	E
+GW28	T1288	British Comedy Awards was discontinued due to competing awards programs.	N
+GW28	T1288	British Comedy Awards was a  twice yearly event.	C
+GW17	T1288	The British Comedy Awards first award was handed out in 1990.	E
+GW17	T1288	The British Comedy Awards has awarded more men than women so far.	N
+GW17	T1288	The British Comedy Awards last award was handed out in 1994.	C
+GW22	T1310	Arromanches is also know as Colossus and was launched on 30 September 1943.	E
+GW22	T1310	Arromanches is the only aircraft carrier manufactured by Vickers-Armstrong.	N
+GW22	T1310	Speed of Arromanches is 50 km/h and range is 10,000 km.	C
+GW28	T1310	Arromanches was a French aircraft carrier.	E
+GW28	T1310	Arromanches was loaned from the British Royal Navy and eventually bought outright.	N
+GW28	T1310	Arromanches was decommissioned four decades after commissioned.	C
+GW6	T1310	Arromanches was scrapped 4 years after being decommissioned.	E
+GW6	T1310	Every Colossus-class aircraft carrier has been decommissioned.	N
+GW6	T1310	The French Navy acquired the Arromanches in the early 40s.	C
+GW27	T1313	Ca?onero II was sired by Pretendre and grandsired by Doutelle.	E
+GW27	T1313	Ca?onero II is the most succesful bay from Venezuela.	N
+GW27	T1313	Ca?onero II's owner and breeder are the same person.	C
+GW12	T1313	Buddy Hirsch trained the late Canonero II in 1972.	E
+GW12	T1313	Born in 1968, Canonero II has history with Pretendre and Doutelle.	N
+GW12	T1313	Edward Benjamin has been the owner of Canonero II for 13 years.	C
+GW1	T1313	Ca?onero II was foaled in the Spring of 1968.	E
+GW1	T1313	Ca?onero II only raced in Venezuela.	N
+GW1	T1313	Ca?onero II earned more than half a million dollars as a horse.	C
+GW1	T1314	The Tu-204 / Tu-214 has been being produced for close to 30 years.	E
+GW1	T1314	The Tu-204 / Tu-214 is used more by Air Koryo than by Cubana Airlines.	N
+GW1	T1314	It was less than five years between Tu-204 / Tu-214's first flight and it's introduction.	C
+GW4	T1314	The Tu-204 / Tu-214 is still being made today.	E
+GW4	T1314	The Tu-204 / Tu-214 is used by airlines around the world.	N
+GW4	T1314	The Tu-204 / Tu-214 has never had any revisions over the years.	C
+GW28	T1314	The Tu-204 / Tu-214 is a decades-old Russian aircraft.	E
+GW28	T1314	The Tu-204 / Tu-214 is the most popular airliner in communist countries.	N
+GW28	T1314	The Tu-204 / Tu-214 is solely a domestic aircraft not intended for export.	C
+GW12	T1318	Cameron Diaz has been a performing actress since 1994.	E
+GW12	T1318	Benji Madden has been married to Cameron Diaz for 4 years.	N
+GW12	T1318	Cameron Diaz was born in Long Beach, California in summer of 1972.	C
+GW1	T1318	Cameron Diaz was active for about 20 years in acting.	E
+GW1	T1318	Cameron Diaz has lived in California her entire life.	N
+GW1	T1318	Cameron Diaz was born in the Winter of 1972.	C
+GW27	T1318	Cameron Diaz was born and reared in different cities.	E
+GW27	T1318	Cameron Diaz quit acting to get married.	N
+GW27	T1318	Cameron Diaz was born and reared in the same cities.	C
+GW22	T1327	Chaco Culture National Historical Park is an UNESCO World Heritage Site and is located in San Juan County and McKinley County, New Mexico, US.	E
+GW22	T1327	Chaco Culture National Historical Park is the only historic district designated by U.S. National Register of Historic Places.	N
+GW22	T1327	Chaco Culture National Historical Park has total are more than 35,000 acres.	C
+GW28	T1327	Chaco Culture National Historical Park is a UNESCO World Heritage Site in America.	E
+GW28	T1327	Chaco Culture National Historical Park is free to the public to visit.	N
+GW28	T1327	Chaco Culture National Historical Park covers parts of Arizona and New Mexico.	C
+GW1	T1327	Chaco Culture National Historical Park was a U.S. National Monument for more than 70 years.	E
+GW1	T1327	More of Chaco Culture National Historical Park is located in McKinley County than San Juan County.	N
+GW1	T1327	Chaco Culture National Historical Park was added to the U.S. National Register of Historic Places after it was put on the N.M. State Register of Cultural Properties.	C
+GW1	T1329	Cannibal Corpse was formed on the US West coast.	E
+GW1	T1329	'Some of the same members of Cannibal Corpse are in Tirant Sin.	N
+GW1	T1329	Cannibal Corpse hasn't been a band for 30 years yet.	C
+GW27	T1329	'Cannibal Corpse' is a death metal band from New York.	E
+GW27	T1329	'Cannibal Corpse' is the only death metal band on the Metal Blade label.	N
+GW27	T1329	'Cannibal Corpse' has been on more labels than they have associated acts.	C
+GW12	T1329	Buffalo, New York is the origin of the death metal band Cannibal Corpse.	E
+GW12	T1329	Tirant Sin and Slayer are two of four acts associated with Cannibal Corpse.	N
+GW12	T1329	Cannibal Corpse is a metal band who became inactive in the late 1980s.	C
+GW1	T1333	Brie Larson first breathed air in the Fall of 1989.	E
+GW1	T1333	Brie Larson had her name changed soon after she was born.	N
+GW1	T1333	Brie Larson has had an active career for more than 25 years.	C
+GW28	T1333	Brie Larson is an American Actress.	E
+GW28	T1333	Brie Larson has won many award for her acting.	N
+GW28	T1333	Brie Larson began her career in her twenties.	C
+GW72	T1333	Brie Larson received awards for work as an actress and filmmaker	E
+GW72	T1333	Brie Larson started as a filmmaker	N
+GW72	T1333	Brie Larson is a retired actress	C
+GW1	T1337	Richard Sears has more titles than Mike Bryan at the US Open (in any event).	E
+GW1	T1337	Margaret Osborne duPont has never been a singles' champion at the US open.	N
+GW1	T1337	The US Open was started early in the 20th century.	C
+GW22	T1337	US Open was founded 138 years ago in 1881.	E
+GW22	T1337	US Open has only one venue located at USTA Billie Jean King National Tennis Center.	N
+GW22	T1337	US Open consists of four primary championships: men's and women's singles, men's and women's doubles.	C
+GW28	T1337	The US Open is an American sports tournament open to both sexes.	E
+GW28	T1337	The US Open awards equal amounts of prize money to both men's and women's champions.	N
+GW28	T1337	The US Open is the played on multiple surfaces.	C
+GW28	T1383	Chance The Rapper is an American rapper	E
+GW28	T1383	Chance The Rapper is a father of a daughter.	N
+GW28	T1383	Chance The Rapper started his career in his twenties.	C
+GW4	T1383	Chance The Rapper has always lived in Chicago.	E
+GW4	T1383	Chance The Rapper began playing piano before they sang.	N
+GW4	T1383	Chance The Rapper has never preformed with Kanye West.	C
+GW40	T1383	Chance The Rapper's real name is Chancelor Jonathan Bennett.	E
+GW40	T1383	Chance The Rapper has been active on the rap scene longer than he's been married.	N
+GW40	T1383	Chance The Rapper isn't actually a rapper.	C
+GW1	T1400	The AARP's headquarters are on the East coast.	E
+GW1	T1400	Jo Ann Jenkins leaving as CEO of AARP would mean that Joan R. Ruff would take over as CEO.	N
+GW1	T1400	The AARP had a lower revenue than it's expenses in 2016.	C
+GW12	T1400	AARP has a staff of 2,250 people and numerous volunteers in the range of 20,000 people.	E
+GW12	T1400	Ethel Percy Andrus founded the AARP 61 years ago.	N
+GW12	T1400	Subsidiaries of AARP include AARP Foundation and American Association of Retired Persons.	C
+GW28	T1400	AARP is an American non-profit organization with millions of members.	E
+GW28	T1400	AARP was founded by an elderly woman.	N
+GW28	T1400	AARP is an international organization that advocates for the elderly.	C
+GW28	T1407	Johannesburg urban area is less dense than the city area.	E
+GW28	T1407	Johannesburg is a city in South Africa.	N
+GW28	T1407	Johannesburg metro population is smaller than the urban population.	C
+GW1	T1407	The metro area of Johannesburg has about 10 million people.	E
+GW1	T1407	Johannesburg's population is currently shrinking every year.	N
+GW1	T1407	Over a million people live in the actual city of Johannesburg.	C
+GW4	T1407	Johannesburg has under a million people in it.	E
+GW4	T1407	Johannesburg has a density that is increasing.	N
+GW4	T1407	Johannesburg has an urban density of over 10,000 people per square mile.	C
+GW1	T1430	Jeff Bridges started his career as a young child.	E
+GW1	T1430	Jeff Bridges was a singer before he ever composed anything.	N
+GW1	T1430	Jeff Bridges was born in the Summer of 1949.	C
+GW0	T1430	Jeff Bridges has been married to Susan Geston for over half of his life.	E
+GW0	T1430	Jeff Bridges has released albums of his singing.	N
+GW0	T1430	Jeff Bridges didn't start acting until later in life.	C
+GW84	T1430	Jeff Bridges was born in the middle of the 1900s.	E
+GW84	T1430	Jeff Bridges started acting with his parents.	N
+GW84	T1430	Jeff Bridges' only sibling is his brother, Beau.	C
+GW1	T1431	The death of John Augustus Larson took place in the Fall of 1965.	E
+GW1	T1431	John Augustus Larson studied Criminology before working on Polygraphy.	N
+GW1	T1431	John Augustus Larson was born in the last decade of the 18th century.	C
+GW85	T1431	John was born in fall.	E
+GW85	T1431	John was a important person.	N
+GW85	T1431	John was uneducated	C
+GW28	T1431	John Augustus Larson was an educated criminologist.	E
+GW28	T1431	John Augustus Larson was a naturalized American.	N
+GW28	T1431	John Augustus Larson received his Ph.D. in his thirties.	C
+GW84	T1432	John Jacob Astor IV died when the Titanic sank.	E
+GW84	T1432	John Jacob Astor IV's body was never recovered from the Titanic.	N
+GW84	T1432	John Jacob Astor IV was in his early sixties when he died.	C
+GW28	T1432	John Jacob Astor IV was an educated man who died in a maritime sinking.	E
+GW28	T1432	John Jacob Astor IV was a millionaire businessman.	N
+GW28	T1432	John Jacob Astor IV was buried at sea.	C
+GW0	T1432	John Jacob Astor IV died at sea.	E
+GW0	T1432	John Jacob Astor IV graduated magna cum laud from Harvard University.	N
+GW0	T1432	John Jacob Astor IV was from the north east of the U.S.	C
+GW1	T1434	Jodhpur was settled after the turn of the 15th centurry.	E
+GW1	T1434	The country Jodhpur has been in has always been called India.	N
+GW1	T1434	Jodhpur's state and division have the same name.	C
+GW4	T1434	Jodhpur was named after the person that found it.	E
+GW4	T1434	Jodhpur is the largest city in Rajasthan.	N
+GW4	T1434	Jodhpur was founded over 2000 years ago.	C
+GW84	T1434	Jodhpur is a city outside of the US.	E
+GW84	T1434	Jodhpur was settled before the US was colonized.	N
+GW84	T1434	Jodhpur was named after a European god.	C
+GW28	T1437	Joseph Stalin was a married man with multiple children.	E
+GW28	T1437	Joseph Stalin ruled the Soviet Union until his death.	N
+GW28	T1437	Joseph Stalin married in his teens.	C
+GW84	T1437	Joseph Stalin was born during the winter season.	E
+GW84	T1437	Joseph Stalin died of natural causes.	N
+GW84	T1437	Joseph Stalin was married to his first wife for longer than he was married to his second wife.	C
+GW1	T1437	Joseph Stalin was buried four days after his death.	E
+GW1	T1437	Joseph Stalin was never a member of another political party other than the Communist Party of the Soviet Union.	N
+GW1	T1437	Joseph Stalin was born in the Summer of 1878.	C
+GW84	T1441	John Hurt was married to Annette Robertson for a shorter time than any of his other wives.	E
+GW84	T1441	Both of John Hurt's children are for the same woman.	N
+GW84	T1441	John Hurt continues to perform in England.	C
+GW28	T1441	John Hurt is a an English actor.	E
+GW28	T1441	John Hurt is married with two daughters.	N
+GW28	T1441	John Hurt has been active since his teenage years.	C
+GW1	T1441	John Hurt was active in acting until the year he died.	E
+GW1	T1441	John Hurt worked as a narrator before he was a true actor.	N
+GW1	T1441	John Hurt divorced Anwen Rees-Myers before he died.	C
+GW4	T1442	Kehlani has been performing since she was 14 years old.	E
+GW4	T1442	Kehlani has won several awards for her albums.	N
+GW4	T1442	Kehlani began rapping when they were in Compton.	C
+GW60	T1442	Kehlani started his career in the year he turned 14.	E
+GW60	T1442	Kehlani always has at least one famous guest on his songs.	N
+GW60	T1442	Kehlani is associated with many country music artists.	C
+GW74	T1442	Kehlani began performing professionally after 13	E
+GW74	T1442	Kehlani wrote songs for  Cardi B.	N
+GW74	T1442	Kehlani performed under the label Tsunami Mob in 2008.	C
+GW84	T1445	Journey is a band that was formed on the west coast.	E
+GW84	T1445	There are three members in the band Journey.	N
+GW84	T1445	Journey doesn't perform music anymore.	C
+GW28	T1445	Journey is an American rock band.	E
+GW28	T1445	Journey has won many music awards.	N
+GW28	T1445	Journey has played continuously since the 1970s.	C
+GW1	T1445	In total, Journey has been active as a band for over 35 years.	E
+GW1	T1445	Journey made music with the Sanctuary record label before making music with Frontiers.	N
+GW1	T1445	Journey started as a band in the Southern part of California.	C
+GW84	T1458	Joan Jett's band was the Blackhearts.	E
+GW84	T1458	Joan Jett learned to play the guitar when she was a child.	N
+GW84	T1458	Joan Jett lived in California longer than any other place.	C
+GW1	T1458	Joan Jett has had an active career for over 40 years.	E
+GW1	T1458	Joan Jett was an actress before she was a record producer.	N
+GW1	T1458	Joan Jett got her start as a musician on the East coast of the United States.	C
+GW68	T1458	Joan Jett has been signed to both the Chrysalis and Mercury labels at various times between 1975 and present.	E
+GW68	T1458	In 1983 Joan left Polydor and signed to CBS.	N
+GW68	T1458	She sings hard rock vocals but does not play the guitar.	C
+GW28	T1467	Joanne is a multi-genre music album recorded primarily in California.	E
+GW28	T1467	Joanne was a music album released to critical acclaim.	N
+GW28	T1467	Joanne recorded and released all in 2016.	C
+GW1	T1467	Joanne first came out in the Fall of 2016.	E
+GW1	T1467	Recording for Joanne was done at Dragonfly Recording Studios prior to the recording done at Electric Lady Studios.	N
+GW1	T1467	All of the recording on Joanne was done in the same year.	C
+GW84	T1467	Joanne runs over a half hour.	E
+GW84	T1467	Joanne is the only recording that Kevin Parker has worked on.	N
+GW84	T1467	Joanne was released in the springtime.	C
+GW1	T1480	John McCain served for more than two decades.	E
+GW1	T1480	John McCain got his Purple Heart before his Silver Star.	N
+GW1	T1480	John McCain was never wounded while serving.	C
+GW84	T1480	John McCain served in the military for over twenty years.	E
+GW84	T1480	John McCain only served during one war.	N
+GW84	T1480	John McCain only won one military award.	C
+GW4	T1480	John McCain was in the military for over 20 years.	E
+GW4	T1480	John McCain won dozens of awards.	N
+GW4	T1480	John McCain was involved in multiple wars.	C
+GW1	T1481	Parthasarathy Srinivasan won his first award later in the 20th Century.	E
+GW1	T1481	Kamal Haasan changed his name from Parthasarathy Srinivasan at an early age.	N
+GW1	T1481	Parthasarathy Srinivasan was birthed in the Spring of 1954.	C
+GW84	T1481	Kamal Haasan was born with a different name.	E
+GW84	T1481	Kamal Haasan produced more films than they acted in.	N
+GW84	T1481	The Chevalier French Award was the first award that Kamal Haasan won.	C
+GW4	T1481	Kamal Haasan is known for their work as an actor.	E
+GW4	T1481	Kamal Haasan had both his children with Sarika.	N
+GW4	T1481	Kamal Haasan has always lived in the same town in India.	C
+GW84	T1488	Joseph-Armand Bombardier's child was married to Laurent Beaudoin.	E
+GW84	T1488	Joseph-Armand Bombardier lived in Canada all his life.	N
+GW84	T1488	Joseph-Armand Bombardier died in the early part of the 1900s.	C
+GW0	T1488	Joseph-Armand Bombardier was born over 110 years ago.	E
+GW0	T1488	Joseph-Armand Bombardier speaks fluent French.	N
+GW0	T1488	Bombardier was founded in the 19th century.	C
+GW1	T1488	Joseph-Armand Bombardier had a Spring time Birthday.	E
+GW1	T1488	Joseph-Armand Bombardier lived his whole life in Canada.	N
+GW1	T1488	Joseph-Armand Bombardier passed away in the Fall of 1964.	C
+GW4	T1494	Kees Schouhamer Immink helped develop CDs.	E
+GW4	T1494	Kees Schouhamer Immink has always lived in the Netherlands.	N
+GW4	T1494	Kees Schouhamer Immink has never won any awards for their designs.	C
+GW14	T1494	Kees Schouhamer Immink was affiliated with an education entity in Asia.	E
+GW14	T1494	Kees Schouhamer Immink has never lived in another country.	N
+GW14	T1494	Kees Schouhamer Immink has won more than a dozen awards.	C
+GW1	T1494	Winter of 1946 is when Kees Schouhamer Immink was born.	E
+GW1	T1494	Kees Schouhamer Immink received the Faraday Medal before getting the Edison Medal.	N
+GW1	T1494	Kees Schouhamer Immink only worked at a couple of institutions in his career.	C
+GW84	T1495	KARD is a band from an Asian country.	E
+GW84	T1495	KARD travels worldwide to perform their concerts.	N
+GW84	T1495	KARD is an American J-Pop band.	C
+GW4	T1495	KARD has been performing for three years.	E
+GW4	T1495	KARD has recorded an album with Heo Youngji.	N
+GW4	T1495	KARD has had several record labels they have been with.	C
+GW1	T1495	KARD has it's roots in an Asian country.	E
+GW1	T1495	KARD has some of the same members as the act Super Junior.	N
+GW1	T1495	KARD has been active for over 5 years.	C
+GW1	T1498	Jhen? Aiko has been active in music for over a decade and a half.	E
+GW1	T1498	Jhen? Aiko was a songwriter prior to being a singer professionally.	N
+GW1	T1498	Jhen? Aiko has a Fall Birthday.	C
+GW4	T1498	Jhen? Aiko started wrapping when they were 24.	E
+GW4	T1498	Jhen? Aiko has won awards for their albums.	N
+GW4	T1498	Jhen? Aiko has never been on a track with Big Sean.	C
+GW84	T1498	Jhen? Aiko has been singing for over fifteen years.	E
+GW84	T1498	Jhen? Aiko has written songs for Drake.	N
+GW84	T1498	Jhen? Aiko started performing in his twenties.	C
+GW60	T1501	Stalin was Minister of Defense and Marshal of the Soviet Union at the same time for 2 years.	E
+GW60	T1501	Stalin was completely inactive in Russian politics prior to 1912.	N
+GW60	T1501	There are gap years where Stalin held no memberships or offices.	C
+GW1	T1501	Joseph Stalin gave a decade of years of service.	E
+GW1	T1501	Joseph Stalin got his nickname early in life.	N
+GW1	T1501	It was before the turn of the 20th century that Joseph Stalin abolished the office of General Secretary.	C
+GW28	T1501	Joseph Stalin rose to the rank of Marshal of the Soviet Union.	E
+GW28	T1501	Joseph Stalin was a career government official.	N
+GW28	T1501	Joseph Stalin served in the Soviet Armed Forces during WWI.	C
+GW1	T1504	The career of Jon Bon Jovi has spanned more than 40 years.	E
+GW1	T1504	Jon Bon Jovi was kicked out of his first high school, which is why he went to two of them.	N
+GW1	T1504	The West coast is where Jon Bon Jovi was born.	C
+GW28	T1504	Jon Bon Jovi is a rock singer from New Jersey.	E
+GW28	T1504	Jon Bon Jovi is married with four daughters.	N
+GW28	T1504	Jon Bon Jovi has been active since his early twenties.	C
+GW84	T1504	Jon Bon Jovi was named after his father.	E
+GW84	T1504	Jon Bon Jovi's children are all for his wife.	N
+GW84	T1504	Jon Bon Jovi has been married for over thirty five years.	C
+GW4	T1506	The Hashemite Kingdom of Jordan is mostly Arab.	E
+GW4	T1506	Hashemite Kingdom of Jordan caters to Islam mostly.	N
+GW4	T1506	Hashemite Kingdom of Jordan does not have any democracy.	C
+GW14	T1506	King Abdullah the Second rules from the largest city in the Hashemite Kingdom of Jordan.	E
+GW14	T1506	There are more members in the Lower House than the Upper House of the Hashemite Kingdom of Jordan.	N
+GW14	T1506	Omar Razzaz has never held office in a predominantly Arabic populace.	C
+GW1	T1506	Hashemite Kingdom of Jordan is only about 1/25th Christian.	E
+GW1	T1506	If Abdullah II stops being monarch of Hashemite Kingdom of Jordan, then Omar Razzaz will take his place.	N
+GW1	T1506	Hashemite Kingdom of Jordan has more Armenians in it than Christians.	C
+GW14	T1510	Joe Biden has a middle name comprised of a popular female first name.	E
+GW14	T1510	Joe Biden went to Neilia Hunter's funeral.	N
+GW14	T1510	Joe Biden didn't have a child with the same name as the surname of his former spouse.	C
+GW84	T1510	Joe Biden is a US politician.	E
+GW84	T1510	Joe Biden attended school at Syracuse before going to school in Delaware.	N
+GW84	T1510	Joe Biden doesn't use social media.	C
+GW4	T1510	Joe Biden has been married more than once.	E
+GW4	T1510	Joe Biden had all his children with his second wife.	N
+GW4	T1510	Joe Biden never became a lawyer.	C
+GW28	T1525	Jujutsu is a form of Japanese martial arts.	E
+GW28	T1525	Jujutsu is a centuries-old form of hand-to-hand combat.	N
+GW28	T1525	Jujutsu is a mostly forgotten form of Japanese martial arts.	C
+GW14	T1525	Jujutsu didn't originate in North America.	E
+GW14	T1525	More people practice Jujutsu in Japan than any other country.	N
+GW14	T1525	Judo competitions are only held for amateurs of the sport.	C
+GW1	T1525	Jujutsu has multiple different spellings.	E
+GW1	T1525	Seishiro Okazaki was the most famous practitioner of Jujutsu.	N
+GW1	T1525	Jujutsu goes by it's own name in the Olympics.	C
+GW1	T1529	Jimi Hendrix's death took place in the Fall of 1970.	E
+GW1	T1529	Jimi Hendrix made more records with Barclay than with Polydor.	N
+GW1	T1529	Jimi Hendrix made music for over a decade.	C
+GW86	T1529	Jimi Hendrix was active in his profession for less than a decade.	E
+GW86	T1529	Though he also sang, Jimi Hendrix was primarily known as a guitar player.	N
+GW86	T1529	Jimi Hendrix was signed to just one label for his entire musical career.	C
+GW84	T1529	Jimi Hendrix was born under a different name.	E
+GW84	T1529	Jimi Hendrix was first signed by Capitol Records.	N
+GW84	T1529	Jimi Hendrix was in his thirties when he died.	C
+GW4	T1531	Jersey Cattle can weigh more than 1800 pounds.	E
+GW4	T1531	Jersey Cattle can come with multiple types of coats.	N
+GW4	T1531	Female Jersey Cattle can weigh more than male Jersey Cattle.	C
+GW28	T1531	Male Jersey Cattle weight more than female Jersey Cattle.	E
+GW28	T1531	Jersey Cattle are grass fed and hormone-free.	N
+GW28	T1531	Jersey Cattle are equal in weight regardless of gender.	C
+GW1	T1531	Male Jersey Cattle have a weight range over 600 pounds.	E
+GW1	T1531	Jersey Cattle are not found outside of Jersey.	N
+GW1	T1531	Female Jersey Cattle can vary in weight by more than 300 pounds.	C
+GW14	T1532	Jefferson Starship was associated with at least 4 other acts in the rock genre.	E
+GW14	T1532	All original Hot Tuna band members stayed on when they became Jefferson Starship.	N
+GW14	T1532	Jefferson Starship has worked continuously since 1970 until now.	C
+GW1	T1532	Jefferson Starship was started on the West Coast of the United States.	E
+GW1	T1532	Some of the same members of Jefferson Starship were in the band Hot Tuna.	N
+GW1	T1532	Jefferson Starship has been active for more than 45 years total.	C
+GW28	T1532	Jefferson Starship is a rock band that started in Started in San Francisco in the 70s.	E
+GW28	T1532	Jefferson Starship won many awards for its music.	N
+GW28	T1532	Jefferson Starship has performed continuously since the 1970s.	C
+GW28	T1535	Joe Jonas  is an American musician.	E
+GW28	T1535	Joe Jonas was won awards for his music.	N
+GW28	T1535	Joe Jonas has been active since his twenties.	C
+GW1	T1535	Joe Jonas was born in the Summer of 1989.	E
+GW1	T1535	Joe Jonas made music on the Hollywood record label before making it for Walt Disney.	N
+GW1	T1535	Joe Jonas has been active in music for more than 20 years.	C
+GW0	T1535	Joe Jonas got engaged to Sophie Turner in his late twenties.	E
+GW0	T1535	Joe Jonas is the oldest of the Jonas Brothers.	N
+GW0	T1535	Joe Jonas was born in the same state that he grew up in.	C
+GW4	T1536	John Carter was able to net a profit at the box office.	E
+GW4	T1536	John Carter won some awards for its production.	N
+GW4	T1536	John Carter was over three hours long.	C
+GW14	T1536	The gross budget of John Carter was higher than its box office receipts.	E
+GW14	T1536	More people saw John Carter on March 9th than on February 22, 2012.	N
+GW14	T1536	John Carter was produced by the same person who wrote the screenplay.	C
+GW1	T1536	The run time of John Carter is over two hours long.	E
+GW1	T1536	Michael Chabo wrote more of John Carter's screenplay than Mark Andrews.	N
+GW1	T1536	John Carter made a lot more than it's budget at the box office.	C
+GW84	T1539	Jeffrey Dean Morgan was born in a Pacific state.	E
+GW84	T1539	Jeffrey Dean Morgan lived in New York for longer than he lived in Washington.	N
+GW84	T1539	Jeffrey Dean Morgan is known mostly for his work singing.	C
+GW28	T1539	Jeffrey Dean Morgan is an entertainer.	E
+GW28	T1539	Jeffrey Dean Morgan is married with two daughters.	N
+GW28	T1539	Jeffrey Dean Morgan began his career in his teens.	C
+GW1	T1539	Jeffrey Dean Morgan waited over 10 years to remarry.	E
+GW1	T1539	Anya Longwell is the mother of both of Jeffrey Dean Morgan's children.	N
+GW1	T1539	Jeffrey Dean Morgan was born in the Summer of 1966.	C
+GW28	T1540	John C. Taylor is an educated man credited with inventions.	E
+GW28	T1540	John C. Taylor is a Fellow of the Royal Academy of Engineering.	N
+GW28	T1540	John C. Taylor is an ignorant man of with nothing noteworthy to his name.	C
+GW1	T1540	John C. Taylor has had four occupations.	E
+GW1	T1540	John C. Taylor has lived his whole life in Britain.	N
+GW1	T1540	John C. Taylor was born in the Spring of 1936.	C
+GW4	T1540	John C. Taylor developed electronics in their life.	E
+GW4	T1540	John C. Taylor holds a number of patents.	N
+GW4	T1540	John C. Taylor passed away.	C
+GW84	T1542	Joaquin Phoenix was born outside of the US.	E
+GW84	T1542	Joaquin Phoenix lived in California longer than he lived in any other place.	N
+GW84	T1542	Joaquin Phoenix goes by his given name.	C
+GW31	T1542	Joaquin Phoenix was born in  Puerto Rico to Arlyn and John Phoenix.	E
+GW31	T1542	Joaquin Phoenix has been an actor since 1982.	N
+GW31	T1542	Joaquin Phoenix has never been to California or Puerto Rico.	C
+GW40	T1542	Joaquin Phoenix has one brother and three sisters.	E
+GW40	T1542	Joaquin Phoenix will eventually marry his partner, Rooney Mara.	N
+GW40	T1542	Joaquin Phoenix has never produced anything in Hollywood.	C
+GW84	T1546	Keith Campbell is known for his work in science.	E
+GW84	T1546	Keith Campbell's only thesis was written in 1988.	N
+GW84	T1546	Keith Campbell only won one award.	C
+GW28	T1546	Keith Campbell was an English scientist.	E
+GW28	T1546	Keith Campbell completed his PhD in three years.	N
+GW28	T1546	Keith Campbell created Dolly the sheep in his 50s.	C
+GW14	T1546	Keith Campbell has written at least one item referencing biology.	E
+GW14	T1546	Keith Campbell was awarded the Shaw Prize while at the Roslin Institute.	N
+GW14	T1546	Keith Campbell is unfamiliar with cloning.	C
+GW4	T1548	Katie Holmes moved from Ohio To California.	E
+GW4	T1548	Katie Holmes' child was conceived with Tom Cruise.	N
+GW4	T1548	Katie Holmes has been married more than once.	C
+GW84	T1548	Katie Holmes was married for over five years.	E
+GW84	T1548	Katie Holmes lived in California for longer than she lived in Ohio.	N
+GW84	T1548	Katie Holmes was in her twenties when she started acting.	C
+GW28	T1548	Katie Holmes is a divorcee and mother of one.	E
+GW28	T1548	Katie Holmes is an award-winning actress.	N
+GW28	T1548	Katie Holmes was active from her early twenties.	C
+GW4	T1554	Jupiter et SŽmŽlŽ was painted using oil paints.	E
+GW4	T1554	Jupiter et SŽmŽlŽ was moved to Paris.	N
+GW4	T1554	Jupiter et SŽmŽlŽ was painted in the 20th century.	C
+GW1	T1554	At it's narrowest point, Jupiter et SŽmŽlŽ measures less than four feet wide.	E
+GW1	T1554	Jupiter et SŽmŽlŽ is only on loan to the MusŽe National Gustave-Moreau.	N
+GW1	T1554	MusŽe National Gustave-Moreau took several years to paint.	C
+GW40	T1554	Jupiter et SŽmŽlŽ in English means Jupiter and Semele.	E
+GW40	T1554	Jupiter et SŽmŽlŽ is an oil on canvas by Gustave Moreau.	N
+GW40	T1554	Jupiter et SŽmŽlŽ is located in a museum in Italy.	C
+GW0	T1593	Jugger is a sport that's been played for over twenty years.	E
+GW0	T1593	Jugger is played with a ball the size of a golf ball.	N
+GW0	T1593	Jugger is known as a solo player sport.	C
+GW1	T1593	Jugger was first played towards the end of the 20th century.	E
+GW1	T1593	Stakes were introduced later to the game of Jugger.	N
+GW1	T1593	Jugger is played on a man made material.	C
+GW28	T1593	Jugger is a game one plays with a ball.	E
+GW28	T1593	Jugger is an American game.	N
+GW28	T1593	Jugger is a solitary game.	C
+GW74	T1603	Jennifer Anne Garner began her career when she was about 23 years old.	E
+GW74	T1603	Jennifer Anne Garner and Scott Foley have 3 children together.	N
+GW74	T1603	Jennifer Anne Garner was married when she first began her career.	C
+GW28	T1603	Jennifer Garner is a twice-divorced actress.	E
+GW28	T1603	Jennifer Garner is a single-mother of three daughters.	N
+GW28	T1603	Jennifer Garner has been acting professionally since her teens.	C
+GW84	T1603	Jennifer Garner has been acting for over twenty years.	E
+GW84	T1603	Jennifer Garner graduated at the top of her class at Denison University.	N
+GW84	T1603	Jennifer Garner was married to Scott Foley for longer than she was married to Ben Affleck.	C
+GW74	T1613	Josef Mengele died about one month before his 68th birthday.	E
+GW74	T1613	Josef Mengele married his first wife after his 28th birthday.	N
+GW74	T1613	Josef Mengele married Martha Mengele during his years of military service.	C
+GW4	T1613	Josef Mengele won more than one award from the Nazi party.	E
+GW4	T1613	Josef Mengele got married after he fled Germany.	N
+GW4	T1613	Josef Mengele died in the same country they were born in.	C
+GW1	T1613	Josef Mengele's first marriage lasted for more than a decade.	E
+GW1	T1613	Josef Mengele received the Black Badge for the Wounded after he got the Iron Cross First Class award.	N
+GW1	T1613	Josef Mengele was born late in the 19th century.	C
+GW84	T1617	Keane started performing in the 1990s.	E
+GW84	T1617	Keane lived in England all his life.	N
+GW84	T1617	Keane performed for over twenty years before going on hiatus.	C
+GW4	T1617	Keane is no longer performing together.	E
+GW4	T1617	Keane has performed live with Mt. Desolation.	N
+GW4	T1617	Keane is known for playing death metal.	C
+GW1	T1617	Keane was active for less than two decades.	E
+GW1	T1617	Keane made music for Fierce Panda before the label Interscope.	N
+GW1	T1617	Keane does not have an online presence.	C
+GW1	T1622	Jeremiah Weed is made on the East coast.	E
+GW1	T1622	Heublein has always been the manufacturer of Jermiah Weed.	N
+GW1	T1622	Jeremiah Weed is most likely a clear liquor.	C
+GW4	T1622	Jeremiah Weed is from the Untied States.	E
+GW4	T1622	Jeremiah Weed has a lot of alcohol for a bourbon.	N
+GW4	T1622	Jeremiah Weed has been made in the United Kingdom.	C
+GW28	T1622	Jeremiah Weed is an American bourbon.	E
+GW28	T1622	Jeremiah Weed has no connection to marijuana.	N
+GW28	T1622	Jeremiah Weed is a weak European liqueur.	C
+GW4	T1623	Jeremy Corbyn was in office for over four years.	E
+GW4	T1623	Jeremy Corbyn worekd with Tony Benn.	N
+GW4	T1623	Jeremy Corbyn never campaigned against Andrew Murray	C
+GW28	T1623	Jeremy Corbyn was an MP for several years.	E
+GW28	T1623	Andrew Murray and Jeremy Corbyn are rivals.	N
+GW28	T1623	Jeremy Corbyn served in office for a decade.	C
+GW84	T1623	Jeremy Corbyn was in office less than five years.	E
+GW84	T1623	Jeremy Corbyn served only one term.	N
+GW84	T1623	Jeremy Corbyn was succeeded and preceded by different people.	C
+GW84	T1628	Julianne Hough has been performing music for over ten years.	E
+GW84	T1628	Julianne Hough only has one brother, Derek.	N
+GW84	T1628	Julianne Hough has been married for five years.	C
+GW1	T1628	Julianne Hough was active a dancer and actress before her musical career started.	E
+GW1	T1628	Julianne Hough dropped out of Alta High School before finishing.	N
+GW1	T1628	Julianne Hough was born in the Fall of 1988.	C
+GW0	T1628	Julianne Hough started her musical career over ten years ago.	E
+GW0	T1628	Julianne Hough went on Dancing with the Stars with her husband, Brooks Laich.	N
+GW0	T1628	Julianne Hough was born in the winter.	C
+GW1	T1629	Jefferson Airplane made music for more than one record label.	E
+GW1	T1629	Some of the members of The Great Society were also in Jefferson Airplane.	N
+GW1	T1629	Jefferson Airplane was active for over 10 years.	C
+GW84	T1629	Jefferson Airplane originated in the western US.	E
+GW84	T1629	Jefferson Airplane still performs onstage.	N
+GW84	T1629	Jefferson Airplane performed classical music.	C
+GW28	T1629	Jefferson Airplane was a rock band that performed in multiple decades during the 20th century.	E
+GW28	T1629	Jefferson Airplane won many awards for its music.	N
+GW28	T1629	Jefferson Airplane has performed since 1965 without a break.	C
+GW0	T1646	Joe Budden has been rapping for two decades.	E
+GW0	T1646	Joe Budden formed the group Slaughterhouse.	N
+GW0	T1646	Joe Budden uses a stage name different than his birth name.	C
+GW28	T1646	Joe Budden is a rapper from New Jersey.	E
+GW28	T1646	Joe Budden is an African-American man.	N
+GW28	T1646	Joe Budden started his career in his twenties.	C
+GW1	T1646	Joe Budden has been active for two decades in his career.	E
+GW1	T1646	Joe Budden was a broadcaster before he was a songwriter.	N
+GW1	T1646	The Spring of 1980 is when Joe Budden was born.	C
+GW28	T1650	Jemaine Clement is an entertainer from New Zealand.	E
+GW28	T1650	Jemaine Clement has won awards for his comedy routine.	N
+GW28	T1650	Jemaine Clement started his career in his teens.	C
+GW40	T1650	Jemaine Clement can play a guitar, a bass guitar, and the drums among other things.	E
+GW40	T1650	Jemaine Clement's stage name is Hiphopopotamus.	N
+GW40	T1650	Jemaine Clement's most popular comedy subjects are politics and family members.	C
+GW1	T1650	Jemaine Clement plays 10 or more instruments.	E
+GW1	T1650	Jemaine Clement was a musician before she was a comedian.	N
+GW1	T1650	The Summer of 1974 is when Jemaine Clement was born.	C
+GW14	T1651	Johann Jacob Schweppe had experience in entrepreneurship as well as making timepieces.	E
+GW14	T1651	Johann Jacob Schweppe worked for several decades before perfecting the current Schweppes mineral water formula.	N
+GW14	T1651	Johann Jacob Schweppe is currently overseeing production at the Schweppes factory in Switzerland.	C
+GW1	T1651	Johann Jacob Schweppe was born late in the year 1740.	E
+GW1	T1651	Johann Jacob Schweppe was a businessman after he was a watchmaker.	N
+GW1	T1651	Johann Jacob Schweppe died in the Summer of 1821.	C
+GW28	T1651	Johann Jacob Schweppe is famous for fizzy water.	E
+GW28	T1651	Johann Jacob Schweppe contributed to the popularity of cocktails.	N
+GW28	T1651	Johann Jacob Schweppe was more famous for his watchmaking ability.	C
+GW28	T1663	Jet is a rock band from Australia.	E
+GW28	T1663	Jet has won many awards for their music.	N
+GW28	T1663	Jet has performed continuously without a break since 2001.	C
+GW1	T1663	Jet has made music on multiple different record labels.	E
+GW1	T1663	Some of the members of Jet were also in The Bamboos.	N
+GW1	T1663	As a band, Jet was active for over two decades total.	C
+GW4	T1663	Jet had a break in the middle of their career.	E
+GW4	T1663	Jet is touring today.	N
+GW4	T1663	Jet was formed in the United Kingdom.	C
+GW4	T1666	Kansas City, Missouri is under 1000 feet in elevation.	E
+GW4	T1666	Kansas City, Missouri has been growing in size.	N
+GW4	T1666	Kansas City, Missouri has over 400 square miles of land.	C
+GW1	T1666	Kansas City, Missouri is just over one percent water.	E
+GW1	T1666	Kansas City, Missouri has grown in size in recent years.	N
+GW1	T1666	Kansas City, Missouri is 90 percent land and the rest water.	C
+GW85	T1666	Kanas City is mosty Urban.	E
+GW85	T1666	Kanas City is a big area.	N
+GW85	T1666	Kanas City is not very high in elevation.	C
+GW28	T1670	Jennifer Connelly is a Ivy League graduate and actress.	E
+GW28	T1670	Jennifer Connelly is married with three daughters.	N
+GW28	T1670	Jennifer Connelly has been active since her twenties.	C
+GW84	T1670	Jennifer Connelly studied at two different colleges.	E
+GW84	T1670	Jennifer Connelly went to Stanford before attending Yale.	N
+GW84	T1670	Jennifer Connelly has been acting for over forty years.	C
+GW4	T1670	Jennifer Connelly lives in the same state they were born in.	E
+GW4	T1670	Jennifer Connelly had her 3 kids with Paul bettany.	N
+GW4	T1670	Jennifer Connelly only went to one university.	C
+GW0	T1676	Joy Mangano first married in her early twenties.	E
+GW0	T1676	Joy Mangano had three children later in life.	N
+GW0	T1676	Joy Mangano was a successful entrepreneur before getting married.	C
+GW1	T1676	Joy Mangano was married for over a decade.	E
+GW1	T1676	All of Joy Mangano's children have Anthony Miranne as a Father.	N
+GW1	T1676	Joy Mangano has a Birthday that's in the Summer months.	C
+GW84	T1676	Joy Mangano was married for over ten years.	E
+GW84	T1676	All of Joy Mangano's three children were for Anthony Miranne.	N
+GW84	T1676	Joy Mangano moved to America after her birth.	C
+GW84	T1681	Jessica Alba currently lives on the west coast.	E
+GW84	T1681	Jessica Alba started performing in the 1980s.	N
+GW84	T1681	Jessica Alba and her husband have more than three kids.	C
+GW28	T1681	Jessica Alba and her family are financially secure for the rest of their lives.	E
+GW28	T1681	Jessica Alba derived most of her wealth from her business.	N
+GW28	T1681	Jessica Alba married in her early thirties.	C
+GW1	T1681	Jessica Alba has been active in acting for two and a half decades.	E
+GW1	T1681	Jessica Alba was a businesswoman prior to being an actress.	N
+GW1	T1681	Jessica Alba has been married to Cash Warren for over 15 years.	C
+GW84	T1693	Jedediah Strutt was a figure in textiles.	E
+GW84	T1693	Jedediah Strutt and his wife worked together.	N
+GW84	T1693	Jedediah Strutt and his wife only had one child.	C
+GW28	T1693	Jedediah Strutt was an 18th century Englishman.	E
+GW28	T1693	Jedediah Strutt was an apparel maker.	N
+GW28	T1693	Jedediah Strutt was married with five daughters.	C
+GW1	T1693	Jedediah Strutt was born in the 18th century.	E
+GW1	T1693	Anne Daniels' was the mother of all of Jedediah Strutt's children.	N
+GW1	T1693	Jedediah Strutt died in the Fall of 1797.	C
+GW74	T1698	Judwaa 2 earned more than 3 times its budget.	E
+GW74	T1698	Fox Star Studios is based in India.	N
+GW74	T1698	Judwaa 2 was edited and directed by the same person.	C
+GW84	T1698	Judwaa 2 made over twice as much money as it was budgeted.	E
+GW84	T1698	Judwaa 2 is the first movie produced by Sajid Nadiadwala.	N
+GW84	T1698	Judwaa 2 runs for less than two hours.	C
+GW28	T1698	Judwaa 2 is a Hindi-language Indian movie.	E
+GW28	T1698	Judwaa 2 is a sequel to Judwaa.	N
+GW28	T1698	Judwaa 2 was unprofitable for the studio.	C
+GW1	T1700	Kamloops politicians have to get voted for to get elected.	E
+GW1	T1700	If Ken Christian resigns as Mayor of Kamloops, then Cathy McLeod will most likely replace him.	N
+GW1	T1700	Todd Stone inherited his role as MLA of Kamloops.	C
+GW84	T1700	Kamloops has a single mayor.	E
+GW84	T1700	The Kamloops City Council meets once a week	N
+GW84	T1700	Kamloops is ruled by a president.	C
+GW4	T1700	Kamloops has a democracy structure.	E
+GW4	T1700	Kamloops has elections for their mayor.	N
+GW4	T1700	Kamloops does not have any governing body.	C
+GW0	T1701	John Barrowman has written several types of books.	E
+GW0	T1701	John Barrowman began acting in his forties.	N
+GW0	T1701	John Barrowman is a citizen of his birth country.	C
+GW1	T1701	John Barrowman was born in the Spring of 1967.	E
+GW1	T1701	John Barrowman was an author before he was a singer.	N
+GW1	T1701	John Barrowman has been married for over a decade.	C
+GW84	T1701	John Barrowman has been performing for thirty years.	E
+GW84	T1701	John Barrowman got married in the US.	N
+GW84	T1701	John Barrowman is in his forties.	C
+GW1	T1705	Jodie Foster has had an active career for more than five decades.	E
+GW1	T1705	Alicia Christian Foster adopted the name Jodie at a young age.	N
+GW1	T1705	Jodie Foster started acting at five years old.	C
+GW28	T1705	Jodie Foster works in front of and behind the camera.	E
+GW28	T1705	Jodie Foster is a lesbian.	N
+GW28	T1705	Jodie Foster has been active since her late teens.	C
+GW4	T1705	Jodie Foster got married when they were 52.	E
+GW4	T1705	Jodie Foster has always lived in Los Angeles.	N
+GW4	T1705	Jodie Foster uses her own name as her stage name.	C
+GW84	T1710	Jim Morrison was born in the 1940s.	E
+GW84	T1710	Jim Morrison was the lead singer for The Doors.	N
+GW84	T1710	Jim Morrison was an active performer for over ten years.	C
+GW4	T1710	Jim Morrison passed away before they were 30 years old.	E
+GW4	T1710	Jim Morrison began performing when they were a teenager.	N
+GW4	T1710	Jim Morrison passed away in the United States.	C
+GW14	T1710	Jim Morrison died on a different continent from where he was born.	E
+GW14	T1710	You can watch more than one video of Jim Morrison at thedoors.com.	N
+GW14	T1710	Jim Morrison never had a nickname.	C
+GW4	T1711	John Lithgow has been acting since they were 17.	E
+GW4	T1711	John Lithgow had their children all with Jean Taynton.	N
+GW4	T1711	John Lithgow graduated from college in the same country he was born in.	C
+GW1	T1711	The Birthday of John Lithgow is in the Fall.	E
+GW1	T1711	All of John Lithgow's children have Mary Yeager as a mother.	N
+GW1	T1711	John Lithgow has had an active career for more than 50 years.	C
+GW84	T1711	John Lithgow was born in the fall.	E
+GW84	T1711	John Lithgow's children were all for the same of his wives.	N
+GW84	T1711	"John Lithgow is shorter than 5'6""."	C
+GW84	T1719	Jor-El is a fictional character.	E
+GW84	T1719	Jor-El is a member of the science council.	N
+GW84	T1719	Jor-El is from the planet Earth.	C
+GW4	T1719	Jor-El is involved in the Superman franchise.	E
+GW4	T1719	Jor-El is able to create anything that they need.	N
+GW4	T1719	Jor-El is known for being a villain to Superman	C
+GW31	T1719	Jor-El is Superman's ally and is immune to kryptonite.	E
+GW31	T1719	Jor-El appears in many books by DC comics as Superman's sidekick.	N
+GW31	T1719	Jor-El was born on the planet earth and is very weak.	C
+GW84	T1721	Kamelot is a band that originated in a southern state.	E
+GW84	T1721	Kamelot only performs in Florida.	N
+GW84	T1721	Kamelot has performed music for less than twenty years.	C
+GW1	T1721	Kamelot has been active as a band for more than two decades.	E
+GW1	T1721	Kamelot made music on the Sanctuary label before they made music for Edel.	N
+GW1	T1721	Kamelot got their start on the West coast.	C
+GW28	T1721	Kamelot is a heavy metal band from Florida.	E
+GW28	T1721	Kamelot has won many awards for their music.	N
+GW28	T1721	Kamelot has been playing for more than three decades.	C
+GW28	T1725	Jimmy Kimmel is a husband, father and entertainer.	E
+GW28	T1725	Jimmy Kimmel is married with four daughters.	N
+GW28	T1725	Jimmy Kimmel has been active since his teens.	C
+GW68	T1725	Jimmy Kimmel has been married twice and has four children.	E
+GW68	T1725	His brother Jonathan is two years older than him.	N
+GW68	T1725	Jimmy married Gina Maddy when he was only 23 years old.	C
+GW1	T1725	Jimmy Kimmel started his career in his early twenties.	E
+GW1	T1725	Jimmy Kimmel was on the radio before he was ever in film.	N
+GW1	T1725	Jimmy Kimmel was married to Gina Maddy for over 15 years.	C
+GW93	T1738	Isabela Moner is under the Broadway label.	E
+GW93	T1738	Isabela Moner has won two awards.	N
+GW93	T1738	Isabela Moner is a news reporter.	C
+GW84	T1738	Isabela Moner is currently a teenager.	E
+GW84	T1738	Isabela Moner has lived in Ohio all her life.	N
+GW84	T1738	Isabela Moner has been singing for less than two years.	C
+GW28	T1738	Isabela Moner began her career in her teens.	E
+GW28	T1738	Isabela Moner has won awards for her acting.	N
+GW28	T1738	Isabela Moner is an adult actress.	C
+GW28	T1739	Houses of the Holy is a rock album recorded and released over a three year period.	E
+GW28	T1739	Houses of the Holy won many awards for its music.	N
+GW28	T1739	Houses of the Holy was released under multiple labels.	C
+GW93	T1739	Houses of the Holy came out in 1973.	E
+GW93	T1739	Houses of the Holy recorded at the Island Studios in London longer than the Rolling Stones Mobile Studio.	N
+GW93	T1739	Houses of the Holy was produced by Jimmy Black.	C
+GW2	T1739	Houses of the Holy was produced bn Jimmy Page and released in 1973.	E
+GW2	T1739	Houses of the Holy is a double album.	N
+GW2	T1739	Houses of the Holy was recorded in a single studio.	C
+GW93	T1758	Ice cream cone's main ingredients are flour and sugar.	E
+GW93	T1758	Ice cream cones are more popular than cups for serving ice cream.	N
+GW93	T1758	Ice cream cone provides about 100 kcal of energy.	C
+GW4	T1758	Ice cream cones come in many different varieties.	E
+GW4	T1758	Ice cream cones were made in the USA.	N
+GW4	T1758	Ice cream cone usually have over 100 calories.	C
+GW28	T1758	Ice cream cone is a sugary treat.	E
+GW28	T1758	Ice cream cone is cheap to produce.	N
+GW28	T1758	Ice cream cone has a lot of calories.	C
+GW85	T1763	Ingrid Goes West was done by Matt Spicer	E
+GW85	T1763	Ingrid Goes West is a movie from USA	N
+GW85	T1763	Ingrid Goes West was made for tv	C
+GW28	T1763	Ingrid Goes West is an American independent film.	E
+GW28	T1763	Overall, Ingrid Goes West lost money for the producers.	N
+GW28	T1763	Ingrid Goes West stars well-known Hollywood actors.	C
+GW93	T1763	Tim White was one of the directors on Ingrid Goes West.	E
+GW93	T1763	Ingrid Goes West had a bigger budget than what was made at the box office.	N
+GW93	T1763	Ingrid Goes West has a running time of 60 minutes.	C
+GW85	T1780	Israel Kamakawiwo ole was born in 1959	E
+GW85	T1780	Israel Kamakawiwo ole is a singer	N
+GW85	T1780	Israel Kamakawiwo ole was not big in the 90's	C
+GW28	T1780	Israel Kamakawiwo ole was a Hawaiian entertainer.	E
+GW28	T1780	Israel Kamakawiwo ole was known for his deep baritone voice.	N
+GW28	T1780	Israel Kamakawiwo ole started his career in his early twenties.	C
+GW14	T1780	Israel Kamakawiwo ole lived in one of the sunniest places on earth.	E
+GW14	T1780	Israel Kamakawiwo ole played the ukulele more often than he sang on recordings.	N
+GW14	T1780	Israel Kamakawiwo ole will be going on an international tour this year.	C
+GW84	T1790	The Hillsborough disaster happened in the spring time.	E
+GW84	T1790	Most of the people with injuries during the Hillsborough disaster were released the following day.	N
+GW84	T1790	Over a hundred people died in the Hillsborough disaster.	C
+GW14	T1790	There were about 7 times more non-fatal injuries during The Hillsborough disaster than deaths.	E
+GW14	T1790	There were no more deaths at Hillsborough Stadium after the Hillsborough disaster.	N
+GW14	T1790	Stefan Popper was questioned by the Hillsborough Independent Panel.	C
+GW60	T1790	The Taylor report was completed the year after the disaster.	E
+GW60	T1790	The Taylor report and Hillsborough Independent Panel were the only inquiried into the disaster.	N
+GW60	T1790	Sir John Goldring's 2nd inquest was before the Hillsborough Independent Panel.	C
+GW4	T1798	Hindi Medium wound up making more than 300 crore in theaters.	E
+GW4	T1798	Hindi Medium took several years to produce.	N
+GW4	T1798	Hindi Medium was under two hours long.	C
+GW93	T1798	Hindi Medium has four starring actors/actresses.	E
+GW93	T1798	Hindi Medium was only watched in India.	N
+GW93	T1798	Hindi Medium running time is under 2 hours.	C
+GW85	T1798	Hindi Medium starred irrfan Khan.	E
+GW85	T1798	Hindi Medium came out in 2017	N
+GW85	T1798	Hindi Medium is not popular	C
+GW84	T1804	It was based on a novel.	E
+GW84	T1804	It runs for over two hours.	N
+GW84	T1804	It made more than ten times its budget in the box office.	C
+GW93	T1804	It was distributed by Warner Bros. Pictures.	E
+GW93	T1804	It's main producer is Roy Lee.	N
+GW93	T1804	It has a running time of less than 2 hours.	C
+GW28	T1804	It is an American film based on a book.	E
+GW28	T1804	It is a remake of an earlier film.	N
+GW28	T1804	It was unprofitable for the producers.	C
+GW93	T1808	Ice hockey at the 1984 Winter Olympics was performed in February.	E
+GW93	T1808	The winner of Ice hockey at the 1984 Winter Olympics was Canada.	N
+GW93	T1808	There were 14 teams in Ice hockey at the 1984 Winter Olympics.	C
+GW85	T1808	Ice hockey at the 1984 Winter Olympics is in Feb	E
+GW85	T1808	Ice hockey at the 1984 Winter Olympic will be in Olympic Hall Zetra, Skenderija Olympic Hall	N
+GW85	T1808	Ice hockey at the 1984 Winter Olympics was in the usa	C
+GW84	T1808	Ice hockey was played for over a week in the 84 olympics.	E
+GW84	T1808	The US was one of the teams playing hockey at the 84 olympics.	N
+GW84	T1808	Ice hockey at the 84 olympics lasted for over three weeks.	C
+GW93	T1815	Ithaca has a larger land than water area.	E
+GW93	T1815	Ithaca is the third most populated city in New York.	N
+GW93	T1815	Ithaca has an elevation of 500 ft.	C
+GW84	T1815	Ithaca has more land in the metro area than the urban area.	E
+GW84	T1815	Most tourists visit the metro area of Ithaca.	N
+GW84	T1815	Ithaca is approximately at sea level.	C
+GW28	T1815	Ithaca City has less land area than the Urban area.	E
+GW28	T1815	Ithaca is far from the ocean.	N
+GW28	T1815	Ithaca has as much water area as land area.	C
+GW86	T1838	Iwan Rheon's music has been characterized as belonging to more than one musical genre.	E
+GW86	T1838	Iwan Rheon currently lives in Wales.	N
+GW86	T1838	As a musician, Iwan Rheon has always performed strictly as a vocalist.	C
+GW93	T1838	Iwan Rheon was born in 1985.	E
+GW93	T1838	Iwan Rheon is best known as being a guitar player.	N
+GW93	T1838	Iwan Rheon has been active without stopping from 2002 to the present.	C
+GW28	T1838	Iwan Rheon is a British entertainer.	E
+GW28	T1838	Iwan Rheon has one daughter.	N
+GW28	T1838	Iwan Rheon has performed continuously without a break since his debut.	C
+GW28	T1852	Jackie premiered in Europe before the United States.	E
+GW28	T1852	Jackie won critical praise for its subject matter.	N
+GW28	T1852	Jackie was written and directed by the same individual.	C
+GW93	T1852	Jackie made more than two times its budget.	E
+GW93	T1852	Juan De Dios Larrain is the main star of Jackie.	N
+GW93	T1852	Jackie was recorded in one country.	C
+GW85	T1852	Jackie was directed by Pablo Larra?n	E
+GW85	T1852	Jackie is known in the USA	N
+GW85	T1852	Jackie is in spanish	C
+GW28	T1878	Identity Crisis is a collaborative effort by many people.	E
+GW28	T1878	Identity Crisis was a one-time publication.	N
+GW28	T1878	Identity Crisis is a novel with just words.	C
+GW60	T1878	The penciller was also a creator of the book.	E
+GW60	T1878	Identity Crisis is the only book written by Brad Meltzer.	N
+GW60	T1878	The cover artist was also a creator of the book.	C
+GW84	T1878	The writer of Identity Crisis was also one of the producers.	E
+GW84	T1878	Identity Crisis is the only comic that Brad Meltzer ever wrote.	N
+GW84	T1878	Identity Crisis was produced by a single person.	C
+GW84	T1880	Jack Nicholson has been married three times.	E
+GW84	T1880	All of Jack Nicholson's kids have the same mother.	N
+GW84	T1880	Jack Nicholson died when he was in his 80s.	C
+GW28	T1880	Jack Nicholson is an American actor.	E
+GW28	T1880	Jack Nicholson was married and has 3 daughters and 2 sons.	N
+GW28	T1880	Jack Nicholson started his career in his early twenties.	C
+GW85	T1880	Jack Nicholson is a democrate.	E
+GW85	T1880	Jack Nicholson is a american movie star	N
+GW85	T1880	Jack Nicholson is a pop singer	C
+GW14	T1887	In at least one case, the same person was involved with writing and producing Idiocracy.	E
+GW14	T1887	Theodore Shapiro wrote music for more than one Mike Judge film.	N
+GW14	T1887	Idiocracy made enough at the box office to cover production costs.	C
+GW4	T1887	Idiocracy was directed and written by the same person.	E
+GW4	T1887	The film Idiocracy won some awards.	N
+GW4	T1887	The movie Idiocracy is over two hours long.	C
+GW28	T1887	Idiocracy is an American film.	E
+GW28	T1887	Idiocracy is a Hollywood comedy film.	N
+GW28	T1887	Idiocracy was profitable for the producers of the film.	C
+GW94	T1891	Hip, Hip, Hurrah! was created in 1888.	E
+GW94	T1891	Hip, Hip, Hurrah! was moved to Gothenburg Museum of Art from England.	N
+GW94	T1891	Hip, Hip, Hurrah! is a mosaic.	C
+GW4	T1891	Hip, Hip, Hurrah! was painted in the 19th century.	E
+GW4	T1891	Hip, Hip, Hurrah! was painted in Sweden.	N
+GW4	T1891	Hip, Hip, Hurrah! is on display in Paris.	C
+GW28	T1891	Hip, Hip, Hurrah! is a 19th century work of art.	E
+GW28	T1891	Hip, Hip, Hurrah! is Peder Severin Kr¿yer's most famous work.	N
+GW28	T1891	Hip, Hip, Hurrah! is a mural painted on a ceiling.	C
+GW84	T1956	I'll Have Another was born in the spring.	E
+GW84	T1956	I'll Have Another was always ridden by Mario Gutierrez.	N
+GW84	T1956	I'll Have Another lost most of its races.	C
+GW28	T1956	I'll Have Another is an American racehorse.	E
+GW28	T1956	I'll Have Another has made a profit for his owner.	N
+GW28	T1956	I'll Have Another has lost more races than won.	C
+GW93	T1956	I'll Have Another was a chestnut color.	E
+GW93	T1956	I'll Have Another never traveled to other countries.	N
+GW93	T1956	I'll Have Another made more than 3 million dollars.	C
+GW28	T1966	Island and Universal music labels produced Illuminate.	E
+GW28	T1966	Illuminate was a critical as well as a financial success.	N
+GW28	T1966	Illuminate was recorded and produced over a two-year period.	C
+GW93	T1966	Illuminate was recorded ini 2016.	E
+GW93	T1966	Jake Gosling is the main producer of Illuminate.	N
+GW93	T1966	Illuminate has a running time of over an hour.	C
+GW4	T1966	Illuminate was released on more than one label.	E
+GW4	T1966	Illuminate took nearly a year to record.	N
+GW4	T1966	Illuminate was over an hour long.	C
+GW28	T1969	Imagine Dragons is an America rock band.	E
+GW28	T1969	Imagine Dragons have won numerous awards for its music.	N
+GW28	T1969	Imagine Dragons does no marketing whatsoever.	C
+GW93	T1969	Imagine Dragons is associated with Egyptian.	E
+GW93	T1969	All of the band members of Imagine Dragons were born in Las Vegas.	N
+GW93	T1969	Imagine Dragons is no longer active.	C
+GW72	T1969	Imagine Dragons have been active for atleast a decade	E
+GW72	T1969	Imagine dragons is currently touring with The Moth & The Flame	N
+GW72	T1969	Imagine Dragons started their band in California	C
+GW86	T1977	Jake Gyllenhaal became active as an actor before age 12.	E
+GW86	T1977	Jake Gyllenhaal lives in Los Angeles, California.	N
+GW86	T1977	Jake Gyllenhaal was born in the Midwestern United States.	C
+GW4	T1977	Jake Gyllenhaal started acting when he was 11.	E
+GW4	T1977	Jake Gyllenhaal has lived his life in California.	N
+GW4	T1977	Jake Gyllenhaal went to college in the same state he was born in.	C
+GW84	T1977	Jake Gyllenhaal went to college after high school.	E
+GW84	T1977	Jake Gyllenhaal lived on the west coast for most his life.	N
+GW84	T1977	Jake Gyllenhaal has been acting since he was in his twenties.	C
+GW84	T1988	Carl Bloch painted a picture in 1866.	E
+GW84	T1988	Most of Carl Bloch's work was done in the 1860's.	N
+GW84	T1988	Carl Bloch never painted with oil.	C
+GW28	T1988	In a Roman Osteria is a 19th century work of art.	E
+GW28	T1988	In a Roman Osteriais Carl Bloch's most famous piece.	N
+GW28	T1988	In a Roman Osteria taller than it is wide.	C
+GW93	T1988	In a Roman Osteria was created in 1866.	E
+GW93	T1988	In a Roman Osteria won several awards.	N
+GW93	T1988	In a Roman Osteria is on display in London.	C
+GW28	T2007	Republic of India is a multi-lingual, multi-faith country.	E
+GW28	T2007	Republic of India is a multi-faith society with a secular government.	N
+GW28	T2007	Sikhism is a majority religion.	C
+GW103	T2007	New Delhi is the capital of Republic of India	E
+GW103	T2007	Hindi and English are the official languages of Republic of India	N
+GW103	T2007	Sumitra Mahajan is the speaker of the Lok Sabha	C
+GW93	T2007	Republic of India's main religion is Hinduism.	E
+GW93	T2007	Republic of India has always had a federal parliamentary.	N
+GW93	T2007	Mandarin is a recognized language of Republic of India.	C
+GW93	T2033	Hounds of Love is less than an hour long.	E
+GW93	T2033	Hounds of Love is best known as a progressive pop album.	N
+GW93	T2033	Hounds of Love was produced by Warner.	C
+GW14	T2033	Kate Bush has recorded at least one album in the U.K.	E
+GW14	T2033	More minutes of Hounds of Love were recorded at Windmill Lane Studios than Abbey Road Studios.	N
+GW14	T2033	EMI has never released a pop album.	C
+GW28	T2033	Hounds of Love was a music album recorded and released over two years.	E
+GW28	T2033	Hounds of Love sold millions of albums.	N
+GW28	T2033	Hounds of Love was independently produced.	C

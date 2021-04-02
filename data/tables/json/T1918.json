@@ -1,0 +1,32 @@
+{
+    "title": ["Hypatia"], 
+    "Born": [
+        "c.  350-370 AD  Alexandria, Province of Egypt, Eastern Roman Empire"
+    ], 
+    "Died": [
+        "March 415 AD (aged 44-65)  Alexandria, Province of Egypt, Eastern Roman Empire"
+    ], 
+    "Era": [
+        "Ancient philosophy"
+    ], 
+    "Region": [
+        "Western philosophy"
+    ], 
+    "School": [
+        "Neoplatonism"
+    ], 
+    "Main interests": [
+        "Mathematics",  
+        "Astronomy"
+    ],
+    "Influences":[
+        "Plato",
+        "Plotinus",
+        "Aristotle",
+        "Theon of Alexandria"
+    ],
+    "Influenced":[
+        "Damascius",
+        "Synesius of Cyrene"
+    ]
+}

@@ -1,0 +1,13 @@
+key	keyword	definition	description	source
+Born	born	""" Born "" is a song written and performed by Barry Gibb that was included as the first track on his debut album The Kid's No Good in 1970"	song written and performed by Barry Gibb	wikipedia
+Born	born	bring forth,	bear, turn_out	wordnet
+Born	born	existing as a result of birth.	NA	owlbot
+Born	born	Borns start with cries	NA	GenericsKB
+Died	died	Death is the permanent cessation of all biological functions that sustain a living organism. Phenomena which commonly bring about death include aging, physiological or organ failure, predation, poisoning, malnutrition, disease, suicide, homicide, asphyxia, drowning, severe burns, drug intoxication, starvation, dehydration, electrocution, intense heat or cold, radiation toxicity, warfare attacks such as bombings, as well as explosions and accidents or major trauma resulting in fatal injury. The remains of a living organism begin to decompose shortly after death. It is an inevitable process eventually occurring in all living organisms. As of the early 21st century, over 150,000 humans die each day. Death, particularly of humans, has commonly been considered a sad or unpleasant occasion, due to the affection for the deceased and the termination of social and familial bonds. Other concerns include fear of death, necrophobia, anxiety, sorrow, grief, emotional pain, depression, sympathy, compassion, solitude, or saudade. Many cultures and religions have the idea of an afterlife, and also hold the idea of judgement and reward for good deeds or punishment for sin.	permanent cessation of vital functions	wikipedia
+Died	died	pass from physical life and lose all bodily attributes and functions necessary to sustain life	die, decease, perish, go, exit, pass_away, expire, pass, kick_the_bucket, cash_in_one's_chips, buy_the_farm, conk, give-up_the_ghost, drop_dead, pop_off, choke, croak, snuff_it	wordnet
+Died	died	(of a person, animal, or plant) stop living.	NA	owlbot
+Died	die	Dies  dreams	NA	GenericsKB
+Fields	fields	Field's is the second biggest shopping centre in Denmark and one of the largest in Scandinavia	NA	wikipedia
+Fields	fields	the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it	field, field_of_force, force_field	wordnet
+Fields	fields	a space or range within which objects are visible from a particular viewpoint or through a piece of apparatus.	NA	owlbot
+Fields	field	A field is a tract	NA	GenericsKB

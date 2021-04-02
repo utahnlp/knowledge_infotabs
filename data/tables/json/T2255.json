@@ -1,0 +1,44 @@
+{
+    "title": [
+        "Delta Air Lines Flight 1080"
+    ],
+    "Date": [
+        "April 12, 1977"
+    ],
+    "Summary": [
+        "Loss of pitch control due to malfunctioning elevator"
+    ],
+    "Site": [
+        "Los Angeles International Airport"
+    ],
+    "Aircraft type": [
+        "Lockheed L-1011"
+    ],
+    "Operator": [
+        "Delta Air Lines"
+    ],
+    "Registration": [
+        "N707DA"
+    ],
+    "Flight origin": [
+        "San Diego International Airport, San Diego, United States"
+    ],
+    "Destination": [
+        "Los Angeles International Airport, Los Angeles, United States"
+    ],
+    "Passengers": [
+        "41"
+    ],
+    "Crew": [
+        "11"
+    ],
+    "Fatalities": [
+        "0"
+    ],
+    "Injuries": [
+        "0"
+    ],
+    "Survivors": [
+        "52"
+    ]
+}

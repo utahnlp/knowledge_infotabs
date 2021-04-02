@@ -1,0 +1,35 @@
+{
+    "title": [
+        "K2-21c"
+    ],
+    "Star":[
+    	"K2-21"
+    ],
+    "Constellation":[
+    	"Aquarius"
+    ],
+    "Right ascension":[
+    	"22 h 41 m 12.8862 s"
+    ],
+    "Declination":[
+    	"-14 29' 20.4349\""
+    ],
+    "Distance":[
+    	"273.5+-0.9 ly (83.8+-0.3 pc)"
+    ],
+    "Mass":[
+    	"0.64 +- 0.11 M"
+    ],
+    "Radius":[
+    	"0.6 +- 0.1 R"
+    ],
+    "Temperature":[
+    	"4043+- 375 K"
+    ],
+    "Metallicity":[
+    	"-0.11 +- 0.13"
+    ],
+    "Age":[
+    	">1 Gyr"
+    ]
+}

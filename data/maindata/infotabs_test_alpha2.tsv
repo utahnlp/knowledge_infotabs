@@ -1,0 +1,1801 @@
+annotater_id	table_id	hypothesis	label
+GW1	T31	Eva Mendes was born in the Fall of 1974.	C
+GW1	T31	Eva Mendes and Ryan Gosling will stay married for the rest of their lives.	N
+GW1	T31	Eva Mendes' career in film has spanned over 20 years.	E
+GW2	T31	Eva Mendes was born in the northern U.S.	C
+GW2	T31	Eva Mendes is still working as a model.	N
+GW2	T31	Eva Mendes has two children.	E
+GW4	T31	Eva Mendes has been married to different people since 2011.	C
+GW4	T31	Eva Mendes is known for her business skills.	N
+GW4	T31	Eva Mendes was born on the east coast of the United States.	E
+GW1	T46	Janet Leigh's career spanned under 55 years long.	C
+GW1	T46	Janet Leigh lived in California for her whole life.	N
+GW1	T46	Janet Leigh died in the Fall of 2004.	E
+GW2	T46	Janet Leigh was married more than four times.	C
+GW2	T46	Janet Leigh was an only child.	N
+GW2	T46	Janet Leigh was politically liberal.	E
+GW4	T46	Janet Leigh was born on the east coast of the USA.	C
+GW4	T46	Janet Leigh lived their whole life in California.	N
+GW4	T46	Janet Leigh only got married multiple times.	E
+GW2	T47	Jodie Whittaker lives in Africa.	C
+GW2	T47	Jodie Whittaker has a daughter.	N
+GW2	T47	Jodie Whittaker has been married for less than 14 years.	E
+GW1	T47	Jodie Whittaker was born in the winter of 1982.	C
+GW1	T47	Jodie Whittaker has always lived in England.	N
+GW1	T47	Jodie Whittaker has had an active career in acting for less than 20 years.	E
+GW4	T47	Jodie Whittaker got married before the 2000s.	C
+GW4	T47	Jodie Whittaker spent some time in the United States acting.	N
+GW4	T47	Jodie Whittaker has had only one husband.	E
+GW4	T53	Florence Foster Jenkins was a film that was produced by Stephen Frears.	C
+GW4	T53	The film Florence Foster Jenkins was shot entirely in the United Kingdom.	N
+GW4	T53	The film Florence Foster Jenkins earned money at the box office.	E
+GW1	T53	Florence Foster Jenkins made less than 25 million dollar profit at the box office.	C
+GW1	T53	More of Florence Foster Jenkins was shot in France than the United Kingdom.	N
+GW1	T53	Florence Foster Jenkins was released in Spring and Summer of 2016.	E
+GW2	T53	The film Florence Foster Jenkins had fewer than 3 star actors.	C
+GW2	T53	The film Florence Foster Jenkins was first released in France.	N
+GW2	T53	The film Florence Foster Jenkins earned money.	E
+GW6	T73	Eugene Kaspersky had a net worth over a million dollars in spring of 2017.	C
+GW6	T73	Natalya Kaspersky has two children.	N
+GW6	T73	Maxim Kaspersky was the vice-chairperson of Kaspersky Lab.	E
+GW4	T73	Eugene Kaspersky was not born into the USSR.	C
+GW4	T73	Eugene Kaspersky had both his children with Natalya Kaspersky	N
+GW4	T73	Eugene Kaspersky was born a United States citizen.	E
+GW1	T73	Eugene Kaspersky is worth over a zillion dollars.	C
+GW1	T73	Eugene Kaspersky has always lived in Eastern Europe.	N
+GW1	T73	Eugene Kaspersky was born in the fall of 1965.	E
+GW0	T78	Joseph Glidden was born in the southwest part of the U.S..	C
+GW0	T78	Virgil Glidden is Joseph Glidden's oldest child.	N
+GW0	T78	Joseph Glidden married Clarissa Foster seven years before Lucinda Warne.	E
+GW1	T78	Joseph Glidden died in the northeast.	C
+GW1	T78	Joseph Glidden was more successful later in life than earlier in life.	N
+GW1	T78	Joseph Glidden was born in the Winter of 1813.	E
+GW4	T78	Joseph Glidden was known for their acting skills.	C
+GW4	T78	Lucinda Warne was the last woman that was with Joseph Glidden.	N
+GW4	T78	Joseph Glidden passed away when he was 93 years old.	E
+GW1	T94	John McCain was born in the Summer of 1936.	C
+GW1	T94	Meghan was John McCain's closest child.	N
+GW1	T94	John McCain died in the Summer of 2018.	E
+GW0	T94	John McCain lived to be under 80 years old.	C
+GW0	T94	John McCain was born on a military base.	N
+GW0	T94	John McCain married Carol Shepp before Cindy Hensley.	E
+GW4	T94	John McCain was known for being in the Democratic party.	C
+GW4	T94	John McCain has one sibling.	N
+GW4	T94	John McCain passed away in the summer.	E
+GW4	T101	Chic is a band that was also known as The Big Orange Band.	C
+GW4	T101	The band Chic has broken up twice in the past.	N
+GW4	T101	The band Chic is known for performing mostly Disco, funk, R&B.	E
+GW1	T101	Chic was originally known as The Big Banana Brand.	C
+GW1	T101	The members of Chic preferred making music on the Atlantic label over the Warner Bros. label.	N
+GW1	T101	Chic has been active as a band in one form or another for less than 40 years.	E
+GW0	T101	Chic began performing under 40 years ago.	C
+GW0	T101	Chic recorded most of their music as The Big Apple Band.	N
+GW0	T101	Chic was signed to multiple records.	E
+GW4	T111	Charles IV of Spain and His Family was painted by Picasso.	C
+GW4	T111	The painting Charles IV of Spain and His Family took several years to paint.	N
+GW4	T111	The painting Charles IV of Spain and His Family is held in Spain.	E
+GW0	T111	Charles IV of Spain and His Family can be seen in the capital of France.	C
+GW0	T111	Charles IV of Spain and His Family was finished in the winter of 1801.	N
+GW0	T111	Charles IV of Spain and His Family took less than 2 years to complete.	E
+GW1	T111	Charles IV of Spain and His Family was painted at the beginning of the 20th century.	C
+GW1	T111	Charles IV of Spain and His Family was a commissioned painting.	N
+GW1	T111	Charles IV of Spain and His Family measures over 10 feet wide at it's longest point.	E
+GW0	T144	Jennifer Connelly is an British actress.	C
+GW0	T144	Jennifer Connelly received her bachelor's university from Stanford University.	N
+GW0	T144	Jennifer Connelly resides in the same state than where she was born.	E
+GW1	T144	Jennifer Connelly has been active in acting for at most than 35 years.	C
+GW1	T144	Jennifer Connelly has more than one college degree.	N
+GW1	T144	Jennifer Connelly was born in the winter of 1970.	E
+GW4	T144	Jennifer Connelly never went to an ivy league university.	C
+GW4	T144	Jennifer Connelly has lived her entire life in New York.	N
+GW4	T144	Jennifer Connelly has had only one husband.	E
+GW1	T149	Johnny Cash was active in music for less than 45 years.	C
+GW1	T149	Johnny Cash preferred making music with Columbia over Legacy.	N
+GW1	T149	Johnny Cash was born in the Winter of 1932.	E
+GW0	T149	Johnny Cash was born in Spring of 1932.	C
+GW0	T149	Johnny Cash outlived his second wife, June Carter.	N
+GW0	T149	Rosanne Carter is Johnny Cash's children.	E
+GW4	T149	Johnny Cash was born in the Fall of 1932.	C
+GW4	T149	Johnny Cash was on at least 6 different labels throughout his career.	N
+GW4	T149	Johnny Cash is dead by now.	E
+GW1	T162	Bailiwick of Jersey has only one recognised regional language.	C
+GW1	T162	If Stephen Dalton leaves as Lieutenant Governor, then John Le Fondr? Jr will replace him.	N
+GW1	T162	Bailiwick of Jersey has one official language.	E
+GW4	T162	The most spoken language in the Bailiwick of Jersey is French.	C
+GW4	T162	The Bailiwick of Jersey follows the same religion as England.	N
+GW4	T162	The Bailiwick of Jersey is independent.	E
+GW0	T162	Polish are the smallest ethnic group in Bailiwick of Jersey.	C
+GW0	T162	The Church of England's headquarters are in Bailiwick of Jersey.	N
+GW0	T162	There are more French than Asians people in Bailiwick of Jersey.	E
+GW1	T168	Farrah Abraham has been active in her TV career for around 50 years.	C
+GW1	T168	Farrah Abraham will end up on another TV show.	N
+GW1	T168	Farrah Abraham was born in the summer of 1991.	E
+GW0	T168	Farrah Abraham is more than thirty years old.	C
+GW0	T168	Farrah Abraham has lived in Austin for most of her life.	N
+GW0	T168	Farrah Abraham has appeared on television.	E
+GW4	T168	Farrah Abraham has four children.	C
+GW4	T168	Farrah Abraham is known for being an actress.	N
+GW4	T168	Farrah Abraham has lived outside Iowa.	E
+GW4	T172	Bruges has less than 100,000 people that live in it.	C
+GW4	T172	The city of Bruges has four postal codes.	N
+GW4	T172	The area code of Bruges is 050.	E
+GW22	T172	Bruges has population less than 100,000.	C
+GW22	T172	Bruges is the most populated city in Belgium.	N
+GW22	T172	Density of Bruges is less than 900/km2.	E
+GW1	T172	Bruges has a population under 100k.	C
+GW1	T172	Bruges will shink as a city, population wise, in the years to come.	N
+GW1	T172	There are less than 2500 people per square mile in Bruges.	E
+GW0	T174	Jidenna has appeared on five different labels.	C
+GW0	T174	Jidenna still resides in Wisconsin Rapids.	N
+GW0	T174	Jidenna has been performing since the 1990's.	E
+GW4	T174	Jidenna is known for their country music.	C
+GW4	T174	Jidenna has worked with Kendrick Lamar on an album.	N
+GW4	T174	Jidenna spent some part of her life outside Wisconsin.	E
+GW1	T174	Jidenna was born in early Spring of 1985.	C
+GW1	T174	Jidenna liked making music on Wondaland over Epic as far as music labels go.	N
+GW1	T174	Jidenna has had an active career for under 10 years.	E
+GW1	T192	Eraserhead was released in the Summer of 1977.	C
+GW1	T192	Peter Ivers helped with the music on Eraserhead more than Fats Waller.	N
+GW1	T192	Eraserhead has a run time under two hours.	E
+GW0	T192	Eraserhead was directed, produced, and written by different persons.	C
+GW0	T192	David Lynch scored the entire film Eraserhead.	N
+GW0	T192	Eraserhead grossed under ten million dollars at the box office.	E
+GW4	T192	Eraserhead was a film that was released in the winter of 1977.	C
+GW4	T192	David Lynch had creative control over Eraserhead.	N
+GW4	T192	he film Eraserhead made less than $10m at the box office.	E
+GW0	T194	James Gregory lived in less than three different countries.	C
+GW0	T194	James Gregory taught astronomy at University of Edinburgh.	N
+GW0	T194	James Gregory died in the different city that he was born.	E
+GW1	T194	James Gregory died in the Spring of 1675.	C
+GW1	T194	James Gregory preferred astronomy over mathematics.	N
+GW1	T194	The Winter of 1638 is when James Gregory was born.	E
+GW4	T194	James Gregory was born in Edinburgh, Scotland.	C
+GW4	T194	James Gregory has always lived in the United Kingdom.	N
+GW4	T194	ames Gregory is known for studying mathematics.	E
+GW0	T198	Etta James died less than a week after her 74th birthday.	C
+GW0	T198	Etta James released most of her music on Chess records.	N
+GW0	T198	Jamesetta Hawkins is birth name of Etta James.	E
+GW4	T198	Etta James was born on the east coast of the USA.	C
+GW4	T198	The musician Etta James sang mostly gospel songs.	N
+GW4	T198	The musician Etta James passed away in California, US.	E
+GW1	T198	Etta James was active for under 55 years.	C
+GW1	T198	Etta James lived in California for her whole life.	N
+GW1	T198	Etta James put music out on less than 20 different labels.	E
+GW0	T215	Charles Cros died in the Spring of 1888.	C
+GW0	T215	Charles Cros invented the fax transmission.	N
+GW0	T215	Charles Cros lived after the time of color photography.	E
+GW4	T215	Charles Cros was born in London.	C
+GW4	T215	The artist Charles Cros is known mostly for poetry.	N
+GW4	T215	Charles Cros passed away when he was 45.	E
+GW1	T215	Charles Cros was born in the Fall of 1888.	C
+GW1	T215	Charles Cros preferred writing monologs over poetry.	N
+GW1	T215	Charles Cros died in the Summer of 1888.	E
+GW4	T220	Faith No More is a band that started on the east coast of the USA.	C
+GW4	T220	Mr. Bungle helped Faith No More gain some popularity.	N
+GW4	T220	The band Faith No More has been known to perform experimental rock.	E
+GW14	T220	Faith No More has released music under only one label.	C
+GW14	T220	Band members from Faith No More pursued other projects between 1998 and 2009.	N
+GW14	T220	The band has always been known as Faith No More or Sharp Young Men.	E
+GW1	T220	Faith No More has been active as a band for close to 20 years in total.	C
+GW1	T220	Most people would describe Faith No More as experimental rock before they would call them funk metal.	N
+GW1	T220	Faith No More made music on 5 record labels.	E
+GW1	T224	Fist Fight is about an hour long.	C
+GW1	T224	Van Robichaux wrote more of the script of Fist Fight than Evan Susser.	N
+GW1	T224	Fist Fight made under 30 million on top of the budget at the box office.	E
+GW0	T224	Fist Fight debuted at the Regency Village Theater after being released nation wide.	C
+GW0	T224	21 Laps Entertainment financed the majority of Fist Fight.	N
+GW0	T224	Fist Fight's budget was nearly half what it made at the box office.	E
+GW4	T224	The film Fist Fight came out in the Fall of 2017.	C
+GW4	T224	The cost to produce Fist Fight was $23 million dollars.	N
+GW4	T224	The film Fist Fight made under $50 million dollars at the box office.	E
+GW0	T252	Chris Jericho resides in the same state where he was born.	C
+GW0	T252	Chris Jericho has three daughters.	N
+GW0	T252	Chris Jericho does not use his birth name while performing.	E
+GW28	T252	Chris Jericho is an unmarried American.	C
+GW28	T252	Chris Jericho is professional wrestler.	N
+GW28	T252	Chris Jericho married in his thirties.	E
+GW4	T252	Chris Jericho is a divorcee.	C
+GW4	T252	The wrestler Chris Jericho has had all of his children with his wife.	N
+GW4	T252	The wrestler Chris Jericho has lived in at least a couple of cities.	E
+GW21	T253	Jenny Sarah Slate was always very funny when she was younger and in college.	C
+GW21	T253	Jenny Slate has stared in several movies.	N
+GW21	T253	She was a comedian who performed live at the Appolo.	E
+GW28	T253	Jenny Slate is an South African comedienne.	C
+GW28	T253	Jenny Slate has been doing stand-up comedy since college.	N
+GW28	T253	Jenny Slate was married after college.	E
+GW4	T253	Jenny Slate started doing comedy when she was 32 years old.	C
+GW4	T253	The actress Jenny Slate has won awards for her acting.	N
+GW4	T253	The actress Jenny Slate was born in Massachusetts.	E
+GW21	T255	Justin Bieber started out on the internet and turned into a marjo international film producer.	C
+GW21	T255	Justin Bieber did not have a very happy childhood.	N
+GW21	T255	Justin Bieber is not an American citizen.	E
+GW28	T255	Justin Bieber was born in London, United Kingdom.	C
+GW28	T255	Justin Bieber was raised by a single parent and has no siblings.	N
+GW28	T255	Justin Bieber is a Canadian rapper.	E
+GW4	T255	Justin Bieber got married to Hailey Baldwin when he was 25.	C
+GW4	T255	Justin Bieber has won awards for his drumming.	N
+GW4	T255	Justin Bieber has performed in the United States.	E
+GW0	T259	Corinth is located in northern Europe.	C
+GW0	T259	Peloponnese is the largest administrative region in Greece.	N
+GW0	T259	Corinth's lowest elevation is at sea level.	E
+GW33	T259	Corinth is a Municipality in Corinthia region in France country	C
+GW33	T259	Peloponnese is administrative region of Corinth	N
+GW33	T259	Greece is a country.	E
+GW28	T259	Corinth is an area located in the non-mediterranean region.	C
+GW28	T259	Corinth is a sparsely populated municipality.	N
+GW28	T259	Corinth has a regional unit named Corinthia.	E
+GW4	T263	Joe Biden has only one wives in his life.	C
+GW4	T263	Joe Biden has always lived in the United States.	N
+GW4	T263	Joe Biden has been a member of the Democratic party.	E
+GW28	T263	Joe Biden is an American actor.	C
+GW28	T263	Joe Biden was the American Vice-President.	N
+GW28	T263	Joe Biden was always an independent sometime in his career.	E
+GW0	T263	Joe Biden's first wife passed away after they were divorced.	C
+GW0	T263	Joe Biden held a political office in his birth state.	N
+GW0	T263	Joe Biden received a BA degree from University of Delaware.	E
+GW14	T314	The elevation of Mount Tabwemasana is over 6,165 ft.	C
+GW14	T314	Vanuatu has the tallest mountain in all of the New Hebrides.	N
+GW14	T314	Mount Tabwemasana is part of an Archipelago.	E
+GW28	T314	Espiritu Santo is a sole island.	C
+GW28	T314	Espiritu Santo is the biggest island in the archipelago.	N
+GW28	T314	Espiritu Santo is close to other land mass.	E
+GW4	T314	Espiritu Santo has Mount Tabwemasana on it that is less than 6,000 feet tall.	C
+GW4	T314	Espiritu Santo has had people living on it for centuries.	N
+GW4	T314	The island Espiritu Santo is above the sea level.	E
+GW4	T318	The painting Declaration of Independence is smaller than 100 square feet in size.	C
+GW4	T318	The painting Declaration of Independence took over three years to make.	N
+GW4	T318	The painting Declaration of Independence has been placed in the US capitol.	E
+GW28	T318	Declaration of Independence has been available for viewing in the nation's capitol for less than 20 years.	C
+GW28	T318	The  Declaration of Independence must be carried by two men.	N
+GW28	T318	The Declaration of Independence was placed in the Rotunda a few years after it was commissioned.	E
+GW0	T318	John Trumbull's Declaration of Independence has been hanging in the Rotunda for less than 150 years.	C
+GW0	T318	Declaration of Independence is one of the largest paintings located in the U.S. Capitol building.	N
+GW0	T318	Declaration of Independence was sold two years after being commissioned.	E
+GW27	T324	Buffalo Springfield continuously kept on recording.	C
+GW27	T324	Buffalo Springfield had their most success with Atlantic records.	N
+GW27	T324	Buffalo Springfield has recorded on Atco and Atlantic almost since 1966 with an interruption.	E
+GW14	T324	No folk rock band came from Los Angeles.	C
+GW14	T324	Poco released music with Crosby, Stills, Nash & Young under the Atlantic label.	N
+GW14	T324	Buffalo Springfield had some activity in the 21st century.	E
+GW28	T324	Buffalo Springfield works with multiple acts but only one labels.	C
+GW28	T324	Buffalo Springfield played every single day when they were active.	N
+GW28	T324	Buffalo Springfield played for some period of time in the 20th century.	E
+GW28	T327	Charles Macintosh never lived in Scotland	C
+GW28	T327	Charles Macintosh was an educated man.	N
+GW28	T327	Charles Macintosh invented the waterproof raincoat in his fifties.	E
+GW4	T327	Charles Macintosh was never able to make fabrics waterproof.	C
+GW4	T327	Charles Macintosh wanted to be an engineer from a young age.	N
+GW4	T327	Charles Macintosh was born and died in Scotland.	E
+GW27	T327	Charles Macintosh born and died in Scotland and England respectively.	C
+GW27	T327	Charles Macintosh invented the waterproof raincoat in Scotland.	N
+GW27	T327	Charles Macintosh was born and died in the same countries.	E
+GW32	T329	Johannes Gutenberg was born on February 3, 1468.	C
+GW32	T329	Johannes Gutenberg invented many things over their life time.	N
+GW32	T329	Johannes Gutenberg lived to be under seventy years old.	E
+GW28	T329	Johannes Gutenberg held only one occupation.	C
+GW28	T329	Johannes Gutenberg is responsible for many inventions.	N
+GW28	T329	Johannes Gutenberg spent some time in Holy Roman Empire territory.	E
+GW4	T329	Johannes Gutenberg is known for being an engraver that founded the Holy Roman Empire.	C
+GW4	T329	Johannes Gutenberg spent their whole life in the Holy Roman Empire.	N
+GW4	T329	Johannes Gutenberg passed away when they were in their 60s.	E
+GW28	T343	Kamelot plays only power metal for multiple labels.	C
+GW28	T343	Kamelot is made up of four members.	N
+GW28	T343	Kamelot's website is kamelot.com	E
+GW27	T343	Kamelot originated in Florida and has been professionally active since 1980s.	C
+GW27	T343	Kamelot is the only heavy metal band from Tampa.	N
+GW27	T343	Kamelot performs less genres than labels they have been on.	E
+GW0	T343	Kamelot have been performing for under twenty years.	C
+GW0	T343	Kamelot has released most of their work on Napalm records.	N
+GW0	T343	Kamelot is a metal band from the east coast of the United States.	E
+GW28	T346	Joanna Newsom has a childless marriage.	C
+GW28	T346	Joanna Newsom started singing before taking up acting.	N
+GW28	T346	Joanna Newsom is married and working.	E
+GW14	T346	Joanna Newsom was born on the East Coast of the United States.	C
+GW14	T346	Nervous Cop has released music under the Drag City label.	N
+GW14	T346	Joanna Newsom was working in music before getting married.	E
+GW0	T346	Joanna Newsom has been married for under five years.	C
+GW0	T346	Joanna Newsom and Andy Samberg have one daughter.	N
+GW0	T346	Joanna Newsom lives in a different state she was born.	E
+GW0	T353	Jena Malone doesn't reside in the same state she was born.	C
+GW0	T353	Jena Malone has made more money as a musician than an actress.	N
+GW0	T353	Jenna Malone began performing in her leens.	E
+GW28	T353	Jena Malone is an British entertainer.	C
+GW28	T353	Jena Malone grew up in Nevada.	N
+GW28	T353	Jena Malone has been active since her teens.	E
+GW4	T353	Jena Malone has been famous for singing in the United States.	C
+GW4	T353	Jena Malone has been a photographer the majority of her life.	N
+GW4	T353	The actress Jena Malone has children.	E
+GW4	T355	Jeff Buckley passed away when they were only 20 years old.	C
+GW4	T355	Jeff Buckley moved from California to Tennessee at some point in their life.	N
+GW4	T355	Jeff Buckley was born in California, U.S.	E
+GW33	T355	Jeff Buckley is a Singer, songwriter and guitarist died at his age of 20.	C
+GW33	T355	Jeff Buckley is acted in THe A.M, Shinehead and Goonsters	N
+GW33	T355	Jeff Buckley is died in May 29, 1997	E
+GW28	T355	Jeff Buckley is an American inventor.	C
+GW28	T355	Jeff Buckley died playing the guitar.	N
+GW28	T355	Jeff Buckley started his career in his twenties.	E
+GW28	T363	Evan Spiegel doesn't have a family.	C
+GW28	T363	Evan Spiegel is younger than his wife.	N
+GW28	T363	Evan Spiegel got married in 2017.	E
+GW0	T363	Evan Spiegel lives in a different state he was born.	C
+GW0	T363	Evan Spiegel graduated with a masters degree from Stanford University.	N
+GW0	T363	Evan Spiegel has been married.	E
+GW14	T363	Evan Spiegel was married before he was 20 years old.	C
+GW14	T363	Evan Spiegel met Miranda Kerr at Snap's headquarters.	N
+GW14	T363	Evan Spiegel has held at least one executive position.	E
+GW28	T364	Hayley Williams is an European musician.	C
+GW28	T364	Hayley Williams owns multiple businesses.	N
+GW28	T364	Hayley Williams started her career in her twenties.	E
+GW0	T364	Hayley Williams and Chad Gilbert are currently working together.	C
+GW0	T364	Hayley Williams started the group Paramore.	N
+GW0	T364	Hayley Williams can play more than one instrument.	E
+GW27	T364	Hayley Nichole Williams is known for dancing.	C
+GW27	T364	Hayley Nichole Williams is a member of Paramore.	N
+GW27	T364	Hayley Nichole Williams originated her music in differnt town she was born in.	E
+GW27	T366	John Graham Mellor died in Turkey.	C
+GW27	T366	John Graham Mellor was signed to CBS label in 1970.	N
+GW27	T366	John Graham Mellor plays less instruments than the number of labels he has worked for.	E
+GW14	T366	Joe Strummer was active in the sports industry for over three decades.	C
+GW14	T366	Joe Strummer changed his surname after he became a guitar player.	N
+GW14	T366	John Mellor no longer resides in Turkey.	E
+GW28	T366	Joe Strummer was a English musician with a multi-decade career.	C
+GW28	T366	Joe Strummer was a solo artist for a brief period.	N
+GW28	T366	Joe Strummer started his career before his twenties.	E
+GW14	T386	In the Heart of the Sea made money at the box office.	C
+GW14	T386	Dan Hanley and Anthony Dod Mantle have worked on more than one film together.	N
+GW14	T386	In the Heart of the Sea was filmed in only one language.	E
+GW28	T386	In the Heart of the Sea is an Mexican film.	C
+GW28	T386	In the Heart of the Sea is the inspiration for the book Moby Dick.	N
+GW28	T386	In the Heart of the Sea made a loss at the box office.	E
+GW4	T386	In the Heart of the Sea made money at the box office.	C
+GW4	T386	Ron Howard spent years working on In the Heart of the Sea.	N
+GW4	T386	In the Heart of the Sea was a story by Rick Jaffa Amanda Silver.	E
+GW28	T414	Charlotte Gainsbourg is a European dancer.	C
+GW28	T414	Charlotte Gainsbourg has two daughters and one son.	N
+GW28	T414	Charlotte Gainsbourg has been active since her teens.	E
+GW4	T414	The actress Charlotte Gainsbourg was acting after they met Yvan Attal.	C
+GW4	T414	The actress Charlotte Gainsbourg speaks more French than they do English.	N
+GW4	T414	The actress Charlotte Gainsbourg grew up in Europe.	E
+GW27	T414	Charlotte Lucy Gainsbourg is both British and American.	C
+GW27	T414	Charlotte Lucy Gainsbourg's half-sisters are also involved in entertainment.	N
+GW27	T414	Charlotte Lucy Gainsbourg was engaged after entering show business.	E
+GW27	T418	John Stephen Goodman is an actor from Boston.	C
+GW27	T418	John Stephen Goodman's wife is from Louisiana.	N
+GW27	T418	John Stephen Goodman was married after getting into acting.	E
+GW0	T418	John Goodman was born in the deep south region of the Europe.	C
+GW0	T418	John Goodman received an honorary B.F.A. from Missouri State University.	N
+GW0	T418	John Goodman began professionally acting right before his twenties.	E
+GW28	T418	John Goodman is an American dancer.	C
+GW28	T418	John Goodman is an animal lover.	N
+GW28	T418	John Goodman began his career as a young actor.	E
+GW4	T421	The film Brave was a movie that was at loss at the box office.	C
+GW4	T421	The movie Brave was funded by Walt Disney Pictures.	N
+GW4	T421	The movie Brave came out to general theaters after it was shown at SIFF.	E
+GW0	T421	Brave premiered at SIFF after it's United States release.	C
+GW0	T421	Walt Disney Studios distributed Brave internationally.	N
+GW0	T421	The running time for Brave is over an hour and a half.	E
+GW28	T421	Brave is an Mexican horror film.	C
+GW28	T421	Brave won many awards for its animation.	N
+GW28	T421	Brave gain money at the Box office.	E
+GW28	T423	Bryson Tiller has been a performer for over a decade.	C
+GW28	T423	Bryson Tiller is married with children.	N
+GW28	T423	Bryson Tiller is an independent singer of mainly R&B music.	E
+GW4	T423	Bryson Tiller is known for dancing to many R&B songs.	C
+GW4	T423	The artist Bryson Tiller has been signed to more than one label.	N
+GW4	T423	The musician Bryson Tiller began their career when they were older than 16 years old.	E
+GW27	T423	Bryson Djuan Tiller is a dancer.	C
+GW27	T423	Bryson Djuan Tiller's child was born after 2011.	N
+GW27	T423	Bryson Djuan Tiller is still performing.	E
+GW4	T459	The band Converge has been performing for under 28 years.	C
+GW4	T459	The band Converge has recorded songs with Bane.	N
+GW4	T459	The band Converge is known for playing music.	E
+GW27	T459	Converge is from Massachusetts and has been active since 1990.	C
+GW27	T459	Converge was signed to Equal Vision in 1990.	N
+GW27	T459	Converge has been on lesser labels than the number of genres they practice.	E
+GW28	T459	Converge has plays single genres for multiple labels.	C
+GW28	T459	Converge can play many other genres of music.	N
+GW28	T459	Converge has been an independent band for under 50 years.	E
+GW35	T461	Caravaggio is a dancer.	C
+GW35	T461	Caravaggio is an Italian painter.	N
+GW35	T461	The Conversion on the Way to Damascus is a canvas painting.	E
+GW28	T461	The Conversion on the Way to Damascus is a painting located in Africa.	C
+GW28	T461	The Conversion on the Way to Damascus is located in a Church crypt in Italy.	N
+GW28	T461	The Conversion on the Way to Damascus is a 17th century painting.	E
+GW0	T461	The Conversion on the Way to Damascus was painted less than four hundred years ago.	C
+GW0	T461	Caravaggio painted throughout most of the seventeenth century.	N
+GW0	T461	The Conversion on the Way to Damascus can be found on display in Italy.	E
+GW4	T464	Ch_j_-jinbutsu-giga have been placed in three national museums in Japan.	C
+GW4	T464	The Ch_j_-jinbutsu-giga took over 1000 years to create	N
+GW4	T464	The Ch_j_-jinbutsu-giga did not use printing press techniques.	E
+GW27	T464	Ch_j_-jinbutsu-giga Material was done with paper and ink in the 13th and 14th centuries.	C
+GW27	T464	Ch_j_-jinbutsu-giga Material was done with paper and ink on two scrolls.	N
+GW27	T464	Ch_j_-jinbutsu-giga Material was done with paper and ink in different century.	E
+GW28	T464	Ch_j_-jinbutsu-giga is Chinese cultural treasure.	C
+GW28	T464	Ch_j_-jinbutsu-giga is heavy and long when unrolled.	N
+GW28	T464	Ch_j_-jinbutsu-giga is made of organic materials.	E
+GW14	T465	Coolaid was released under one label.	C
+GW14	T465	Timbaland produced more than one track on Coolaid.	N
+GW14	T465	It took less than a decade to record Coolaid.	E
+GW28	T465	Coolaid was recorded a decade before its release.	C
+GW28	T465	Coolaid producers worked as one group simultaneously.	N
+GW28	T465	Coolaid was not produced last year.	E
+GW4	T465	The album Coolaid took under a year to record.	C
+GW4	T465	The album Coolaid won awards after it was released.	N
+GW4	T465	The album Coolaid is more than an hour in length.	E
+GW0	T466	Tang Liangzhi holds the lowest office in the city of Chongqing.	C
+GW0	T466	Xu Jingye was appointed by Tang Liangzhi.	N
+GW0	T466	Chongqing's congress chairman and conference chairman are different people.	E
+GW28	T466	Chongqing is a municipality led by only one official.	C
+GW28	T466	Chongqing is a Taiwanese municipality.	N
+GW28	T466	Chongqing is governed by different officials.	E
+GW4	T466	The president of Chongqing is Zhang Xuan.	C
+GW4	T466	In Chongqing there are no city lawyers.	N
+GW4	T466	The area of Chongqing is considered to be a national government.	E
+GW33	T508	Creedence Clearwater Revival do not have online presence.	C
+GW33	T508	Creedence Clearwater Revival is opened 1967	N
+GW33	T508	Creedence Clearwater Revival did Roots rock, swamp rock, hard rock, rock and roll country rock.	E
+GW0	T508	Creedence Clearwater Revival have no known acronyms.	C
+GW0	T508	Creedence Clearwater Revival had many of the same members of The Blue Velvets.	N
+GW0	T508	CCR are originally from the west coast.	E
+GW28	T508	Creedence Clearwater Revival is an Indian rock band.	C
+GW28	T508	Creedence Clearwater Revival was a four member band of college roommates.	N
+GW28	T508	Creedence Clearwater Revival retired about forty five years ago.	E
+GW0	T509	Dark & Wild came out in the winter of 2014.	C
+GW0	T509	Dark & Wild is Pdogg's first production credit.	N
+GW0	T509	Dark & Wild is under an hour long.	E
+GW51	T509	Dark & Wild is a 2014 Korean film.	C
+GW51	T509	Dark & Wild was the highest selling Korean album of 2014.	N
+GW51	T509	Dark & Wild was produced in Korean Language.	E
+GW28	T509	Dark & Wild was recorded and released in the different year.	C
+GW28	T509	Dark & Wild is a kpop album.	N
+GW28	T509	Dark & Wild is less than an hour long.	E
+GW0	T567	Dhruva was produced by the different company from the one that distributed the film.	C
+GW0	T567	The language spoken in Dhruva is the most common in India.	N
+GW0	T567	Dhruva is produced by more than one person.	E
+GW51	T567	Dhruva is a movie produced by Surender Reddy.	C
+GW51	T567	Dhurva is a remake of the movie Body Snatchers.	N
+GW51	T567	Dhurva was originally written, produced, and directed by different people.	E
+GW28	T567	Dhruva is a Bollywood film produced and distributed by different company.	C
+GW28	T567	Dhruva is an action film	N
+GW28	T567	Dhruva gain money at the box office.	E
+GW33	T568	Courteney Cox is born in the Winter.	C
+GW33	T568	David Arquette is first  husband of Courteney Cox	N
+GW33	T568	Michael Keaton  and Johnny McDaid are the partners of Courteney Cox.	E
+GW0	T568	Courtney Cox is from the northern region of the United States.	C
+GW0	T568	Courtney Cox and David Arquette have one daughter together.	N
+GW0	T568	Courtney Cox began acting in her twenties.	E
+GW28	T568	Courteney Cox is a veteran actress of African films and TV.	C
+GW28	T568	Courteney Cox is a single parent of one daughter.	N
+GW28	T568	Courteney Cox began her career in her twenties.	E
+GW28	T585	Cosmo's Factory was recorded and released in less than a year period.	C
+GW28	T585	Cosmo's Factory was a rushed debut album.	N
+GW28	T585	Cosmo's Factory celebrates its 50 year anniversary next year.	E
+GW27	T585	Cosmo's Factory was released in the same year it began to be recorded.	C
+GW27	T585	Cosmo's Factory was the first in the roots rock genre to be recorded at Wally Heider Studios.	N
+GW27	T585	Cosmo's Factory was produced in the studio named after a person.	E
+GW12	T585	Cosmo's Factory was recorded and released at the same time.	C
+GW12	T585	John Fogerty is from San Francisco, California.	N
+GW12	T585	Cosmo's Factory has the same number of labels and producers.	E
+GW0	T598	Cillian Murphy began professionally acting in his early teens.	C
+GW0	T598	Cillian Murphy and Yvonne McGuinness have two daughters together.	N
+GW0	T598	Cillian Murphy went to college inside of his native country.	E
+GW51	T598	Cillian Murphy is an actor from Africa.	C
+GW51	T598	Cillian Murphy is most well known for his acting in Peaky Blinders.	N
+GW51	T598	Cillian Murphy has had 2 children.	E
+GW28	T598	Cillian Murphy is an actor with one year of experience.	C
+GW28	T598	Cillian Murphy has one daughter and one son.	N
+GW28	T598	Cillian Murphy started his career in his twenties.	E
+GW28	T601	Clarence Birdseye was named after his mother.	C
+GW28	T601	Clarence Birdseye was an inventor and businessman.	N
+GW28	T601	Clarence Birdseye is an American citizen.	E
+GW0	T601	Clarence Birdseye died in a different city he was born.	C
+GW0	T601	Clarence Birdseye invented the frozen fish stick.	N
+GW0	T601	Clarence Birdseye died in a different New York City borough that he was born in.	E
+GW51	T601	Clarence Birdseye was a scientist who sold clothes in the United States.	C
+GW51	T601	Clarence Birdseye was also well known for selling birdfeeders through street vendors in New York City.	N
+GW51	T601	Clarence Birdseye's parents names are known and he was born in the United States.	E
+GW0	T608	Sir Cliff Richard does goes by his birth name.	C
+GW0	T608	Cliff Richard moved from India to England as a child.	N
+GW0	T608	Cliff Richard stopped performing after he reached eighteen years old.	E
+GW51	T608	Cliff Richard is an England born musician and actor.	C
+GW51	T608	Cliff Richard is the only Indian-born member of the United Kingdom knighthood.	N
+GW51	T608	Cliff Richard is famous for 40's pop rock music.	E
+GW28	T608	Cliff Richard is a British pianoist.	C
+GW28	T608	Cliff Richard has won numerous industry awards for his music.	N
+GW28	T608	Cliff Richard is a Indian born British citizen.	E
+GW28	T647	Cosmic Girls are a Kpop group from North Korea.	C
+GW28	T647	Cosmic Girls are a 10 member girl group.	N
+GW28	T647	Cosmic Girls sing apart from Korean.	E
+GW51	T647	Cosmic Girls are a hip hop music group from Seoul, Korea.	C
+GW51	T647	Cosmic Girls originally produced folk rock in West Virginia.	N
+GW51	T647	Cosmic Girls are well known for their country rock albums produced under Starship after 21016.	E
+GW0	T647	Cosmic Girls began their career in a non-capital city of South Korea.	C
+GW0	T647	Cosmic Girls signed to Starship Entertainment before Yuehua Entertainment.	N
+GW0	T647	Cosmic Girls have been making music for under ten years.	E
+GW28	T648	Dave Chappelle is a Canadian comedian.	C
+GW28	T648	Dave Chappelle is a married father of three girls.	N
+GW28	T648	Dave Chappelle started his career before he was in his twenties.	E
+GW0	T648	Dave Chappelle was born in the mid-west.	C
+GW0	T648	Dave Chappelle and his wife have three daughters.	N
+GW0	T648	Dave Chappelle began stand up comedy more than fifteen years ago.	E
+GW51	T648	Dave Chappelle is a famous Californian comedian who has been doing standup for about 18 years.	C
+GW51	T648	Dave Chappelle became infamous for leaving his television show and and leaving millions of dollars on the table and traveling to Africa.	N
+GW51	T648	Dave Chapelle has not been known for his religious jokes.	E
+GW28	T649	Creed is a Bollywood film.	C
+GW28	T649	Creed is a film about boxing.	N
+GW28	T649	Creed made a profit at the box office.	E
+GW0	T649	Ryan Coogler based Creed on one of the director's previous characters.	C
+GW0	T649	Creed was the highest grossing film of 2015.	N
+GW0	T649	Creed was released around Thanksgiving of 2015.	E
+GW51	T649	Creed was directed and produced by Ryan Coogler.	C
+GW51	T649	Creed is an action film that is sequel to the Rocky saga that follows Apollo Creed's son, potrayed by Michael B. Jordan.	N
+GW51	T649	Creed was not produced or directed by Sylvester Stallone.	E
+GW4	T711	Princess Diana passed away after she turned 40.	C
+GW4	T711	Princess Diana was injured in a car accident that led to her death.	N
+GW4	T711	Princess Diana was not married to Prince Charles when she passed away.	E
+GW59	T711	Diana's father was the 5th duke of Spencer	C
+GW59	T711	Frances, Diana's mother, was married only once.	N
+GW59	T711	Diana was buried in the same country where she died.	E
+GW51	T711	Diana was the Princess of Ireland who was married to Prince Charles.	C
+GW51	T711	Diana was killed in a car crash in 1997.	N
+GW51	T711	Princess Diana was married only once when she perished in 1997.	E
+GW14	T712	Coca-Cola was introduced less than a century ago.	C
+GW14	T712	You can review the nutritional content of Coca-Cola at coca-cola.com.	N
+GW14	T712	Coca-Cola was first introduced in the summer months.	E
+GW4	T712	Coca-Cola has been around for under 100 years.	C
+GW4	T712	Coca-Cola has always had the same formula.	N
+GW4	T712	Coca-Cola has under 10 variants available.	E
+GW28	T712	Coca-Cola is an American cocktail.	C
+GW28	T712	Coca-Cola used cocaine in its original formula recipe.	N
+GW28	T712	Coca-Cola was created in the 17th century.	E
+GW51	T725	Cristiano Ronaldo is a socer player whom has played for a single team over multiple decades.	C
+GW51	T725	Ronaldo is the highest paid soccer player in the world.	N
+GW51	T725	Ronaldo has been part of five teams in the past 16 years.	E
+GW4	T725	The soccer player Cristiano Ronaldo has been with 3 teams professionally.	C
+GW4	T725	Cristiano Ronaldo has scored over 400 goals.	N
+GW4	T725	Cristiano Ronaldo has played for more than one team at once.	E
+GW28	T725	Cristiano Ronaldo scored highest goal for Real Madrid then all other team combined.	C
+GW28	T725	Cristiano Ronaldo started playing in his teens.	N
+GW28	T725	Cristiano Ronaldo has played for European football clubs.	E
+GW14	T732	Dido was born in Western Europe.	C
+GW14	T732	Dido has released more than 7 albums since 1995.	N
+GW14	T732	Dido plays less than a dozen different instruments.	E
+GW28	T732	Dido is a British painter with a multi-decade career.	C
+GW28	T732	Dido has won many awards for her music and performed around the world.	N
+GW28	T732	Dido began her career in her twenties.	E
+GW51	T732	Dido is an English singer known for rock and metallic style music.	C
+GW51	T732	Dido collaborated with Eminem on the song, Stan.	N
+GW51	T732	Dido has been active in the music industry for less than 30 years.	E
+GW4	T760	David Charles Hahn was not interested in nuclear physics.	C
+GW4	T760	David Charles Hahn was an alcoholic.	N
+GW4	T760	David Charles Hahn lived into their 30s.	E
+GW51	T760	David Charles Hahn is a scientist from Wisconsin.	C
+GW51	T760	David Charles Hahn championed nuclear energy was involved in the construction of 8 nuclear plants.	N
+GW51	T760	Charles Hahn cannot advocate for nuclear power on talking tours in the present.	E
+GW28	T760	David Charles Hahn was an Canadian male.	C
+GW28	T760	David Charles Hahn was a Boy Scout.	N
+GW28	T760	David Charles Hahn was an American scientist.	E
+GW51	T762	Crucifix by Cimabue at Santa Croce is a album by Cimabue.	C
+GW51	T762	Crucifix by Cimabue at Santa Croce portrayed Jesus dying on a cross in Spain.	N
+GW51	T762	Crucifix by Cimabue at Santa Croce took one years to paint by Cimabue before it was complete.	E
+GW4	T762	The piece Crucifix by Cimabue at Santa Croce is oil on paper cardboard.	C
+GW4	T762	The art piece Crucifix by Cimabue at Santa Croce took several years to paint.	N
+GW4	T762	The art piece Crucifix by Cimabue at Santa Croce is located in Italy.	E
+GW28	T762	Crucifix by Cimabue at Santa Croce is a American religious work of art.	C
+GW28	T762	Crucifix by Cimabue at Santa Croce is accented with gold leaf.	N
+GW28	T762	Crucifix by Cimabue at Santa Croce is a 11th century artwork.	E
+GW28	T766	Cognac is an Italian alcoholic drink.	C
+GW28	T766	Cognac is an expensive drink for high-class people.	N
+GW28	T766	Cognac is a high-alcohol drink.	E
+GW4	T766	Cognac usually has less than 30% alcohol by volume.	C
+GW4	T766	Cognac only comes in 3 variants.	N
+GW4	T766	Cognac is known as being from the France	E
+GW51	T766	Cognac is a type of French fruit.	C
+GW51	T766	Cognac was accidentally invented when trying to make a Brandy-based cough medicine during WWII.	N
+GW51	T766	Cognac is considered one of the most famous French brandies to be above 20% in alcohol by volume.	E
+GW28	T768	David Lee Roth is an Canadian rock musician.	C
+GW28	T768	David Lee Roth is a drug-addict and alcoholic.	N
+GW28	T768	David Lee Roth began his career in his teenage years.	E
+GW4	T768	David Lee Roth has never performed with Van Halen.	C
+GW4	T768	David Lee Roth began singing before they learned guitar.	N
+GW4	T768	David Lee Roth is not retired from performing.	E
+GW2	T768	David Lee Roth is a musician who never  performed with Van Halen.	C
+GW2	T768	David Lee Roth began his acting career in 1980.	N
+GW2	T768	David Lee Roth was born on the mid west.	E
+GW51	T771	Cruel Summer is folk album featuring several musicians from Def Jam and GOOD Music.	C
+GW51	T771	Cruel Summer was followed by the album, Cruel Winter.	N
+GW51	T771	Cruel Summer took one year to record and produce before being released in the late 2012.	E
+GW14	T771	Cruel Summer is a hip hop album worked on by less than a dozen producers.	C
+GW14	T771	Che Pope wrote lyrics with Kanye West for Cruel Summer.	N
+GW14	T771	Cruel Summer was released in September'2012.	E
+GW28	T771	Cruel Summer is a hip-hop album recorded and released under a two-year period.	C
+GW28	T771	Cruel Summer is a compilation of various American artists and won many awards upon its release.	N
+GW28	T771	Cruel Summer is less than a hour-long rap album by Jay-Z and Beyonce.	E
+GW51	T772	Crufts is a dog show that has ran in England for under 100 years.	C
+GW51	T772	Crufts Dog Show gave the inspiration for the movie Best in Show.	N
+GW51	T772	Crufts features single type of pet in its pet show.	E
+GW0	T772	The Crufts dog show has been around under twenty years.	C
+GW0	T772	Each year more dogs join the Crufts dog show.	N
+GW0	T772	The Crufts Dog Show is held in the Birmingham, England.	E
+GW4	T772	The Crufts dog show is held in the United States.	C
+GW4	T772	The Crufts dog show has very high attendance.	N
+GW4	T772	The Crufts dog show has been around for over 100 years.	E
+GW28	T774	David Letterman is an Asian entertainer.	C
+GW28	T774	David Letterman was a late night host on two different TV networks.	N
+GW28	T774	David Letterman started his career in his twenties.	E
+GW6	T774	A graduate of an American university has the pseudonym viscount Hofert.	C
+GW6	T774	Michelle Cook has one child.	N
+GW6	T774	Earl Jacob Hofert Jr.'s nephew has hosted several television shows.	E
+GW4	T774	David Letterman has had three wives in his life.	C
+GW4	T774	David Letterman's child was born by his second wife.	N
+GW4	T774	David Letterman  had a show that had his name in the title.	E
+GW51	T779	David Rockefeller is a descendant of the famous Pitt family.	C
+GW51	T779	David Rockefeller had 3 of his 6 children with Margaret McGrath.	N
+GW51	T779	David Rockefeller's occupation as a therapist stemmed from studies at Harvard.	E
+GW2	T779	David Rockefeller was a banker who lived a year less than 100 years.	C
+GW2	T779	David Rockefeller spent 4 years at the University of Chicago starting in 1935.	N
+GW2	T779	David Rockefeller lived in New York City.	E
+GW4	T779	David Rockefeller lived under 90 years.	C
+GW4	T779	David Rockefeller only ever had one partner.	N
+GW4	T779	David Rockefeller went to schools outside the USA.	E
+GW59	T786	Sandy McDonald is Tennant's uncle.	C
+GW59	T786	All four of David Tennant's children  were conceived by his current spouse.	N
+GW59	T786	David Tennant was born in Europe.	E
+GW28	T786	David Tennant is a African entertainer.	C
+GW28	T786	David Tennant has 3 daughters and 1 son.	N
+GW28	T786	David Tennant started acting in his teens.	E
+GW4	T786	David Tennant is using the same name as when they were born.	C
+GW4	T786	The actor David Tennant did voice acting work before they became an actor.	N
+GW4	T786	The David Tennant has been with his wife for several years .	E
+GW4	T789	David Ngunaitponi has only one name.	C
+GW4	T789	David Ngunaitponi lived in the southern part of Australia their whole life.	N
+GW4	T789	David Ngunaitponi was an Australian	E
+GW6	T789	David Ngunaitponi lived in less than one century.	C
+GW6	T789	Katherine Sumner got married in the twentieth century.	N
+GW6	T789	James Ngunaitponi had a daughter-in-law.	E
+GW51	T789	David Unaipon is only a Portaulun national.	C
+GW51	T789	David Unaipon is known for running the Raukkan mission school.	N
+GW51	T789	David Unaipon dies in the month of February.	E
+GW51	T800	The Dawn of the Black Hearts is a classical music album released in the 90's.	C
+GW51	T800	The Dawn of the Black Hearts is featured on the Forrest Gump soundtrack.	N
+GW51	T800	The Dawn of the Black Hearts was recorded in the month of February.	E
+GW2	T800	The Dawn of the Black Hearts was released in 1990 on Warmaster Records.	C
+GW2	T800	The Dawn of the Black Hearts is a black metal album with exactly seven songs.	N
+GW2	T800	The Dawn of the Black Hearts was released in 1995.	E
+GW4	T800	The Dawn of the Black Hearts is known for being a folk album.	C
+GW4	T800	The Dawn of the Black Hearts took nearly five years to record.	N
+GW4	T800	The album The Dawn of the Black Hearts was recorded in the Norway.	E
+GW4	T802	Cult of Chucky was written and directed by different people..	C
+GW4	T802	The film Cult of Chucky had Adam Hurtig leading it.	N
+GW4	T802	The movie Cult of Chucky was less than two hours long.	E
+GW14	T802	The same person wrote and edited Cult of Chuck.	C
+GW14	T802	Cult of Chuck lost money at the box office.	N
+GW14	T802	Cult of Chuck was written and directed by the same person.	E
+GW51	T802	Cult of Chucky is a 20th century movie directed and written by Don Mancini.	C
+GW51	T802	Cult of Chucky is the most recent sequel of the Chucky Doll series.	N
+GW51	T802	Cult of Chucky t was released  before 2018.	E
+GW4	T804	The film Collateral Beauty netted a loss at the movie theaters.	C
+GW4	T804	The movie Collateral Beauty won several awards.	N
+GW4	T804	The movie Collateral Beauty was directed and written by different person.	E
+GW61	T804	The movie Collateral Beauty has earned lesser money than was its initial budget.	C
+GW61	T804	The movie Collateral Beauty was first premiered with no subtitles.	N
+GW61	T804	Collateral Beauty was first premiered in an Asian country.	E
+GW51	T804	Collateral Beauty is a 2018 movie starring Will Smith and Edward Norton.	C
+GW51	T804	Will Smith and Edward Norton have both made movies where they starred as a superhero.	N
+GW51	T804	Collateral Beauty was originally released in the United States a week after being released in Dubai.	E
+GW2	T806	Collective Soul is a band from South America.	C
+GW2	T806	Collective Soul has recorded 19 full-length albums.	N
+GW2	T806	Collective Soul is an alternative rock group from Georgia.	E
+GW51	T806	Collective Soul is an American rock group from California.	C
+GW51	T806	Collective Soul produced the soundtrack for the movie Ghost.	N
+GW51	T806	Collective Soul has been active as a band for more than 20 years.	E
+GW28	T806	Collective Soul is an African alternative rock band.	C
+GW28	T806	Collective Soul has won numerous awards for their music.	N
+GW28	T806	Collective Soul has been performing for less than three decades.	E
+GW4	T813	The Republic of Colombia has only one official language based on the region.	C
+GW4	T813	The Republic of Colombia holds elections for the supreme court.	N
+GW4	T813	The Republic of Colombia is a democracy.	E
+GW64	T813	99% of the population speak english, the official language of colombia.	C
+GW64	T813	Although the Colombian constition specifies Spanish as the official language in all colombian territory,other languages spoken in the country by ethnic groups -approximately 68 languages -each is also official in its own territory.	N
+GW64	T813	while governmental and non-governmental organisations had been denouncing the practice for years, the colombian government of then president did not deny the armed forces were killing civilians until late 2008.	E
+GW28	T813	Republic of Colombia is an multi-ethnic, multi-lingual North American country.	C
+GW28	T813	Republic of Colombia is a South American country bordering Central America.	N
+GW28	T813	Republic of Colombia is a democracy.	E
+GW4	T814	Colonel Meow passed away when they were ten years old.	C
+GW4	T814	Colonel Meow lived in the USA their whole ife.	N
+GW4	T814	Colonel Meow had only one owner.	E
+GW28	T814	Colonel Meow is a male American stallion.	C
+GW28	T814	Colonel Meow has long grey and black fur.	N
+GW28	T814	Colonel Meow lived a short but famous life.	E
+GW51	T814	Colonel Meow is a famous cat actor from the Africa.	C
+GW51	T814	Colonel Meow was first scene in the Battleship movie.	N
+GW51	T814	Colonel Meow lived for a only 2 years before he died.	E
+GW51	T819	Colors is a jazz album released in 2017.	C
+GW51	T819	Colors is the 10th studio album by Beck.	N
+GW51	T819	Colors had a running time of 30 minutes.	E
+GW4	T819	The album Colors took a decade to record.	C
+GW4	T819	The album Colors won several awards.	N
+GW4	T819	The album Colors is under an hour long.	E
+GW28	T819	Colors is a music album recorded and released over a ten year period.	C
+GW28	T819	Colors won numerous awards for its music.	N
+GW28	T819	Colors is a 30-minute long album by Beck.	E
+GW51	T835	Daytona Beach is city in Florida that's elevation is below sea level.	C
+GW51	T835	Daytona Beach is home to the Daytona 500.	N
+GW51	T835	Daytona Beach has a small amount of water in its city limits, where under a percent of the city is water.	E
+GW14	T835	Daytona Beach has over 50 times more land (by area) than water.	C
+GW14	T835	Daytona Beach has several lakes.	N
+GW14	T835	Daytona Beach is more than a yard above sea level.	E
+GW4	T835	Daytona Beach, Florida is only slightly below sea level.	C
+GW4	T835	Daytona Beach, Florida has a dense population.	N
+GW4	T835	Daytona Beach, Florida is more than 50 square miles in area.	E
+GW14	T851	Death Cab for Cutie has no official online presence.	C
+GW14	T851	The Revolutionary Hydra also signed with Sub Pop records.	N
+GW14	T851	Death Cab for Cutie originated on the West Coast of the United States.	E
+GW4	T851	The band Death Cab for Cutie has been active for less than 20 years.	C
+GW4	T851	The band Death Cab for Cutie recorded most of their albums with Warner Music.	N
+GW4	T851	The band Death Cab for Cutie has been on several labels before.	E
+GW28	T851	Death Cab for Cutie is an Asian rock band.	C
+GW28	T851	Death Cab for Cutie started under the Atlantic label initially.	N
+GW28	T851	Death Cab for Cutie does marketing or self-promotion.	E
+GW60	T856	Death Notes 2 volumes were published over the course of 3 years.	C
+GW60	T856	Madman Entertainment and Viz Media are part of the same Shueisha publishing company	N
+GW60	T856	Death note was not written by and illustrated by the same person.	E
+GW51	T856	Death Note is a manga series that ran for about 5 years in the mid 2000's.	C
+GW51	T856	Death Note was adapted for TV as an anime series in the late 2000's.	N
+GW51	T856	Death Note was published by Shueisha.	E
+GW4	T856	Death Note was written and published by the same person.	C
+GW4	T856	The comic Death Note has been translated to English for the NA/UK markets.	N
+GW4	T856	The comic Death Note ran for under 6 years.	E
+GW6	T857	Death Note aired an average of about 10 episodes per month during its original run.	C
+GW6	T857	Death Note was licensed by Viz Media to run on ABC2.	N
+GW6	T857	Death Note was licensed by different companies in all English-speaking countries.	E
+GW4	T857	The show Death Note came out in five different regions.	C
+GW4	T857	The show Death Note had to be translated to English.	N
+GW4	T857	Death Note was written and published by different people.	E
+GW51	T857	Death Note is an anime based off the same titled manga series from China.	C
+GW51	T857	Death Note is one of the highest selling manga/anime series in the history of the genre.	N
+GW51	T857	Death Note ran as a series for under 4 years before concluding in the late 2000's.	E
+GW4	T858	The film Death Note had  one production company.	C
+GW4	T858	The movie Death Note made money for Netflix.	N
+GW4	T858	The movie Death Note did not have the same director and screenplay writer.	E
+GW28	T858	Death Note is an American film of a Chinese story.	C
+GW28	T858	Death Note is based on a Japanese manga comic.	N
+GW28	T858	Death Note stars a largely English cast.	E
+GW51	T858	Death Note is a feature-film adaptation of the manga series, Netflix.	C
+GW51	T858	Death Note stars Lakeith Stanfield, famous for his roles in Atlanta and Get Out.	N
+GW51	T858	The movie Death Note runs under 3 hours long in order to stay true to the manga series.	E
+GW27	T869	Chennai has the sank rank for megacities and metros.	C
+GW27	T869	Chennai is the densest city.	N
+GW27	T869	Chennai has less people in its megacity than in its metro.	E
+GW51	T869	Chennai is a small city in the Madras region.	C
+GW51	T869	Chennai is located in the country of India.	N
+GW51	T869	Chennai is the largest city in the Madras region, with a population count in the 6-digits range.	E
+GW28	T869	Chennai is a sparsely populated city.	C
+GW28	T869	Chennai is a crowded city in India.	N
+GW28	T869	Chennai metro region is more populated than the megacity itself.	E
+GW14	T890	Brooklyn was released in less than two different countries.	C
+GW14	T890	The maroity of Brooklyn's budget was spent in Canada.	N
+GW14	T890	Mongrel Films has  produced works that less than 2 hours long.	E
+GW28	T890	Brooklyn is a  British-Canadian-American film	C
+GW28	T890	Brooklyn is based on a book of the same title and tells the story of an immigrant girl.	N
+GW28	T890	Brooklyn made a profit for the film's producers.	E
+GW12	T890	Brooklyn's release date was in the early winter of 2016.	C
+GW12	T890	Domhnall Gleeson starred in a movie produced by Amanda Posey.	N
+GW12	T890	Brooklyn is an English movie released in the United kingdom.	E
+GW14	T913	Caligula made a loss at the box office.	C
+GW14	T913	More footage of Caligula was shot in Italy than in the United States.	N
+GW14	T913	Caligula was released in the Italy before it was released in United States.	E
+GW51	T913	Caligula is a 1979 movie starring Russell Lloyd.	C
+GW51	T913	Caligula is based on the Roman Emperor who was known for torturing women.	N
+GW51	T913	Caligula had a successful box office run in the United States and Italy.	E
+GW28	T913	Caligula was an English-American film production.	C
+GW28	T913	Caligula was based on the legend of the debauched life of the Roman Emperor.	N
+GW28	T913	Caligula made a profit at the box office.	E
+GW6	T944	Dale Evans never owned a horse that lived for more than three decades.	C
+GW6	T944	Buttermilk was castrated shortly after birth.	N
+GW6	T944	Buttermilk died in a different state where he was born.	E
+GW28	T944	Buttermilk was an Norwegian castrated horse.	C
+GW28	T944	Buttermilk was bred to be a racehorse.	N
+GW28	T944	Buttermilk was put out to stud after getting too old.	E
+GW0	T944	Buttermilk lived to be under thirty years old.	C
+GW0	T944	Buttermilk died in Los Angeles.	N
+GW0	T944	Buttermilk is a male horse.	E
+GW6	T1009	None of Brno is above sea level.	C
+GW6	T1009	Most of the statutory city of Brno is at it's average elevation.	N
+GW6	T1009	Brno has more land than water.	E
+GW28	T1009	Metro Brno is less than 10x the land area of the actual city of Brno.	C
+GW28	T1009	Brno is a European city with a river that runs thru it.	N
+GW28	T1009	The amount of water area is lesser than the land area of Brno.	E
+GW27	T1009	Brno is mainly composed of water area.	C
+GW27	T1009	Brno has prominent hills.	N
+GW27	T1009	Brno's metro area is more than ten times its statutory city size.	E
+GW28	T1014	Chagatai Khanate was part of the Mughal Empire.	C
+GW28	T1014	Chagatai Khanate was a brutal war-mongering nomadic tribe of warriors.	N
+GW28	T1014	Chagatai Khanate was governed by hereditary monarch.	E
+GW51	T1014	The Chagatai Khanate was a nomadic empire that lasted for a over hundred years.	C
+GW51	T1014	The Chagatai Khanate was mostly based of modern day Mongolians and Turkish peoples.	N
+GW51	T1014	The Chagatai Khanate lasted for under 800 years before the western empire fell.	E
+GW14	T1014	Chagatai Khanate inherited part of the Mongole Empire over a century after splitting.	C
+GW14	T1014	There were more Chagatai Khanate Buddhists during the Western Empire than in the Eastern Empire.	N
+GW14	T1014	Chagatai's death occurred late in the 14th century.	E
+GW27	T1023	Cape Town has three main ethnicities.	C
+GW27	T1023	Cape Town's 'coloured' population are a mix of black and white.	N
+GW27	T1023	Cape Town is overwhelmingly coloured.	E
+GW0	T1023	Cape Town has over double as many Black people as White Africans.	C
+GW0	T1023	Koreans are the most common Asian living in Cape Town.	N
+GW0	T1023	There are more Whites than Asians living in Cape Town.	E
+GW51	T1023	Cape Town is a multi-ethinic city.	C
+GW51	T1023	Cape Town is located in South Africa.	N
+GW51	T1023	Cape Town majority is Coloured and White people.	E
+GW14	T1029	The largest city in Canada has only one official languages.	C
+GW14	T1029	The Upper and Lower Houses of Canada's legislature govern from the same building.	N
+GW14	T1029	Twice as many Hindus are in Canada as Sikhs.	E
+GW27	T1029	Canada has four ethnicities and two religions that have reached the national one percent mark.	C
+GW27	T1029	Canada's African ethnicities are most likely to practice Islam.	N
+GW27	T1029	Canada's capital and largest city are different.	E
+GW28	T1029	Canada is a multi-ethnic, multi-faith and uni-lingual country.	C
+GW28	T1029	Canada is a member of the British Commonwealth of Nations.	N
+GW28	T1029	Canada majority population is religious.	E
+GW51	T1056	Camden is a city in New York.	C
+GW51	T1056	Camden is named after the city of Camden in England.	N
+GW51	T1056	Camden is the only city in New Jersey that lies above sea level.	E
+GW28	T1056	Camden, New Jersey is below sea-level.	C
+GW28	T1056	Camden, New Jersey is surrounded by water.	N
+GW28	T1056	Camden, New Jersey is in the top ten of Area size in the county.	E
+GW2	T1056	The area of Camden, New Jersey is less than 10% water.	C
+GW2	T1056	Camden, New Jersey was founded in the 1850's.	N
+GW2	T1056	Camden, New Jersey is located above sea level.	E
+GW51	T1098	Ceuta is a city formed in the 1st millennium AD that was first ruled by predominantly Muslim people.	C
+GW51	T1098	Ceuta is located on the coast of North Africa.	N
+GW51	T1098	Ceuta has been founded by the Carthaginians.	E
+GW28	T1098	Ceuta was an ancient city controlled by single ruler through its history.	C
+GW28	T1098	Ceuta was located on the Mediterranean Sea.	N
+GW28	T1098	Ceuta was first settled by Carthaginians.	E
+GW0	T1098	Ceuta didn't gain autonomous status until the mid-2000's.	C
+GW0	T1098	The Carthaginians gave up Ceuta to the Spanish.	N
+GW0	T1098	Ceuta fell under Muslim rule before ceding to Spain.	E
+GW22	T1151	Charles Sumner Tainter was born on April 25, 1854 in San Diego, California, U.S.	C
+GW22	T1151	Charles Sumner Tainter was an American national and never went out of USA.	N
+GW22	T1151	Charles Sumner Tainter died at the ago of 85 and married more than once during his lifetime.	E
+GW28	T1151	Charles Sumner Tainter was a unmarried American.	C
+GW28	T1151	Charles Sumner Tainter was a polygamist.	N
+GW28	T1151	Charles Sumner Tainter first married in his early thirties.	E
+GW0	T1151	Charles Sumner Tainter was born in the northwest area of the United States.	C
+GW0	T1151	Charles Tainter had several children with Lila Munro.	N
+GW0	T1151	Charles Sumner died in a country that was his origin.	E
+GW4	T1181	Kunstbibliothek Berlin has over a three quarters million books.	C
+GW4	T1181	Anyone is allowed to take out books from Kunstbibliothek Berlin.	N
+GW4	T1181	Kunstbibliothek Berlin doesn't charge a fee to use.	E
+GW52	T1181	Kunstbibliothek Berlin houses less than 400,000 pieces of information.	C
+GW52	T1181	Kunstbibliothek Berlin distributes to other locations.	N
+GW52	T1181	Kunstbibliothek Berlin doesn't require a deposit to use information.	E
+GW28	T1181	Kunstbibliothek Berlin is a library located in Munich.	C
+GW28	T1181	Kunstbibliothek Berlin is a privately funded library open to the public	N
+GW28	T1181	Kunstbibliothek Berlin doesn't share its books with other institutions.	E
+GW17	T1183	Candy Ride has less than a million dollars in total earnings.	C
+GW17	T1183	Candy Ride was named after the amusement park with the same name.	N
+GW17	T1183	Candy Ride won her all races.	E
+GW1	T1183	Candy Ride never lost one race.	C
+GW1	T1183	Candy Ride was owned by a married couple.	N
+GW1	T1183	Candy Ride was foaled right before the 21st century.	E
+GW4	T1183	The horse Candy Ride won only one race they were in.	C
+GW4	T1183	The horse Candy Ride is still alive today.	N
+GW4	T1183	The horse Candy Ride made over half a million dollars.	E
+GW27	T1224	Brian Francis Johnson is a actor.	C
+GW27	T1224	Brian Francis Johnson is best known in the field of glam rock.	N
+GW27	T1224	Brian Francis Johnson has been on less labels than genres he plays.	E
+GW12	T1224	The website acdcrocks.org is full of information about Brian Johnson.	C
+GW12	T1224	Brian Johnson is affiliated with acts such as AC/DC and Geordie.	N
+GW12	T1224	Brian Johnson was born in England is the autumn of 1947.	E
+GW1	T1224	Brian Johnson is American.	C
+GW1	T1224	Music was made on the Epic label by Brian Johnson before he did any for Atlantic.	N
+GW1	T1224	It's been less than 55 years that Brian Johnson has been active in his career.	E
+GW1	T1225	Charo has been active in her career for less than 55 years.	C
+GW1	T1225	Charo was a singer before she was an actress.	N
+GW1	T1225	Charo's first marriage lasted for more than ten years.	E
+GW27	T1225	Charo is an actress from Africa.	C
+GW27	T1225	Charo divorced Xavier Cugat while dating Kjell Rasten.	N
+GW27	T1225	Charo has fewer children than her marriages.	E
+GW4	T1225	Charo is from Africa.	C
+GW4	T1225	Charo began singing before they started acting.	N
+GW4	T1225	Charo has only been married twice.	E
+GW27	T1226	GTV gave the Anugerah Musik Indonesia awards their only coverage in their first year.	C
+GW27	T1226	The Anugerah Musik Indonesia awards are Indonesia's first music awards show.	N
+GW27	T1226	The Anugerah Musik Indonesia awards have been sponsored by different companies in Indonesia.	E
+GW28	T1226	Anugerah Musik Indonesia is an African music awards show.	C
+GW28	T1226	Anugerah Musik Indonesia is Indonesia's first nationally televised music awards show.	N
+GW28	T1226	Anugerah Musik Indonesia has been continuously sponsored by Samsung at some point.	E
+GW1	T1226	Anugerah Musik Indonesia was first awarded in the 21st century.	C
+GW1	T1226	Anugerah Musik Indonesia will be given out this year.	N
+GW1	T1226	Anugerah Musik Indonesia only has a board of directors.	E
+GW22	T1260	The ERJ family is a series of twin-engine long-haul Intercontinental airplane. jets produced by Embraer, a Brazilian aerospace company.	C
+GW22	T1260	ERJ family's primary users are ExpressJet, Envoy Air,  Trans States Airlines  and Piedmont Airlines only.	N
+GW22	T1260	ERJ family has three variants and its unit cost is US$15 Million.	E
+GW1	T1260	The ERJ family first flew in the mid 1990s.	C
+GW1	T1260	Envoy Air uses more aircraft from the ERJ family than ExpressJet.	N
+GW1	T1260	More than 1000 aircraft in the ERJ family have ever been built.	E
+GW28	T1260	ERJ family ERJ135 / ERJ140 / ERJ145 is a Italian airplane.	C
+GW28	T1260	Originally developed and produced in Brazil, the ERJ family  ERJ135 / ERJ140 / ERJ145 is now solely produced in China.	N
+GW28	T1260	ERJ family ERJ135 / ERJ140 / ERJ145 was a short-haul Regional airplane.	E
+GW75	T1269	Kuznetsov is an ship carrier that has a straight landing flight deck.	C
+GW75	T1269	Kuznetsov is the largest aircraft carrier.	N
+GW75	T1269	several classes will be built after the Kuznetsov	E
+GW28	T1269	The Kuznetsov-class aircraft carrier is a 21st century naval vessel.	C
+GW28	T1269	The Kuznetsov-class aircraft carrier is a Soviet-era naval vessel.	N
+GW28	T1269	The Kuznetsov-class aircraft carrier is not a civilian use floating airport.	E
+GW1	T1269	The Kuznetsov class was started in the winter of 1982.	C
+GW1	T1269	The Kuznetsov class is superior to the Kiev class.	N
+GW1	T1269	The Kuznetsov class has a length less than 350 m.	E
+GW12	T1276	Born in the later part of 1974, Chad Kroeger eventually became a singer around 2013.	C
+GW12	T1276	Chad Robert Turton is a musician who was married for two years.	N
+GW12	T1276	Chad Kroeger, associated with Nickelback, has 604 labels.	E
+GW28	T1276	Chad Kroeger is a English musician.	C
+GW28	T1276	Chad Kroeger is the lead singer for Nickleback.	N
+GW28	T1276	Chad Kroeger has experimented with hard rock and pop rock.	E
+GW1	T1276	Chad Kroeger has been an active musician for less than 20 years.	C
+GW1	T1276	Chad Kroeger played the guitar before he started playing the drums.	N
+GW1	T1276	Chad Kroeger has never been married once.	E
+GW28	T1357	Charlotte Rampling has not won any awards.	C
+GW28	T1357	Charlotte Rampling a widow with two daughters.	N
+GW28	T1357	Charlotte Rampling started acting befor her twenties.	E
+GW12	T1357	Charlotte Rampling was born with the same name.	C
+GW12	T1357	Paris is the home to Charlotte Rampling, an actress and singer.	N
+GW12	T1357	Charlotte Rampling was married to Jean-Michel Jarre after divorcing Bryan Southcombe.	E
+GW4	T1357	Charlotte Rampling moved from France to England.	C
+GW4	T1357	Charlotte Rampling had both their children with Jean-Michel Jarre.	N
+GW4	T1357	Charolette Rampling is known to not be a designer.	E
+GW27	T1374	Carlos Santana was born in Mexico but started his career in Canada.	C
+GW27	T1374	Carlos Santana first success came with the band Santana.	N
+GW27	T1374	Carlos Santana plays fewer instruments than labels he has been on.	E
+GW1	T1374	Carlos Santana has been active as a musician for less than 50 years.	C
+GW1	T1374	Carlos Santana would sing and play guitar at the same time.	N
+GW1	T1374	Based on place of birth, Carlos Santana is Mexican.	E
+GW12	T1374	Carlos Santana was born in Mexico in the Winter of 1947.	C
+GW12	T1374	For 54 years, Carlos Santana has been associated with labels such as RCA, Arista, Columbia and Polydor.	N
+GW12	T1374	Carlos Santana has been performing blues rock since 1960s.	E
+GW84	T1415	Julius Caesar was killed when he was in his twenties.	C
+GW84	T1415	Julius Caesar had no family to succeed him.	N
+GW84	T1415	Julius Caesar stayed single for some periods of time through his life.	E
+GW28	T1415	Julius Caesar was a Greek politician.	C
+GW28	T1415	Julius Caesar was assassinated by a fellow politician.	N
+GW28	T1415	Julius Caesar was involved with Populares.	E
+GW4	T1415	Julius Caesar was killed by himself.	C
+GW4	T1415	Julius Caesar had all of their children with their first wife.	N
+GW4	T1415	Julius Caesar was buried in Rome.	E
+GW1	T1418	Joseph Marie Jacquard died in the UK.	C
+GW1	T1418	Joseph Marie Jacquard was a weaver years before being an inventor.	N
+GW1	T1418	Joseph Marie Jacquard was born in the Summer of 1752.	E
+GW84	T1418	Joseph Marie Jacquard was born inside of the US.	C
+GW84	T1418	The programmable loom is the only invention that Joseph Marie Jacquard ever worked on.	N
+GW84	T1418	Joseph Marie Jacquard died inside of his native country.	E
+GW28	T1418	Joseph Marie Jacquard was an Asian inventor.	C
+GW28	T1418	Joseph Marie Jacquard was a self-taught weaver.	N
+GW28	T1418	Joseph Marie Jacquard was born in the 18th century.	E
+GW1	T1419	Julian Lennon has been making music since he was a adult.	C
+GW1	T1419	Julian Lennon learned to play the keyboards before he played guitar.	N
+GW1	T1419	Julian Lennon only made music in more than one century.	E
+GW84	T1419	Julian Lennon began performing in the 1950s.	C
+GW84	T1419	Julian Lennon is the son of another famous performer.	N
+GW84	T1419	Julian Lennon is currently signed to Charisma.	E
+GW4	T1419	Julian Lennon was born in the United States.	C
+GW4	T1419	Julian Lennon began performing as a child.	N
+GW4	T1419	Julian Lennon has been actively performing in recent years.	E
+GW4	T1421	John Mayer got fame when they were under 20.	C
+GW4	T1421	John Mayer learned piano before they learned guitar.	N
+GW4	T1421	John Mayer has collaborated with Dead & Company.	E
+GW28	T1421	John Mayer is a teen musician.	C
+GW28	T1421	John Mayer is an award-winning singer-songwriter.	N
+GW28	T1421	John Mayer has been active since his twenties.	E
+GW1	T1421	John Mayer has been active making music for less than 20 years.	C
+GW1	T1421	John Mayer played harmonica in his life before he ever played piano.	N
+GW1	T1421	John Mayer was born in the Fall of 1977.	E
+GW1	T1426	Katey Sagal has been active in acting for less than 45 years.	C
+GW1	T1426	Katey Sagal has always lived in California.	N
+GW1	T1426	Katey Sagal was born in the Winter of 1954.	E
+GW28	T1426	Katey Sagal is an entertainer with many dancing credits to her name.	C
+GW28	T1426	Katey Sagal is married with four daughters.	N
+GW28	T1426	Katey Sagal started her career in her thirties.	E
+GW84	T1426	Katey Segal has less than two children.	C
+GW84	T1426	Katey Segal still lives in Los Angeles.	N
+GW84	T1426	Katey Segal has been married four times.	E
+GW1	T1428	Katharine Hepburn lived her life in the same century.	C
+GW1	T1428	Katharine Hepburn always called Connecticut home.	N
+GW1	T1428	Katharine Hepburn's career lasted more than 60 years.	E
+GW84	T1428	Katharine Hepburn was born and died in different states.	C
+GW84	T1428	Katharine Hepburn was in a movie with Spencer Tracy.	N
+GW84	T1428	Katharine Hepburn is buried in the state she was born.	E
+GW28	T1428	Katharine Hepburn was never won an award.	C
+GW28	T1428	Katharine Hepburn only worked in films.	N
+GW28	T1428	Katharine Hepburn became active in film in her twenties.	E
+GW84	T1429	Johnny Drum originated from the western part of the US.	C
+GW84	T1429	Johnny Drum is the most popular bourbon from Kentucky.	N
+GW84	T1429	Johnny Drum has less than 50% alcohol.	E
+GW1	T1429	Johnny Drum (Green label) has a unique single variant.	C
+GW1	T1429	KBD has always been the maker of Johnny Drum (Green label).	N
+GW1	T1429	Johnny Drum (Green label) has it's origins on the East coast of the United States.	E
+GW4	T1429	Johnny Drum (Green label) has under 40% alcohol.	C
+GW4	T1429	Johnny Drum (Green label) is made by KBD.	N
+GW4	T1429	Johnny Drum (Green label) has a very high alcohol content.	E
+GW4	T1450	Johan Petter Johansson worked as a Swedish painter.	C
+GW4	T1450	Johan Petter Johansson lived their whole life in Sweden	N
+GW4	T1450	Johan Petter Johansson got married only once in his life.	E
+GW28	T1450	The inventor of the adjustable spanner was Italian.	C
+GW28	T1450	Johan Petter Johansson was single when he invented the adjustable spanner.	N
+GW28	T1450	Johan Petter Johansson was a known man of great intellect.	E
+GW84	T1450	Johan Petter Johansson was born in the summer time	C
+GW84	T1450	Johan Petter Johansson died before his wife Matilda.	N
+GW84	T1450	Johan Petter Johansson was known for more than one invension.	E
+GW84	T1451	Jin was established in the second century.	C
+GW84	T1451	Jin returned to their current region after their evacuation.	N
+GW84	T1451	Jin is ruled by monarchy.	E
+GW4	T1451	Jin had only one religion practiced when it existed.	C
+GW4	T1451	Jin eventually evolved into Liu Song	N
+GW4	T1451	Jin was a region in China.	E
+GW1	T1451	Jin first changed capitals in the fifth century.	C
+GW1	T1451	Jin only ever had a monarchy as a government.	N
+GW1	T1451	Jin's last emperor ended his rule in the fifth century.	E
+GW1	T1452	John B. Stetson passed away in the second decade of the 20th century.	C
+GW1	T1452	John B. Stetson lived in the United States his whole life.	N
+GW1	T1452	John B. Stetson was born in the second quarter of the 19th century.	E
+GW14	T1452	Many cowboys can cover their hands thanks to John B. Stetson.	C
+GW14	T1452	John Stetson was born in a different state from where he died.	N
+GW14	T1452	John Stetson was born in the 19th century.	E
+GW28	T1452	John B. Stetson is famous for creating the Beret hat.	C
+GW28	T1452	John B. Stetson became rich off his creation.	N
+GW28	T1452	John B. Stetson died in the 20th century.	E
+GW14	T1455	Jeff Bezos has lived only on west coast of the United States.	C
+GW14	T1455	Jeff Bezos changed his last name the same year he founded Amazon.	N
+GW14	T1455	Jeff Bezos has at least one house.	E
+GW1	T1455	Jeff Bezos has been married for less than 25 years.	C
+GW1	T1455	All of Jeff Bezos' children have MacKenzie Bezos as their biological mother.	N
+GW1	T1455	Jeff Bezos was born in the Winter of 1964.	E
+GW84	T1455	Jeff Bezos was born with a same last name.	C
+GW84	T1455	Amazon is the only company Jeff Bezos owns.	N
+GW84	T1455	Jeff Bezos and his wife has more than 2 children.	E
+GW28	T1459	Disco and R&B band, KC and the Sunshine Band are from Asia.	C
+GW28	T1459	Many awards have been won by KC and the Sunshine Band during their long career.	N
+GW28	T1459	KC and the Sunshine Band have had performance interruption since the 70s.	E
+GW4	T1459	KC and the Sunshine Band never took a break.	C
+GW4	T1459	KC and the Sunshine Band had many labels they were signed to at once.	N
+GW4	T1459	KC and the Sunshine Band is known for playing Disco music.	E
+GW84	T1459	KC and the Sunshine Band originated in a state from the north.	C
+GW84	T1459	KC and the Sunshine Band uses a lot of guitar.	N
+GW84	T1459	KC and the Sunshine Band was based on the east coast.	E
+GW1	T1461	JoJo has been making music for less than two decades.	C
+GW1	T1461	JoJo was active in acting before songwriting.	N
+GW1	T1461	JoJo's birth took place in the winter of 1990.	E
+GW84	T1461	JoJo is a singer in her fifties.	C
+GW84	T1461	JoJo can play the piano.	N
+GW84	T1461	JoJo started singing when she was a child.	E
+GW4	T1461	JoJo began performing when she was past her teens.	C
+GW4	T1461	JoJo has won several awards for her R&B work.	N
+GW4	T1461	JoJo is generally known for singing R&B music.	E
+GW0	T1465	Keanu Reeves resides in the same continent than the one he was born.	C
+GW0	T1465	Keanu Reeves has starred in every movie he directed.	N
+GW0	T1465	Keanu Reeves was born in a different country from the country of his citizenship.	E
+GW84	T1465	Keanu Reeves was born inside of the US.	C
+GW84	T1465	Keanu Reeves has lived in the US for most of his life.	N
+GW84	T1465	Keanu Reeves has had children.	E
+GW4	T1465	Keanu Reeves has been acting since they were 2.	C
+GW4	T1465	Keanu Reeves moved to the United States as a child.	N
+GW4	T1465	Keanu Reeves has been married only once.	E
+GW28	T1468	Jonathan Tweet is an British college graduate.	C
+GW28	T1468	He is married with one daughter and two cats.	N
+GW28	T1468	Jonathan Tweet is not a pen name but his real family name.	E
+GW0	T1468	Jonathan Tweet was born in Texas.	C
+GW0	T1468	Jonathan Tweet has designed several console video games.	N
+GW0	T1468	Jonathan Tweet currently resides on the west coast of the U.S..	E
+GW1	T1468	Jonathan Tweet's exact Birthday is known.	C
+GW1	T1468	Before ever writing a book, Jonathan Tweet was a blogger.	N
+GW1	T1468	Jonathan Tweet lives on the west coast.	E
+GW84	T1469	Justice was an unlimited series,	C
+GW84	T1469	Justice stopped being produced after not being sold when produced bimonthly.	N
+GW84	T1469	Justice is produced bimonthly.	E
+GW1	T1469	Less than a dozen issues were made of Justice.	C
+GW1	T1469	The Legion of Doom characters were more prominent in Justice than the Justice League of America characters.	N
+GW1	T1469	Justice was first published in the Fall of 2005.	E
+GW28	T1469	Justice was a Bimonthly comic with a unlimited run.	C
+GW28	T1469	Justice featured Batman and Robin.	N
+GW28	T1469	Justice published for two years.	E
+GW4	T1474	Jurassic World: Fallen Kingdom made a loss at the box office.	C
+GW4	T1474	Jurassic World: Fallen Kingdom won several awards for the work done on it.	N
+GW4	T1474	Jurassic World: Fallen Kingdom was written and produced by different people.	E
+GW1	T1474	Jurassic World: Fallen Kingdom has a run time under an hour.	C
+GW1	T1474	Jurassic World: Fallen Kingdom went over it's initial budget.	N
+GW1	T1474	Jurassic World: Fallen Kingdom made a profit more than billion dollars after accounting for it's budget.	E
+GW84	T1474	Jurassic World: Fallen Kingdom runs for under two hours.	C
+GW84	T1474	Jurassic World: Fallen Kingdom was the only film directed by J. A. Bayona.	N
+GW84	T1474	Jurassic World: Fallen Kingdom made more than eight times the money than it was budgeted for.	E
+GW84	T1478	John Wesley Harding was released in the spring.	C
+GW84	T1478	John Wesley Harding was the only recording that Bob Johnston produced.	N
+GW84	T1478	John Wesley Harding lasts just over a half hour.	E
+GW1	T1478	John Wesley Harding only took about two months and a half to record.	C
+GW1	T1478	John Wesley Harding was originally supposed to be longer.	N
+GW1	T1478	John Wesley Harding came out in the Fall of 1967.	E
+GW4	T1478	John Wesley Harding took under a month to record.	C
+GW4	T1478	John Wesley Harding was written by one person.	N
+GW4	T1478	John Wesley Harding is under an hour in length.	E
+GW28	T1479	Jim Mattis is a billionaire.	C
+GW28	T1479	Jim Mattis is a retired General.	N
+GW28	T1479	Jim Mattis is not a naturalized citizen of the United States.	E
+GW84	T1479	Jim Mattis was born in a midwestern state.	C
+GW84	T1479	Jim Mattis graduated with honors from Central Washington University.	N
+GW84	T1479	Jim Mattis never filed for bankruptcy.	E
+GW1	T1479	Jim Mattis was born right at the turn of the 21st century.	C
+GW1	T1479	Jim Mattis made most of his 5 million dollars later in life.	N
+GW1	T1479	Jim Mattis pursued a higher learning degree.	E
+GW4	T1486	Joseph Engelberger got their bachelors and masters degree from the different schools.	C
+GW4	T1486	Joseph Engelberger lived their whole life on the east coast of the USA.	N
+GW4	T1486	Joseph Engelberger has won an award for their robots.	E
+GW1	T1486	Joseph Engelberger was born in the second half of the 20th century.	C
+GW1	T1486	The Japan Prize was given to Joseph Engelberger for his work in robotics.	N
+GW1	T1486	Joseph Engelberger lived for slightly more than nine decades.	E
+GW84	T1486	Joseph Engelberger was born in the northwest part of the country.	C
+GW84	T1486	Joseph Engelberger graduated with honors from Columbia.	N
+GW84	T1486	Joseph Engelberger won the Japan prize within 50 years of graduating from Columbia.	E
+GW0	T1487	Jewess with Oranges is taller than it is wide.	C
+GW0	T1487	Jewess with Oranges is on display in the artists' home country.	N
+GW0	T1487	Jewess with Oranges took atleast one winter.	E
+GW4	T1487	Jewess with Oranges was painted in the 20th century.	C
+GW4	T1487	Jewess with Oranges has always been located in Warsaw.	N
+GW4	T1487	Jewess with Oranges is under 10 square feet in size.	E
+GW1	T1487	At it's widest spot, Jewess with Oranges is one and two third feet long.	C
+GW1	T1487	The National Museum only has Jewess with Oranges on loan.	N
+GW1	T1487	It took less than a decade to paint Jewess with Oranges.	E
+GW0	T1490	Josh Tillman's music career started in his mid-thirties.	C
+GW0	T1490	Josh Tillman plays each instrument heard in his music.	N
+GW0	T1490	Josh Tillman was born in a major east coast city.	E
+GW1	T1490	osh Tillman was born in the last decade of the 20th century.	C
+GW1	T1490	Joshua Michael Tillman has been called Josh since he was a child.	N
+GW1	T1490	Josh Tillman has been active in music for less than 20 years.	E
+GW84	T1490	Josh Tillman has been performing for three years.	C
+GW84	T1490	Josh Tillman has sung with Lady Gaga.	N
+GW84	T1490	Josh Tillman is in his thirties.	E
+GW1	T1493	Josh Homme has had an active career for less than three decades.	C
+GW1	T1493	Josh Homme got the nickname Zombie Zebra before he got the nickname DP Pete.	N
+GW1	T1493	Spring is when Josh Homme celebrates his Birthday.	E
+GW28	T1493	Josh Homme is a pop musician from California.	C
+GW28	T1493	Josh Homme has won many awards for his music.	N
+GW28	T1493	Josh Homme has been active since his teens.	E
+GW4	T1493	Josh Homme has been performing since they were 2.	C
+GW4	T1493	Josh Homme has won awards for their albums.	N
+GW4	T1493	Josh Homme has been on several labels their whole life.	E
+GW1	T1496	Jerry Lee Lewis has a Spring Birthday, in the year 1935.	C
+GW1	T1496	Before learning to play the guitar, Jerry Lee Lewis learned how to play the piano.	N
+GW1	T1496	Jerry Lee Lewis has been active since before the turn of the 21st century.	E
+GW84	T1496	Jerry Lee Lewis is a performer that is in his teens.	C
+GW84	T1496	Jerry Lee Lewis was five when he learned to play the piano.	N
+GW84	T1496	Jerry Lee Lewis started performing after the half of 20th century.	E
+GW0	T1496	Jerry Lee Lewis was born in the deep south area of Asia.	C
+GW0	T1496	Jerry Lee Lewis was signed to Sun Records at the same time as Elvis Presley.	N
+GW0	T1496	Jerry Lee Lewis never quit performing.	E
+GW84	T1511	Juneau is known as a country capital.	C
+GW84	T1511	Juneau has more urban land than rural land.	N
+GW84	T1511	Juneau has more land than it has water.	E
+GW4	T1511	Juneau, Alaska is below the sea level.	C
+GW4	T1511	Juneau, Alaska has many lakes around it.	N
+GW4	T1511	Juneau, Alaska has more lake area than urban area.	E
+GW1	T1511	Juneau, Alaska has an elevation below sea level.	C
+GW1	T1511	Juneau, Alaska has always been the capital of Alaska.	N
+GW1	T1511	Water covers about a sixth of the area of Juneau, Alaska.	E
+GW28	T1513	The actor, John Goodman is unmarried male.	C
+GW28	T1513	Many awards have graced John Goodman since he commenced his acting career in the mid-1970ss.	N
+GW28	T1513	John Goodman continues to work to this day.	E
+GW1	T1513	The Winter of 1952 is when John Goodman was born.	C
+GW1	T1513	John Goodman has never had another job other than being an actor.	N
+GW1	T1513	John Goodman has been active in acting for under 50 years.	E
+GW84	T1513	John Goodman attended college in different state than home state.	C
+GW84	T1513	John Goodman was active in school plays.	N
+GW84	T1513	John Goodman has single child.	E
+GW0	T1517	Jidenna's professional career started when she was 20 years old.	C
+GW0	T1517	Jidenna has been featured on Kendrick Lamar's albums.	N
+GW0	T1517	Jidenna is from the mid west region of the U.S..	E
+GW84	T1517	Jidenna is a performer in his fifties.	C
+GW84	T1517	Jidenna wrote a song for Issa Rae.	N
+GW84	T1517	Jidenna performs music other than rap music.	E
+GW1	T1517	Jidenna has been active in music for six years.	C
+GW1	T1517	Jidenna has made music with Kendrick Lamar.	N
+GW1	T1517	Jidenna was born in the summer of 1985.	E
+GW85	T1520	Kathie Lee Gifford is a TV host and dancer.	C
+GW85	T1520	Kathie Lee Gifford has had a very memorable career and life.	N
+GW85	T1520	Kathie Lee Gifford had children.	E
+GW4	T1520	Kathie Lee Gifford had the same last name as their stage name.	C
+GW4	T1520	Kathie Lee Gifford had both their children with their second husband.	N
+GW4	T1520	Kathie Lee Gifford began their career when they were 17.	E
+GW1	T1520	A few years after the half of the 21st century is when Kathie Lee Gifford was born.	C
+GW1	T1520	Kathie Lee Gifford was a talk show host prior to her being a television presenter.	N
+GW1	T1520	Kathie Lee Gifford has been active for less than five decades.	E
+GW84	T1522	John Roebuck was born during the fall.	C
+GW84	T1522	John Roebuck was buried in the Carriden Churchyard in July.	N
+GW84	T1522	Carriden Churchyard was in his eighties when he died.	E
+GW1	T1522	The third quarter of the 18th century was when John Roebuck was born.	C
+GW1	T1522	John Roebuck's entire life was spent living in England.	N
+GW1	T1522	The Summer during 1794 is when John Roebuck kicked the bucket.	E
+GW28	T1522	John Roebuck was an illiterate Englishman.	C
+GW28	T1522	John Roebuck was married with children.	N
+GW28	T1522	John Roebuck lived in the 18th century.	E
+GW28	T1523	John Harrison was an Italian Horologist.	C
+GW28	T1523	John Harrison was married with children.	N
+GW28	T1523	John Harrison was awarded the Copley Medal in his 50s.	E
+GW1	T1523	John Harrison won the Copley Medal right near the middle of the 19th century.	C
+GW1	T1523	John Harrison spent his whole life in England.	N
+GW1	T1523	John Harrison died in the spring of 1776.	E
+GW84	T1523	John Harrison was born in Asia.	C
+GW84	T1523	John Harrison has lived in Europe all his life.	N
+GW84	T1523	John Harrison was born in the 1600s.	E
+GW28	T1552	Jimmy Buffett is a country painter.	C
+GW28	T1552	Jimmy Buffett is an award-winning musician.	N
+GW28	T1552	Jimmy Buffett has been active since age 23.	E
+GW84	T1552	Jimmy Buffett has no middle name.	C
+GW84	T1552	Jimmy Buffett lived in Mississippi for most of his life.	N
+GW84	T1552	Jimmy Buffett has lived on the Gulf Coast.	E
+GW1	T1552	Jimmy Buffett shares his birthday with New Year Day.	C
+GW1	T1552	James William Buffett III started going by Jimmy when he was still a child.	N
+GW1	T1552	Jimmy Buffett has made music less than six different decades.	E
+GW4	T1564	Jordan Belfort spent time in prison for murder.	C
+GW4	T1564	Jordan Belfort has always lived in New York.	N
+GW4	T1564	Jordan Belfort had to serve their term in person and by paying money.	E
+GW1	T1564	Jordan Belfort was convicted of blue collar crimes.	C
+GW1	T1564	Jordan Belfort was a motivational speaker prior to being an author.	N
+GW1	T1564	Jordan Belfort did less than two years in jail, though he was sentenced to four years.	E
+GW28	T1564	Jordan Belfort is an African convicted of securities fraud.	C
+GW28	T1564	Jordan Belfort is a single-father with two daughters.	N
+GW28	T1564	Jordan Belfort married his first wife at the age of 23.	E
+GW85	T1566	Judith Beheading Holofernes was a living artist.	C
+GW85	T1566	Judith Beheading Holofernes her work is very old now.	N
+GW85	T1566	Judith Beheading Holofernes was one of importance.	E
+GW1	T1566	At it's widest spot, Judith Beheading Holofernes is under six feet wide.	C
+GW1	T1566	The Galleria Nazionale d'Arte Antica at Palazzo Barberini has Judith Beheading Holofernes in a permanent exhibit.	N
+GW1	T1566	Judith Beheading Holofernes was painted towards the end of the 16th century.	E
+GW4	T1566	Judith Beheading Holofernes was not painted by Caraviaggio.	C
+GW4	T1566	Judith Beheading Holofernes was painted in Rome.	N
+GW4	T1566	Judith Beheading Holofernes is under 10 square feet in size.	E
+GW14	T1567	Kareem Abdul-Jabbar is shorter than the average American.	C
+GW14	T1567	Kareem Abdul-Jabbar has lived in New York all his life.	N
+GW14	T1567	Kareem Abdul-Jabbar weighs more than the average 5th grade student.	E
+GW4	T1567	Kareem Abdul-Jabbar is less than 7 feet tall.	C
+GW4	T1567	Kareem Abdul-Jabbar played basketball in the state he was born in.	N
+GW4	T1567	Kareem Abdul-Jabbar did n't pass away when he was young.	E
+GW1	T1567	Kareem Abdul-Jabbar was born in the Spring of 1957.	C
+GW1	T1567	Kareem Abdul-Jabbar has always been an American.	N
+GW1	T1567	Kareem Abdul-Jabbar was born on the east coast.	E
+GW28	T1568	Juneau, Alaska was not named after an foreign inuit tribe.	C
+GW28	T1568	Juneau, Alaska is a city in the United States of America.	N
+GW28	T1568	It took less than two decades for Juneau, Alaska to be officially incorporated.	E
+GW1	T1568	Juneau, Alaska was incorporated at the turn of the 21st century.	C
+GW1	T1568	Joe Juneau was the founder of Juneau, Alaska.	N
+GW1	T1568	The Greater Juneau Borough was established in the fall of 1963.	E
+GW40	T1568	Juneau, Alaska was incorporated in 1900 and was named after Bob Juneau.	C
+GW40	T1568	Juneau, Alaska was also called Juneau City and was later changed to just Juneau.	N
+GW40	T1568	Juneau, Alaska became a home-rule city in October of 1960.	E
+GW28	T1569	John Henry was a female racehorse.	C
+GW28	T1569	The lineage could be traced back for generations.	N
+GW28	T1569	John Henry had a rewarding record in his career.	E
+GW84	T1569	John Henry was trained by only one man.	C
+GW84	T1569	John Henry was the only horse trained by Robert Donato.	N
+GW84	T1569	John Henry won more races than he lost.	E
+GW1	T1569	John Henry won none of the races he partook in.	C
+GW1	T1569	John Henry was more successful at racing than Prince Blessed, his grandsire.	N
+GW1	T1569	John Henry made a few million dollars in earnings.	E
+GW14	T1571	You can find no online domain dedicated to Jordan Fisher.	C
+GW14	T1571	Jordan Fisher plays piano more than guitar on his recordings.	N
+GW14	T1571	Jordan Fisher played in albums.	E
+GW28	T1571	Jordan Fisher is a young Indian entertainer.	C
+GW28	T1571	Jordan Fisher lives in Manhattan with his cat and two dogs.	N
+GW28	T1571	Jordan Fisher has been active since he turned fifteen.	E
+GW84	T1571	Jordan Fisher has been actively performing for fifteen years.	C
+GW84	T1571	Jordan Fisher has been playing the guitar for longer than the piano.	N
+GW84	T1571	Jordan Fisher has been performing for under twenty years.	E
+GW84	T1573	Jed Wolf worked less than ten years.	C
+GW84	T1573	Jed Wolf worked in several films.	N
+GW84	T1573	Jed Wolf was owned by a person named Clint.	E
+GW28	T1573	Jed Wolf was a bird that performed in films.	C
+GW28	T1573	Jed Wolf was paid handsomely for his roles in movies.	N
+GW28	T1573	Jed Wolf worked more than half his life acting in movies.	E
+GW1	T1573	Jed Wolf finally passed away in the winter of 1995.	C
+GW1	T1573	Jed Wolf only ever acted in the United States.	N
+GW1	T1573	Jed Wolf was active as an animal actor for over 10 years.	E
+GW0	T1574	John Wilkinson was born and died in different countries.	C
+GW0	T1574	John Wilkinson built the world's largest iron boat.	N
+GW0	T1574	The world's first iron bridge was built by multiple man.	E
+GW84	T1574	John Wilkinson died from gunshots.	C
+GW84	T1574	John Wilkinson was best known as an entrepreneur.	N
+GW84	T1574	John Wilkinson was born and died in same country.	E
+GW4	T1574	John Wilkinson was known for their wooden working.	C
+GW4	T1574	John Wilkinson won awards for their iron boat.	N
+GW4	T1574	John Wilkinson was born in the United Kingdom.	E
+GW4	T1575	The Kingdom of Great Joseon had 3 main kings.	C
+GW4	T1575	The Kingdom of Great Joseon was given back to Korea after Japan annexed it.	N
+GW4	T1575	The Kingdom of Great Joseon was ruled under a democracy.	E
+GW28	T1575	Multitheism was present in the Kingdom of Great Joseon.	C
+GW28	T1575	Buddhism was the most popular religion in the Kingdom of Great Joseon.	N
+GW28	T1575	Manchu invaded Kingdom of Great Joseon more than once.	E
+GW74	T1575	Christianity was a recognised religion during the reign of Jeongjo (22nd).	C
+GW74	T1575	Sejong the Great (4th). was responsible for The Promulgation of the Korean alphabet	N
+GW74	T1575	The Coup of 1388 took place before the reign of Taejo (1st).	E
+GW84	T1576	Jeepers Creepers 3 runs for less than an hour and a half.	C
+GW84	T1576	Jeepers Creepers 3 was the first film directed by Victor Salva.	N
+GW84	T1576	Jeepers Creepers 3 was released in the Fall.	E
+GW1	T1576	Jeepers Creepers 3 has a run time over two hours long.	C
+GW1	T1576	Jeepers Creepers 3 recouped it's budget at the box office.	N
+GW1	T1576	Jeepers Creepers 3 came out in the Fall of 2017.	E
+GW28	T1576	Jeepers Creepers 3 is small-budget African film.	C
+GW28	T1576	Jeepers Creepers 3 was not a critical or box-office success.	N
+GW28	T1576	Jeepers Creepers 3 starred several actors.	E
+GW4	T1584	Josiah Warren focused mostly on pop culture.	C
+GW4	T1584	Josiah Warren lived their whole life in Boston.	N
+GW4	T1584	Josiah Warren was a supporter of anarchism.	E
+GW85	T1584	Josiah Warren was a huge activist on communism.	C
+GW85	T1584	Josiah Warren wrote a few books on anarchism.	N
+GW85	T1584	Josiah Warren was not killed at a young age.	E
+GW1	T1584	Josiah Warren was born in the late 20th Century.	C
+GW1	T1584	Josiah Warren always lived in Boston, Massachusetts.	N
+GW1	T1584	Josiah Warren died in the spring of 1874.	E
+GW4	T1591	Keith Richards began performing when they were 27.	C
+GW4	T1591	Keith Richards had five children with Patti Hansen.	N
+GW4	T1591	Keith Richards has never been on the Rolling Stones label.	E
+GW84	T1591	Keith Richards has five surviving children.	C
+GW84	T1591	Keith Richards was signed to Virgin for longer than he was signed to Mindless London.	N
+GW84	T1591	Keith Richards never took a break from performing in his career.	E
+GW28	T1591	Keith Richards is an English pop musician.	C
+GW28	T1591	Keith Richards is married with 3 daughters and 1 son.	N
+GW28	T1591	Keith Richards has been active since his teens.	E
+GW4	T1594	Jon Jones is known for being a dancer.	C
+GW4	T1594	Jon Jones has won every match they were in.	N
+GW4	T1594	Jon Jones weighs over 200 pounds.	E
+GW1	T1594	Jon Jones celebrates his Birthday in the Winter.	C
+GW1	T1594	Jon Jones has always lived in the United States.	N
+GW1	T1594	Jon Jones has been active in wrestling for less than 15 years.	E
+GW84	T1594	Jon Jones goes by only his real name.	C
+GW84	T1594	Jon Jones has been in wrestling since 2008.	N
+GW84	T1594	Jon Jones trained under Roberto Alencar.	E
+GW84	T1602	Joseph Aspdin was born in Wakefield, England.	C
+GW84	T1602	Joseph Aspdin lived in England all his life.	N
+GW84	T1602	Joseph Aspdin was involved in bricklayer and was inventor of Portland cement.	E
+GW1	T1602	Joseph Aspdin was born in the Winter of 1778.	C
+GW1	T1602	Joseph Aspdin was a bricklayer before he was a mason.	N
+GW1	T1602	Joseph Aspdin lived his life in two centuries.	E
+GW28	T1602	Joseph Aspdin was an American inventor.	C
+GW28	T1602	Joseph Aspdin profited from his invention.	N
+GW28	T1602	Joseph Aspdin was born in last month of year 1778.	E
+GW4	T1607	Jigsaw made a loss when it was at the box office.	C
+GW4	T1607	Jigsaw was written by the same person that directed it.	N
+GW4	T1607	Jigsaw was distributed by only one company.	E
+GW1	T1607	Jigsaw has a run time less than an hour and a half long.	C
+GW1	T1607	Peter Goldfinger wrote more of Jigsaw's screenplay than Josh Stolberg.	N
+GW1	T1607	Jigsaw made less than 100 million over it's budget at the box office.	E
+GW84	T1607	Jigsaw was a music track that ran over an hour and a half.	C
+GW84	T1607	Jigsaw was released in France a year after it was relaesed in the US.	N
+GW84	T1607	Jigsaw was a movie by Warner Brothers' counterpart Lionsgate.	E
+GW0	T1608	John Cena married Elizabeth Huberdeau ten years before his pro wrestling debut.	C
+GW0	T1608	John Cena has made more money acting than he has as a wrestler.	N
+GW0	T1608	John Cena is originally from the  area of northeastern part of the US.	E
+GW1	T1608	John Cena made his wrestling debut just after the 20th century started.	C
+GW1	T1608	John Cena divorced from Elizabeth Huberdeau due to infidelity.	N
+GW1	T1608	The Spring of 1977 is when John Cena was born.	E
+GW84	T1608	John Cena is less than six feet tall.	C
+GW84	T1608	John Cena first appeared in the WWE in 1999.	N
+GW84	T1608	John Cena has been married before.	E
+GW1	T1621	Joe Cocker's career lasted for less than 50 years.	C
+GW1	T1621	Joe Cocker made music on the Capitol label after making music for EMI.	N
+GW1	T1621	Joe Cocker's death occurred in the Winter of 2014.	E
+GW0	T1621	Joe Cocker died three days after Christmas 2014.	C
+GW0	T1621	Joe Cocker was the lead singer of The Grease Band.	N
+GW0	T1621	Joe Cocker died in a different country from where he was born.	E
+GW4	T1621	Joe Cocker is known for playing hip hop music.	C
+GW4	T1621	Joe Cocker learned to play piano before they could sing.	N
+GW4	T1621	Joe Cocker lived in different countries.	E
+GW1	T1634	ourney into Mystery first was published a couple years before the turn of the 20th century.	C
+GW1	T1634	Atlas published more issues of Journey into Mystery than Marvel.	N
+GW1	T1634	Journey into Mystery was last published in the Fall of 2013.	E
+GW4	T1634	Journey into Mystery has under 100 issues.	C
+GW4	T1634	Journey into Mystery has won many awards.	N
+GW4	T1634	Journey into Mystery is considered to be a horror, superhero book.	E
+GW84	T1634	Journey into the Mystery has less than 100 issues.	C
+GW84	T1634	Ironman makes an appearance in Journey into the Mystery.	N
+GW84	T1634	The first publication of Journey into the Mystery was before 2000.	E
+GW84	T1636	Jeepers Creepers ran for under an hour and a half.	C
+GW84	T1636	Jeepers Creepers was the first film Justin Long appeared in.	N
+GW84	T1636	Jeepers Creepers made more money than its budget.	E
+GW0	T1636	Jeepers Creepers was released in the fall of 2001.	C
+GW0	T1636	Jeepers Creepers was Gina Philips first starring role.	N
+GW0	T1636	Jeepers Creepers made more at the box office than it cost to make.	E
+GW1	T1636	Jeepers Creepers has a run time that is close to 2 hours long.	C
+GW1	T1636	Jeepers Creepers was released in Germany prior to it's release in the United States.	N
+GW1	T1636	Jeepers Creepers made over 40 million dollars over it's budget at the box office.	E
+GW14	T1640	KALEO started in a country located in US.	C
+GW14	T1640	All original KALEO band members have remained with the group since 2012.	N
+GW14	T1640	You can go online and view information about an Elektra signed band.	E
+GW1	T1640	KALEO was formed a six years into the 21st century.	C
+GW1	T1640	KALEO only plays music in Iceland.	N
+GW1	T1640	KALEO does have a web presence.	E
+GW84	T1640	KALEO was been performing for under five years.	C
+GW84	T1640	KALEO has more indie folk songs than garage punk songs.	N
+GW84	T1640	KALEO is an European punk band.	E
+GW1	T1641	Joni Mitchell was born in the second half of the 20th century.	C
+GW1	T1641	Joni Mitchell recorded music on the Asylum label before recording on Geffen.	N
+GW1	T1641	Joni Mitchell has had an active career for less than 45 years.	E
+GW28	T1641	Joni Mitchell is a dancer that has performed since the 1960s.	C
+GW28	T1641	Joni Mitchell is single with no children.	N
+GW28	T1641	Joni Mitchell started her career in her early twenties.	E
+GW84	T1641	Joni Mitchell is a performer in her twenties.	C
+GW84	T1641	Joni Mitchell was associated with Jimmie Hendrix.	N
+GW84	T1641	Joni Mitchell started performing in the early half of the 1960s.	E
+GW1	T1643	Kaatru Veliyidai came out in the fall of 2017.	C
+GW1	T1643	Had Karthi not starred in Kaatru Veliyidai, then Aditi Rao Hydari would have been the star.	N
+GW1	T1643	Kaatru Veliyidai has a run time just over two hours.	E
+GW28	T1643	Kaatru Veliyidai is an Tulu-language Indian film.	C
+GW28	T1643	Kaatru Veliyidai is a low-budget thriller released only in India.	N
+GW28	T1643	The film written, produced and directed by the same separate people.	E
+GW4	T1643	Kaatru Veliyidai was not written and directed by the same person.	C
+GW4	T1643	Kaatru Veliyidai won many awards for its work.	N
+GW4	T1643	Kaatru Veliyidai was under three hours long.	E
+GW4	T1644	Kaabil had the screenplay and story written by the different person.	C
+GW4	T1644	Kaabil was able to win some awards.	N
+GW4	T1644	Kaabil had a budget over 300 million.	E
+GW1	T1644	Kaabil has a run time that is less than two hours long.	C
+GW1	T1644	Yami Gautam would have been the lead in Kaabil, if Hrithik Roshan wasn't.	N
+GW1	T1644	Kaabil came out in the Winter of 2017.	E
+GW84	T1644	Kaabil was released overseas more than five years ago.	C
+GW84	T1644	Kaabil is the only film directed by Sanjay Gupta.	N
+GW84	T1644	Kaabil runs for more than two hours.	E
+GW4	T1652	Jeffrey Dahmer wound up killing more than 20 people.	C
+GW4	T1652	Jeffrey Dahmer killed people for over a decade.	N
+GW4	T1652	Jeffrey Dahmer wound up in prison.	E
+GW6	T1652	Jeffrey Dahmer was a Californian.	C
+GW6	T1652	Jeffrey Dahmer died in the Columbia Correctional Institute.	N
+GW6	T1652	Jeffrey Dahmer never committed crimes after being apprehended.	E
+GW84	T1652	Jeffrey Dahmer killed people in the early 1800s.	C
+GW84	T1652	Jeffrey Dahmer killed mostly men.	N
+GW84	T1652	Jeffrey Dahmer was captured at least once.	E
+GW84	T1654	Johnnie Walker is made inside of the US.	C
+GW84	T1654	Johnnie Walker is the most popular drink in Scotland.	N
+GW84	T1654	Johnnie Walker is more than one hundred years old.	E
+GW28	T1654	Johnnie Walker is a liquor originally from Asia.	C
+GW28	T1654	Johnnie Walker was named after a man named Johnnie.	N
+GW28	T1654	Johnnie Walker is less than two centuries old.	E
+GW1	T1654	Johnnie Walker was first introduced in the last quarter of the 19th century.	C
+GW1	T1654	Johnnie Walker is still produced in Scotland.	N
+GW1	T1654	Based on it's type of liquor, Johnnie Walker is colored.	E
+GW84	T1655	Kanem Empire stood for several millenias.	C
+GW84	T1655	Kanem Empire was ruled by a dozen kings when it stood.	N
+GW84	T1655	The religion in the Kanem Empire has not always been Islam.	E
+GW14	T1655	Sef the First was the king of the Kanem Empire after Omar.	C
+GW14	T1655	During Sef's reign, as opposed to Omar's, there were more people who held traditional beliefs than Muslims in the Kanem Empire.	N
+GW14	T1655	The Kanem Empire was subjected to hostile attacks.	E
+GW4	T1655	The Kanem Empire had multiple leaders.	C
+GW4	T1655	The Kanem Empire practiced Islam until it was dissolved.	N
+GW4	T1655	The Kanem Empire spoke only KanuriTeda.	E
+GW0	T1657	Julia Michaels is originally from the west coast region of the United States.	C
+GW0	T1657	Julia Michaels opens for Justin Tranter on tour.	N
+GW0	T1657	Julia Michaels has released music on only one record label.	E
+GW1	T1657	Julia Michaels was born more than a decade before the millennium.	C
+GW1	T1657	Before playing piano, Julia Michaels was already playing guitar.	N
+GW1	T1657	Julia Michaels has been active in music for less than a decade.	E
+GW84	T1657	Julia Michaels was born with the same last name.	C
+GW84	T1657	Julia Michaels has been playing the piano for longer than the guitar.	N
+GW84	T1657	Julia Michaels has been performing for less than twenty years.	E
+GW28	T1671	Jim Mattis worked for only one Presidents.	C
+GW28	T1671	Jim Mattis was head of the Joint Chiefs of Staff.	N
+GW28	T1671	Jim Mattis worked for different administrations.	E
+GW1	T1671	Jim Mattis left office in the Winter of 2010.	C
+GW1	T1671	Jim Mattis's predecessor, Lance L. Smith, was preferred by George W. Bush.	N
+GW1	T1671	Jim Mattis was in office for less than half a decade.	E
+GW4	T1671	Jim Mattis was appointed by Barack Obama.	C
+GW4	T1671	Jim Mattis chose his successor.	N
+GW4	T1671	Jim Mattis was around throughout for some part of Obama's presidency.	E
+GW85	T1672	Jimmy Carter is a father of 3.	C
+GW85	T1672	Jimmy Carter won a few prestigious awards.	N
+GW85	T1672	Jimmy Carte went to college.	E
+GW14	T1672	Jimmy Carter doesn't share the same first name as a relative.	C
+GW14	T1672	Jimmy Carter has more acquaintances who identify as Democrats than Republicans.	N
+GW14	T1672	Jimmy Carter's mother and wife do not have the same first name.	E
+GW28	T1672	The Nobel Peace Prize was awarded to Jimmy Carter at the age of 87.	C
+GW28	T1672	He is married with three daughters and one son.	N
+GW28	T1672	He got married in his twenties.	E
+GW28	T1673	Johnny Depp is a married man with two children.	C
+GW28	T1673	Johnny Depp is recently divorced with two daughters.	N
+GW28	T1673	Johnny Depp started his career in his teens.	E
+GW1	T1673	Johnny Depp has a winter Birthday in 1963.	C
+GW1	T1673	Both of Johnny Depp's children were conceived with Vanessa Paradis.	N
+GW1	T1673	Johnny Depp's current residence is not close to his birth place.	E
+GW84	T1673	Johnny Depp is younger than his partner.	C
+GW84	T1673	Johnny Depp has been married more than once.	N
+GW84	T1673	Johnny Depp has children.	E
+GW14	T1674	Jim Parsons has been a husband for more times than the years he's been an actor.	C
+GW14	T1674	Jim Parsons met Todd Spiewak on a film set.	N
+GW14	T1674	Jim Parsons attended higher education in two universities in different states from where he now lives.	E
+GW1	T1674	Jim Parsons is likely heterosexual.	C
+GW1	T1674	Jim Parsons has never lived on the East coast.	N
+GW1	T1674	Jim Parsons came into this world in the Spring of 1973.	E
+GW4	T1674	Jim Parsons got married when he was 20 years old.	C
+GW4	T1674	Jim Parsons has won awards for his acting.	N
+GW4	T1674	Jim Parsons has always lived in different states.	E
+GW28	T1682	Justice League is an American film that premiered in Beijing after the United States.	C
+GW28	T1682	Justice League is a two-hour superhero fantasy blockbuster film.	N
+GW28	T1682	Justice League was a profitable movie.	E
+GW4	T1682	Justice League was able to make a loss in the box office.	C
+GW4	T1682	Justice League won several awards around the world.	N
+GW4	T1682	Justice League was a film that was produced and directed by the different person.	E
+GW1	T1682	Justice League came out in the Winter of 2017.	C
+GW1	T1682	Geoff Johns did more of the production work on Justice League than Jon Berg.	N
+GW1	T1682	Justice League less than tripled it's budget at the box office.	E
+GW1	T1683	Katie Cassidy has only been married since this year.	C
+GW1	T1683	Katherine Evelyn Anita Cassidy has been called Katie since she was born.	N
+GW1	T1683	Katie Cassidy has been acting for less than 20 years.	E
+GW84	T1683	Katie Cassidy was born in a mid-western state.	C
+GW84	T1683	Katie Cassidy has appeared in movies with her family members.	N
+GW84	T1683	Katie Cassidy has been acting since she was in her teens.	E
+GW28	T1683	Katie Cassidy is a child actress.	C
+GW28	T1683	Katie Cassidy is married with two dogs.	N
+GW28	T1683	Katie Cassidy has been active since her teenage years.	E
+GW28	T1684	Joe Strummer was a single-genre rock musician.	C
+GW28	T1684	Joe Strummer won many awards throughout his career.	N
+GW28	T1684	Joe Strummer was active since his 2002.	E
+GW68	T1684	Joe Strummer died in the same country where he was born.	C
+GW68	T1684	Joe worked with Hellcat before he worked with Sony.	N
+GW68	T1684	Joe Strummer retired from being active in same year he died.	E
+GW1	T1684	Joe Strummer's career was less than 30 years long.	C
+GW1	T1684	John Graham Mellor changed his name to Joe Strummer early on in his life.	N
+GW1	T1684	Joe Strummer died in the different country where he was born.	E
+GW1	T1685	Keeley Hawes started her acting career as an adult.	C
+GW1	T1685	All of Keeley Hawes's children have Matthew Macfadyen as a father.	N
+GW1	T1685	Keeley Hawes remarried right after getting a divorce.	E
+GW0	T1685	Keeley Hawes began acting early on in her twenties.	C
+GW0	T1685	Keeley Hawes has three sons with Spencer McCallum	N
+GW0	T1685	Keeley Hawes' marriage to Spencer McCallum lasted shorter than her current marriage.	E
+GW4	T1685	Keeley Hawes has had at least 3 husbands.	C
+GW4	T1685	Keeley Hawes had all their children with their first husband.	N
+GW4	T1685	Keeley Hawes has been acting since they were 13.	E
+GW1	T1686	Justin Bieber has made music on fewer than five record labels.	C
+GW1	T1686	Justin Bieber played the drums before he ever played guitar.	N
+GW1	T1686	Justin Bieber has been making music for more than a decade.	E
+GW4	T1686	Justin Bieber became famous when they were 20 years old.	C
+GW4	T1686	Justin Bieber learned to sing before they could play drums.	N
+GW4	T1686	Justin Bieber has several associated records.	E
+GW28	T1686	The singer-songwriter has collaborated with only one artist throughout his career.	C
+GW28	T1686	His biggest musical influences was Michael Jackson.	N
+GW28	T1686	He has been active since his teens.	E
+GW4	T1689	Kaiserschmarrn is very similar in style to a waffle.	C
+GW4	T1689	Kaiserschmarrn does not have as much sugar as a normal pancake.	N
+GW4	T1689	A Kaiserschmarrn is from Europe.	E
+GW84	T1689	Kaiserschmarrn is something that you can drink.	C
+GW84	T1689	Kaiserschmarrn is a popular food in Hungary.	N
+GW84	T1689	You need five ingredients to make Kaiserschmarrn	E
+GW28	T1689	Kaiserschmarrn is a pancake made of only two ingredients.	C
+GW28	T1689	Kaiserschmarrn is usually topped with syrup and butter.	N
+GW28	T1689	Kaiserschmarrn is non-gluten-free.	E
+GW4	T1691	Joseph Glidden was known for the movies he produced.	C
+GW4	T1691	Joseph Glidden had all 3 of his children with his second wife.	N
+GW4	T1691	Joseph Glidden lived in the different states.	E
+GW28	T1691	Joseph Glidden was born in the 20th century.	C
+GW28	T1691	Joseph Glidden was a husband, father and grandfather.	N
+GW28	T1691	Joseph Glidden married his second wife in his late 30s.	E
+GW80	T1691	Joseph Glidden had two children and was married thrice.	C
+GW80	T1691	In 1906, Joseph Glidden died in his DeKalb, Illinois home.	N
+GW80	T1691	The Joseph F. Glidden House is located in Illinois.	E
+GW28	T1695	Jude Law is a retired actor from England.	C
+GW28	T1695	Jude Law is a divorcee with five daughters.	N
+GW28	T1695	Jude Law has been active since his childhood.	E
+GW84	T1695	Jude Law goes by his first name.	C
+GW84	T1695	Jude Law's only sibling is his sister, Natasha.	N
+GW84	T1695	Jude Law have five kids.	E
+GW1	T1695	Jude Law was born in the Spring of 1972.	C
+GW1	T1695	Jude Law has always lived in England.	N
+GW1	T1695	Jude Law has been active as an actor for less than 35 years.	E
+GW4	T1697	Dr. John S. Pemberton did not go to college in his home state.	C
+GW4	T1697	Dr. John S. Pemberton won awards for the drink he created.	N
+GW4	T1697	Dr. John S. Pemberton had only one wife in his life.	E
+GW28	T1697	Dr. John S. Pemberton is an American credited with creating a famous liqour.	C
+GW28	T1697	Dr. John S. Pemberton became rich as the inventor of Coca-Cola.	N
+GW28	T1697	Dr. John S. Pemberton lived in the 19th century.	E
+GW1	T1697	Dr. John S. Pemberton was born in the third quarter of the 19th century.	C
+GW1	T1697	Dr. John S. Pemberton lived his whole life in Georgia.	N
+GW1	T1697	Dr. John S. Pemberton passed away in the August of 1888.	E
+GW4	T1704	Jena Malone began acting when they were 14 years old.	C
+GW4	T1704	Jena Malone became a photographer before they started acting.	N
+GW4	T1704	Jena Malone has never had one child.	E
+GW1	T1704	Jena Malone has been active for under 20 years in her career.	C
+GW1	T1704	Jena Malone has lived in Nevada for her whole existence.	N
+GW1	T1704	Jena Malone was born in the Winter of 1984.	E
+GW14	T1704	Jena Malone has worked only as an actress.	C
+GW14	T1704	Jena Malone became a photographer while living in Sparks.	N
+GW14	T1704	Jena Malone has been working in the arts for less than a half century.	E
+GW6	T1726	Josh Groban is an American dancer.	C
+GW6	T1726	Josh Groban started playing piano in 1997.	N
+GW6	T1726	Josh Groban began his career as a teen.	E
+GW1	T1726	Josh Groban's career has been going on for less than two decades.	C
+GW1	T1726	Josh Groban was a record producer before he was an actor.	N
+GW1	T1726	The Winter of 1981 is when Josh Groban was born.	E
+GW84	T1726	Josh Groban has been performing for less than twenty years.	C
+GW84	T1726	Josh Groban was signed to Warner Bros. before he was signed to Reprise.	N
+GW84	T1726	Josh Groban was born inside of the US.	E
+GW28	T1729	Julius Caesar spent a few years in office .	C
+GW28	T1729	Julius Caesar was voted out of office by the people of Rome.	N
+GW28	T1729	Julius Caesar was in power for a few years.	E
+GW84	T1729	Julius Caesar was in office before Sulla.	C
+GW84	T1729	Julius Caesar was the only person in office during his command.	N
+GW84	T1729	Julius Caesar was succeeded by Augustus.	E
+GW1	T1729	Julius Caesar was only in office for about a decade.	C
+GW1	T1729	Julius Caesar left office peacefully.	N
+GW1	T1729	Julius Caesar's successor, Augustus, ruled for less than two decades.	E
+GW28	T1731	Jenny Slate is an Ivy-league graduate and is a musician.	C
+GW28	T1731	Jenny Slate started her stand-up career while still in college.	N
+GW28	T1731	Jenny Slate has been active since her twenties.	E
+GW1	T1731	Jenny Slate has been actively working for over a century.	C
+GW1	T1731	Jenny Slate was an author before she was an actress.	N
+GW1	T1731	Jenny Slate was born in the Spring of 1982.	E
+GW14	T1731	Jenny Slate's career has been going for over a dozen years.	C
+GW14	T1731	Jenny Slate was better know for her writing than her stand-up comedy.	N
+GW14	T1731	Jenny Slate has traveled farther than 1000 miles from her place of birth.	E
+GW28	T1766	Innuendo is a rock album recorded and released over a one year period.	C
+GW28	T1766	Innuendo sold millions of albums.	N
+GW28	T1766	Innuendo has different amounts of content in the LP release as the CD release.	E
+GW93	T1766	Innuendo was released before 1991.	C
+GW93	T1766	The main producer of Innuendo was Queen.	N
+GW93	T1766	Innuendo was recorded in the 20th century.	E
+GW84	T1766	Innuendo was released over a half a year after recording was complete.	C
+GW84	T1766	Most of the work on Innuendo was recorded in London.	N
+GW84	T1766	Innuendo was recorded in different labels.	E
+GW84	T1771	Islero was an animal from France.	C
+GW84	T1771	Islero lived in Spain all his life.	N
+GW84	T1771	Islero weight more than 450Kg.	E
+GW28	T1771	Islero is a fighting dog that weighs less an a human being.	C
+GW28	T1771	Islero was won more contests than he has lost.	N
+GW28	T1771	Islero is owned by Eduardo Miura Fernández.	E
+GW93	T1771	Islero weighs under 400 kg.	C
+GW93	T1771	Islero has lived in Seville its whole life.	N
+GW93	T1771	Islero is from Europe.	E
+GW28	T1775	Inside Out is an American film that premiered in Cannes first after America.	C
+GW28	T1775	Inside Out is an animated film.	N
+GW28	T1775	Inside Out earned money for Disney.	E
+GW86	T1775	None of the individuals who wrote the screenplay for Inside Out was also responsible for its direction.	C
+GW86	T1775	The production of Inside Out concluded in May 2015.	N
+GW86	T1775	Inside Out's box office was five times its budget.	E
+GW93	T1775	Inside Out was realeased at Cannes after the United States.	C
+GW93	T1775	Inside Out was more popular in Europe than it was in the US.	N
+GW93	T1775	Inside Out made a profit in the box office.	E
+GW28	T1776	Insidious was a small-budget African film.	C
+GW28	T1776	Insidious won praise from critics for its original story.	N
+GW28	T1776	Insidious was a profitable film for the producers.	E
+GW85	T1776	Insidious started in 2000.	C
+GW85	T1776	Insidious mad almost a hundred million	N
+GW85	T1776	Insidious is a movie.	E
+GW93	T1776	Music in Insidious was by its director.	C
+GW93	T1776	Insidious's main cinematographer was David M. Brewer.	N
+GW93	T1776	Insidious made over 60 times its budget in the box office.	E
+GW84	T1779	Interchange is currently hanging in a private colletion.	C
+GW84	T1779	Interchange was the first oil painting done by Willem de Kooning.	N
+GW84	T1779	Interchange is a painting that is over less than a hundred years old.	E
+GW28	T1779	Interchange is a modern 21st century painting.	C
+GW28	T1779	Interchange is the most expensive de Kooning painting ever.	N
+GW28	T1779	Interchange is 20th century canvas painting.	E
+GW93	T1779	Interchange was auctioned by Willem de Kooning.	C
+GW93	T1779	Willem de Kooning has only been on display at the Art Institute of Chicago.	N
+GW93	T1779	Interchange was not a mixed media collage.	E
+GW74	T1795	Hudson Maxim died before turning 74.	C
+GW74	T1795	Hudson Maxim invented smokeless gunpowder while living in Post Office in Landing, New Jersey.	N
+GW74	T1795	Hudson Maxim died in a different city where he was born.	E
+GW28	T1795	Hudson Maxim was an American dancer.	C
+GW28	T1795	Hudson Maxim made a fortune from his invention.	N
+GW28	T1795	Hudson Maxim was born and lived in different parts of America.	E
+GW84	T1795	Hudson Maxim lived within the same century.	C
+GW84	T1795	Hudson Maxim lived in New Jersey for most of his life.	N
+GW84	T1795	Hudson Maxim was not born in the state in which he died.	E
+GW4	T1822	Ittefaq was written and edited by the same person.	C
+GW4	T1822	Ittefaq was able to win some awards.	N
+GW4	T1822	Ittefaq was a film that earned money.	E
+GW28	T1822	Ittefaq is a South American Spanish-language film.	C
+GW28	T1822	Ittefaq won critical praise for its script.	N
+GW28	T1822	Ittefaq was written and directed by several people.	E
+GW84	T1822	Ittefaq's director is the same person that did the music.	C
+GW84	T1822	Ittefaq's main production company was B.R. Studios.	N
+GW84	T1822	Ittefaq was profitable in the box office.	E
+GW84	T1876	Jack Ma is illiterate.	C
+GW84	T1876	Jack Ma's children are all for his current wife.	N
+GW84	T1876	Jack Ma is worth several billion dollars.	E
+GW28	T1876	Jack Ma has is small in stature as well as his business net worth.	C
+GW28	T1876	Jack Ma is married with three daughters.	N
+GW28	T1876	Jack Ma is a high-earning businessman.	E
+GW4	T1876	Jack Ma held the same name as their professional name.	C
+GW4	T1876	Jack Ma has been involved in the government of China.	N
+GW4	T1876	Jack Ma has had a few children.	E
+GW93	T1893	Hurricane Fly is from France.	C
+GW93	T1893	Hurricane Fly lived in Ireland for its whole life.	N
+GW93	T1893	Hurricane Fly made over one million pounds.	E
+GW28	T1893	Hurricane Fly was an Irish male dog.	C
+GW28	T1893	Hurricane Fly was profitable for its owner.	N
+GW28	T1893	Hurricane Fly won more races than it lost.	E
+GW84	T1893	Hurricane Fly has raced fewer than thirty times.	C
+GW84	T1893	Hurricane Fly is the fastest horse that Willie Mullins has ever trained.	N
+GW84	T1893	Hurricane Fly was born less than twenty years ago.	E
+GW28	T1904	Hiraga Gennai was born in the 17th century.	C
+GW28	T1904	Hiraga Gennai became rich from his inventions.	N
+GW28	T1904	Hiraga Gennai died in the 18th century.	E
+GW93	T1904	Hiraga Gennai was born before 1728.	C
+GW93	T1904	Hiraga Gennai died in the city where he was born.	N
+GW93	T1904	Hiraga Gennai was a scientist.	E
+GW84	T1904	Hiraga Gennai was born less than two hundred years ago.	C
+GW84	T1904	Hiraga Gennai was known more for his work as an author.	N
+GW84	T1904	Hiraga Gennai died when he was in his fifties.	E
+GW84	T1906	Iggy Azalea started performing in the 20th century.	C
+GW84	T1906	Iggy Azalea has been signed to Mercury for most of her career.	N
+GW84	T1906	Iggy Azalea is in her tewnties.	E
+GW28	T1906	Iggy Azalea is an African entertainer.	C
+GW28	T1906	Iggy Azalea was won many awards for her music.	N
+GW28	T1906	Iggy Azalea has been singing since she was 21.	E
+GW93	T1906	Iggy Azalea performs heavy metal music.	C
+GW93	T1906	Iggy Azalea designs her own website.	N
+GW93	T1906	Iggy Azalea has worked under several labels.	E
+GW93	T1926	Jacob are a species that is at risk.	C
+GW93	T1926	Jacob is sold outside of the United Kingdom.	N
+GW93	T1926	Jacob comes from the United Kingdom.	E
+GW28	T1926	Jacob is a Canadian Sheep.	C
+GW28	T1926	Jacob is a dwindling species of sheep.	N
+GW28	T1926	Jacob is not an ignored animal with no interest from humans.	E
+GW85	T1926	Jacob is a mexican sheep	C
+GW85	T1926	Jacob is around the UK	N
+GW85	T1926	Jacob is an animal	E
+GW28	T1938	Hiroshi Minagawa is a Korean person working in the video gaming industry.	C
+GW28	T1938	Hiroshi Minagawa has won many awards for his work .	N
+GW28	T1938	Hiroshi Minagawa has worked in the video game industry.	E
+GW85	T1938	Hiroshi Minagawa is almost 20.	C
+GW85	T1938	Hiroshi Minagawa is also known as Nigoro	N
+GW85	T1938	Hiroshi Minagawa was an artist.	E
+GW93	T1938	Hiroshi Minagawa has several other nicknames.	C
+GW93	T1938	Hiroshi Minagawa is a well known video game artist.	N
+GW93	T1938	Hiroshi Minagawa was born in the 20th century.	E
+GW84	T1970	Imagine was released under  forty years ago.	C
+GW84	T1970	John Lennon's first album was Imagine.	N
+GW84	T1970	Imagine was recorded in London, New York, and Berkshire.	E
+GW93	T1970	Imagine was recorded in only one studio.	C
+GW93	T1970	Imagine's main producer was Yoko Ono.	N
+GW93	T1970	Imagine is under the Apple label.	E
+GW28	T1970	Imagine was recorded and released in different years.	C
+GW28	T1970	Imagine sold millions of copies upon its release.	N
+GW28	T1970	Imagine was released in the autumn of 1971.	E
+GW93	T1991	Inca Kola first was first sold in the 21st century.	C
+GW93	T1991	Inca Kola is only sold in Peru.	N
+GW93	T1991	"Inca Kola is a soft drink."	E
+GW28	T1991	Inca Kola is a beverage from France.	C
+GW28	T1991	Inca Kola is a knockoff of Coca-cola.	N
+GW28	T1991	Inca Kola is a less than a hundred year old soft drink.	E
+GW85	T1991	Inca Kola is a beer.	C
+GW85	T1991	Inca Kolais from peru	N
+GW85	T1991	Inca Kola is a South American brand	E
+GW4	T1992	Incarnate was penciled by the Inker.	C
+GW4	T1992	Nick Simmons came up with the entire cartoon Incarnate	N
+GW4	T1992	Incarnate was coloured by more than one person.	E
+GW93	T1992	Incarnate was created  and Inked by Nick Simmons.	C
+GW93	T1992	The main colorist on Incarnate was Dami Digital.	N
+GW93	T1992	Incarnate was edited by Tim Beedle.	E
+GW28	T1992	Incarnate is the work of one man, Nick Simmons.	C
+GW28	T1992	Incarnate is a comic book.	N
+GW28	T1992	Incarnate is the pencilled by one man, Nick Simmons.	E
+GW4	T2010	Hong Kong Special Administrative Region of the People's Republic of China became from the UK over 100 years under it was founded.	C
+GW4	T2010	Hong Kong Special Administrative Region of the People's Republic of China fought for their independence.	N
+GW4	T2010	The Hong Kong Special Administrative Region of the People's Republic of China was annexed.	E
+GW94	T2010	Hong Kong Special Administrative Region of the People's Republic of China was under British rule until 1841.	C
+GW94	T2010	Hong Kong Special Administrative Region got freed fro Japanese military occupation by force.	N
+GW94	T2010	Hong Kong Special Administrative Region was under British Occupation since mid 1800s.	E
+GW28	T2010	Hong Kong Special Administrative Region of the People's Republic of China was never occupied by foreign powers throughout its history.	C
+GW28	T2010	Hong Kong Special Administrative Region of the People's Republic of China is a major port and financial center.	N
+GW28	T2010	Hong Kong Special Administrative Region of the People's Republic of China had a bickering existence.	E
+GW93	T2037	House of Mystery is in the mystery genre.	C
+GW93	T2037	House of Mystery's first 20 issues were the most successful.	N
+GW93	T2037	House of Mystery was published after 2002.	E
+GW84	T2037	House of Mystery was published for less than a year.	C
+GW84	T2037	House of Mystery's Halloween Specials were the most popular issues.	N
+GW84	T2037	House of Mystery currently is published monthly.	E
+GW28	T2037	House of Mystery was a publication that ran for over ten years.	C
+GW28	T2037	House of Mystery sold out every issue published.	N
+GW28	T2037	House of Mystery was a weekly horror publication.	E
+GW4	T2044	Infinite has been performing for over 15 years.	C
+GW4	T2044	Infinite has been featured on albums around the world.	N
+GW4	T2044	The band Infinite is known for playing K-pop music.	E
+GW93	T2044	Infinite has been active since 2000.	C
+GW93	T2044	Infinite is popular outside of South Korea.	N
+GW93	T2044	Infinite has been under more than one label.	E
+GW28	T2044	Infinite is a single-genre K-pop group.	C
+GW28	T2044	Infinite has a large international fanbase.	N
+GW28	T2044	Infinite was an active hip-hop act.	E

@@ -1,0 +1,13 @@
+key	keyword	definition	description	source
+Victims	victims	Frank Orth was an American actor born in Philadelphia	American actor (1880-1962)	wikipedia
+Victims	victims	a person who is tricked or swindled	victim, dupe	wordnet
+Victims	victims	a person harmed, injured, or killed as a result of a crime, accident, or other event or action.	NA	owlbot
+Victims	victim	A victim is a person	NA	GenericsKB
+Date	date	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+Date	date	the specified day of the month	date, day_of_the_month	wordnet
+Date	date	the day of the month or year as specified by a number.	NA	owlbot
+Date	date	Date is a day	NA	GenericsKB
+Location(s)	location	In geography, location and place are used to denote a point or an area on the Earth's surface or elsewhere. The term location generally implies a higher degree of certainty than place , the latter often indicating an entity with an ambiguous boundary, relying more on human or social attributes of place identity and sense of place than on geometry.	point or an area on the Earth's surface or elsewhere	wikipedia
+Location(s)	location	the act of putting something in a certain place	placement, location, locating, position, positioning, emplacement	wordnet
+Location(s)	location	a particular place or position.	NA	owlbot
+Location(s)	location	Location has a significant impact on crime in India 	NA	GenericsKB

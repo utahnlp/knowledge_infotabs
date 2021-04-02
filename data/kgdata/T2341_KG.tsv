@@ -1,0 +1,19 @@
+key	keyword	definition	description	source
+Host country	host	Azerbaijan , US: ; Azerbaijani: Azərbaycan ), officially the Republic of Azerbaijan ), is a country in the South Caucasus region of Eurasia at the crossroads of Eastern Europe and Western Asia	sovereign state in Western Asia and Eastern Europe	wikipedia
+Host country	country	"The term country refers to a political state, nation, or controlled territory. It is often referred to as the land of an individual's birth, residence, or citizenship. A country may be an independent sovereign state or part of a larger state, as a non-sovereign or formerly sovereign political division, a physical territory with a government, or a geographic region associated with sets of previously independent or differently associated people with distinct political characteristics. It is not inherently sovereign. Countries can refer both to sovereign states and to other political entities, while other times it can refer only to states. For example, the CIA World Factbook uses the word in its ""Country name"" field to refer to ""a wide variety of dependencies, areas of special sovereignty, uninhabited islands, and other entities in addition to the traditional countries or independent states"". The largest country in the world is Russia, while the most populous is China, followed by India and the United States of America. The newest country is South Sudan."	distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics	wikipedia
+Host country	host	any organization that provides resources and facilities for a function or event	host	wordnet
+Host country	country	the people who live in a nation or country	nation, land, country	wordnet
+Host country	host	Host species Pigs are the only natural host	NA	GenericsKB
+Host country	country	Countries adopt a peg as a way of promoting international confidence in their own currency	NA	GenericsKB
+Dates	dates	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+Dates	dates	a meeting arranged in advance	date, appointment, engagement	wordnet
+Dates	dates	establish or ascertain the date of (an object or event).	NA	owlbot
+Dates	date	Date is a day	NA	GenericsKB
+Teams	teams	Tests of Engineering Aptitude, Mathematics, and Science is an annual competition originally organized by the Junior Engineering Technical Society 	engineering competition	wikipedia
+Teams	teams	a cooperative unit (especially in sports)	team, squad	wordnet
+Teams	teams	come together as a team to achieve a common goal.	NA	owlbot
+Teams	team	Team is a organization	NA	GenericsKB
+Venue(s)	venue	A sports venue is a building, structure, or place in which a sporting competition is held	building, structure, or place dedicated to sports	wikipedia
+Venue(s)	venue	in law: the jurisdiction where a trial will be held	venue	wordnet
+Venue(s)	venue	the place where something happens, especially an organized event such as a concert, conference, or sports competition.	NA	owlbot
+Venue(s)	venue	Venues are jurisdiction	NA	GenericsKB

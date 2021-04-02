@@ -1,0 +1,12 @@
+key	keyword	definition	description	source
+Born:	born	""" Born "" is a song written and performed by Barry Gibb that was included as the first track on his debut album The Kid's No Good in 1970"	song written and performed by Barry Gibb	wikipedia
+Born:	born	cause to be born	give_birth, deliver, bear, birth, have	wordnet
+Born:	born	existing as a result of birth.	NA	owlbot
+Born:	born	Borns start with cries	NA	GenericsKB
+Height:	height	"Height is measure of vertical distance, either vertical extent or vertical position . For example, ""The height of that building is 50 m"" or ""The height of an airplane in-flight is about 10,000 m"". When the term is used to describe vertical position from sea level, height is more often called altitude. Furthermore, if the point is attached to the Earth , then altitude is called elevation. In a two-dimensional Cartesian space, height is measured along the vertical axis between a specific point and another that does not have the same y -value. If both points happen to have the same y -value, then their relative height is zero. In three-dimensional space, height is measured along the vertical z axis, describing a distance from the x-y plane."	distance between the lowest end and highest end of an object	wikipedia
+Height:	height	(of a standing person) the distance from head to foot	stature, height	wordnet
+Height:	height	the measurement of someone or something from head to foot or from base to top.	NA	owlbot
+Height:	height	Height decreases with age	NA	GenericsKB
+Weight:	weight	a system of units used to express the weight of something	system_of_weights, weight	wordnet
+Weight:	weight	assign a handicap weight to (a horse).	NA	owlbot
+Weight:	weight	Weight affects power	NA	GenericsKB

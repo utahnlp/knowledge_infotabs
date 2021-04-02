@@ -1,0 +1,17 @@
+key	keyword	definition	description	source
+Location	location	In geography, location and place are used to denote a point or an area on the Earth's surface or elsewhere. The term location generally implies a higher degree of certainty than place , the latter often indicating an entity with an ambiguous boundary, relying more on human or social attributes of place identity and sense of place than on geometry.	point or an area on the Earth's surface or elsewhere	wikipedia
+Location	location	a point or extent in space	location	wordnet
+Location	location	a particular place or position.	NA	owlbot
+Location	location	A location is an object	NA	GenericsKB
+Elevation	elevation	The elevation of a geographic location is its height above or below a fixed reference point, most commonly a reference geoid, a mathematical model of the Earth's sea level as an equipotential gravitational surface . The term elevation is mainly used when referring to points on the Earth's surface, while altitude or geopotential height is used for points above the surface, such as an aircraft in flight or a spacecraft in orbit, and depth is used for points below the surface. Elevation is not to be confused with the distance from the center of the Earth. Due to the equatorial bulge, the summits of Mount Everest and Chimborazo have, respectively, the largest elevation and the largest geocentric distance.	height above a fixed reference point	wikipedia
+Elevation	elevation	the event of something being raised upward	elevation, lift, raising	wordnet
+Elevation	elevation	height above a given level, especially sea level.	NA	owlbot
+Elevation	elevation	Elevation affects climates	NA	GenericsKB
+Type	type	Character may refer to:	Wikimedia disambiguation page	wikipedia
+Type	type	all of the tokens of the same symbol	type	wordnet
+Type	type	a person or thing exemplifying the ideal or defining characteristics of something.	NA	owlbot
+Type	type	A type is a kind	NA	GenericsKB
+Discharge	discharge	A glow discharge is a plasma formed by the passage of electric current through a gas	plasma formed by the passage of electric current through a gas	wikipedia
+Discharge	discharge	any of several bodily processes by which substances go out of the body	discharge, emission, expelling	wordnet
+Discharge	discharge	allow (a liquid, gas, or other substance) to flow out from where it has been confined.	NA	owlbot
+Discharge	discharge	Discharge is an occurrence	NA	GenericsKB

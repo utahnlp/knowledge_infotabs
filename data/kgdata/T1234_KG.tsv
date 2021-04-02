@@ -1,0 +1,17 @@
+key	keyword	definition	description	source
+Born	born	""" Born "" is a song written and performed by Barry Gibb that was included as the first track on his debut album The Kid's No Good in 1970"	song written and performed by Barry Gibb	wikipedia
+Born	born	bring forth,	bear, turn_out	wordnet
+Born	born	existing as a result of birth.	NA	owlbot
+Born	born	Borns start with cries	NA	GenericsKB
+Died	died	Death is the permanent cessation of all biological functions that sustain a living organism. Phenomena which commonly bring about death include aging, physiological or organ failure, predation, poisoning, malnutrition, disease, suicide, homicide, asphyxia, drowning, severe burns, drug intoxication, starvation, dehydration, electrocution, intense heat or cold, radiation toxicity, warfare attacks such as bombings, as well as explosions and accidents or major trauma resulting in fatal injury. The remains of a living organism begin to decompose shortly after death. It is an inevitable process eventually occurring in all living organisms. As of the early 21st century, over 150,000 humans die each day. Death, particularly of humans, has commonly been considered a sad or unpleasant occasion, due to the affection for the deceased and the termination of social and familial bonds. Other concerns include fear of death, necrophobia, anxiety, sorrow, grief, emotional pain, depression, sympathy, compassion, solitude, or saudade. Many cultures and religions have the idea of an afterlife, and also hold the idea of judgement and reward for good deeds or punishment for sin.	permanent cessation of vital functions	wikipedia
+Died	died	pass from physical life and lose all bodily attributes and functions necessary to sustain life	die, decease, perish, go, exit, pass_away, expire, pass, kick_the_bucket, cash_in_one's_chips, buy_the_farm, conk, give-up_the_ghost, drop_dead, pop_off, choke, croak, snuff_it	wordnet
+Died	died	(of a person, animal, or plant) stop living.	NA	owlbot
+Died	die	Dies  dreams	NA	GenericsKB
+Occupation	occupation	Employment is a relationship between two parties, usually based on a contract where work is paid for, where one party, which may be a corporation, for profit, not-for-profit organization, co-operative or other entity is the employer and the other is the employee	relationship between the employee and the employer	wikipedia
+Occupation	occupation	any activity that occupies a person's attention	occupation	wordnet
+Occupation	occupation	a job or profession.	NA	owlbot
+Occupation	occupation	An occupation is an activity	NA	GenericsKB
+Spouse(s)	spouse	A spouse is a significant other in a marriage, civil union, or common-law marriage. The term is gender neutral, whereas a male spouse is a husband and a female spouse is a wife. Although a spouse is a form of significant other, the latter term also includes non-marital partners who play a social role similar to that of a spouse, but do not have rights and duties reserved by law to a spouse.	partner in a marriage, civil union, domestic partnership or common-law marriage	wikipedia
+Spouse(s)	spouse	a person's partner in marriage	spouse, partner, married_person, mate, better_half	wordnet
+Spouse(s)	spouse	a husband or wife, considered in relation to their partner.	NA	owlbot
+Spouse(s)	spouse	A spouse is a relative	NA	GenericsKB

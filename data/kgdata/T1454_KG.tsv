@@ -1,0 +1,17 @@
+key	keyword	definition	description	source
+Born	born	Born is the first album released by the classical crossover string quartet Bond, and was produced by Magnus Fiennes and Gareth Cousins	album by the classical crossover string quartet Bond	wikipedia
+Born	born	cause to be born	give_birth, deliver, bear, birth, have	wordnet
+Born	born	existing as a result of birth.	NA	owlbot
+Born	born	Borns start with cries	NA	GenericsKB
+Died	died	Death is the permanent cessation of all biological functions that sustain a living organism. Phenomena which commonly bring about death include aging, physiological or organ failure, predation, poisoning, malnutrition, disease, suicide, homicide, asphyxia, drowning, severe burns, drug intoxication, starvation, dehydration, electrocution, intense heat or cold, radiation toxicity, warfare attacks such as bombings, as well as explosions and accidents or major trauma resulting in fatal injury. The remains of a living organism begin to decompose shortly after death. It is an inevitable process eventually occurring in all living organisms. As of the early 21st century, over 150,000 humans die each day. Death, particularly of humans, has commonly been considered a sad or unpleasant occasion, due to the affection for the deceased and the termination of social and familial bonds. Other concerns include fear of death, necrophobia, anxiety, sorrow, grief, emotional pain, depression, sympathy, compassion, solitude, or saudade. Many cultures and religions have the idea of an afterlife, and also hold the idea of judgement and reward for good deeds or punishment for sin.	permanent cessation of vital functions	wikipedia
+Died	died	feel indifferent towards	die	wordnet
+Died	died	(of a person, animal, or plant) stop living.	NA	owlbot
+Died	die	Dies  funerals	NA	GenericsKB
+Buried	buried	Burial is the ritual act of placing a dead person or animal into the ground	Wikimedia disambiguation page	wikipedia
+Buried	buried	place in the earth and cover with soil	bury	wordnet
+Buried	buried	put or hide underground.	NA	owlbot
+Alma mater	alma mater	"Alma mater almae matres ) is an allegorical Latin phrase for a university, school, or college that one formerly attended. In US usage, it can also mean the school from which one graduated. The phrase is variously translated as ""nourishing mother"", ""nursing mother"", or ""fostering mother"", suggesting that a school provides intellectual nourishment to its students. Before its current usage, alma mater was an honorific title for various Latin mother goddesses, especially Ceres or Cybele, and later in Catholicism for the Virgin Mary. It entered academic usage when the University of Bologna adopted the motto Alma Mater Studiorum , which describes its heritage as the oldest operating university in the Western world. It is related to alumnus , a term used for a university graduate that literally means a ""nursling"" or ""one who is nourished"". *: literal translation"	school or university that a person has attended	wikipedia
+Alma mater	alma			wordnet
+Alma mater	mater	not reflecting light; not glossy	flat, mat, matt, matte, matted	wordnet
+Alma mater	alma mater	the university, school, or college that one formerly attended.	NA	owlbot
+Alma mater	alma mater	An alma mater is a school	NA	GenericsKB

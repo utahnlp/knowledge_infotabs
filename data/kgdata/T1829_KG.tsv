@@ -1,0 +1,17 @@
+key	keyword	definition	description	source
+Born	born	""" Born "" is a song written and performed by Barry Gibb that was included as the first track on his debut album The Kid's No Good in 1970"	song written and performed by Barry Gibb	wikipedia
+Born	born	British nuclear physicist (born in Germany) honored for his contributions to quantum mechanics (1882-1970)	Born, Max_Born	wordnet
+Born	born	existing as a result of birth.	NA	owlbot
+Born	born	Borns start with cries	NA	GenericsKB
+Died	died	Death is the permanent cessation of all biological functions that sustain a living organism. Phenomena which commonly bring about death include aging, physiological or organ failure, predation, poisoning, malnutrition, disease, suicide, homicide, asphyxia, drowning, severe burns, drug intoxication, starvation, dehydration, electrocution, intense heat or cold, radiation toxicity, warfare attacks such as bombings, as well as explosions and accidents or major trauma resulting in fatal injury. The remains of a living organism begin to decompose shortly after death. It is an inevitable process eventually occurring in all living organisms. As of the early 21st century, over 150,000 humans die each day. Death, particularly of humans, has commonly been considered a sad or unpleasant occasion, due to the affection for the deceased and the termination of social and familial bonds. Other concerns include fear of death, necrophobia, anxiety, sorrow, grief, emotional pain, depression, sympathy, compassion, solitude, or saudade. Many cultures and religions have the idea of an afterlife, and also hold the idea of judgement and reward for good deeds or punishment for sin.	permanent cessation of vital functions	wikipedia
+Died	died	pass from physical life and lose all bodily attributes and functions necessary to sustain life	die, decease, perish, go, exit, pass_away, expire, pass, kick_the_bucket, cash_in_one's_chips, buy_the_farm, conk, give-up_the_ghost, drop_dead, pop_off, choke, croak, snuff_it	wordnet
+Died	died	(of a person, animal, or plant) stop living.	NA	owlbot
+Died	die	Dies  dreams	NA	GenericsKB
+Occupation	occupation	"The career is an individual's metaphorical ""journey"" through learning, work and other aspects of life"	an individual's journey through learning, work, and other aspects of life	wikipedia
+Occupation	occupation	any activity that occupies a person's attention	occupation	wordnet
+Occupation	occupation	for the sole use of the occupiers of the land concerned.	NA	owlbot
+Occupation	occupation	An occupation is an activity	NA	GenericsKB
+Relatives	relatives	Relatives is a 2006 Hungarian drama film directed by István Szabó	2006 film directed by István Szabó	wikipedia
+Relatives	relatives	a person related by blood or marriage	relative, relation	wordnet
+Relatives	relatives	a person connected by blood or marriage.	NA	owlbot
+Relatives	relative	Relative is a person	NA	GenericsKB

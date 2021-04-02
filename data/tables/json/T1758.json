@@ -1,0 +1,26 @@
+{
+    "title": [
+        "Ice cream cone"
+    ],
+    "Type":[
+        "Pastry"
+    ],
+    "Serving temperature": [
+        "Dry and cold"
+    ],
+    "Main ingredients": [
+        "Flour, sugar"
+    ],
+    "Variations": [
+        "waffle cone", 
+        "cake or wafer cone", 
+        "pretzel cone", 
+        "sugar cone", 
+        "chocolate-coated cone", 
+        "double cone", 
+        "vanilla cone"
+    ],
+    "Production company": [
+        "23 kcal (96 kJ)"
+    ]
+}

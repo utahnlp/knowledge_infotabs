@@ -1,0 +1,56 @@
+key	keyword	definition	description	source
+Date	date	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+Date	date	the specified day of the month	date, day_of_the_month	wordnet
+Date	date	establish or ascertain the date of (an object or event).	NA	owlbot
+Date	date	Date is a day	NA	GenericsKB
+Summary	summary	An abridgement is a condensing or reduction of a book or other creative work into a shorter form while maintaining the unity of the source	condensing or reduction of a book or other creative work into a shorter form	wikipedia
+Summary	summary	a brief statement that presents the main points in a concise form	summary, sum-up	wordnet
+Summary	summary	a brief statement or account of the main points of something.	NA	owlbot
+Summary	summary	A summary is a statement	NA	GenericsKB
+Site	site	James Wines is an American artist and architect associated with environmental design	American artist and architect	wikipedia
+Site	site	assign a location to	locate, place, site	wordnet
+Site	site	an area of ground on which a town, building, or monument is constructed.	NA	owlbot
+Site	site	A site is a tract	NA	GenericsKB
+Aircraft type	aircraft	An aircraft is a vehicle that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or by using the dynamic lift of an airfoil, or in a few cases the downward thrust from jet engines. Common examples of aircraft include airplanes, helicopters, airships , gliders, paramotors and hot air balloons. The human activity that surrounds aircraft is called aviation. The science of aviation, including designing and building aircraft, is called aeronautics. Crewed aircraft are flown by an onboard pilot, but unmanned aerial vehicles may be remotely controlled or self-controlled by onboard computers. Aircraft may be classified by different criteria, such as lift type, aircraft propulsion, usage and others.	machine that is able to fly by gaining support from the air other than the reactions of the air against the earth’s surface	wikipedia
+Aircraft type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Aircraft type	aircraft	a vehicle that can fly	aircraft	wordnet
+Aircraft type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Aircraft type	aircraft	Aircraft avoid flying at the altitude at which lenticulus clouds form	NA	GenericsKB
+Aircraft type	type	Type is a creation of both art and science	NA	GenericsKB
+Aircraft name	aircraft	An aircraft is a vehicle that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or by using the dynamic lift of an airfoil, or in a few cases the downward thrust from jet engines. Common examples of aircraft include airplanes, helicopters, airships , gliders, paramotors and hot air balloons. The human activity that surrounds aircraft is called aviation. The science of aviation, including designing and building aircraft, is called aeronautics. Crewed aircraft are flown by an onboard pilot, but unmanned aerial vehicles may be remotely controlled or self-controlled by onboard computers. Aircraft may be classified by different criteria, such as lift type, aircraft propulsion, usage and others.	machine that is able to fly by gaining support from the air other than the reactions of the air against the earth’s surface	wikipedia
+Aircraft name	aircraft	a vehicle that can fly	aircraft	wordnet
+Aircraft name	aircraft	an aeroplane, helicopter, or other machine capable of flight.	NA	owlbot
+Aircraft name	aircraft	Aircraft also generate more atmospheric pollution per person km than road vehicles	NA	GenericsKB
+Operator	operator	A computer operator is a role in IT which oversees the running of computer systems, ensuring that the machines, and computers are running properly	person who oversees the running of computer systems, ensuring that the machines and computers are running properly	wikipedia
+Operator	operator	someone who owns or operates a business	operator	wordnet
+Operator	operator	a person or company that runs a business.	NA	owlbot
+Operator	operator	Operators are businessmans	NA	GenericsKB
+Registration	registration	A family register is a civil registry used in many countries to track information of a genealogical or family- centric legal interest	civil registry used in many countries to track information of a genealogical or legal interest	wikipedia
+Registration	registration	(music) the sound property resulting from a combination of organ stops used to perform a particular piece of music; the technique of selecting and adjusting organ stops	registration	wordnet
+Registration	registration	A registration is an entrance	NA	GenericsKB
+Flight origin	flight	Flight is the process by which an object moves through an atmosphere without contact with the surface. This can be achieved by generating aerodynamic lift associated with propulsive thrust, aerostatically using buoyancy, or by ballistic movement. Many things can fly, from natural aviators such as birds, bats, and insects, to human inventions like aircraft, including airplanes, helicopters, balloons, and rockets which may carry spacecraft. The engineering aspects of flight are the purview of aerospace engineering which is subdivided into aeronautics, the study of vehicles that travel through the air, and astronautics, the study of vehicles that travel through space, and ballistics, the study of the flight of projectiles.	process by which an object moves, through an atmosphere or beyond it	wikipedia
+Flight origin	origin	Catholic News Service is an American news agency that reports on the Roman Catholic Church	NA	wikipedia
+Flight origin	flight	the act of escaping physically	escape, flight	wordnet
+Flight origin	origin	an event that is a beginning; a first part or stage of subsequent events	origin, origination, inception	wordnet
+Flight origin	flight	Flight also allows birds to nest in sites that are inaccessible to cer- tain predators	NA	GenericsKB
+Flight origin	origin	Origin is a location	NA	GenericsKB
+Destination	destination	Akina Nakamori is a Japanese singer and actress	Japanese singer (1965-)	wikipedia
+Destination	destination	written directions for finding some location; written on letters or packages that are to be delivered to that location	address, destination, name_and_address	wordnet
+Destination	destination	the place to which someone or something is going or being sent.	NA	owlbot
+Destination	destination	Destinations are goals	NA	GenericsKB
+Passengers	passengers	A passenger is a person who travels in a vehicle but bears little or no responsibility for the tasks required for that vehicle to arrive at its destination or otherwise operate the vehicle. The vehicles may be bicycles, buses, passenger trains, airliners, ships, ferryboats, and other methods of transportation. Crew members , as well as the driver or pilot of the vehicle, are usually not considered to be passengers. For example, a flight attendant on an airline would not be considered a passenger while on duty and the same with those working in the kitchen or restaurant on board a ship as well as cleaning staff, but an employee riding in a company car being driven by another person would be considered a passenger, even if the car was being driven on company business.	person who travels in a vehicle without operating it	wikipedia
+Passengers	passengers	a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it	passenger, rider	wordnet
+Passengers	passengers	a traveller on a public or private conveyance other than the driver, pilot, or crew.	NA	owlbot
+Passengers	passenger	Passengers are killed by animals	NA	GenericsKB
+Crew	crew	A crew is a body or a class of people who work at a common activity, generally in a structured or hierarchical organization. A location in which a crew works is called a crewyard or a workyard. The word has nautical resonances: the tasks involved in operating a ship, particularly a sailing ship, providing numerous specialities within a ship's crew, often organised with a chain of command. Traditional nautical usage strongly distinguishes officers from crew, though the two groups combined form the ship's company. Members of a crew are often referred to by the title Crewman. Crew also refers to the sport of rowing, where teams row competitively in racing shells.	body or a class of people who work at a common activity, generally in a structured or hierarchical organization	wikipedia
+Crew	crew	the men and women who man a vehicle (ship, aircraft, etc.)	crew	wordnet
+Crew	crew	a group of people who work on and operate a ship, aircraft, etc.	NA	owlbot
+Crew	crew	A crew is an unit	NA	GenericsKB
+Fatalities	fatalities	 Fatal , by Hussein Fatal, 2002 	Wikimedia disambiguation page	wikipedia
+Fatalities	fatalities	the quality of being able to cause death or fatal disasters	fatality	wordnet
+Fatalities	fatalities	an occurrence of death by accident, in war, or from disease.	NA	owlbot
+Fatalities	fatality	Most fatalities caused by floods occur at night or when people become trapped in automobiles	NA	GenericsKB
+Survivors	survivors	Cyril Ikechukwu Nri is a Nigerian British actor, writer and director who is best known for playing Superintendent Adam Okaro in the police TV series The Bill	actor, writer and film director	wikipedia
+Survivors	survivors	one who lives through affliction	survivor, subsister	wordnet
+Survivors	survivors	a person who survives, especially a person remaining alive after an event in which others have died.	NA	owlbot
+Survivors	survivor	Survivor is a individual	NA	GenericsKB

@@ -1,0 +1,53 @@
+{
+  "title": [
+    "Acorn Microcomputer"
+  ],
+  "Developer": [
+    "Acorn Computers"
+  ],
+  "Type": [
+    "8-bit semi-professional"
+  ],
+  "Release date": [
+    "March 1979; 40 years ago (1979-03)"
+  ],
+  "Introductory price": [
+    "£65 (kit), £75 (assembled)"
+  ],
+  "CPU": [
+    "6502 @ 1MHz"
+  ],
+  "Memory": [
+    "1.125K"
+  ],
+  "Storage": [
+    "CUTS cassette tape interface"
+  ],
+  "Display": [
+    "LED"
+  ],
+  "Graphics": [
+    "-"
+  ],
+  "Sound": [
+    "-"
+  ],
+  "Input": [
+    "25-key keypad"
+  ],
+  "Controller input": [
+    "-"
+  ],
+  "Connectivity": [
+    "INS8154 RAMIO Expansion chip (optional), CUTS cassette tape interface, socket for optional additional ROM/EPROM"
+  ],
+  "Power": [
+    "7.5V+ from external PSU through onboard 5V regulator"
+  ],
+  "Dimensions": [
+    "160 x 100mm two stacked boards"
+  ],
+  "Successor": [
+    "Acorn System 2, Acorn Atom"
+  ]
+}

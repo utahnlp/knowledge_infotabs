@@ -1,0 +1,47 @@
+{
+    "title": [
+        "Brighton Main Line"
+    ],
+    "Type": [
+        "Commuter rail, Suburban rail"
+    ],
+    "System": [
+        "National Rail"
+    ],
+    "Status": [
+        "Operational"
+    ],
+    "Locale": [
+        "Greater London , South East England"
+    ],
+    "Termini": [
+        "London Bridge , London Victoria , Brighton"
+    ],
+    "Opened": [
+        "1839-1841"
+    ],
+    "Owner": [
+        "Network Rail"
+    ],
+    "Operator(s)": [
+        "Southern Thameslink , Great Western Railway , London Overground"
+    ],
+    "Depot(s)": [
+        "Selhurst , Brighton Lovers Walk , Stewarts Lane"
+    ],
+    "Rolling stock": [
+        "Class 165 \"Turbo\" , Class 166 \"Turbo Express\" , Class 171 \"Turbostar\" , Class 377 \"Electrostar\" , Class 378 \"Capitalstar\" , Class 387 \"Electrostar\" , Class 455 , Class 700 \"Desiro City\""
+    ],
+    "Number of tracks": [
+        "2-4"
+    ],
+    "Track gauge": [
+        "4 ft 8  1 \u2044 2  in (1,435 mm) standard gauge"
+    ],
+    "Electrification": [
+        "750 V DC third rail"
+    ],
+    "Operating speed": [
+        "90 miles per hour (140 kilometres per hour) maximum"
+    ]
+}

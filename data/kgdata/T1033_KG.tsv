@@ -1,0 +1,26 @@
+key	keyword	definition	description	source
+Type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type	type	all of the tokens of the same symbol	type	wordnet
+Type	type	a person or thing exemplifying the ideal or defining characteristics of something.	NA	owlbot
+Type	type	A type is a kind	NA	GenericsKB
+Mayor	mayor	In many countries, a mayor is the highest-ranking official in a municipal government such as that of a city or a town. Worldwide, there is a wide variance in local laws and customs regarding the powers and responsibilities of a mayor as well as the means by which a mayor is elected or otherwise mandated. Depending on the system chosen, a mayor may be the chief executive officer of the municipal government, may simply chair a multi-member governing body with little or no independent power, or may play a solely ceremonial role. Options for selection of a mayor include direct election by the public, or selection by an elected governing council or board.	head of municipal government such as a town or city	wikipedia
+Mayor	mayor	the head of a city government	mayor, city_manager	wordnet
+Mayor	mayor	(in England, Wales, and Northern Ireland) the head of a town, borough, or county council, elected by council members and generally having purely ceremonial duties.	NA	owlbot
+Mayor	mayor	A mayor is civil authority	NA	GenericsKB
+Vice Mayor	vice mayor	The deputy mayor is an elective or appointive office of the second-ranking official that is present in many, but not all, local governments.	governance position - the second in command mayor	wikipedia
+Vice Mayor	vice	moral weakness	frailty, vice	wordnet
+Vice Mayor	mayor	the head of a city government	mayor, city_manager	wordnet
+Vice Mayor	vice	Vice is located in workshops	NA	GenericsKB
+Vice Mayor	mayor	Mayor is a person	NA	GenericsKB
+City Council	city council	A city council , town council , town board , or board of aldermen is the legislative body that governs a city, town, municipality, or local government area.	legislative body that governs a city, municipality or local government area	wikipedia
+City Council	city	people living in a large densely populated municipality	city, metropolis	wordnet
+City Council	council	(Christianity) an assembly of theologians and bishops and other representatives of different churches or dioceses that is convened to regulate matters of discipline or doctrine	council	wordnet
+City Council	city council	City councils are councils	NA	GenericsKB
+Representative	representative	A legislator is a person who writes and passes laws, especially someone who is a member of a legislature	member of a legislature	wikipedia
+Representative	representative	an advocate who represents someone else's policy or purpose	spokesperson, interpreter, representative, voice	wordnet
+Representative	representative	(of a legislative assembly or deliberative body) consisting of people chosen to act and speak on behalf of a wider group.	NA	owlbot
+Representative	representative	Representative is a somebody	NA	GenericsKB
+Electorate	electorate	An election is a formal group decision-making process by which a population chooses an individual to hold public office	process by which a population chooses an individual to hold public office	wikipedia
+Electorate	electorate	the body of enfranchised citizens; those qualified to vote	electorate	wordnet
+Electorate	electorate	all the people in a country or area who are entitled to vote in an election.	NA	owlbot
+Electorate	electorate	An electorate is a people	NA	GenericsKB

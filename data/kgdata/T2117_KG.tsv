@@ -1,0 +1,45 @@
+key	keyword	definition	description	source
+Address	address	An address is a collection of information, presented in a mostly fixed format, used to give the location of a building, apartment, or other structure or a plot of land, generally using political boundaries and street names as references, along with other identifiers such as house or apartment numbers and organization name. Some addresses also contain special codes, such as a postal code, to make identification easier and aid in the routing of mail. Addresses provide a means of physically locating a building. They are used in identifying buildings as the end points of a postal system and as parameters in statistics collection, especially in census-taking and the insurance industry. Address formats are different in different places, and unlike latitude and longitude coordinates, there is no simple mapping from an address to a location.	collection of information that describes the location of a building, apartment, or other structure	wikipedia
+Address	address	a sign in front of a house or business carrying the conventional form by which its location is described	address	wordnet
+Address	address	the particulars of the place where someone lives or an organization is situated.	NA	owlbot
+Address	address	Addresses are direction	NA	GenericsKB
+Borough	borough	A borough is an administrative division in various English-speaking countries. In principle, the term borough designates a self-governing walled town, although in practice, official use of the term varies widely.	administrative division in various countries	wikipedia
+Borough	borough	one of the administrative divisions of a large city	borough	wordnet
+Borough	borough	a town or district which is an administrative unit, in particular:	NA	owlbot
+Borough	borough	A borough is a district	NA	GenericsKB
+Locale	locale	In computer architecture a locale is an abstraction of the concept of a localized set of hardware resources which are close enough to enjoy uniform memory access	NA	wikipedia
+Locale	locale	the scene of any event or action (especially the place of a meeting)	venue, locale, locus	wordnet
+Locale	locale	a place where something happens or is set, or that has particular events associated with it.	NA	owlbot
+Locale	locale	Locale is the locale in which custom is running	NA	GenericsKB
+Coordinates	coordinates	"In geometry, a coordinate system is a system that uses one or more numbers, or coordinates , to uniquely determine the position of the points or other geometric elements on a manifold such as Euclidean space. The order of the coordinates is significant, and they are sometimes identified by their position in an ordered tuple and sometimes by a letter, as in ""the x -coordinate"". The coordinates are taken to be real numbers in elementary mathematics, but may be complex numbers or elements of a more abstract system such as a commutative ring. The use of a coordinate system allows problems in geometry to be translated into problems about numbers and vice versa ; this is the basis of analytic geometry."	System for determining the position of a point by a tuple of scalars	wikipedia
+Coordinates	coordinates	a number that identifies a position relative to an axis	coordinate, co-ordinate	wordnet
+Coordinates	coordinates	bring the different elements of (a complex activity or organization) into a harmonious or efficient relationship.	NA	owlbot
+Division	division	The median strip or central reservation is the reserved area that separates opposing lanes of traffic on divided roadways, such as divided highways, dual carriageways, freeways, and motorways	the reserved area that separates opposing lanes of traffic on divided roadways	wikipedia
+Division	division	an administrative unit in government or business	division	wordnet
+Division	division	the action of separating something into parts or the process of being separated.	NA	owlbot
+Division	division	Division has roots	NA	GenericsKB
+Line	line	In business and accounting, net income is an entity's income minus cost of goods sold, expenses, depreciation and amortization, interest, and taxes for an accounting period	entity's income minus cost of goods sold, expenses and taxes for an accounting period	wikipedia
+Line	line	a formation of people or things one behind another	line	wordnet
+Line	line	a row of people or things.	NA	owlbot
+Line	line	Line is a indication	NA	GenericsKB
+Structure	structure	A structure is an arrangement and organization of interrelated elements in a material object or system, or the object or system so organized. Material structures include man-made objects such as buildings and machines and natural objects such as biological organisms, minerals and chemicals. Abstract structures include data structures in computer science and musical form. Types of structure include a hierarchy , a network featuring many-to-many links, or a lattice featuring connections between components that are neighbors in space.	arrangement and organization of interrelated elements in an object or system, or the object or system so organized	wikipedia
+Structure	structure	a thing constructed; a complex entity constructed of many parts	structure, construction	wordnet
+Structure	structure	a building or other object constructed from several parts.	NA	owlbot
+Structure	structure	A structure is an artifact	NA	GenericsKB
+Platforms	platforms	The airport apron , flight line , or ramp is the area of an airport where aircraft are parked, unloaded or loaded, refilled, or boarded	area at an airport used by aircraft for parking, loading, fueling, and maintenance	wikipedia
+Platforms	platforms	a raised horizontal surface	platform	wordnet
+Platforms	platforms	the declared policy of a political party or group.	NA	owlbot
+Platforms	platform	A platform is a level	NA	GenericsKB
+Tracks	tracks	An audio signal is a representation of sound, typically using either a level of electrical voltage for analog signals, or a series of binary numbers for digital signals	representation of sound, typically as an electrical voltage; can be created synthetically through the generation of electric signals from electronic devices	wikipedia
+Tracks	tracks	a pair of parallel rails providing a runway for wheels	track	wordnet
+Tracks	tracks	a continuous line of rails on a railway.	NA	owlbot
+Tracks	track	A track is a line	NA	GenericsKB
+Opened	opened	"OpenEd is an online catalog of educational assessments, homework assignments, videos, games and lesson plans aligned to every Common Core standard and several other standards, and includes the only open source formative item bank. The site offers the ability for teachers to assign resources to their students online, letting students take assessments, do homework etc on their own computers or tablets. Assignments done online are graded automatically and presented to the teacher in a mastery chart. OpenEd's slogan mentions ""assessment to instruction"" meaning, formative assessments given on OpenEd can access OpenEd's large catalog on a per student basis to recommend the right resource to each student individually. The company has stated that functionality of searching the site and most of its resources are free and will continue to be free going forward. However, the company is also distributing premium content from publishers such as Pearson and Houghton Mifflin Harcourt to teachers for $9.95 per month. Currently 450,000 teachers or about 15% of all USA teachers are registered users. Recently, the company has been providing its resources with alignments to other tech companies. The API for finding standard and skill-aligned resources is used by ed tech leaders such as ACT , Pearson PLC, Pacific Metrics and many more."		wikipedia
+Opened	opened	make available	open, open_up	wordnet
+Opened	opened	make or become formally ready for customers, visitors, or business.	NA	owlbot
+Opened	open	Opens are areas	NA	GenericsKB
+Station code	station code	A station code is an abbreviation used on railways for railway stations. The codes are most used internally in the business, but can be seen at railway traffic signs and in some time tables. For different station codes, see * List of Amtrak station codes, United States and Canada * List of Deutsche Bahn station abbreviations, Germany * List of MTR station codes, Hong Kong, China * UK railway stations, Britain. Three-letter alpha codes are issued by National Rail which is responsible for railways in Great Britain. Station codes are not used by Northern Ireland Railways for stations in Northern Ireland. * Indian railway stations, India.	abbreviation used to designate a railway station	wikipedia
+Station code	station	(nautical) the location to which a ship or fleet is assigned for duty	station	wordnet
+Station code	code	a coding system used for transmitting messages requiring brevity or secrecy	code	wordnet
+Station code	station	Stations are located in subways	NA	GenericsKB
+Station code	code	CODE is a numeric code that uniquely identifies the message	NA	GenericsKB

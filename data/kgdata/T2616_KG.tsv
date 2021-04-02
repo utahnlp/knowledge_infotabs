@@ -1,0 +1,26 @@
+key	keyword	definition	description	source
+Born	born	Born is the first album released by the classical crossover string quartet Bond, and was produced by Magnus Fiennes and Gareth Cousins	album by the classical crossover string quartet Bond	wikipedia
+Born	born	move while holding up or supporting	bear	wordnet
+Born	born	existing as a result of birth.	NA	owlbot
+Born	born	Borns start with breaths	NA	GenericsKB
+Died	died	Death is the permanent cessation of all biological functions that sustain a living organism. Phenomena which commonly bring about death include aging, physiological or organ failure, predation, poisoning, malnutrition, disease, suicide, homicide, asphyxia, drowning, severe burns, drug intoxication, starvation, dehydration, electrocution, intense heat or cold, radiation toxicity, warfare attacks such as bombings, as well as explosions and accidents or major trauma resulting in fatal injury. The remains of a living organism begin to decompose shortly after death. It is an inevitable process eventually occurring in all living organisms. As of the early 21st century, over 150,000 humans die each day. Death, particularly of humans, has commonly been considered a sad or unpleasant occasion, due to the affection for the deceased and the termination of social and familial bonds. Other concerns include fear of death, necrophobia, anxiety, sorrow, grief, emotional pain, depression, sympathy, compassion, solitude, or saudade. Many cultures and religions have the idea of an afterlife, and also hold the idea of judgement and reward for good deeds or punishment for sin.	permanent cessation of vital functions	wikipedia
+Died	died	stop operating or functioning	fail, go_bad, give_way, die, give_out, conk_out, go, break, break_down	wordnet
+Died	died	(of a person, animal, or plant) stop living.	NA	owlbot
+Died	die	Dies  dreams	NA	GenericsKB
+Burial place	burial place	These lists of cemeteries compile notable cemeteries, mausolea, and other places people are buried worldwide. Reasons for notability include their design, their history, and their interments.	Wikimedia list article	wikipedia
+Burial place	burial	concealing something under the ground	burying, burial	wordnet
+Burial place	place	any area set aside for a particular purpose	place, property	wordnet
+Burial place	burial	Burial follows services	NA	GenericsKB
+Burial place	place	A place is a point	NA	GenericsKB
+Occupation	occupation	A job , employment , work or occupation , is a person's role in society	activity done by a person to earn money	wikipedia
+Occupation	occupation	any activity that occupies a person's attention	occupation	wordnet
+Occupation	occupation	for the sole use of the occupiers of the land concerned.	NA	owlbot
+Occupation	occupation	An occupation is an activity	NA	GenericsKB
+Spouse(s)	spouse	A spouse is a significant other in a marriage, civil union, or common-law marriage. The term is gender neutral, whereas a male spouse is a husband and a female spouse is a wife. Although a spouse is a form of significant other, the latter term also includes non-marital partners who play a social role similar to that of a spouse, but do not have rights and duties reserved by law to a spouse.	partner in a marriage, civil union, domestic partnership or common-law marriage	wikipedia
+Spouse(s)	spouse	a person's partner in marriage	spouse, partner, married_person, mate, better_half	wordnet
+Spouse(s)	spouse	a husband or wife, considered in relation to their partner.	NA	owlbot
+Spouse(s)	spouse	A spouse is a relative	NA	GenericsKB
+Children	children	"Biologically, a child is a human being between the stages of birth and puberty, or between the developmental period of infancy and puberty. The legal definition of child generally refers to a minor, otherwise known as a person younger than the age of majority. Children generally have fewer rights and less responsibility than adults. They are classed as unable to make serious decisions, and legally must be under the care of their parents or another responsible caregiver. Child may also describe a relationship with a parent or, metaphorically, an authority figure, or signify group membership in a clan, tribe, or religion; it can also signify being strongly affected by a specific time, place, or circumstance, as in ""a child of nature"" or ""a child of the Sixties""."	human between the stages of birth and puberty	wikipedia
+Children	children	a member of a clan or tribe	child	wordnet
+Children	children	a young human being below the age of puberty or below the legal age of majority.	NA	owlbot
+Children	child	Child is a individual	NA	GenericsKB

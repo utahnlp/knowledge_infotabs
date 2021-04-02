@@ -1,0 +1,22 @@
+key	keyword	definition	description	source
+Type	type	In computer science and computer programming, a data type or simply type is an attribute of data which tells the compiler or interpreter how the programmer intends to use the data	classification of data in computer science	wikipedia
+Type	type	all of the tokens of the same symbol	type	wordnet
+Type	type	a person or thing exemplifying the ideal or defining characteristics of something.	NA	owlbot
+Type	type	A type is a kind	NA	GenericsKB
+Mayor	mayor	In many countries, a mayor is the highest-ranking official in a municipal government such as that of a city or a town. Worldwide, there is a wide variance in local laws and customs regarding the powers and responsibilities of a mayor as well as the means by which a mayor is elected or otherwise mandated. Depending on the system chosen, a mayor may be the chief executive officer of the municipal government, may simply chair a multi-member governing body with little or no independent power, or may play a solely ceremonial role. Options for selection of a mayor include direct election by the public, or selection by an elected governing council or board.	head of municipal government such as a town or city	wikipedia
+Mayor	mayor	the head of a city government	mayor, city_manager	wordnet
+Mayor	mayor	(in England, Wales, and Northern Ireland) the head of a town, borough, or county council, elected by council members and generally having purely ceremonial duties.	NA	owlbot
+Mayor	mayor	A mayor is civil authority	NA	GenericsKB
+Vice Mayor	vice mayor	The deputy mayor is an elective or appointive office of the second-ranking official that is present in many, but not all, local governments.	governance position - the second in command mayor	wikipedia
+Vice Mayor	vice	a specific form of evildoing	vice	wordnet
+Vice Mayor	mayor	the head of a city government	mayor, city_manager	wordnet
+Vice Mayor	vice	Vice is located in workshops	NA	GenericsKB
+Vice Mayor	mayor	Mayor is a person	NA	GenericsKB
+Congressman	congressman	A Member of Congress is a person who has been appointed or elected and inducted into an official body called a congress, typically to represent a particular constituency in a legislature. Member of Parliament is an equivalent term in other, unaffiliated jurisdictions.	person who has been appointed or elected to a congress	wikipedia
+Congressman	congressman	a member of the United States House of Representatives	congressman, congresswoman, representative	wordnet
+Congressman	congressman	a member of Congress, especially a member of the US House of Representatives.	NA	owlbot
+Congressman	congressman	A congressman is a legislator	NA	GenericsKB
+Electorate	electorate	An electoral district , also known as an election district , legislative district , voting district , constituency , riding , ward , division , precinct , electoral area , circumscription , or electorate , is an administrative subdivision of a larger state created to provide its population with representation in the larger state's legislative body	territorial division made for elections	wikipedia
+Electorate	electorate	the body of enfranchised citizens; those qualified to vote	electorate	wordnet
+Electorate	electorate	all the people in a country or area who are entitled to vote in an election.	NA	owlbot
+Electorate	electorate	An electorate is a people	NA	GenericsKB

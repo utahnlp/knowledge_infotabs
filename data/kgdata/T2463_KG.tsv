@@ -1,0 +1,8 @@
+key	keyword	definition	description	source
+Occupation	occupation	A job , employment , work or occupation , is a person's role in society	activity done by a person to earn money	wikipedia
+Occupation	occupation	any activity that occupies a person's attention	occupation	wordnet
+Occupation	occupation	for the sole use of the occupiers of the land concerned.	NA	owlbot
+Occupation	occupation	An occupation is an activity	NA	GenericsKB
+Website	website	A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server. Notable examples are wikipedia.org, google.com, and amazon.com. All publicly accessible websites collectively constitute the World Wide Web. There are also private websites that can only be accessed on a private network, such as a company's internal website for its employees. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social networking. Hyperlinking between web pages guides the navigation of the site, which often starts with a home page. Users can access websites on a range of devices, including desktops, laptops, tablets, and smartphones. The software application used on these devices is called a web browser.	set of related web pages served from a single web domain	wikipedia
+Website	website	a computer connected to the internet that maintains a series of web pages on the World Wide Web	web_site, website, internet_site, site	wordnet
+Website	website	A website is a computer	NA	GenericsKB

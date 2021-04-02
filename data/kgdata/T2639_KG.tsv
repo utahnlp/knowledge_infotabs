@@ -1,0 +1,37 @@
+key	keyword	definition	description	source
+Known for	know	"Knowledge is a familiarity, awareness, or understanding of someone or something, such as facts , skills , or objects . Knowledge can be acquired in many different ways and from many difference sources, including but not limited to experience, education, reason, memory, scientific inquiry, exploration, and practice. The philosophical study of knowledge is called epistemology. Knowledge can refer to a theoretical or practical understanding of a subject. It can be implicit or explicit ; formal or informal; systematic or particular. The philosopher Plato famously pointed out the need for a distinction between knowledge and true belief in the Theaetetus , leading many to attribute to him a definition of knowledge as ""justified true belief"". The difficulties with this definition raised by the Gettier problem have been the subject of extensive debate in epistemology for more than half a century."	experience or education by perceiving, discovering, or learning; theoretical or practical understanding of a subject	wikipedia
+Known for	known	be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about	know, cognize, cognise	wordnet
+Known for	known	have developed a relationship with (someone) through meeting and spending time with them; be familiar or friendly with.	NA	owlbot
+Known for	know	Knows are knowing	NA	GenericsKB
+Born	born	""" Born "" is a song written and performed by Barry Gibb that was included as the first track on his debut album The Kid's No Good in 1970"	song written and performed by Barry Gibb	wikipedia
+Born	born	bring forth,	bear, turn_out	wordnet
+Born	born	existing as a result of birth.	NA	owlbot
+Born	born	Borns start with cries	NA	GenericsKB
+Height	height	"Height is measure of vertical distance, either vertical extent or vertical position . For example, ""The height of that building is 50 m"" or ""The height of an airplane in-flight is about 10,000 m"". When the term is used to describe vertical position from sea level, height is more often called altitude. Furthermore, if the point is attached to the Earth , then altitude is called elevation. In a two-dimensional Cartesian space, height is measured along the vertical axis between a specific point and another that does not have the same y -value. If both points happen to have the same y -value, then their relative height is zero. In three-dimensional space, height is measured along the vertical z axis, describing a distance from the x-y plane."	distance between the lowest end and highest end of an object	wikipedia
+Height	height	(of a standing person) the distance from head to foot	stature, height	wordnet
+Height	height	the measurement of someone or something from head to foot or from base to top.	NA	owlbot
+Height	height	Height decreases with age	NA	GenericsKB
+Weight	weight	a system of units used to express the weight of something	system_of_weights, weight	wordnet
+Weight	weight	assign a handicap weight to (a horse).	NA	owlbot
+Weight	weight	Weight affects power	NA	GenericsKB
+Position	position	An asana is a body posture, originally and still a general term for a sitting meditation pose, and later extended in hatha yoga and modern yoga as exercise, to any type of pose or position, adding reclining, standing, inverted, twisting, and balancing poses	yoga posture	wikipedia
+Position	position	a point occupied by troops for tactical reasons	military_position, position	wordnet
+Position	position	a person's point of view or attitude towards something.	NA	owlbot
+Position	position	A position is a point	NA	GenericsKB
+Shot	shot	A fathom is a unit of length in the imperial and the U	unit of length in the old imperial and the U.S. customary systems	wikipedia
+Shot	shot	a consecutive series of pictures that constitutes a unit of action in a film	scene, shot	wordnet
+Shot	shot	a photograph.	NA	owlbot
+Shot	shot	Shot is attempts	NA	GenericsKB
+Played for	play	Andy Dixon is a Canadian artist and musician, who gained notoriety as a member of the North Vancouver punk rock band d	Canadian musician	wikipedia
+Played for	played	be at play; be engaged in playful activity; amuse oneself in a way characteristic of children	play	wordnet
+Played for	played	take part in (a sport).	NA	owlbot
+Played for	play	Play is actions	NA	GenericsKB
+Playing career	play	Andy Dixon is a Canadian artist and musician, who gained notoriety as a member of the North Vancouver punk rock band d	Canadian musician	wikipedia
+Playing career	career	"The career is an individual's metaphorical ""journey"" through learning, work and other aspects of life. There are a number of ways to define career and the term is used in a variety of ways."	an individual's journey through learning, work, and other aspects of life	wikipedia
+Playing career	playing	act or have an effect in a specified way or with a specific effect or outcome	play	wordnet
+Playing career	career	the particular occupation for which you are trained	career, calling, vocation	wordnet
+Playing career	play	Play is actions	NA	GenericsKB
+Playing career	career	Careers are like marriages or other major commitments in life	NA	GenericsKB
+Website	website	A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server. Notable examples are wikipedia.org, google.com, and amazon.com. All publicly accessible websites collectively constitute the World Wide Web. There are also private websites that can only be accessed on a private network, such as a company's internal website for its employees. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social networking. Hyperlinking between web pages guides the navigation of the site, which often starts with a home page. Users can access websites on a range of devices, including desktops, laptops, tablets, and smartphones. The software application used on these devices is called a web browser.	set of related web pages served from a single web domain	wikipedia
+Website	website	a computer connected to the internet that maintains a series of web pages on the World Wide Web	web_site, website, internet_site, site	wordnet
+Website	website	A website is a computer	NA	GenericsKB

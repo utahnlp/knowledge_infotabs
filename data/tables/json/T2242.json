@@ -1,0 +1,81 @@
+{
+    "title": [
+        "Xiaomi Mi 2S"
+    ],
+    "Codename": [
+        "aries"
+    ],
+    "Manufacturer": [
+        "Xiaomi Tech"
+    ],
+    "Series": [
+        "Xiaomi Phone"
+    ],
+    "Compatible networks": [
+        "GSM 850, 900, 1800, and 1900 MHz & WCDMA 850, 1900 and 2100 MHz"
+    ],
+    "Predecessor": [
+        "Xiaomi Mi2"
+    ],
+    "Successor": [
+        "Xiaomi Mi3"
+    ],
+    "Related": [
+        "Xiaomi Mi2A"
+    ],
+    "Type": [
+        "Smartphone"
+    ],
+    "Form factor": [
+        "Slate"
+    ],
+    "Dimensions": [
+        "126 mm (5.0 in) H  ,  62 mm (2.4 in) W  ,  10.2 mm (0.40 in) D"
+    ],
+    "Mass": [
+        "145 g (5.1 oz)"
+    ],
+    "Operating system": [
+        "Original: MIUI v5 (Android 4.1 Jelly Bean)Current: MIUI 9 (Android 5.0.1 Lollipop)"
+    ],
+    "CPU": [
+        "Qualcomm Snapdragon 600 APQ8064T Quad-Core Krait 300 @ 1.7 GHz"
+    ],
+    "GPU": [
+        "Adreno 320"
+    ],
+    "Memory": [
+        "2 GB RAM"
+    ],
+    "Storage": [
+        "16 GB / 32 GB ROM"
+    ],
+    "Removable storage": [
+        "None"
+    ],
+    "Battery": [
+        "2000 mAh"
+    ],
+    "Data inputs": [
+        "Capacitive touch screen"
+    ],
+    "Display": [
+        "IPS Display 4.3 inches @ 1280px x 720px (341 PPI) (Manufactured by Sharp Inc.)"
+    ],
+    "Rear camera": [
+        "8 Megapixels (16 GB version) / 13 Megapixels (32 GB version)(backside-illuminated (BSI)), Records 1080p at 30fps and 720p at 90fps"
+    ],
+    "Front camera": [
+        "2 Megapixels, 1080p at 30fps"
+    ],
+    "Connectivity": [
+        "List Bluetooth 4.0 + A2DP",
+        "Wi-Fi (802.11 b/g/n)",
+        "Wi-Fi Direct",
+        "Micro-USB On-The-Go with MHL link",
+        "DLNA"
+    ],
+    "Website": [
+        "mi .com /mi2s"
+    ]
+}

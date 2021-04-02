@@ -1,0 +1,72 @@
+{
+    "title": [
+        "Armor:"
+    ],
+    "Name:": [
+        "Sh\u014dkaku  class"
+    ],
+    "Builders:": [
+        "Kawasaki Kobe Shipyard",
+        "Yokosuka Naval Arsenal"
+    ],
+    "Preceded by:": [
+        "Hiry\u016b"
+    ],
+    "Succeeded by:": [
+        "Taih\u014d"
+    ],
+    "Built:": [
+        "1938-1941"
+    ],
+    "In commission:": [
+        "1941-1944"
+    ],
+    "Completed:": [
+        "2"
+    ],
+    "Type:": [
+        "Aircraft carrier"
+    ],
+    "Displacement:": [
+        "32,105 t (31,598 long tons) (deep load)"
+    ],
+    "Length:": [
+        "257.5 m (844 ft 10 in)"
+    ],
+    "Beam:": [
+        "29 m (95 ft 2 in)"
+    ],
+    "Draft:": [
+        "9.32 m (30 ft 7 in) (deep load)"
+    ],
+    "Depth:": [
+        "23 m (75 ft 6 in)"
+    ],
+    "Installed power:": [
+        "160,000 shp (120,000 kW)",
+        "8 \u00d7 water-tube boilers"
+    ],
+    "Propulsion:": [
+        "4 \u00d7 shafts; 4 \u00d7 Kampon geared steam turbines"
+    ],
+    "Speed:": [
+        "34.5 knots (63.9 km/h; 39.7 mph)"
+    ],
+    "Range:": [
+        "9,700 nmi (18,000 km; 11,200 mi) at 18 knots (33 km/h; 21 mph)"
+    ],
+    "Complement:": [
+        "1660 officers and crewmen"
+    ],
+    "Armament:": [
+        "8 \u00d7 twin 127 mm (5 in) Type 89 dual-purpose guns",
+        "12 \u00d7 triple 25 mm (1 in) Type 96 AA guns"
+    ],
+    "Aircraft carried:": [
+        "72 (+12 spares)",
+        "7 December 1941:",
+        "18 \u00d7 Mitsubishi A6M Zeros",
+        "27 Aichi D3A \"Val\"s",
+        "27 Nakajima B5N \"Kate\"s"
+    ]
+}

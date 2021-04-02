@@ -1,0 +1,30 @@
+{
+  "title": [
+    "Kas"
+  ],
+  "Type": [
+    "Soft drink"
+  ],
+  "Manufacturer": [
+    "PepsiCo"
+  ],
+  "Country of origin": [
+    "Spain"
+  ],
+  "Introduced": [
+    "1956"
+  ],
+  "Flavour": [
+    "Orange ",
+    "Lemon ",
+    "Apple ",
+    "Guarana ",
+    "Guarana with Acerola ",
+    "Guarana with Maracuja ",
+    "Guarana with Peach"
+  ],
+  "Variants": [
+    "Bitter Kas ",
+    "Kas Fruit"
+  ]
+}

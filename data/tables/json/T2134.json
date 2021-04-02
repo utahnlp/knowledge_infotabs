@@ -1,0 +1,51 @@
+{
+  "title": [
+    "HTC Dream"
+  ],
+  "Manufacturer": [
+    "HTC"
+  ],
+  "Successor": [
+    "HTC Magic, HTC Desire Z (T-Mobile G2) , Nexus One"
+  ],
+  "Form factor": [
+    "Slider smartphone"
+  ],
+  "Dimensions": [
+    "117.7 mm (4.63 in)  (h)",
+    "55.7 mm (2.19 in)  (w)",
+    "17.1 mm (0.67 in)  (d)"
+  ],
+  "Mass": [
+    "158 g (5.6 oz)"
+  ],
+  "Operating system": [
+    "Original:  Android m3-rc22a (internal) , Android 1.0 (consumer) ,   Current:  Android 1.6 \"Donut\""
+  ],
+  "CPU": [
+    "528 MHz Qualcomm MSM7201A ARM11 processor"
+  ],
+  "Memory": [
+    "256 MB of internal storage, 192 MB RAM"
+  ],
+  "Removable storage": [
+    "Up to 16 GB microSD"
+  ],
+  "Battery": [
+    "1150 mAh , Internal rechargeable removable lithium-ion battery"
+  ],
+  "Data inputs": [
+    "capacitive touchscreen display, QWERTY keyboard, trackball, volume controls, 3-axis accelerometer"
+  ],
+  "Display": [
+    "320 x 480 px, 3.2 in (81 mm), HVGA, 65,536 color TFT-LCD at 180 pixels per inch (ppi)"
+  ],
+  "Rear camera": [
+    "3.15 megapixel, autofocus"
+  ],
+  "Connectivity": [
+    "Wi-Fi (802.11b/g), Bluetooth 2.0+EDR, ExtUSB, A-GPS",
+    "Quad-band GSM 850 900 1800 1900 MHz GPRS/EDGE",
+    "Dual band UMTS 1700 2100 MHz HSDPA/HSUPA (US/Europe) (7.2/2 Mbit/s)"
+  ]
+}

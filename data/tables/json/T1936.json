@@ -1,0 +1,39 @@
+{
+    "title": ["Irn-Bru"],
+    "Type": [
+        "Carbonated soft drink"
+    ],  
+    "Manufacturer": [
+        "A.G. Barr plc"
+    ], 
+    "Country of origin": [
+        "Scotland"
+    ], 
+    "Introduced": [
+        "1901"
+    ], 
+    "Discontinued": [
+        "Irn-Bru XS",  
+        "Irn-Bru 32",  
+        "Fiery Irn-Bru",  
+        "Original Recipe Irn-Bru"
+    ], 
+    "Colour": [
+        "Orange"
+    ], 
+    "Ingredients": [
+        "carbonated water",  
+        "sugar",  
+        "citric acid",  
+        "flavourings (incl. caffeine, ammonium ferric citrate, quinine)",
+        "sodium benzoate",  
+        "Sunset Yellow FCF",  
+        "Ponceau 4R",  
+        "Aspartame"
+    ], 
+    "Variants": [
+        "Irn-Bru sugar free",   
+        "Irn-Bru XTRA",  
+        "New-Bru"
+    ]
+}

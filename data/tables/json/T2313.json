@@ -1,0 +1,43 @@
+{
+  "title": [
+    "Earth Orbital characteristics (Epch J2000)"
+  ],
+  "Aphelion": [
+    "152100000 km ,  (94500000 mi; 1.017 AU)"
+  ],
+  "Perihelion": [
+    "147095000 km ,  (91401000 mi; 0.98327 AU)"
+  ],
+  "Semi-major axis": [
+    "149598023 km ,  (92955902 mi; 1.00000102 AU)"
+  ],
+  "Eccentricity": [
+    "0.0167086"
+  ],
+  "Orbital period": [
+    "365.256363004 d ,  (1.00001742096 yr)"
+  ],
+  "Average orbital speed": [
+    "29.78 km/s ,  (107200 km/h; 66600 mph)"
+  ],
+  "Mean anomaly": [
+    "7000625904740362451♠358.617°"
+  ],
+  "Inclination": [
+    "7.155° to the Sun's equator;",
+    "1.57869° to invariable plane;",
+    "0.00005° to J2000 ecliptic"
+  ],
+  "Longitude of ascending node": [
+    "−11.26064° to J2000 ecliptic"
+  ],
+  "Argument of perihelion": [
+    "114.20783°"
+  ],
+  "Satellites": [
+    "1 natural satellite: the Moon",
+    "5 quasi-satellites",
+    ">1 800 operational artificial satellites",
+    ">16 000 space debris"
+  ]
+}

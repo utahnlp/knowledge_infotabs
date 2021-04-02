@@ -1,0 +1,31 @@
+key	keyword	definition	description	source
+Type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type	type	all of the tokens of the same symbol	type	wordnet
+Type	type	a person or thing exemplifying the ideal or defining characteristics of something.	NA	owlbot
+Type	type	A type is a kind	NA	GenericsKB
+Significance	significance	In statistical hypothesis testing, a result has statistical significance when it is very unlikely to have occurred given the null hypothesis	statistical assessment of whether observations reflect a pattern rather than just chance	wikipedia
+Significance	significance	the quality of being significant	significance	wordnet
+Significance	significance	the meaning to be found in words or events.	NA	owlbot
+Significance	significance	Significance belongs to things in their relations to individuals	NA	GenericsKB
+Celebrations	celebrations	Celebrate may refer to:	Wikimedia disambiguation page	wikipedia
+Celebrations	celebrations	a joyful occasion for special festivities to mark some happy event	celebration, jubilation	wordnet
+Celebrations	celebrations	the action of celebrating an important day or event.	NA	owlbot
+Celebrations	celebration	Celebration is rituals	NA	GenericsKB
+Observances	observances	conformity with law or custom or practice etc.	honoring, observance	wordnet
+Observances	observances	the practice of observing the requirements of law, morality, or ritual.	NA	owlbot
+Date	date	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+Date	date	the specified day of the month	date, day_of_the_month	wordnet
+Date	date	establish or ascertain the date of (an object or event).	NA	owlbot
+Date	date	Date is a day	NA	GenericsKB
+2018 date	date	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+2018 date	date	the specified day of the month	date, day_of_the_month	wordnet
+2018 date	date	the day of the month or year as specified by a number.	NA	owlbot
+2018 date	date	Date is the day of the month	NA	GenericsKB
+2019 date	date	Chronological dating , or simply dating , is the process of attributing to an object or event a date in the past, allowing such object or event to be located in a previously established chronology	process of attributing to an object or event a date in the past	wikipedia
+2019 date	date	the specified day of the month	date, day_of_the_month	wordnet
+2019 date	date	the day of the month or year as specified by a number.	NA	owlbot
+2019 date	date	Date is the day of the month	NA	GenericsKB
+Frequency	frequency	Frequency is the number of occurrences of a repeating event per unit of time. It is also referred to as temporal frequency , which emphasizes the contrast to spatial frequency and angular frequency. Frequency is measured in units of hertz which is equal to one occurrence of a repeating event per second. The period is the duration of time of one cycle in a repeating event, so the period is the reciprocal of the frequency. For example: if a newborn baby's heart beats at a frequency of 120 times a minute , its period, T , — the time interval between beats—is half a second . Frequency is an important parameter used in science and engineering to specify the rate of oscillatory and vibratory phenomena, such as mechanical vibrations, audio signals , radio waves, and light.	inverse of the period duration	wikipedia
+Frequency	frequency	the number of occurrences within a given time period	frequency, frequence, oftenness	wordnet
+Frequency	frequency	the rate at which something occurs over a particular period of time or in a given sample.	NA	owlbot
+Frequency	frequency	A frequency is a rate	NA	GenericsKB

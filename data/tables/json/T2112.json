@@ -1,0 +1,23 @@
+{
+  "title": [
+    "Evolutionarily stable strategy"
+  ],
+  "Subset of": [
+    "Nash equilibrium"
+  ],
+  "Superset of": [
+    "Stochastically stable equilibrium, Stable Strong Nash equilibrium"
+  ],
+  "Intersects with": [
+    "Subgame perfect equilibrium, Trembling hand perfect equilibrium, Perfect Bayesian equilibrium"
+  ],
+  "Proposed by": [
+    "John Maynard Smith and George R. Price"
+  ],
+  "Used for": [
+    "Biological modeling and Evolutionary game theory"
+  ],
+  "Example": [
+    "Hawk-dove"
+  ]
+}

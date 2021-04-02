@@ -1,0 +1,1801 @@
+annotater_id	table_id	hypothesis	label
+GW74	T2045	Most of the survivors were crew.	E
+GW74	T2045	The five fatalities included 1 passenger	N
+GW74	T2045	There were more survivors than there were crew.	C
+GW52	T2045	Most of the 1950 British Columbia B-36 crash victims survived.	E
+GW52	T2045	The 1950 British Coluimbia B-36 crash report engine problems before the crash.	N
+GW52	T2045	The 1950 B-36 crash was due to birds entering the engine bay.	C
+GW95	T2045	There was one passenger for every 16 crew members.	E
+GW95	T2045	All deaths were members of the crew.	N
+GW95	T2045	More passengers than crew members died.	C
+GW86	T2046	The 1999 Jiji earthquake damaged or destroyed more than 100,000 buildings.	E
+GW86	T2046	The 1999 Jiji earthquake killed more than 2,415 people.	N
+GW86	T2046	The 1999 Jiji earthquake destroyed more buildings than it damaged.	C
+GW95	T2046	The Jiji earthquake took place in asia.	E
+GW95	T2046	Most of the buildings damaged were homes.	N
+GW95	T2046	This earthquake happened at the beginning of the millennium.	C
+GW74	T2046	The local time has a six hour difference from UTC time	E
+GW74	T2046	29 people have been missing for 20 years	N
+GW74	T2046	The date of the UTC time and locate date are the same	C
+GW12	T2047	The 2004 Indian Ocean earthquake and tsunami took place on December 26 on the Indian Ocean coastline areas.	E
+GW12	T2047	The total damage of the 2004 Indian Ocean earthquake and tsunami was over $15 billion US dollars.	N
+GW12	T2047	The causalities of the violent  2004 Indian Ocean earthquake and tsunami left under 200,000 dead.	C
+GW28	T2047	2004 Indian Ocean earthquake and tsunami occurred in Asia.	E
+GW28	T2047	2004 Indian Ocean earthquake and tsunami was felt as far away as Europe.	N
+GW28	T2047	The exact date and time of the 2004 Indian Ocean earthquake and tsunami could not be determined.	C
+GW52	T2047	The 2004 earthquake/tsunami killed over 200,000 people.	E
+GW52	T2047	The 2004 earthquake/tsunami was felt in several continents.	N
+GW52	T2047	The 2004 earthquake/tsunami was characterized as an extreme earthquake.	C
+GW63	T2048	There was a severe Earthquake that happened in Indonesia after 2004.	E
+GW63	T2048	Only a portion of Indonesia was affected by the Nias–Simeulue earthquake.	N
+GW63	T2048	Only mild earthquakes have happened in Asia.	C
+GW12	T2048	The 2005 Nias–Simeulue earthquake occurred in 2005 at the local time of 23:09.	E
+GW12	T2048	The 2005 Nias–Simeulue earthquake affected the area of Indonesia.	N
+GW12	T2048	There were 915 injured and 340 deaths as the result of the 2005 Nias–Simeulue earthquake.	C
+GW28	T2048	2005 Nias–Simeulue earthquake was located in Asia and struck at night.	E
+GW28	T2048	2005 Nias–Simeulue earthquake did not produce any tsunami.	N
+GW28	T2048	2005 Nias–Simeulue earthquake could not be pinpointed with any accuracy.	C
+GW52	T2049	The Sichuan Earthquake cost over $100 billion in damages.	E
+GW52	T2049	The 2008 Sichuan earthquake has damage that still hasn't been repaired.	N
+GW52	T2049	The earthquake never reached above a X intensity.	C
+GW74	T2049	There is an 8 hour difference in UTC time and local time	E
+GW74	T2049	87,587 were all killed at 14:28:01 CST	N
+GW74	T2049	The date of UTC time and local time are different	C
+GW1	T2049	Over a quarter million people were injured in the 2008 Sichuan earthquake.	E
+GW1	T2049	The 2008 Sichuan earthquake is the only earthquake that has been linked to the Longmenshan Fault.	N
+GW1	T2049	The 2008 Sichuan earthquake occurred in the Winter of 2008.	C
+GW63	T2050	Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake	E
+GW63	T2050	There were aftershocks even after 6 March 2018 from the Earthquake that happened in Japan in 2011.	N
+GW63	T2050	USGS-ANSS ComCat is only related to Japan and Pacific Rim	C
+GW1	T2050	The 2011 Tōhoku earthquake and tsunami caused over a quarter trillion dollars in damage.	E
+GW1	T2050	The 2011 Tōhoku earthquake and tsunami was the first tsunami to hit Miyako, Iwate, Tōhoku.	N
+GW1	T2050	More than 30,000 casualties total were caused by the 2011 Tōhoku earthquake and tsunami.	C
+GW105	T2050	The Tōhoku earthquake and tsunami was one of the more violent storms that occurred in the spring.	E
+GW105	T2050	The Pacific rim took the most damage from Tōhoku earthquake and tsunami.	N
+GW105	T2050	Millions of people went missing during the Tōhoku earthquake and tsunami.	C
+GW52	T2051	The 2016 Ecuador earthquake caused over 500 casualties.	E
+GW52	T2051	The 2016 Ecuador earthquake was felt in the United States.	N
+GW52	T2051	The 2016 Ecuador earthquake was categorized as an extreme earthquake.	C
+GW28	T2051	The 2016 Ecuador earthquake struck and killed hundreds and injured thousands.	E
+GW28	T2051	The 2016 Ecuador earthquake was the strongest earthquake in South America in more than a century.	N
+GW28	T2051	The 2016 Ecuador earthquake was localized in Ecuador and did not affect other neighboring countries.	C
+GW86	T2051	The 2016 Ecuador earthquake was felt in more than one country.	E
+GW86	T2051	2016 Ecuador earthquake killed precisely 668 people.	N
+GW86	T2051	The 2016 Ecuador earthquake was only felt in Ecuador.	C
+GW4	T2052	The 2019 Peru earthquake wound up killing more than 1 person.	E
+GW4	T2052	The 2019 Peru earthquake was one that was expected.	N
+GW4	T2052	The 2019 Peru earthquake was a weak earthquake	C
+GW1	T2052	The 2019 Peru earthquake injured over 2 dozen people.	E
+GW1	T2052	The 2019 Peru earthquake injured more people in Peru than Ecuador.	N
+GW1	T2052	The 2019 Peru earthquake lasted for over 3 hours.	C
+GW95	T2052	This earthquake happened early in the morning.	E
+GW95	T2052	The two deaths were Ecuadorians.	N
+GW95	T2052	The earthquake was the deadliest in history.	C
+GW28	T2053	Acorn Microcomputer was released with a keyboard but not a joystick.	E
+GW28	T2053	Acorn Microcomputer was sold only in Europe.	N
+GW28	T2053	Acorn Microcomputer included state-of-the-art graphics and sound cards.	C
+GW12	T2053	Acorn Computers developed the Acorn Microcomputer in 1979.	E
+GW12	T2053	The Acorn Microcomputer has a 25-key keypad and an LED display.	N
+GW12	T2053	The release date of the Acorn Atom was forty years ago.	C
+GW52	T2053	The Acorn Microcomputer debuted over 40 years ago.	E
+GW52	T2053	The Acorn Microcomputer was considered a cheap alternative.	N
+GW52	T2053	The Acorn Microcomputer houses more than 1MB of RAM.	C
+GW1	T2054	The Aerotrain is partially above ground.	E
+GW1	T2054	Aerotrain has always had 2 stations.	N
+GW1	T2054	The Aerotrain opened early in the 20th century.	C
+GW63	T2054	Men and women can use the Aerotrain in the year 2000.	E
+GW63	T2054	Malaysia Airports Holdings Berhad constructed and designed the Aerotrain.	N
+GW63	T2054	The Aerotrain operates only above the ground for a distance of 2 km in Malaysia	C
+GW52	T2054	Aerotrain opened over 20 years ago.	E
+GW52	T2054	Aerotrain fluctuates in speed on the route.	N
+GW52	T2054	Aerotrain has a railway route over a mile.	C
+GW28	T2055	African trypanosomiasis is an infection disease spread by tsetse flies in Africa.	E
+GW28	T2055	African trypanosomiasis originated in Europe and spread into Africa.	N
+GW28	T2055	Contracting African trypanosomiasis was eradicated decades ago.	C
+GW95	T2055	Most people who get it receive treatment.	E
+GW95	T2055	The diagnostic methods are extremely painful.	N
+GW95	T2055	90 percent of people who get it, die from it.	C
+GW4	T2055	African trypanosomiasis has more than one stage.	E
+GW4	T2055	The disease African trypanosomiasis only comes from Africa.	N
+GW4	T2055	African trypanosomiasis kills more than 50% of people that contract it.	C
+GW106	T2056	Life expectancy among patients afflicted with AIDS greatly increases with antiretroviral therapy treatment.	E
+GW106	T2056	Most new cases of AIDS in the United States occur as a result of exposure to breast milk.	N
+GW106	T2056	Antiretroviral therapies are capable of curing AIDS in a small percentage of patients.	C
+GW19	T2056	Human immunodeficiency virus (HIV) is no longer considered the automatic death sentence that it was in the 1980s.	E
+GW19	T2056	Unprotected sex is the primary method of HIV transmission.	N
+GW19	T2056	If diagnosed early enough, HIV can be cured completely.	C
+GW28	T2056	HIV/AIDS is an infectious disease with no known cure, only treatment.	E
+GW28	T2056	HIV/AIDS affects hetero and homosexual couples equally.	N
+GW28	T2056	HIV/AIDS is usually a death sentence for people without treatment.	C
+GW12	T2057	Alfa Romeo is the manufacturer of the Alfa Romeo V6 engine but not the designer.	E
+GW12	T2057	The aluminium Alfa Romeo V6 engine is also called the Alfa Romeo V6 Busso.	N
+GW12	T2057	The Alfa Romeo V6 engine was in production for over 30 years.	C
+GW4	T2057	An Alfa Romeo V6 engine started being made in the 70s.	E
+GW4	T2057	The Alfa Romeo V6 engine needs oil changes regularly.	N
+GW4	T2057	An Alfa Romeo V6 engine is made with a steel block.	C
+GW52	T2057	The Alfa Romeo V6 was in production for a quarter century.	E
+GW52	T2057	Alfa Romeo’s V6 engine was used in multiple vehicles.	N
+GW52	T2057	The V6 had more than 225 lb ft of torque.	C
+GW74	T2058	Altostratus undulatus cloud are wavy stratus clouds	E
+GW74	T2058	Altostratus undulatus cloud are always found at an altitude of 2400-6100 m	N
+GW74	T2058	Altostratus undulatus cloud are low clouds that form precipitation	C
+GW105	T2058	The altostratus tends to look rippled.	E
+GW105	T2058	The altostratus cloud appears at 15,000 ft high.	N
+GW105	T2058	The altostratus cloud usually means there's going to be a hurricane.	C
+GW52	T2058	The AS ascends an altitude of above 8000 ft.	E
+GW52	T2058	Clouds have a classification system.	N
+GW52	T2058	Precipitation is guaranteed with an AS cloud.	C
+GW19	T2059	While the birthday of B.R. Ambedkar is recognized in India, it is not a religious holiday.	E
+GW19	T2059	Dr. Babasaheb Ambedkar is considered the author of India's Constitution.	N
+GW19	T2059	Dr. Babasaheb Ambedkar was the leader of the primary Pakistani nationalist movement.	C
+GW63	T2059	Ambedkar Jayanti is celebrated along Ashok Vijaya Dashmi on 14 April	E
+GW63	T2059	B. R, Ambedkar was also known as Bhim	N
+GW63	T2059	B. R. Ambedkar was born in May	C
+GW86	T2059	Ambedkar Jayanti occurs yearly.	E
+GW86	T2059	Ambedkar Jayanti commemorates the birth anniversary of a medical doctor.	N
+GW86	T2059	Ambedkar Jayanti is a religious holiday.	C
+GW52	T2060	Angelina was established in the early 20th century.	E
+GW52	T2060	Angelina serves multiple kinds of food.	N
+GW52	T2060	Angelina has undergone five different owners.	C
+GW74	T2060	226 Rue de Rivoli is in Paris	E
+GW74	T2060	Groupe Bertrand lives in Paris	N
+GW74	T2060	Antoine Rumpelmayer replaced Groupe Bertrand as owners	C
+GW4	T2060	Angelina first opened over 100 years ago.	E
+GW4	T2060	Angelina is known as one of the best places to eat in France.	N
+GW4	T2060	Angelina only has one main location.	C
+GW86	T2061	The Apple I was one of a series of computers.	E
+GW86	T2061	The Apple I had a disc drive.	N
+GW86	T2061	The Apple I cost over $2,000 when it was introduced.	C
+GW52	T2061	The Apple I was in production for less than two years.	E
+GW52	T2061	The Apple I was the first model Apple developed.	N
+GW52	T2061	The Apple I was a cheap computer upon release.	C
+GW28	T2061	The Apple I was on the market for less than two years.	E
+GW28	T2061	The Apple I came with two joysticks for gaming.	N
+GW28	T2061	Apple I was introduced and stopped production in the same year.	C
+GW28	T2062	Argon has been known for over a hundred years.	E
+GW28	T2062	Argon is fatal when inhaled.	N
+GW28	T2062	The melting and boiling points for Argon are identical.	C
+GW74	T2062	The melting point is more the 4 °C than the boiling point.	E
+GW74	T2062	Atomic number is the sum of Electrons per shell	N
+GW74	T2062	Critical point is exactly double the triple point	C
+GW52	T2062	Argon was one of the first 20 elements discovered.	E
+GW52	T2062	Argon is commonly used to this day.	N
+GW52	T2062	Argon was discovered in the 20th century.	C
+GW28	T2063	Astatine was discovered in the first-half of the 20th century by multiple people.	E
+GW28	T2063	Astatine was discovered by accident while in the wild.	N
+GW28	T2063	Astatine was named after one of the scientists that discovered the element.	C
+GW4	T2063	Astatine can be found on the periodic table.	E
+GW4	T2063	Astatine glows when it is lit.	N
+GW4	T2063	Astatine is known for being very reactive.	C
+GW95	T2063	Astatine is found in run down elements.	E
+GW95	T2063	It was discovered by 3 Italians.	N
+GW95	T2063	Astatine is found on clean surfaces.	C
+GW95	T2064	Autism is usually diagnosed during toddler hood.	E
+GW95	T2064	Most autism patients are bullied due to their communication problems.	N
+GW95	T2064	Autism is treated with shots.	C
+GW52	T2064	Autism affects nearly 25 million people a year.	E
+GW52	T2064	Autism's onset has gone up over the years.	N
+GW52	T2064	Autism only lasts for a few months.	C
+GW4	T2064	Autism is a disease that shows symptoms in young children.	E
+GW4	T2064	People with Autism usually have problems talking with others.	N
+GW4	T2064	People with Autism are usually killed by it.	C
+GW19	T2065	The B25 Fulton Street line, part of the MTA NYC Bus system operated by the NYC Transit Authority, has more than 2.5 million riders each year.	E
+GW19	T2065	The B25 Bus Line is one of the most heavily used lines in the NYC bus system.	N
+GW19	T2065	The B25 Bus Line runs run the Upper West Side to Staten Island.	C
+GW106	T2065	The b25 Fulton Street Line travels on York Street in Brooklyn.	E
+GW106	T2065	The b25 buses have always been housed at he East New York Depot.	N
+GW106	T2065	The MTA limits the operation of the b5 Fulton Street Line to daytime through early evening hours.	C
+GW86	T2065	The b25 Fulton Street Line runs 24 hours a day.	E
+GW86	T2065	The b25 Fulton Street Line runs on Fulton Street for the majority of its route.	N
+GW86	T2065	The b25 Fulton Street Line starts on Broadway Junction and ends on Front Street.	C
+GW52	T2066	b48 Lorimer Street helps over a million people travel each year.	E
+GW52	T2066	b48 Lorimer Street still offers streetcar service.	N
+GW52	T2066	b48 Lorimer Street operates only throughout the day.	C
+GW84	T2066	Fresh Pond Depot is located in Brooklyn.	E
+GW84	T2066	There are over 2 million annual patrons at B48 Lorimor Street.	N
+GW84	T2066	Only buses are parked at Fresh Pond Depot.	C
+GW74	T2066	b48 Lorimer Street did not use Nova Bus RTS-06 in 1884	E
+GW74	T2066	b48 Lorimer Street began using the Orion VII in 1947	N
+GW74	T2066	b48 Lorimer Street starts and ends in the same community	C
+GW52	T2067	The b63 Fifth Avenue Line was developed in the 19th century.	E
+GW52	T2067	The b63 Fifth Avenue Line has had changes to its length over the years.	N
+GW52	T2067	The b63 Fifth Avenue Line's annual usage rate exceeds five million.	C
+GW106	T2067	The B63 Line is less than 6 miles in length.	E
+GW106	T2067	The B63 Fifth Avenue Line is the most frequently traveled route in Brooklyn annually.	N
+GW106	T2067	The last pick-up on the B63 Fifth Avenue line leaves at 11:59PM from Pier 6.	C
+GW28	T2067	b63 Fifth Avenue Line is a bus route that began service over a century ago in Brooklyn, New York.	E
+GW28	T2067	The b63 Fifth Avenue Line has reduced fare at off-peak hours.	N
+GW28	T2067	b63 Fifth Avenue Line also serves community in Queens.	C
+GW52	T2068	The b69 Vanderbilt Avenue Line has over a million people that travel on it every year.	E
+GW52	T2068	The b69 Vanderbilt Avenue Line has experimented with late night operations.	N
+GW52	T2068	The b69 Vanderbilt Avenue Line closed for good in 1950.	C
+GW106	T2068	The last stop for the B69 Vanderbilt Avenue Line is located in Brooklyn's downtown region.	E
+GW106	T2068	The B69 Line was the most popular mode of transportation to Ebbets Field during the 1956 World Series.	N
+GW106	T2068	Over 1.5 million customers rode the B69 in 2017.	C
+GW1	T2068	The b69 Vanderbilt Avenue Line started service in the 19th century.	E
+GW1	T2068	The b69 Vanderbilt Avenue Line has always had transfers available on it.	N
+GW1	T2068	In the middle of the 19th century, the b69 Vanderbilt Avenue Line stopped operating.	C
+GW52	T2069	The Bandra Worli Sea Link began construction two decades ago.	E
+GW52	T2069	The Bandra Worli Sea Link is an extremely popular toll booth.	N
+GW52	T2069	The Sea Link has a flat toll for all vehicles.	C
+GW74	T2069	Construction of Bandra Worli Sea Link was completed in about 10 years	E
+GW74	T2069	MSRDC hired Seshadri Srinivasan to design the  Bandra Worli Sea Link	N
+GW74	T2069	The Bandra Worli Sea Link opened 1 year after constructions ended.	C
+GW106	T2069	The Bandra Worli Sea Link is owned and maintained by the same company.	E
+GW106	T2069	Most tolls paid by drivers traveling on the Bandra Worli Sea Link pay an average of US$1.60.	N
+GW106	T2069	Construction of the Bandra Worli Sea Link occurred in two different decades.	C
+GW4	T2070	Bell's palsy is a disease that people can get over.	E
+GW4	T2070	The disease Bell's palsy is one that is fairly common.	N
+GW4	T2070	Bell's palsy is a disease that winds up killing people.	C
+GW52	T2070	Bell’s palsy is an uncommon condition.	E
+GW52	T2070	Bell’s palsy can be reoccurring.	N
+GW52	T2070	Bell’s palsy is a lifelong condition.	C
+GW28	T2070	Bell's palsy is a neurological disorder that is temporary but painful and embarrassing.	E
+GW28	T2070	Bell's palsy affects mainly older adult males.	N
+GW28	T2070	Bell's palsy is a lifelong affliction that can be managed.	C
+GW28	T2071	Beltane is an annual cultural observation that celebrates the beginning of summer.	E
+GW28	T2071	Beltane is celebrated by many other groups regardless of religion or beliefs.	N
+GW28	T2071	Beltane is a semi-annual Christian celebration	C
+GW52	T2071	Beltane signifies a change in the season.	E
+GW52	T2071	Beltane is how the term May Day began.	N
+GW52	T2071	Beltane occurs on May 1st around the world.	C
+GW74	T2071	Beltane celebrates the beginning of summer on May 1	E
+GW74	T2071	Wiccans usually lighting bonfires to celebrate Beltane	N
+GW74	T2071	The beginning of summer is celebrated in June in the southern hemisphere	C
+GW52	T2072	Bipolar disorder has different types.	E
+GW52	T2072	Bipolar disorder has grown in frequency.	N
+GW52	T2072	Bipolar disorder onsets in middle age.	C
+GW105	T2072	Bipolar disorder is a rare disease affecting a small percentage of the population.	E
+GW105	T2072	Most cases of bipolar disorder are due to genetics.	N
+GW105	T2072	Children are most at risk for bipolar disorder.	C
+GW74	T2072	There are more risk factors for Bipolar disorder than causes	E
+GW74	T2072	A 25 year old who suffered childhood abuse will develop Bipolar disorder	N
+GW74	T2072	There are more complications than symptoms	C
+GW1	T2073	The BMW 3 Series was first made in the 2nd decade of the 21st century.	E
+GW1	T2073	The petrol- turbocharged BMW 3 Series is considered superior by experts compared to the diesel- turbocharged BMW 3 Series.	N
+GW1	T2073	The BMW 3 Series had 3 main designers.	C
+GW28	T2073	BMW 3 Series is a German car assembled in multiple different countries.	E
+GW28	T2073	BMW 3 Series is the most affordable class of cars from BMW.	N
+GW28	T2073	BMW 3 Series is theri SUV offering powered by electric batteries.	C
+GW52	T2073	The BMW 3 series, F edition, had nearly a decade of production.	E
+GW52	T2073	The F model BMW 3 series is the last in the 3 series line-up.	N
+GW52	T2073	The F model BMW 3 series had two designers for each vehicle.	C
+GW4	T2074	A brain tumor usually winds up killing more than 200,000 people a year.	E
+GW4	T2074	A brain tumor can be removed at points in time.	N
+GW4	T2074	More than half of people that get a brain tumor will live.	C
+GW28	T2074	Treatment for a brain turmor is varied and done in conjunction with medicines.	E
+GW28	T2074	The most popular method of diagnosing a brain tumor is to have a tissue biopsy.	N
+GW28	T2074	A brain tumor is usually fatal within a few months of diagnosis.	C
+GW52	T2074	A brain tumor occurs in over one million patients.	E
+GW52	T2074	The prognosis for brain tumors has gotten better over the years.	N
+GW52	T2074	All who have a brain tumor will die from it.	C
+GW1	T2075	As of 2015, over 2 million people have been affected by breast cancer.	E
+GW1	T2075	Statistically, doctors prefer surgery to radiation therapy as a breast cancer treatment.	N
+GW1	T2075	Over a million people were killed by breast cancer in 2018.	C
+GW74	T2075	Deaths in 2018 were more than a quarter of the frequency affected in 2015.	E
+GW74	T2075	obesity causes change in breast shape	N
+GW74	T2075	There are more more symptoms than risk factors	C
+GW52	T2075	Breast cancer affects over two million people a year.	E
+GW52	T2075	Breast cancer happens in males.	N
+GW52	T2075	Breast cancer has a low survival rate.	C
+GW4	T2076	Bromine has a mass that is greater than 70.	E
+GW4	T2076	The mineral Bromine is known for being halogen.	N
+GW4	T2076	Bromine was first discovered in the 1900s.	C
+GW52	T2076	Bromine was one of the first 50 elements discovered.	E
+GW52	T2076	Bromine is highly volatile.	N
+GW52	T2076	Bromine was discovered in the 18th century.	C
+GW86	T2076	Bromine was first discovered in the nineteenth century.	E
+GW86	T2076	Bromine most frequently occurs in liquid form.	N
+GW86	T2076	Bromine is alkaline.	C
+GW60	T2077	John Augustus Roebling knows how to design suspension/cable-stay hybrid bridges.	E
+GW60	T2077	The Brooklyn Bridge is the only bridge to cross the East River.	N
+GW60	T2077	The Brooklyn Bridge is taller than it is long.	C
+GW4	T2077	The Brooklyn Bridge has been updated to add more capacity over the years.	E
+GW4	T2077	The Brooklyn Bridge relieved traffic strains on Brooklyn.	N
+GW4	T2077	To use the Brooklyn Bridge a driver has to spend money.	C
+GW106	T2077	The Brooklyn Bridge has connected Manhattan with Brooklyn since 1883.	E
+GW106	T2077	The Brooklyn Bridge reaches its highest point on its journey during its longest span.	N
+GW106	T2077	The Brooklyn Bridge crosses at least one body of water from Manhattan to Staten Island.	C
+GW105	T2078	Buddhists celebrate Buddha's birthday in the Spring.	E
+GW105	T2078	Buddha's Birthday takes place in April more often than not.	N
+GW105	T2078	Buddha's Birthday is a winter holiday.	C
+GW107	T2078	Buddha's Birthday is celebrated in many cultures and countries.	E
+GW107	T2078	Buddha's Birthday is celebrated only in Asia.	N
+GW107	T2078	Buddha's Birthday is celebrated on the same day every year.	C
+GW52	T2078	Buddha's Birthday is widely celebrated in parts of Asia.	E
+GW52	T2078	Buddha's Birthday can be celebrated by those outside of Asia.	N
+GW52	T2078	Buddha's Birthday is on the same day every year.	C
+GW4	T2079	Burning Man has been going on for over 30 years.	E
+GW4	T2079	Burning Man is always held in the exact same spot each year.	N
+GW4	T2079	Burning Man happens multiple times a year.	C
+GW89	T2079	The Burning Man festival is held yearly in Nevada.	E
+GW89	T2079	Larry Harvey is in charge of the event.	N
+GW89	T2079	The Burning Man Festival started in 1976.	C
+GW1	T2079	Burning Man was inaugurated in the Summer of 1986.	E
+GW1	T2079	Burning man always has about 50-70 thousand people attend.	N
+GW1	T2079	In 2019, Burning Man was in the Spring.	C
+GW12	T2080	Cardiac arrest occurs in older people when no pulse is found.	E
+GW12	T2080	Cardiac arrest can involve a loss of consciousness and very low potassium.	N
+GW12	T2080	The survival rate for cardiac arrest is higher with people outside of a hospital.	C
+GW86	T2080	The death rate from cardiac arrest ranges from 75 to 90 percent.	E
+GW86	T2080	Losing weight reduces the risk of cardiac arrest.	N
+GW86	T2080	The death rate from cardiac arrest in hospitals is higher than the death rate outside of hospitals.	C
+GW28	T2080	Cardiac arrest is a medical condition where the heart stops functioning and chances of survival are low.	E
+GW28	T2080	Cardiac arrest happens to more men than women.	N
+GW28	T2080	Cardiac arrest is fatal in all cases outside of the hospital.	C
+GW52	T2081	Cataracts take time to develop.	E
+GW52	T2081	Cataracts are fully preventable.	N
+GW52	T2081	Cataracts occur in only a few hundred thousand people.	C
+GW28	T2081	Millions of people have gotten cataracts but can be treated.	E
+GW28	T2081	Cataracts are expensive to treat.	N
+GW28	T2081	Cataracts are not very common or understood.	C
+GW86	T2081	Cataracts can be treated by more than one method.	E
+GW86	T2081	Cataracts usually cause blindness.	N
+GW86	T2081	Cataracts occur suddenly.	C
+GW105	T2082	Cerebral palsy is a childhood disease that lasts one's whole life.	E
+GW105	T2082	The most effective form of treatment is orthopedic surgery.	N
+GW105	T2082	Cerebral palsy affects nearly a quarter of the population.	C
+GW74	T2082	Poor coordination, usually occurs  first in childhood as a result of Cerebral palsy	E
+GW74	T2082	stiff muscles is always accompanied with Seizures	N
+GW74	T2082	There are more complications than symptoms	C
+GW28	T2082	Cerebral palsy is a neurological condition that appears early on in childhood.	E
+GW28	T2082	Cerebral palsy is associated with vaccination.	N
+GW28	T2082	Cerebral palsy can be cured before reaching adulthood.	C
+GW52	T2083	Cerium was first discovered in the 1830s.	E
+GW52	T2083	Cerium is widely available for use currently.	N
+GW52	T2083	Cerium was one of the first 20 elements discovered.	C
+GW28	T2083	It took 35 years to isolate Cerium after discovery.	E
+GW28	T2083	Cerium was discovered by Europeans first.	N
+GW28	T2083	Cerium was named after one of the scientists who discovered the element.	C
+GW4	T2083	Cerium was discovered before it was able to be isolated.	E
+GW4	T2083	The element Cerium is known for being very reactive.	N
+GW4	T2083	The element Cerium was named after the person that found it.	C
+GW86	T2084	Chinese New Year is always celebrated on or before February 20.	E
+GW86	T2084	Chinese New Year is celebrated by more ethnic Chinese than by non-Chinese.	N
+GW86	T2084	Chinese New Year is celebrated on the same day each year.	C
+GW105	T2084	Chinese New Year takes place during the Spring.	E
+GW105	T2084	More Buddhists celebrate Chinese New Year than Daoists.	N
+GW105	T2084	Chinese New Year celebrates the same animal each year.	C
+GW52	T2084	The symbol for 2019 for Chinese New Year is Pig.	E
+GW52	T2084	The Chinese New Year is the same tradition for everyone.	N
+GW52	T2084	The Chinese New Year has the same animal every two years.	C
+GW28	T2085	Christmas is a Christian observance that many non-Christians also celebrate.	E
+GW28	T2085	Christmas is the most celebrated holiday in the world.	N
+GW28	T2085	Christmas is universally celebrated on the 25th of December.	C
+GW52	T2085	Christmas a universally celebrated holiday.	E
+GW52	T2085	Christmas has the same traditions throughout the world.	N
+GW52	T2085	Christmas occurs on the same day for everyone.	C
+GW107	T2085	Christmas is celebrated annually.	E
+GW107	T2085	Christmas is celebrated by only white people.	N
+GW107	T2085	Christmas is the birthday of Buddha.	C
+GW4	T2086	The 2.2 & 2.5 engine were replaced by AMC engines.	E
+GW4	T2086	There were millions of 2.2 & 2.5 engines produced.	N
+GW4	T2086	The 2.2 & 2.5 engine was ran on diesel.	C
+GW74	T2086	Piston stroke is longer than Cylinder bore	E
+GW74	T2086	most 2.2 & 2.5 engine produced in 1995 have Multi-point fuel injection	N
+GW74	T2086	Piston stroke is at most 20 mm longer than Cylinder bore	C
+GW63	T2086	The block material and the head material of the Chrysler 2.2 and 2.5 engines are different.	E
+GW63	T2086	Single-point fuel injection is only used in the Chrysler 2.2 and 2.5 engines.	N
+GW63	T2086	Production of Chrysler inline 2.2 engine is still going on to this date	C
+GW28	T2087	Cincinnati Bell Connector is an electric powered streetcar line in Cincinnati, Ohio	E
+GW28	T2087	Cincinnati Bell Connector has a capacity of one hundred passenger per streetcar.	N
+GW28	T2087	Cincinnati Bell Connector runs on diesel.	C
+GW106	T2087	The Cincinnati Bell Connector opened in the Summer of 2016.	E
+GW106	T2087	The Cincinnati Bell Connector operates entirely within the city of Cincinnati.	N
+GW106	T2087	The Cincinnati Bell Connector is owned and operated by the same company or governing body.	C
+GW74	T2087	There are more stations than there are services for the  Cincinnati Bell Connector	E
+GW74	T2087	There were 18 stations when the Cincinnati Bell Connector opened on  September 9, 2016	N
+GW74	T2087	The line number is equal to the number of stations	C
+GW28	T2088	Civil Services Examination is a standardized exam for Indian graduates and citizens who want to work as a civil servant.	E
+GW28	T2088	More men take the Civil Services Examination than women.	N
+GW28	T2088	Civil Services Examination is open to all who apply.	C
+GW1	T2088	The Civil Services Examination was first given in the first half of the 20th century.	E
+GW1	T2088	English is the first section of the Civil Services Examination.	N
+GW1	T2088	The Civil Services Examination is offered biannually.	C
+GW52	T2088	The Civil Services Examination dates back to the 1920s.	E
+GW52	T2088	The Civil Services Examination has a high turnout rate every year.	N
+GW52	T2088	The qualification rate for the Civil Services Examination is high.	C
+GW1	T2089	There are multiple related jobs to a clinical pharmaceutical scientist.	E
+GW1	T2089	A clinical pharmaceutical scientist was originally known as an apothecary-scientist.	N
+GW1	T2089	A clinical pharmaceutical scientist only needs an undergraduate degree.	C
+GW52	T2089	Clinical pharmaceutical scientists require multiple competencies.	E
+GW52	T2089	Clinical pharmaceutical scientists are on the rise in terms of available jobs.	N
+GW52	T2089	Clinical pharmaceutical scientists encompasses only the academia sector.	C
+GW28	T2089	A high level of education is necessary to become a Clinical pharmaceutical scientist	E
+GW28	T2089	Clinical pharmaceutical scientist is a well-paid profession.	N
+GW28	T2089	Clinical pharmaceutical scientist are employed in academia only.	C
+GW106	T2090	Modern clowns are derived from medieval court jesters.	E
+GW106	T2090	Most clowns are mimes.	N
+GW106	T2090	Today, clowns have been delegated to solely performing in circus acts.	C
+GW52	T2090	Clowns have been around since the first president of the United States.	E
+GW52	T2090	Clowns have grown in popularity over the years.	N
+GW52	T2090	Clowns are not associated with any previous acts.	C
+GW60	T2090	Jesters are ancestors of mimes.	E
+GW60	T2090	Comedians existed in the 19th century.	N
+GW60	T2090	Clowning always involves speaking.	C
+GW4	T2091	The J4 College Park–Bethesda MetroExtra line runs more than 20 times a day.	E
+GW4	T2091	The J4 College Park–Bethesda MetroExtra line saves people a lot of travel time.	N
+GW4	T2091	The J4 College Park–Bethesda MetroExtra line is a train line.	C
+GW12	T2091	J4 College Park–Bethesda MetroExtra line is part of the Metrobus system and  is garages in Montgomery.	E
+GW12	T2091	The J4 College Park–Bethesda MetroExtra line began service at the end of 2002.	N
+GW12	T2091	The J4 College Park–Bethesda MetroExtra line runs all day long.	C
+GW52	T2091	The J4 College Park–Bethesda MetroExtra line runs every 20 minutes.	E
+GW52	T2091	The J4 College Park–Bethesda MetroExtra line has never undergone a renovation.	N
+GW52	T2091	The J4 College Park–Bethesda MetroExtra line runs all day.	C
+GW28	T2092	16G, 16H Columbia Pike–Pentagon City line was a bus route servicing the Washington D.C. metro area.	E
+GW28	T2092	16G, 16H Columbia Pike–Pentagon City line had wifi on-board all its buses.	N
+GW28	T2092	16G, 16H Columbia Pike–Pentagon City line is a 24 hour service still operating.	C
+GW4	T2092	The 16G, 16H Columbia Pike–Pentagon City line ran over 20 times a day.	E
+GW4	T2092	The 16G, 16H Columbia Pike–Pentagon City line helped save people hours on commute times.	N
+GW4	T2092	The 16G, 16H Columbia Pike–Pentagon City line is still running today.	C
+GW52	T2092	The 16G, 16H Columbia Pike–Pentagon City line began service in 2003.	E
+GW52	T2092	The 16G, 16H Columbia Pike–Pentagon City line have the same length of track.	N
+GW52	T2092	Both 16G, 16H Columbia Pike–Pentagon City line railways continue to be in service.	C
+GW63	T2093	From 2018 to 2021 Columbus Day has been observed before October 15	E
+GW63	T2093	Columbus Day is observed only in October	N
+GW63	T2093	Columbus Day was observed twice in 2018	C
+GW1	T2093	Columbus Day happens once a year.	E
+GW1	T2093	Columbus Day started being celebrated in the United States.	N
+GW1	T2093	The first Columbus Day was celebrated in 1492.	C
+GW19	T2093	Christopher Columbus, the explorer honored on Columbus Day, was from Italy.	E
+GW19	T2093	Columbus Day has always been celebrated during the month of October.	N
+GW19	T2093	Columbus Day marks the unofficial end of summer.	C
+GW52	T2094	The CAT has a negative range value.	E
+GW52	T2094	The CAT takes place in all of Asia.	N
+GW52	T2094	The CAT's scores are good for a lifetime.	C
+GW106	T2094	The Common Admission Test is offered at over 300 locations throughout India.	E
+GW106	T2094	The CAT exam is usually offered in December of each year.	N
+GW106	T2094	The CAT test is required by all Indian undergraduates who wish to attend graduate school.	C
+GW28	T2094	Common Admission Test is a standardized exam in India used for admission to Indian business schools.	E
+GW28	T2094	The Common Admission Test is harder than the GMAT exam used in the US.	N
+GW28	T2094	Common Admission Test is accepted by US based business schools.	C
+GW106	T2095	At least 3 million people could prevent getting pink eye each year by simply washing their hands.	E
+GW106	T2095	Pink eye is the most diagnosed disease by ophthalmologists each year.	N
+GW106	T2095	The symptoms associated with pink eye can last up to a month in the United States.	C
+GW4	T2095	Conjunctivitis leads to people's eye color changing.	E
+GW4	T2095	Conjunctivitis can be transferred to people easily.	N
+GW4	T2095	Conjunctivitis winds up killing most people that are infected with it	C
+GW28	T2095	Conjunctivitis is a medical condition that affects the eyes.	E
+GW28	T2095	Conjunctivitis can be transmitted from one person to another.	N
+GW28	T2095	Conjunctivitis is hereditary and passed on to children from their parents.	C
+GW4	T2096	Crohn's disease is something that causes stomach problems.	E
+GW4	T2096	Crohn's disease leads to people dying earlier.	N
+GW4	T2096	Crohn's disease can be cured by tobacco.	C
+GW28	T2096	Crohn's disease can appear in young adults and involves abdominal pain and diarrhea	E
+GW28	T2096	Crohn's disease disproportionately affects men over women.	N
+GW28	T2096	Crohn's disease is quickly cured with drugs.	C
+GW52	T2096	Crohn's disease has a common onset in the 20s.	E
+GW52	T2096	Crohn's disease has shown increased frequency over the years.	N
+GW52	T2096	Crohn's disease individuals do not have a shorter life expectancy.	C
+GW86	T2097	Cumulonimbus clouds are commonly associated with rain.	E
+GW86	T2097	Calvus clouds are the most common species of cumulonimbus cloud.	N
+GW86	T2097	Cumulonimbus clouds are found in multiple varieties.	C
+GW4	T2097	A Cumulonimbus Cloud usually is below 50,000 feet.	E
+GW4	T2097	A Cumulonimbus Cloud can often have rain in it.	N
+GW4	T2097	A Cumulonimbus Cloud usually is close to space.	C
+GW12	T2097	Cumulonimbus Cloud, from the genus Cumulonimbus, is abbreviated Cb.	E
+GW12	T2097	Family C is a high level classification of Cumulonimbus Cloud.	N
+GW12	T2097	Cumulonimbus Cloud is associated with low levels of precipitation.	C
+GW12	T2098	Cushing's syndrome affects at least two million people a year.	E
+GW12	T2098	Hyperadrenocorticism takes 20-50 years to show up in a person.	N
+GW12	T2098	Endocrinology is another name for hypercortisolism.	C
+GW105	T2098	A patient seeking Cushing's syndrome care should go see an endocrinologist.	E
+GW105	T2098	Most people with Cushing's syndrome have acne.	N
+GW105	T2098	Cushing's syndrome is most common in children.	C
+GW28	T2098	Millions of people are affected by Cushing's syndrome but can be successfully treated.	E
+GW28	T2098	Cushing's syndrome treatment is highly affordable.	N
+GW28	T2098	Cushing's syndrome affects mainly children and is fatal.	C
+GW86	T2099	A new version of Debian has been released in the past year.	E
+GW86	T2099	A new version of Debian is released in September each year.	N
+GW86	T2099	Debian is compatible with over a dozen platforms.	C
+GW74	T2099	The latest release of  Debian occurred in the same month as the initial release	E
+GW74	T2099	Debian was available in 75 languages in 1993	N
+GW74	T2099	10.1 (Buster) was released 25 years after the initial release	C
+GW19	T2099	Version 10.1 of Deiban, an open source Linux operating system, is used throughout the world.	E
+GW19	T2099	Version 10.1 of Deiban, an open source Linux operating system, offers Hindi language support.	N
+GW19	T2099	The eleventh version of Deiban, released in September 2019, is the default operating system for iphone.	C
+GW4	T2100	Disney Skyliner opened up in the third quarter of 2019.	E
+GW4	T2100	The Disney Skyliner moves over 20 miles an hour.	N
+GW4	T2100	The Disney Skyliner is at Disneyland.	C
+GW28	T2100	Disney Skyliner is a transit system that operates in the United States of America	E
+GW28	T2100	One gondola on the Disney Skyliner can accommodate ten people at once.	N
+GW28	T2100	Disney Skyliner has been in operation for over a decade in multiple Disney World parks around the world.	C
+GW1	T2100	Disney Skyliner opened in the Fall of 2019.	E
+GW1	T2100	Disney Skyliner is the first to use the Doppelmayr Garaventa Group system.	N
+GW1	T2100	The Disney Skyliner is located on the West Coast of the United States.	C
+GW86	T2101	Diwali is sometimes known by other names.	E
+GW86	T2101	Diwali is usually observed in October.	N
+GW86	T2101	Diwali is observed on the same date every year.	C
+GW1	T2101	Diwali is celebrated in the Fall.	E
+GW1	T2101	Diwali was called Deepavali first in history.	N
+GW1	T2101	Diwali is directly related to over a dozen other holidays.	C
+GW12	T2101	Diwali is a religious holiday observed by some Buddhists.	E
+GW12	T2101	Deepavali is a seasonal holiday celebrated with home decorations and gifts.	N
+GW12	T2101	The 2019 dates for Diwali all occur in the beginning of the month of October.	C
+GW12	T2102	The Dongzhi Festival is observed by the Chinese and is also called Tang-cheh.	E
+GW12	T2102	Dongzhi Festival is an annual celebration occurring in December.	N
+GW12	T2102	The Dongzhi Festival marks the winter solstice during the first week of December.	C
+GW52	T2102	The Dongzhi is a celebration of ancestors.	E
+GW52	T2102	The Dongzhi has been in place for several centuries.	N
+GW52	T2102	The festival begins on the same day every year.	C
+GW28	T2102	Dongzhi Festival is a yearly festival that celebrates the Winter solstice.	E
+GW28	T2102	Dongzhi Festival has been celebrated for thousands of years.	N
+GW28	T2102	Dongzhi Festival is celebrated throughout Asia and Europe.	C
+GW52	T2103	Down syndrome causes more than 25,000 deaths a year.	E
+GW52	T2103	Down syndrome has gone up in frequency over the years.	N
+GW52	T2103	Down syndrome affects 10 million people a year.	C
+GW106	T2103	Down syndrome is a chromosomal disorder.	E
+GW106	T2103	Most cases of Down syndrome occur when the mother is over 40 at the time of birth.	N
+GW106	T2103	Down syndrome is so rare that it only occurs in one child per family generation.	C
+GW4	T2103	Down syndrome is on the 21st chromosome.	E
+GW4	T2103	Down syndrome usually is transmitted through sperm	N
+GW4	T2103	Down syndrome winds up affecting 1% of people in the world.	C
+GW12	T2104	Located in Germany, the Duisburg–Quakenbrück railway is also known as Bahnstrecke Duisburg–Quakenbrück.	E
+GW12	T2104	Having a line length of 173 km, the Duisburg–Quakenbrück railway has less than four line numbers associated with it.	N
+GW12	T2104	The Route Number for the Duisburg–Quakenbrück railway is smaller than its line length.	C
+GW86	T2104	The trains on the Duisburg–Quakenbrück railway are powered by an overhead electrical source.	E
+GW86	T2104	The Duisburg–Quakenbrück railway runs through exactly five towns in Germany.	N
+GW86	T2104	The Duisburg–Quakenbrück railway has a line length of 173 miles.	C
+GW52	T2104	The Duisburg–Quakenbrück railway lasts for over 100 miles.	E
+GW52	T2104	The Duisburg–Quakenbrück railway is an electric railway.	N
+GW52	T2104	The Duisburg–Quakenbrück railway hits 60 mph.	C
+GW106	T2105	Once hearing and/or vision problems have been ruled out, less than 10% of school age children who have trouble reading are afflicted with dyslexia.	E
+GW106	T2105	Most children diagnosed with dyslexia also suffer from ADHD concurrently.	N
+GW106	T2105	Dyslexia is treatable with the use of certain medications.	C
+GW74	T2105	Symptoms of having trouble reading usually first occur during school age	E
+GW74	T2105	attention deficit hyperactivity disorder will cause Trouble reading	N
+GW74	T2105	Dyslexia occurs in 10% of school age children	C
+GW95	T2105	People are usually diagnosed with dyslexia before they graduate high school.	E
+GW95	T2105	Dyslexic students need one-on-one teaching methods.	N
+GW95	T2105	Dyslexia can be transmitted person-to-person.	C
+GW12	T2106	Easter is a religious holiday celebrating the resurrection of Jesus.	E
+GW12	T2106	Easter Egg decorating is a part of the Easter celebration.	N
+GW12	T2106	The dates to celebrate Easter are the same in 2018 and 2019.	C
+GW1	T2106	Easter is related to over a dozen other holidays.	E
+GW1	T2106	Easter's date changes every year.	N
+GW1	T2106	Easter is typically in the Summer.	C
+GW28	T2106	Easter falls on different dates every year.	E
+GW28	T2106	Church attendance is required during Easter.	N
+GW28	T2106	Easter always falls in April every year.	C
+GW86	T2107	Eid al-Fitr occurs after Ramadan.	E
+GW86	T2107	In 2020, Eid al-Fitr will be celebrated on 24 May.	N
+GW86	T2107	Eid al-Fitr is celebrated in the same month each year.	C
+GW89	T2107	Eid al-Fitr occurred on different dates in different countries in 2019.	E
+GW89	T2107	Eid al-Fitr will occur on 24 May and 25 May in 2020.	N
+GW89	T2107	Eid al-Fitr marks the beginning of Ramadan.	C
+GW28	T2107	For Muslims, Eid al-Fitr signifies the end of fasting for Ramadan.	E
+GW28	T2107	Eid al-Fitr is celebrated with sweet cakes.	N
+GW28	T2107	Eid al-Fitr is celebrated on the same date every year.	C
+GW4	T2108	The Emirates Air Line is under a mile in length.	E
+GW4	T2108	The Emirates Air Line took a few years to build.	N
+GW4	T2108	The Emirates Air Line has less than a million passengers annually.	C
+GW106	T2108	The Emirates Air Line is operated entirely in the United Kingdom.	E
+GW106	T2108	The Emirates Air Line is capable of speeds up to 12 m/s, though it only officially operates at 6 m/s.	N
+GW106	T2108	The Emirates Air Line is operated by the Greenwich Transit Authority.	C
+GW74	T2108	The Gondola lift's line length is 12 times it's highest elevation	E
+GW74	T2108	The gondola reaches 300 ft halfway between Emirates Greenwich Peninsula and Emirates Royal Docks	N
+GW74	T2108	Ridership was 1,314,783 as of 10 years after the opening	C
+GW28	T2109	Epilepsy is a neurological disorder that results in uncontrollable seizures.	E
+GW28	T2109	Epilepsy is a manageable condition with a healthy diet and meditation.	N
+GW28	T2109	Epilepsy is treatable with oils and stimulation.	C
+GW4	T2109	Epilepsy winds up lasting an entire person's life.	E
+GW4	T2109	The disease Epilepsy is usually able to be managed by patients.	N
+GW4	T2109	The disease Epilepsy always has a clear starting point.	C
+GW89	T2109	There are at least 6 possible causes of epilepsy.	E
+GW89	T2109	The number of epilepsy deaths is decreasing each year.	N
+GW89	T2109	Epilepsy is controllable in 80% of patients.	C
+GW1	T2110	Everyone on board of Ethiopian Airlines Flight 302 was killed.	E
+GW1	T2110	The investigation of Ethiopian Airlines Flight 302 is almost complete.	N
+GW1	T2110	Ethiopian Airlines Flight 302 crashed in the Summer of 2019.	C
+GW74	T2110	The were more fatalities than passengers	E
+GW74	T2110	Ethiopian Airlines always use Boeing 737 MAX 8	N
+GW74	T2110	None of the crew were a part of the fatalities	C
+GW19	T2110	Ethiopian Airlines Flight 302 was an international flight which crashed shortly after take off.	E
+GW19	T2110	The crash of Ethiopian Airlines Flight 302 was the worst airline disaster in the carrier's history.	N
+GW19	T2110	The manufacturer, Airbus, was deemed liable for the crash of Ethiopian Airlines Flight 302.	C
+GW28	T2111	Europium is a naturally occurring element.	E
+GW28	T2111	Europium was discovered and isolated by a European male scientist.	N
+GW28	T2111	Europium is man-made synthetically created in a lab.	C
+GW52	T2111	Europium was discovered at the turn of the 20th century.	E
+GW52	T2111	Europium is a commonly seen element.	N
+GW52	T2111	The melting and boiling point of Europium are the same.	C
+GW86	T2111	Europium is named after a continent.	E
+GW86	T2111	Europium was named by Eugène-Anatole Demarçay.	N
+GW86	T2111	Europium is slightly acidic.	C
+GW28	T2112	Evolutionarily stable strategy was first proposed by two men.	E
+GW28	T2112	Evolutionarily stable strategy is associated with Evolutionary game theory and is a part of Nash equilibrium.	N
+GW28	T2112	Evolutionarily stable strategy encompasses Nash equilibrium and Perfect Bayesian equilibrium.	C
+GW12	T2112	Hawk-dove is one example of evolutionarily stable strategy.	E
+GW12	T2112	Evolutionarily stable strategy is a subset of both Nash equilibrium and stochastically stable equilibrium.	N
+GW12	T2112	George R. Smith proposed the idea of evolutionarily stable strategy.	C
+GW86	T2112	Evolutionarily stable strategy was proposed by multiple individuals.	E
+GW86	T2112	Evolutionarily stable strategy was proposed prior to the proposal of subgame perfect equilibrium.	N
+GW86	T2112	Evolutionarily stable strategy has no relationship to trembling hand perfect equilibrium.	C
+GW12	T2113	Ten percent of people experience exploding head syndrome, otherwise known as episodic cranial sensory shock.	E
+GW12	T2113	Exploding head syndrome has a short duration and the causes are unknown.	N
+GW12	T2113	PTSD is the only diagnosis for exploding head syndrome.	C
+GW28	T2113	Exploding head syndrome is a medical condition that affects people when falling asleep or waking up.	E
+GW28	T2113	Exploding head syndrome sufferers scream when woken up.	N
+GW28	T2113	Exploding head syndrome is a nearly fatal disease if not treated.	C
+GW86	T2113	Exploding head syndrome is characterized by unusual auditory experiences.	E
+GW86	T2113	Exploding head syndrome usually requires treatment.	N
+GW86	T2113	Exploding head syndrome occurs in approximately a quarter of the population.	C
+GW52	T2114	Fast of Esther is an all day event.	E
+GW52	T2114	Fast of Esther is observed by all practicing Jews.	N
+GW52	T2114	Fast of Esther takes place on the same day every year.	C
+GW74	T2114	Fast of Esther is in the same month in 2020 and 2019	E
+GW74	T2114	All Jews fast during Fast of Esther	N
+GW74	T2114	The 2018 date is one month after the 2019 date	C
+GW4	T2114	The Fast of Esther only lasts for one day.	E
+GW4	T2114	Every Jewish person observes the Fast of Esther.	N
+GW4	T2114	The Fast of Esther is on the same day every year.	C
+GW2	T2115	The prognosis for Hepatic steatosis is good if caught early.	E
+GW2	T2115	Most cirrhosis is cause by fatty liver.	N
+GW2	T2115	Hepatic steatosis affects under 70% of heavy drinkers.	C
+GW52	T2115	Fatty liver has multiple types.	E
+GW52	T2115	Fatty liver does not impact life expectancy.	N
+GW52	T2115	Fatty liver can only be caused by alcohol.	C
+GW25	T2115	Hepatic steatosis which is also known as fatty liver can be diagnosed through multiple methods.	E
+GW25	T2115	Fatty liver is prominent in heavy drinkers and quitting drinking is a sure cure.	N
+GW25	T2115	Fatty liver is often associated with heavy drinking but doesn't lead to Cirrhosis or liver cancer.	C
+GW52	T2116	Flourine was one of the first ten elements discovered.	E
+GW52	T2116	Flourine is in high use today.	N
+GW52	T2116	Flourine was discovered in the 18th century.	C
+GW63	T2116	The person who named Fluorine is different from the person who discovered it.	E
+GW63	T2116	Fluorine can be isolated in solid state.	N
+GW63	T2116	Fluorine is solid when it is at the STP phase.	C
+GW25	T2116	Fluorine is a Reactive nonmetal with alpha, beta Allotropes.	E
+GW25	T2116	Although André-Marie Ampère first discovered Flourine, Henri Moissan's first isolation of it proved to gain it's acceptance among Chemistry academics.	N
+GW25	T2116	Humphry Davy named Flourine but Henri Moissan discovered it.	C
+GW1	T2117	The Main Street Subway Station (Dual System IRT) opened in the Fall of 1928.	E
+GW1	T2117	The Main Street Subway Station (Dual System IRT) always had 2 island platforms.	N
+GW1	T2117	The Main Street Subway Station (Dual System IRT) has been running for over a century.	C
+GW86	T2117	The Main Street Subway Station has more tracks than platforms.	E
+GW86	T2117	The Main Street Subway Station was built 91 years ago.	N
+GW86	T2117	The Main Street Subway Station has more platforms than tracks.	C
+GW52	T2117	The Main Street Subway Station (Dual System IRT) opened in the 20th century.	E
+GW52	T2117	The Main Street Subway Station (Dual System IRT) continues to run today.	N
+GW52	T2117	The Main Street Subway Station (Dual System IRT) runs through all of New York.	C
+GW106	T2118	The original headquarters for Fosters Freeze is located in a different city than its headquarters today.	E
+GW106	T2118	Sanjay Patel resigned as CEO of Google in order to accept the position as head of Fosters Freeze.	N
+GW106	T2118	Fosters Freeze tested a new Strawberry Shortcake soft serve twist flavor at certain stores in Phoenix, AZ.	C
+GW83	T2118	Foster's Freeze was founded by George Foster	E
+GW83	T2118	There is a Foster's freeze location in Pasadena, California	N
+GW83	T2118	Foster's Freeze was founded in Hollywood California	C
+GW86	T2118	The headquarters of Fosters Freeze is located in a different city than the city where the chain was founded.	E
+GW86	T2118	The founder of Fosters Freeze is deceased.	N
+GW86	T2118	Fosters Freeze has restaurants in multiple states.	C
+GW52	T2119	Ganesh Chaturthi lasts almost two weeks.	E
+GW52	T2119	Ganesh Chaturthi can end in August.	N
+GW52	T2119	Ganesh Chaturthi is observed by all of Asia.	C
+GW28	T2119	Ganesh Chaturthi is a multi-day religious observance that falls on different days every year.	E
+GW28	T2119	Ganesh Chaturthi tradition dictates money be given to children as a gift during the observance.	N
+GW28	T2119	Ganesh Chaturthi is a single day of observance starting at the end of the summer.	C
+GW4	T2119	Ganesh Chaturthi lasts for over a week.	E
+GW4	T2119	Ganesh Chaturthi has been part of Hindu tradition for over 1000 years.	N
+GW4	T2119	Ganesh Chaturthi happens on the same date every year.	C
+GW106	T2120	The Garfield Park Branch opened and closed during the same month 63 years apart.	E
+GW106	T2120	The Garfield Park Branch is the only rapid transit line to survive in two separate centuries in Chicago.	N
+GW106	T2120	The Garfield Park Branch operated entirely within Cook County, Illinois.	C
+GW74	T2120	Garfield Park Branch closed in same month that it opened	E
+GW74	T2120	Garfield Park Branch had 22 stations in 1895	N
+GW74	T2120	Metropolitan West Side Elevated Railroad was the operator when  Garfield Park Branch closed	C
+GW28	T2120	Garfield Park Branch has not been in operation for more than fifty years.	E
+GW28	T2120	Garfield Park Branch is abandoned and condemned.	N
+GW28	T2120	Garfield Park Branch serviced multiple states in the midwest.	C
+GW52	T2121	The General Examination for Women only was in use for a decade.	E
+GW52	T2121	The General Examination for Women was meant to be a foot in the door for work.	N
+GW52	T2121	The General Examination for Women was taken in the 20th century.	C
+GW28	T2121	General Examination for Women was an exam to qualify women for higher learning at university.	E
+GW28	T2121	General Examination for Women was necessary for women who wished to pursue an academic career.	N
+GW28	T2121	General Examination for Women was offered in multiple languages and continues to this day.	C
+GW74	T2121	General Examination for Women ended 11 years after it started	E
+GW74	T2121	University of London was the only university with a General Examination for Women in 1869	N
+GW74	T2121	The General Examination for Women lasted 20 years at University of London	C
+GW28	T2122	The George Washington Bridge connects NY and NJ.	E
+GW28	T2122	The George Washington Bridge is the busiest bridge in the world.	N
+GW28	T2122	The George Washington Bridge is a free, single level steel bridge.	C
+GW52	T2122	The GW has nearly 300,000 vehicles cross it every day.	E
+GW52	T2122	GW has never been renovated.	N
+GW52	T2122	GW opened back in the 19th century.	C
+GW86	T2122	The George Washington Bridge is located in more than one state.	E
+GW86	T2122	Trucks are prohibited from using the George Washington Bridge.	N
+GW86	T2122	Less than 30 years passed between the start of construction on the bridge, and the opening of all sections of the bridge to the public.	C
+GW28	T2123	Giant-cell arteritis afflicts primarily older adults.	E
+GW28	T2123	Giant-cell arteritis makes the face flush red due to inflammation.	N
+GW28	T2123	Giant-cell arteritis affects millions of elderly and shortens lifespans.	C
+GW86	T2123	Giant-cell arteritis is associated with both complete loss of vision and heart trouble.	E
+GW86	T2123	Giant-cell arteritis only occurs in people over the age of 50.	N
+GW86	T2123	Giant-cell arteritis typically influences how long one is expected to live.	C
+GW52	T2123	Giant cell arteritis occurs in seniors typically.	E
+GW52	T2123	Horton disease doesn’t occur in children.	N
+GW52	T2123	Arteritis affects the life expectancy of those affected.	C
+GW12	T2124	Good Friday is a Christian holiday which takes place annually.	E
+GW12	T2124	Good Friday is observed only in the month of April.	N
+GW12	T2124	Considered a religious holiday, Good Friday takes place on the Friday immediately following Easter Sunday.	C
+GW19	T2124	Like Easter, Good Friday does not fall on a specific date each year.	E
+GW19	T2124	Good Friday coincides with the first day of Passover.	N
+GW19	T2124	Western and Eastern branches of Christianity both celebrate Christ's resurrection on the same day.	C
+GW28	T2124	Good Friday is an annual religious observance that falls on different days every year.	E
+GW28	T2124	Good Friday is the holiest time of year for Christians.	N
+GW28	T2124	Good Friday is festive and loud observance by Christians.	C
+GW74	T2125	The score grade is valid 3 years starting 31 after the year started	E
+GW74	T2125	More students in India take the GATE than in the U.S.	N
+GW74	T2125	The score grade was valid 3 years 10 years after the year started	C
+GW86	T2125	The fee for taking the GATE varies based on gender, nationality, and disability status.	E
+GW86	T2125	GATE was introduced prior to 2015.	N
+GW86	T2125	GATE is a written test.	C
+GW4	T2125	The Graduate Aptitude Test in Engineering started in the 80s.	E
+GW4	T2125	The Graduate Aptitude Test in Engineering takes place only in India.	N
+GW4	T2125	The Graduate Aptitude Test in Engineering is free for students to take.	C
+GW52	T2126	The GMAT was taken by several hundred students.	E
+GW52	T2126	The GMAT has continuously been a primary admissions tool.	N
+GW52	T2126	The GMAT is good for life.	C
+GW106	T2126	The GMAT exam has four sections.	E
+GW106	T2126	English majors accounted for the highest grouping of perfect scores on the GMAT exam.	N
+GW106	T2126	Test takers with GMAT scores above 850 have the highest likelihood of being accepted to the most prestigious business programs at American colleges and universities.	C
+GW28	T2126	Graduate Management Admission Test is an English language based exam used in admissions to business schools.	E
+GW28	T2126	Graduate Management Admission Test is fraud and cheat-proof.	N
+GW28	T2126	Graduate Management Admission Test is a multi-day test that requires and overnight stay.	C
+GW28	T2127	Record Examination: General Test is taken in multiple countries but offered in only one language.	E
+GW28	T2127	Record Examination: General Test is the most popular test offered.	N
+GW28	T2127	Record Examination: General Test is unnecessary when applying to schools	C
+GW106	T2127	Students who take the GRE as a paper-based test are eligible to take the test more often than those taking the test by computer.	E
+GW106	T2127	The GRE is mandatory for graduation for undergraduates in the United States.	N
+GW106	T2127	The GRE is a standardized test that was first offered during the Truman administration.	C
+GW60	T2127	GRE's taken in 1936 are valid until 1941.	E
+GW60	T2127	GRE is the only exam offered by the Educational Testing Service.	N
+GW60	T2127	Some GRE scores became invalid in 1939.	C
+GW28	T2128	Graphic designer is a creative and visual focused profession.	E
+GW28	T2128	Graphic designers are well compensated.	N
+GW28	T2128	Graphic designers can work in many technical professions such as engineer.	C
+GW106	T2128	A creative director at an advertising agency would be an ideal profession for a graphic designer.	E
+GW106	T2128	Most graphic designers successful in the desktop publishing industry have taken college courses in art history.	N
+GW106	T2128	The career outlook for graphic designers in the publishing field has dwindled in recent years as a result of the rise of digital books.	C
+GW60	T2128	An art director must be competent in art history.	E
+GW60	T2128	A creative director can always also be a website designer.	N
+GW60	T2128	An art directory cannot work in typography.	C
+GW28	T2129	Guillain–Barré syndrome is a medical condition of unknown cause and prolonged recovery time after diagnosis and treatment.	E
+GW28	T2129	Treatment for Guillain–Barré syndrome is expensive and takes years.	N
+GW28	T2129	Guillain–Barré syndrome starts in the brain and affects the eyes and ears.	C
+GW74	T2129	There are more complications than symptoms	E
+GW74	T2129	Observing muscle weakness in hands and feet is the best diagnostic method	N
+GW74	T2129	Deaths of those affected is a lower percentage than the frequency of people affected per year	C
+GW52	T2129	Guillain–Barré syndrome has a low mortality rate.	E
+GW52	T2129	Guillain–Barré syndrome has grown in frequency.	N
+GW52	T2129	Guillain–Barré syndrome has known causes.	C
+GW60	T2130	The 2018 Guru Purnima was celebrated later in the year than the 2019 Guru Purnima	E
+GW60	T2130	Guru Purnima is also a national holiday in India.	N
+GW60	T2130	The 2020 Guru Purnima will be celebrated earlier in the year than the 2019 Guru Purnima.	C
+GW1	T2130	Guru Purnima takes place in the Summer.	E
+GW1	T2130	Nepal is the only place where Guru Purnima is celebrated.	N
+GW1	T2130	Guru Purnima occurs twice a year.	C
+GW4	T2130	Guru Purnima is something that happens every year.	E
+GW4	T2130	People usually eat a lot of food at Guru Purnima.	N
+GW4	T2130	Guru Purnima always happens on the same day.	C
+GW12	T2131	Hanukkah is a Jewish holiday observed by Jews.	E
+GW12	T2131	Hanukkah involves lighting candles, singing songs and eating food.	N
+GW12	T2131	Hanukkah is a Jewish holiday that occurs only in December.	C
+GW52	T2131	Hanukkah is celebrated annually.	E
+GW52	T2131	Hanukkah is celebrated in every country.	N
+GW52	T2131	Hanukkah takes place on the same dates every year.	C
+GW60	T2131	Hannukkah started earlier in the year in 2018 than in 2019	E
+GW60	T2131	Hannukkah will start earlier in the year in 2021 than in any other year in the 21st century.	N
+GW60	T2131	Hannukkah will start later in the year in 2021 than in any other year in the 21st century.	C
+GW89	T2132	Holi will be held on 9 March, 2020.	E
+GW89	T2132	Holi is held on a different date each year.	N
+GW89	T2132	Holi's date is based on the Roman calendar.	C
+GW106	T2132	Holi a cultural celebration observed by many religions.	E
+GW106	T2132	Purple, green, and blue hold special significance for wearers during the Holika Bonfire.	N
+GW106	T2132	Holi always takes place during the Spring.	C
+GW19	T2132	Holi is an Indian holiday celebrated by several faiths.	E
+GW19	T2132	Holi is considered to be the holiest day of the year in India.	N
+GW19	T2132	In India, all faiths observe Holi by fasting and spending the day in solemn prayer.	C
+GW52	T2133	The Howrah Bridge project took several years to complete.	E
+GW52	T2133	The Howrah Bridge hasn't been renovated since opening.	N
+GW52	T2133	The Howrah Bridge costs a toll to cross.	C
+GW1	T2133	Howrah Bridge took over 5 years to build.	E
+GW1	T2133	"The Howrah Bridge is the only bridge that ""and Tritton"" designed."	N
+GW1	T2133	Howrah Bridge opened in the Summer of 1943.	C
+GW12	T2133	The Howrah Bridge is made of steel and is maintained by Kolkata Port Trust.	E
+GW12	T2133	Construction of the Howrah Bridge started in 1942 and opened in 1943.	N
+GW12	T2133	A total of 800,000 people and vehicles cross the Howrah Bridge every day.	C
+GW28	T2134	HTC Dream is a smartphone using Android's Donut.	E
+GW28	T2134	HTC Dream is a first generation smartphone.	N
+GW28	T2134	HTC Dream is has both rear and front-facing cameras as standard.	C
+GW52	T2134	HTC's Dream has a battery that is over 1000 mAh	E
+GW52	T2134	The HTC Dream is still in production.	N
+GW52	T2134	HTC's Dream is a flip phone.	C
+GW4	T2134	The HTC Dream has more than 1000 mAh of battery.	E
+GW4	T2134	A HTC Dream was designed to copy an iPhone	N
+GW4	T2134	The HTC Dream only has a single band antenna.	C
+GW86	T2135	The Huawei Ascend G300 can operate on more than one kind of network.	E
+GW86	T2135	The Huawei Ascend G300 is currently manufactured.	N
+GW86	T2135	The Huawei Ascend G300 is a tablet device.	C
+GW52	T2135	The Ascend G300's starting operating system was Android 4.	E
+GW52	T2135	The Ascend G300 is still in production	N
+GW52	T2135	The Ascend G300 had the same camera in each model.	C
+GW38	T2135	The Huawei Ascend G300 is compatible with HSPA900/2100 networks.	E
+GW38	T2135	The Huawei Ascend G300 is the fastest smartphone made by Huawei	N
+GW38	T2135	The Huawei Ascend G300 runs on the Android 2.0 operating system	C
+GW12	T2136	The frequency of hyperthyroidism, an overactive thyroid, is 1.2% in the USA.	E
+GW12	T2136	Graves' disease is the only cause of hyperthyroidism.	N
+GW12	T2136	Hyperthyroidism usually occurs during childhood.	C
+GW74	T2136	There are more symptoms than causes of Hyperthyroidism	E
+GW74	T2136	Graves' disease causes muscle weakness	N
+GW74	T2136	There are more medications than treatments	C
+GW52	T2136	Hyperthyroidism occurs in over 1% of the population.	E
+GW52	T2136	Hyperthyroidism has onset before 20 years old and after 50 years old.	N
+GW52	T2136	Hyperthyroidism has no known cause.	C
+GW63	T2137	The Corona Yard, East 180th Street Yard is incorporated into the New York Subway system.	E
+GW63	T2137	There is an underground subway only in New York.	N
+GW63	T2137	The Interborough Rapid Transit Company has operated for over 100 years	C
+GW52	T2137	The Interborough Rapid Transit Authority began in the 20th century.	E
+GW52	T2137	The subway served all of New York.	N
+GW52	T2137	The Interborough Rapid Transit Authority continues to run today.	C
+GW28	T2137	Interborough Rapid Transit Company existed for 37 years.	E
+GW28	T2137	Interborough Rapid Transit Company went bankrupt and was acquired by the Manhattan Railway Company.	N
+GW28	T2137	Interborough Rapid Transit Company is a private entity that operates to this day.	C
+GW28	T2138	International English Language Testing System is a standardised test for English language competency.	E
+GW28	T2138	International English Language Testing System is the most popular English language test in the world.	N
+GW28	T2138	International English Language Testing System can be taken anytime online.	C
+GW74	T2138	There are more colleges, agencies and other institutions that use IELTS test scores than there are test centers	E
+GW74	T2138	Began first in the UK in 1980	N
+GW74	T2138	There are more countries that use test scores than have test centers.	C
+GW105	T2138	The International English Language Testing System has multiple different parts.	E
+GW105	T2138	The test is aimed mostly at immigrants from Mexico.	N
+GW105	T2138	Only a few colleges use this test.	C
+GW107	T2139	iOS is developed by Apple.	E
+GW107	T2139	iOS is the best operating system.	N
+GW107	T2139	iOS is written in Python.	C
+GW52	T2139	iOS first debuted in the 2000s.	E
+GW52	T2139	iOS has received frequent updates in the past twelve years.	N
+GW52	T2139	iOS is an open-source software.	C
+GW74	T2139	The latest preview of iOS was 8 days after the latest release	E
+GW74	T2139	iOS has been available in 40 languages since 2007	N
+GW74	T2139	The latest release of iOS happened in the same month as the initial release	C
+GW52	T2140	IBS occurs before adults reach senior age.	E
+GW52	T2140	IBS' frequency has increased over time.	N
+GW52	T2140	People with IBS have a shorter life expectancy.	C
+GW63	T2140	Although IBS is not a short term condition people don't have to worry about shortening of life span.	E
+GW63	T2140	You can never get IBS at 40 years of age.	N
+GW63	T2140	The known causes of IBS can be treated with surgery	C
+GW28	T2140	Irritable bowel syndrome is a medical condition that affects bowel movements.	E
+GW28	T2140	Irritable bowel syndrome treatment is easy and not expensive.	N
+GW28	T2140	Irritable bowel syndrome is sometimes fatal.	C
+GW52	T2141	The q111 q113, q114 Jamaica−Far Rockaway line has been in service in one way or another since the turn of the 20th century.	E
+GW52	T2141	The q113 Jamaica−Far Rockaway line operates on a 24 hour schedule	N
+GW52	T2141	The q111 q113, q114 Jamaica−Far Rockaway line all have the same mileage.	C
+GW60	T2141	The Q111 carries more passengers per mile than the Q113 and Q114.	E
+GW60	T2141	The Baisley Park Depot is owned by MTA Bus Company.	N
+GW60	T2141	The Q113 is never closed during the day.	C
+GW28	T2141	q111 q113, q114 Jamaica−Far Rockaway line is a bus route between Queens and Nassau County.	E
+GW28	T2141	q111 q113, q114 Jamaica−Far Rockaway line is equipped with public Wifi on all its buses.	N
+GW28	T2141	q111 q113, q114 Jamaica−Far Rockaway line is a rarely used line.	C
+GW4	T2142	Jaundice causes the skin color to change in people.	E
+GW4	T2142	The disease Jaundice can be cured with medicine.	N
+GW4	T2142	The disease Jaundice is one that is usually fatal to people.	C
+GW28	T2142	Jaundice is a medical condition that discolors the skin and eyes yellow.	E
+GW28	T2142	Jaundice is sometimes fatal.	N
+GW28	T2142	Jaundice is caused by a bad diet and lack of exercise.	C
+GW12	T2142	Jaundice is a hepatology specialty involving the yellowish coloration of the skin.	E
+GW12	T2142	The skin and whites of the eyes turn yellow when an individual has jaundice.	N
+GW12	T2142	There is only one test to diagnose jaundice.	C
+GW1	T2143	The Joint Entrance Examination is offered biannually.	E
+GW1	T2143	The National Testing Agency only administers the Joint Entrance Examination.	N
+GW1	T2143	The Joint Entrance Examination started being given in the 20th century.	C
+GW52	T2143	The JEE Main started in the 2000s.	E
+GW52	T2143	The JEE Main has increased in number of tests taken over the years.	N
+GW52	T2143	The JEE Main only has a positive scoring range.	C
+GW60	T2143	It takes 6 hours to complete all the papers required for the JEE Main.	E
+GW60	T2143	The JEE Main includes differential calculus.	N
+GW60	T2143	You can take the exam every time it is offered for 2 years in a row.	C
+GW86	T2144	The Kelana Jaya line extension opened more than 3 years ago.	E
+GW86	T2144	The Kelana Jaya line extension is currently operational.	N
+GW86	T2144	The Kelana Jaya line extension opened 4 years ago.	C
+GW74	T2144	There are 12 more stations than services	E
+GW74	T2144	There were 13 stations the Kelana Jaya line extension opened  30 June 2016	N
+GW74	T2144	There are more services than Termini	C
+GW28	T2144	Kelana Jaya line extension began operation in the 21st century in South-East Asia	E
+GW28	T2144	Kelana Jaya line extension runs exclusively using Mag-lev.	N
+GW28	T2144	Kelana Jaya line extension operates in multiple countries over thousands of miles of track.	C
+GW52	T2145	The 35 / 36 Metro Lines allow for transferable service.	E
+GW52	T2145	A 35 Metro Line passenger can use the 36 Metro Line as well.	N
+GW52	T2145	The 35 / 36 Metro Lines are an around the clock operation.	C
+GW28	T2145	35 / 36 Metro Lines is a public transport line that operates on a set schedule.	E
+GW28	T2145	Passengers can pay for fares on the 35 / 36 Metro Lines with their smartphones.	N
+GW28	T2145	35 / 36 Metro Lines operates 24 hours a day with no breaks.	C
+GW4	T2145	The 35 / 36 Metro Lines runs 6 times a day.	E
+GW4	T2145	The 35 / 36 Metro Lines cover a lot of area.	N
+GW4	T2145	The 35 / 36 Metro Lines use Audi vehicles.	C
+GW106	T2146	Less than 10% of occupants on LaMia Flight 2933 survived the crash.	E
+GW106	T2146	All of the survivors aboard LaMia Flight 2933 were passengers.	N
+GW106	T2146	The Avro RJ85 airplane used in LaMia Flight 2933 had a broken fuel gauge.	C
+GW74	T2146	There were more occupants than passengers	E
+GW74	T2146	4 of the six survivors were crew	N
+GW74	T2146	No survivors had injuries.	C
+GW95	T2146	There were 18 passengers to every 1 crew member.	E
+GW95	T2146	of the 6 survivors, 3 were crew members.	N
+GW95	T2146	The crash could not have been prevented.	C
+GW74	T2147	The minimum radius is longer than the height of the  of the Highest elevation	E
+GW74	T2147	Las Vegas Monorail had 7 stations in 1995	N
+GW74	T2147	Las Vegas Monorail are owned by a different company than operates it	C
+GW4	T2147	The Las Vegas Monorail has been around for over 15 years.	E
+GW4	T2147	The Las Vegas Monorail stops at most hotels.	N
+GW4	T2147	The Las Vegas Monorail goes slower than cars.	C
+GW86	T2147	The Las Vegas Monorail was originally opened under a different name.	E
+GW86	T2147	The Las Vegas Monorail has a maximum speed of 50 mph.	N
+GW86	T2147	The Las Vegas Monorail has operated since 1995 with no interruptions in service.	C
+GW28	T2148	La Tomatina is an annual cultural observance in Spain	E
+GW28	T2148	La Tomatina wastes millions of gallons of tomatoes every year.	N
+GW28	T2148	La Tomatina lands on the same day every year.	C
+GW4	T2148	La Tomatina is a holiday that is celebrated in Europe.	E
+GW4	T2148	La Tomatina is a festival full of food.	N
+GW4	T2148	La Tomatina happens on the same date every year.	C
+GW52	T2148	La Tomatina takes place every August.	E
+GW52	T2148	La Tomatina is a week long event.	N
+GW52	T2148	La Tomatina occurs on the same day every year.	C
+GW28	T2149	Law School Admission Test is a standardized test used for admission into Law schools  in many English-speaking countries, primarily the United States.	E
+GW28	T2149	Law School Admission Test can also be used to admission to some graduate degree programs not just law schools.	N
+GW28	T2149	Law School Admission Test is a multi-day exam given in multiple-languages.	C
+GW86	T2149	The Law School Admission Test has existed for over 70 years.	E
+GW86	T2149	The writing section of the LSAT isn't considered in law school admissions.	N
+GW86	T2149	LSAT scores from tests taken in 2006 are valid today.	C
+GW52	T2149	The LSAT is available to take worldwide.	E
+GW52	T2149	The LSAT's results are good for a lifetime.	N
+GW52	T2149	The LSAT has a negative score measure.	C
+GW28	T2150	LG Optimus G is a Korean smartphone with one camera.	E
+GW28	T2150	LG Optimus G was a bestseller for LG.	N
+GW28	T2150	LG Optimus G is manufactured for the domestic Korean market.	C
+GW74	T2150	Storage is up to 30 GB more than memory	E
+GW74	T2150	LG Optimus G than run on Android 4.0 Ice Cream Sandwich have 16 GB of storage	N
+GW74	T2150	The  LG G2 came before LG Optimus 4X HD	C
+GW52	T2150	The LG Optimus G has multiple storage options.	E
+GW52	T2150	The LG Optimus G continues to be produced to this day.	N
+GW52	T2150	The LG Optimus G was the first of the Optimus series.	C
+GW74	T2151	OS family and Default user interface are Unix	E
+GW74	T2151	Linux was available in multilingual in 1991	N
+GW74	T2151	There are the same number of Marketing targets as Platforms	C
+GW1	T2151	Linux was released in the last decade of the 20th century.	E
+GW1	T2151	Linus Torvalds did more to develop Linux than Community did.	N
+GW1	T2151	Linus works on more than 30 platforms based on the chart.	C
+GW52	T2151	Linux was developed in the 1990s.	E
+GW52	T2151	Linux is one of the top pieces of software on the market today.	N
+GW52	T2151	Linux is written in C+.	C
+GW1	T2152	Lion Air Flight 610 crashed in the Fall of 2018.	E
+GW1	T2152	The only rescue diver for Lion Air Flight 610 died.	N
+GW1	T2152	There were survivors of Lion Air Flight 610.	C
+GW12	T2152	There were 181 passengers and 8 crew members on Lion Air Flight 610.	E
+GW12	T2152	The IATA number and the ICAO number for Lion Air Flight 610 are the same.	N
+GW12	T2152	Lion Air Flight 610 was operated by Lion Air and crashed in early 2018.	C
+GW52	T2152	JT610 crashed down last year.	E
+GW52	T2152	The fate of flight JT610 has no clear evidence.	N
+GW52	T2152	JT610 caused more than 200 fatalities.	C
+GW95	T2153	Loi Krathong happens near the end of the year	E
+GW95	T2153	People travel to Thailand to celebrate Loi Krathong	N
+GW95	T2153	Loi Krathong is observed mostly by Westerners	C
+GW86	T2153	Loi Krathong is observed once a year.	E
+GW86	T2153	Loi Krathong is observed on November 22 every year.	N
+GW86	T2153	Loi Krathong is known by just four different names.	C
+GW52	T2153	Loi Krathong occurs every year.	E
+GW52	T2153	Loi Krathong is celebrated in all of Asia.	N
+GW52	T2153	Loi Krathong is celebrated in North America.	C
+GW52	T2154	Lupercalia is a an occasion aided with food.	E
+GW52	T2154	Lupercalia sacrifices a specific animal each time.	N
+GW52	T2154	Lupercalia takes place every year on the same date.	C
+GW86	T2154	Lupercalia is observed on multiple dates.	E
+GW86	T2154	Lupercalia is still observed by some individuals today.	N
+GW86	T2154	Lupercalia is observed exclusively on one date.	C
+GW74	T2154	Lupercalia was celebrated with feasting during February	E
+GW74	T2154	sacrifices of goats and a dog by the Luperci was practiced by all Romans	N
+GW74	T2154	The Roman Empire celebrated Lupercalia in the fall	C
+GW86	T2155	Māgha Pūjā is observed in at least five countries.	E
+GW86	T2155	Māgha Pūjā is observed in just six countries.	N
+GW86	T2155	Māgha Pūjā was observed in the summer of 2019.	C
+GW52	T2155	Māgha Pūjā took place in February this year.	E
+GW52	T2155	Māgha Pūjā has been celebrated for centuries.	N
+GW52	T2155	Māgha Pūjā is a strictly Buddhist celebration.	C
+GW74	T2155	February 19, 2019 had a full moon.	E
+GW74	T2155	The  Shwedagon Pagoda Festival has a procession with light,	N
+GW74	T2155	The third lunar month was in March in 2019	C
+GW84	T2156	The birth anniversary of Lord Mahavir is celebrated in the spring.	E
+GW84	T2156	The birth anniversary of Mahaveer Swami won't be celebrated in 2019.	N
+GW84	T2156	The birth anniversary of Mahaveer Swami requires people to bring gifts.	C
+GW60	T2156	Mahaveer Swami is important in the Jains religion.	E
+GW60	T2156	Prayers are made only in the Jain Temple.	N
+GW60	T2156	There are no Jain Temples in India.	C
+GW4	T2156	Mahaveer Janma Kalyanak is a holiday that happens annually in India.	E
+GW4	T2156	Mahaveer Janma Kalyanak always happens on the same day each year.	N
+GW4	T2156	In 2019 Mahaveer Janma Kalyanak happened in May.	C
+GW28	T2157	Major depressive disorder is a psychological condition that appears in young adults and that can last for months if not years.	E
+GW28	T2157	Major depressive disorder does not appear in young children.	N
+GW28	T2157	Major depressive disorder can be cured with a change in environment.	C
+GW106	T2157	Low self esteem is one symptom of sufferers of unipolar depression.	E
+GW106	T2157	Most afflicted with clinical depression also self-harm.	N
+GW106	T2157	Electroconvulsive therapy is the most commonly used form of treatment to combat the likelihood of suicide in patients afflicted with unipolar disorder.	C
+GW52	T2157	Major Depressive Disorder has more than 100 million cases attributed to it.	E
+GW52	T2157	Major Depressive Disorder is on the rise in terms of diagnosed cases.	N
+GW52	T2157	Major Depressive Disorder is an acute condition.	C
+GW28	T2158	Makara Sankranti can fall on different days in January.	E
+GW28	T2158	Makara Sankranti is the most sacred holiday for Hindus.	N
+GW28	T2158	Makara Sankranti  is a solemn holiday with quiet contemplation and observance.	C
+GW89	T2158	Makara Sankranti is the Festival of Harvest.	E
+GW89	T2158	Makara Sankranti falls on the same day every year.	N
+GW89	T2158	Makara Sankranti uses the American calendar correlation.	C
+GW52	T2158	Mela is a largely Hindu celebration.	E
+GW52	T2158	Mela varies on the day of celebration.	N
+GW52	T2158	Mela is purely a cultural event.	C
+GW52	T2159	Malaysia Airlines Flight 370 was presumed to have no survivors.	E
+GW52	T2159	MH370 is still being researched today.	N
+GW52	T2159	MAS370 was recently found in 2019.	C
+GW12	T2159	The cause is unknown for the crash of Malaysia Airlines Flight 370 in 2014.	E
+GW12	T2159	The Malaysia Airlines Flight 370 had a crew of 12 and a passenger list of 227.	N
+GW12	T2159	Malaysia Airlines Flight 370 started in Beijing Capital International Airport and was destined for Kuala Lumpur International Airport.	C
+GW19	T2159	The precise location of the Malaysian Air 370 crash has never been determined.	E
+GW19	T2159	Investigators have determined that Malaysian Air 370 went missing due to because of an intentional human act.	N
+GW19	T2159	Investigators have conclusively determined that Malaysian Air 370 crashed due to pilot error	C
+GW1	T2160	Construction of the Manhattan Bridge started at the beginning of the 20th century.	E
+GW1	T2160	The Manhattan Bridge has always been free both ways.	N
+GW1	T2160	It took over 15 years to construct the Manhattan Bridge.	C
+GW52	T2160	The Manhattan Bridge has been in use for over a century.	E
+GW52	T2160	The Manhattan Bridge has never been renovated.	N
+GW52	T2160	The Manhattan Bridge has more than 100,000 vehicles pass by it every day.	C
+GW63	T2160	There is no toll for the length of 6855 ft of the Manhattan Bridge.	E
+GW63	T2160	Manhattan bridge is the only bridge maintained by the New York City Department of Transportation	N
+GW63	T2160	The construction of the Manhattan bridge took under 5 years.	C
+GW86	T2161	Mawlid is a public holiday in more than thirty countries.	E
+GW86	T2161	Mawlid is celebrated on either the 10th or 15th of November every year.	N
+GW86	T2161	Mawlid is celebrated exclusively by adherents of Sunni and Shia Islam.	C
+GW52	T2161	Mawlid has different observed dates depending on Sunni or Shia background.	E
+GW52	T2161	Mawlid is celebrated by several continents.	N
+GW52	T2161	Mawlid is a Hindu-based event.	C
+GW28	T2161	Mawlid is an Islamic observance associated with the birth of Muhammad.	E
+GW28	T2161	Mawlid is the most popular Islamic holiday in the world.	N
+GW28	T2161	Mawlid is celebrated by Christian countries as well.	C
+GW74	T2162	Power output and Torque output have ranges over 150	E
+GW74	T2162	Mazda J engine Power output is determined by Torque output	N
+GW74	T2162	Block material and Head material are the same kind of material	C
+GW19	T2162	The Mazda J engine has several different valvetrain configurations.	E
+GW19	T2162	The Mazda J engine is the most powerful engine manufactured by Mazda.	N
+GW19	T2162	The V8 Mazda J engine is one of the most powerful engines manufactured in Japan.	C
+GW52	T2162	Some Mazda J engines generate more than 200 horsepower.	E
+GW52	T2162	The Mazda J engine is still in use today,	N
+GW52	T2162	The Mazda J’s torque output is always higher than its HP	C
+GW74	T2163	Usual onset of measles is on average longer than Duration	E
+GW74	T2163	Fever occurs 10 days  after exposure	N
+GW74	T2163	There half as many deaths in 2015 than frequency of measles	C
+GW52	T2163	The Measles onset and duration are about three weeks in total.	E
+GW52	T2163	Measles presents the same way for all affected individuals.	N
+GW52	T2163	Deaths from measles exceed 100,000 per year.	C
+GW4	T2163	There is a vaccine that can prevent people from getting Measles.	E
+GW4	T2163	Measles is a disease that can go away on its own.	N
+GW4	T2163	Measles kills more than 20% of people that get it.	C
+GW74	T2164	Someone taking the MCAT can take it January, June, and again in August in 2017 but not again in September.	E
+GW74	T2164	More people took the MCAT in the US than in Canada	N
+GW74	T2164	Someone can take the MCAT 4 times in 2017 between January and February	C
+GW106	T2164	The Association of American Medical Colleges have offered the MCAT since the late 1920s.	E
+GW106	T2164	Biology majors typically score higher than Physics majors on the MCAT exam.	N
+GW106	T2164	In Canada, the MCAT is offered in both English and French for test takers.	C
+GW28	T2164	Medical College Admission Test is used by multiple countries but given only in English.	E
+GW28	T2164	Medical College Admission Test is the most respected test used by Medical colleges.	N
+GW28	T2164	The Medical College Admission Test is free and open to all who apply.	C
+GW89	T2165	The MGM Grand Las Vegas opened almost 26 years ago.	E
+GW89	T2165	Based on number of rooms, the MGM Grand is one of the largest hotels in Las Vegas.	N
+GW89	T2165	The MGM Grand was renovated in 2001.	C
+GW52	T2165	The MGM Grand is over 25 years old.	E
+GW52	T2165	The MGM Grand is currently being renovated.	N
+GW52	T2165	The MGM Grand has more than 7000 rooms.	C
+GW28	T2165	MGM Grand Las Vegas has been in operation for more than two decades with multiple renovations.	E
+GW28	T2165	MGM Grand Las Vegas makes billions of dollars in profit every year.	N
+GW28	T2165	MGM Grand Las Vegas underwent their fist renovation ten years after opening.	C
+GW25	T2166	MicroBee is a home computer system that was sold in kit form for $399.	E
+GW25	T2166	Although the 16 kB or 32 kB memory is small, the monotonic sound generator & speaker was considered very good for the time.	N
+GW25	T2166	The MicroBee was first introduced in 1982 and discontinued in 1992 after a ten year run.	C
+GW52	T2166	The MicroBee was in production for almost a decade.	E
+GW52	T2166	The MicroBee was a popular home computer.	N
+GW52	T2166	The MicroBee had multiple CPUs.	C
+GW4	T2166	MicroBee was on the market for 8 years.	E
+GW4	T2166	MicroBee was able to sell millions of units.	N
+GW4	T2166	The MicroBee always ran on Unix.	C
+GW106	T2167	Over-the-counter medications can sometimes be effective in the treatment of migraine headaches.	E
+GW106	T2167	The risk of suffering from migraine headaches increases with the amount of estrogen in one's system.	N
+GW106	T2167	Brain tumors are a leading cause of migraine headaches.	C
+GW86	T2167	Migraines have multiple causes and risk factors.	E
+GW86	T2167	Migraines sometimes occur in males.	N
+GW86	T2167	Migraines are also known as tension headaches and cluster headaches.	C
+GW28	T2167	Migraines usually affect women and can be a lifelong condition.	E
+GW28	T2167	Migraines if left untreated can lead to suicide.	N
+GW28	T2167	Migraines can be treated with massage therapy and surgery.	C
+GW106	T2168	The Moto G's removable storage can be expanded with a 16 GB microSDXC.	E
+GW106	T2168	The Moto G was the best selling device in Motorola's 3rd Generation devices, which also included the Moto X Style and the Moto X Play.	N
+GW106	T2168	"The last OS available for the Moto G was Android 7.0 ""Nougat."""	C
+GW19	T2168	The third generation Moto G allowed users to expand the memory via a microSD card slot.	E
+GW19	T2168	Subsequent generations of the 3rd generation Moto G offered greater storage options.	N
+GW19	T2168	The 3rd generation Moto G is the latest offering from the manufacturer.	C
+GW52	T2168	The Moto G is a phone that has been discontinued.	E
+GW52	T2168	The Moto G still is supported today.	N
+GW52	T2168	The Moto G had websites for every continent.	C
+GW1	T2169	In 2015, Multiple sclerosis led to less than 20,000 deaths.	E
+GW1	T2169	There are multiple causes of Multiple sclerosis.	N
+GW1	T2169	Multiple sclerosis only has a couple of symptoms.	C
+GW63	T2169	Middle aged people who have multiple sclerosis are predicted to live 5-10 years lesser than normal people.	E
+GW63	T2169	Multiple sclerosis can only be treated by a neurologist.	N
+GW63	T2169	The frequency of people affected by multiple sclerosis in 2015 was twice as large as the number of deaths resulting from it.	C
+GW108	T2169	Multiple sclerosis is a neurological disease.	E
+GW108	T2169	The afflicted person will have trouble with both sensation and coordination.	N
+GW108	T2169	Multiple sclerosis can appear in young children.	C
+GW4	T2170	The Nash equilibrium is named for the person that found it.	E
+GW4	T2170	The Nash equilibrium has been around for over 20 years.	N
+GW4	T2170	The Nash equilibrium is good for cooperative games.	C
+GW86	T2170	Nash equilibrium always applies to games not involving cooperation.	E
+GW86	T2170	Nash equilibrium applies to some games involving cooperation.	N
+GW86	T2170	Nash equilibrium has no association with correlated equilibrium.	C
+GW60	T2170	Nash equilibrium contains trembling hand perfect, but not epsilon-equilibrium.	E
+GW60	T2170	Epsilon-equilibrium is used in all non-cooperative games.	N
+GW60	T2170	Nash equilibrium contains epsilon-equilibrium, but not trembling hand perfect.	C
+GW4	T2171	The National Eligibility cum Entrance Test matters in India to getting into college.	E
+GW4	T2171	The National Eligibility cum Entrance Test takes years to study for.	N
+GW4	T2171	The National Eligibility cum Entrance Test is taken on a laptop.	C
+GW28	T2171	National Eligibility cum Entrance Test is an exam for admission into Indian colleges.	E
+GW28	T2171	National Eligibility cum Entrance Test is free to take.	N
+GW28	T2171	National Eligibility cum Entrance Test is offered in multiple languages and taken over multiple days.	C
+GW52	T2171	The NEET (UG) has a negative score range.	E
+GW52	T2171	The NEET's results are good for a lifetime.	N
+GW52	T2171	The NEET (UG) takes place in the United States.	C
+GW28	T2172	Map of Old National Highway 2 in red is located in New Delhi and Kolkata.	E
+GW28	T2172	Map of Old National Highway 2 in red has tolls to collect fees.	N
+GW28	T2172	Map of Old National Highway 2 in red connects a handful of localities.	C
+GW4	T2172	The Map of Old National Highway 2 in red covers over 500 miles of roads.	E
+GW4	T2172	The Map of Old National Highway 2 in red was completed after 2000.	N
+GW4	T2172	The Map of Old National Highway 2 in red only covers two main highways.	C
+GW74	T2172	There are more Primary destinations than states	E
+GW74	T2172	The Old National Highway is traveled more in Haryana than any other state	N
+GW74	T2172	Delhi has 1/3 of the total length of the Old National Highway	C
+GW28	T2173	Navaratri a multi-day Hindu celebration.	E
+GW28	T2173	Navaratri celebrations features fireworks and bodypaint.	N
+GW28	T2173	Navaratri is celebrated the same week once every year.	C
+GW86	T2173	Navaratri lasts for more than a week.	E
+GW86	T2173	Hindus take time off from work during Navaratri.	N
+GW86	T2173	Navaratri is observed on the same dates every year.	C
+GW1	T2173	Navaratri lasts over a week long.	E
+GW1	T2173	The length of Navaratri has always been 9 days.	N
+GW1	T2173	Navaratri always takes place in the Summer.	C
+GW28	T2174	Nissan BD Engine has fuel injection and a cooling system.	E
+GW28	T2174	Nissan BD Engine was designed by the Japanese.	N
+GW28	T2174	Nissan BD Engine is powered by lithium ion batteries and cooled by wind.	C
+GW19	T2174	The Nissan BD engine is not a V8 engine.	E
+GW19	T2174	The cooling system used for the Nissan BD engine is	N
+GW19	T2174	The Nissan BD engine is a powerful electric car engine.	C
+GW52	T2174	Nissan BD Engine posts a power output of just under 100 hp.	E
+GW52	T2174	The Nissan BD engine is still in use.	N
+GW52	T2174	The Nissan BD engine is a V6.	C
+GW86	T2175	The Nokia 9 PureView has multiple cameras.	E
+GW86	T2175	The Nokia 9 PureView uses a touchscreen.	N
+GW86	T2175	The Nokia 9 PureView first became available over a year ago.	C
+GW28	T2175	Nokia 9 PureView is a smartphone with front and back cameras.	E
+GW28	T2175	Nokia 9 PureView sells for more than 1000 USD.	N
+GW28	T2175	Nokia 9 PureView is a flip-phone with an extendable antenna.	C
+GW106	T2175	The Nokia 9 Pureview has a display that is less than 6 inches.	E
+GW106	T2175	Foxconn manufactured both the Nokia 9 Pureview and its predecessor, the Nokia 8 Sirocco.	N
+GW106	T2175	The Nokia 9 PureView natively runs on the Android Oreo platform.	C
+GW28	T2176	Nowruz is New Years holiday in certain parts of the middle east and Asia.	E
+GW28	T2176	Nowruz is celebrated by shooting guns in the air.	N
+GW28	T2176	Nowruz lands on different dates every year.	C
+GW74	T2176	Nowruz falls on the same date in 2018 and 2019	E
+GW74	T2176	More people in Iraq celebrate Nowruz than in Israel	N
+GW74	T2176	Nowruz is on a weekend in 2019 and 2021	C
+GW86	T2176	Nowruz is celebrated in over 20 countries.	E
+GW86	T2176	Nowruz usually falls on March 20.	N
+GW86	T2176	Nowruz is a religious holiday.	C
+GW28	T2177	NWFB Route 8 is a bus route that finishes its journey in under an hour	E
+GW28	T2177	NWFB Route 8 travels a circuitous route around the island.	N
+GW28	T2177	Wait time for NWFB Route 8 is 30 mins due to its 30km route.	C
+GW60	T2177	NWFB Route 8 has one alternative route.	E
+GW60	T2177	NWFB Route 8 runs north to south.	N
+GW60	T2177	New World First Bus also operates the MTR Island Line	C
+GW12	T2177	NWFB Route 8 starts in Heng Fa Chuen and ends at Wan Chai North.	E
+GW12	T2177	NWFB Route 8 has two competitors, the MTR Island line and NWFB Route N8.	N
+GW12	T2177	NWFB Route 8 is the only route to Wan Chai North.	C
+GW86	T2178	Obsessive–compulsive disorder can lead to death.	E
+GW86	T2178	Obsessive–compulsive disorder requires treatment with medication.	N
+GW86	T2178	Obsessive–compulsive disorder has a definite cause.	C
+GW28	T2178	Obsessive–compulsive disorder is a psychiatric condition that usually appears in younger adults after years of abuse.	E
+GW28	T2178	Obsessive–compulsive disorder is an easily treatable condition.	N
+GW28	T2178	Obsessive–compulsive disorder can be treated with oils and scents.	C
+GW52	T2178	OCD occurs in more than 2% of the population.	E
+GW52	T2178	The onset of OCD can vary greatly.	N
+GW52	T2178	OCD has known causes.	C
+GW60	T2179	The 2019 festival occurs later in the year than  the 2018 festival.	E
+GW60	T2179	Chingham is 60 days long.	N
+GW60	T2179	The festival is a different number of days each year.	C
+GW74	T2179	Onam, Thiruvonam occurs during a different month in 2019 than 2018	E
+GW74	T2179	All Hindus participate in Tug of War in observing Onam, Thiruvonam	N
+GW74	T2179	Onam, Thiruvonam begins and ends on the same day of the week on 2018 nd 2019	C
+GW28	T2179	Onam, Thiruvonam is a Hindu religious festival that falls on different dates every year.	E
+GW28	T2179	Onam, Thiruvonam is only celebrated by Hindus in India.	N
+GW28	T2179	Onam, Thiruvonam is a festival celebrated by Pakistanis.	C
+GW52	T2180	The Oregon, California and Eastern Railway is over 60 miles long.	E
+GW52	T2180	The Oregon, California and Eastern Railway runs throughout the day.	N
+GW52	T2180	The Oregon, California and Eastern Railway takes place throughout all of Oregon.	C
+GW28	T2180	Oregon, California and Eastern Railway service  multiple stations.	E
+GW28	T2180	Oregon, California and Eastern Railway has been profitable every year of its existence.	N
+GW28	T2180	Oregon, California and Eastern Railway extends its services to the east coast of America.	C
+GW86	T2180	The Oregon, California and Eastern Railway is sometimes known by a different name.	E
+GW86	T2180	The Oregon, California and Eastern Railway is currently operational.	N
+GW86	T2180	The Oregon, California and Eastern Railway has is over 70 miles long.	C
+GW28	T2181	Oxygen is a colorless gas.	E
+GW28	T2181	Oxygen is part of the ozone layer.	N
+GW28	T2181	Oxygen was named after the scientist who studied its properties.	C
+GW12	T2181	Oxygen is a gas with an atomic number of 8.	E
+GW12	T2181	Antoine Lavoisier named the gas oxygen in 1777.	N
+GW12	T2181	The boiling point and melting point of oxygen is exactly the same.	C
+GW1	T2181	Oxygen was named in the 18th century.	E
+GW1	T2181	Oxygen was discovered at the same time it was named.	N
+GW1	T2181	Oxygen has a density (at STP) under 1 g/L.	C
+GW74	T2182	There are more employees than there are locations of Panda Express	E
+GW74	T2182	Andrew Cherng is originally from Glendale, California	N
+GW74	T2182	Panda Express is headquartered in the same city where it was founded	C
+GW60	T2182	Panda Express is not active in Europe.	E
+GW60	T2182	Panda Express is the only subsidiary of Panda Restaurant Group.	N
+GW60	T2182	Panda Express is headquartered in the same city in which it was founded.	C
+GW28	T2182	Panda Express has thousands of locations around the world.	E
+GW28	T2182	Panda Express has been profitable every year since its founding.	N
+GW28	T2182	Panda Express was founded in Europe and has locations throughout Europe.	C
+GW4	T2183	Parkinson's disease can be treated with medicine.	E
+GW4	T2183	Parkinson's disease always leads to shaking in people.	N
+GW4	T2183	Someone with Parkinson's disease will live a normal length life.	C
+GW3	T2183	symptoms of parkinsons disease such as shaking, rigidity, slowness of movement and difficulty walking are treated with dopamine agonists	E
+GW3	T2183	dementia is always a complication of Parkinson's disease	N
+GW3	T2183	Parkinson's disease is a psychiatric disease	C
+GW52	T2183	Parkinson's disease affects over six million people a year.	E
+GW52	T2183	Parkinson's can onset at any age.	N
+GW52	T2183	Parkinson's patients do not have a shorter life expectancy.	C
+GW12	T2184	Paryushana is a celebration observed by Jains.	E
+GW12	T2184	Observing Paryushana involves going to the Jain Temple and fasting.	N
+GW12	T2184	Paryushana is also called Das Lakshana and Samvatsari.	C
+GW52	T2184	Paryushana is a celebration that is observed via fasting.	E
+GW52	T2184	Paryushana is observed by Hindus.	N
+GW52	T2184	Paryushana has the same length of time for any celebration.	C
+GW19	T2184	Paryushana is a holiday observed by Jains which has religious conotations.	E
+GW19	T2184	Paryushana is the holiest day for members of the Jain faith.	N
+GW19	T2184	Paryushana is a national holiday observed by the entire Indian subcontinent.	C
+GW52	T2185	The Pau-Cranfranc railway opened in the 20th century	E
+GW52	T2185	The railway hasn't undergone renovations since opening.	N
+GW52	T2185	The railway has stayed open since it first opened back in 1928.	C
+GW28	T2185	The Pau–Canfranc railway has not run uninterrupted since opening.	E
+GW28	T2185	The Pau–Canfranc railway runs thru multiple European countries.	N
+GW28	T2185	The Pau–Canfranc railway has run continuously since its opening.	C
+GW60	T2185	Pau-Canfranc railway was electrified the same year it was opened.	E
+GW60	T2185	TER Aquitaine has been the railways operator for its entire existence.	N
+GW60	T2185	The railway has spent more years closed than open since 1928.	C
+GW1	T2186	In 2018, Pentecost was in the Spring.	E
+GW1	T2186	Pentecost was known as Whitsunday first.	N
+GW1	T2186	In 2020, Pentecost will be in the Fall.	C
+GW74	T2186	Pentecost date is 11 days later Western than in 2020 than in 2018.	E
+GW74	T2186	Eastern Orthodox observe Holy Communion on	N
+GW74	T2186	Pentecost falls on the same date Easter in 2019 as 2020	C
+GW106	T2186	Pentacost occurs annually during the Spring.	E
+GW106	T2186	Pentacost usually falls during the month of June.	N
+GW106	T2186	Certain Jewish denominations observe Whitsunday.	C
+GW28	T2187	Perfect Bayesian Equilibrium is related to Bayesian Nash equilibrium	E
+GW28	T2187	Perfect Bayesian Equilibrium is a concept used to describe game theory.	N
+GW28	T2187	Perfect Bayesian Equilibrium is not associated with or related to games.	C
+GW19	T2187	Perfect Bayesian equilibrium is not the smae as Bayesian Nash equilibirbium	E
+GW19	T2187	Cho and Kreps worked together for many years before proposing the concept of perfect Bayesian equilibirum	N
+GW19	T2187	Perfect Bayesian equilibirium is the technical name for winning the gold medal on the balance beaam.	C
+GW52	T2187	The Perfect Byesian equilibrium is a type of game.	E
+GW52	T2187	The Perfect Bayesian equilibrium is used in a great deal of coding.	N
+GW52	T2187	The Perfect Bayesian equilibrium is a stable system.	C
+GW106	T2188	The PCAT exam is limited to just under three and a half hours in length.	E
+GW106	T2188	A score of 400 is considered to be a passing grade on the PCAT exam.	N
+GW106	T2188	PCAT scores are used by many medical school admissions boards throughout the United States and Canada.	C
+GW52	T2188	The PCAT first was administered in the 1970s.	E
+GW52	T2188	The PCAT's fee has stayed the same throughout its history.	N
+GW52	T2188	The PCAT has a negative score measure.	C
+GW89	T2188	The PCAT is used for admission purposes for students going to pharmacy colleges.	E
+GW89	T2188	The fee for the test is cheaper for Canadian students.	N
+GW89	T2188	The PCAT was introduced in 1970.	C
+GW52	T2189	Poincaré conjecture took over a century to be proven.	E
+GW52	T2189	Poincaré conjecture shares common concepts with other conjectures.	N
+GW52	T2189	Poincaré conjecture was first conjured in the 19th century.	C
+GW28	T2189	Poincaré conjecture is named after Henri Poincare.	E
+GW28	T2189	Poincaré conjecture is an unsolved math problem	N
+GW28	T2189	Poincaré conjecture was solved in 2006.	C
+GW25	T2189	Poincaré conjecture is a field of geometric topology equivalent to spherical space form conjecture.	E
+GW25	T2189	Poincaré conjecture was conjectured by Henri Poincaré which established the field of geometric topology.	N
+GW25	T2189	Poincaré conjecture is in the field of geometric topology and is equivalent to the Zeeman conjecture.	C
+GW52	T2190	Polio affects less than 200 people a year.	E
+GW52	T2190	Polio has been largely eradicated.	N
+GW52	T2190	Polio takes weeks to show symptoms.	C
+GW28	T2190	Polio  is an infectious disease that is preventable and curable.	E
+GW28	T2190	The Polio vaccine is an expensive treatment.	N
+GW28	T2190	Polio has been eradicated since the 20th century.	C
+GW74	T2190	At 136 people in 2018 possibly experienced Muscle weakness resulting in an inability to move	E
+GW74	T2190	The polio virus was found in  in the feces of 136 people in 2016	N
+GW74	T2190	Muscle weakness resulting in an inability to move sets in after a few minutes	C
+GW105	T2191	Potassium tends to look like a silvery grey.	E
+GW105	T2191	Potassium has a hundred different uses.	N
+GW105	T2191	Potassium is created in a lab.	C
+GW12	T2191	Potassium has a silvery gray appearance and an atomic number of 19.	E
+GW12	T2191	Humphry Davy first discovered potassium in the early 1800s.	N
+GW12	T2191	The Mohs hardness and the Brinell hardness are the same value.	C
+GW52	T2191	Potassium was one of the first 20 elements discovered.	E
+GW52	T2191	Potassium is found in many foods today.	N
+GW52	T2191	Potassium was first discovered in the 18th century.	C
+GW86	T2192	Psychiatrists are medical specialists.	E
+GW86	T2192	Psychiatrists are physicians.	N
+GW86	T2192	Currently, psychiatrists are also referred to as alienists.	C
+GW60	T2192	A psychiatrist is also a medical professional.	E
+GW60	T2192	A psychiatrist must have all of an MD, and MBBS, and a DO.	N
+GW60	T2192	A psychiatrist does not require training in medicine.	C
+GW28	T2192	A Psychiatrist needs a high level of education and positive characteristics.	E
+GW28	T2192	Psychiatrists tend to open their own practice.	N
+GW28	T2192	Psychiatrists are not medical doctors.	C
+GW52	T2193	The M8s opened last year.	E
+GW52	T2193	The M8s was constructed in a matter of a year.	N
+GW52	T2193	The M8s exceeds 60 mph.	C
+GW19	T2193	The Pujiang line, part of Shanghai's public transit system, has less than 10 stations.	E
+GW19	T2193	Shanghai's public transit metro system is entirely above ground.	N
+GW19	T2193	Notwithstanding its economic growth over the past 20 years, China has yet to build public transit systems in its major cities.	C
+GW28	T2193	Pujiang line is a public transit metro located in Shanghai	E
+GW28	T2193	The Pujiang line is the newest line in the Shanghai Metro system.	N
+GW28	T2193	The Pujiang line operate with domestically built train cars.	C
+GW52	T2194	Rabies causes over 17,000 deaths a year.	E
+GW52	T2194	Rabies currently has no cure.	N
+GW52	T2194	A rabies diagnosis guarantees death.	C
+GW4	T2194	Rabies usually winds up killing animals that get it.	E
+GW4	T2194	Rabies can people people foam at the mouth.	N
+GW4	T2194	Rabies is able to be cured with a shot.	C
+GW28	T2194	Rabies is an infectious disease that is treatable but often times fatal.	E
+GW28	T2194	Rabies is transmittable between humans as well.	N
+GW28	T2194	Rabies causes blindness and diarrhea.	C
+GW60	T2195	The 2018 Raksha Bandhan occured later in the year than the 2019 Raksha Bandhan.	E
+GW60	T2195	Bhai Duj occurs on the same date as Raksha Bandhan.	N
+GW60	T2195	Rakri is not related to Bhai Tika.	C
+GW52	T2195	Raksha Bandhan is a holistic holiday.	E
+GW52	T2195	Raksha Bandhan always takes place in August.	N
+GW52	T2195	Raksha Bandhan is observed by the entirety of Asia.	C
+GW4	T2195	Raksha Bandhan always happens in the 8th moth of the year.	E
+GW4	T2195	Raksha Bandhan is usually celebrated in India.	N
+GW4	T2195	Raksha Bandhan is always held on the same date each year.	C
+GW95	T2196	Ramadan takes place for one month a year.	E
+GW95	T2196	Muslims read the Quran before they start fasting every day.	N
+GW95	T2196	Ramadan occurs in the winter.	C
+GW28	T2196	Ramadan is a muslim holiday that falls on different days every year depending on country.	E
+GW28	T2196	Ramadan is the holiest celebration for muslims.	N
+GW28	T2196	Ramadan is observed with celebration on one day a year.	C
+GW52	T2196	Ramadan is an annual event.	E
+GW52	T2196	The routine of Ramadan is the same for everyone who practices it.	N
+GW52	T2196	Ramadan happens at the same time for everyone involved.	C
+GW1	T2197	Rama Navami happens once a year.	E
+GW1	T2197	Rama Navami is and has always been in the Spring.	N
+GW1	T2197	Rama Navami occurs in the Fall.	C
+GW52	T2197	Rama Navami happens once a year.	E
+GW52	T2197	Rama Navami is practiced by all of Hindu culture.	N
+GW52	T2197	Rama Navami takes place on the same day every year.	C
+GW19	T2197	Hindus celebrate the birth of Rama at the conclusion fo Chaitra Navrati	E
+GW19	T2197	Chaitra Navrati is one of the holiest days for Hindus	N
+GW19	T2197	Chaitra Navrati is a month long celebration observed by Hindus and Bhuddists	C
+GW86	T2198	E Line buses are operational most of the day.	E
+GW86	T2198	E Line ridership on the days of the weekend is less than the ridership on weekdays.	N
+GW86	T2198	The E Line is operational 24 hours a day.	C
+GW52	T2198	The E Line was established five years ago.	E
+GW52	T2198	The E Line is one in a string of newly added bus lines.	N
+GW52	T2198	The E Line operates on a 24-hour schedule.	C
+GW106	T2198	The Aurora Village Transit Center is located in King County, Washington.	E
+GW106	T2198	The E Line has more operating times than that of Route 358X, which preceded it.	N
+GW106	T2198	The E Line operates entirely within a single city in King County.	C
+GW12	T2199	Gary Rhodes is a chef at the formal restaurant called Rhodes W1.	E
+GW12	T2199	Rhodes W1 only provides haute cuisine type of meals.	N
+GW12	T2199	Open 24 hours, Rhodes W1 is located in London, England.	C
+GW52	T2199	The W1 is no longer in business.	E
+GW52	T2199	The Rhodes W1 was considered a successful business.	N
+GW52	T2199	The W1 has more than 50 covers.	C
+GW74	T2199	Gary Rhodes prepares Haute cuisine at Rhodes W1	E
+GW74	T2199	Gary Rhodes is from London England	N
+GW74	T2199	Gary Rhodes preparies mostly French Cuisine	C
+GW52	T2200	REX Richmond Highway Express began service five years ago.	E
+GW52	T2200	REX Richmond Highway Express has yet to be renovated.	N
+GW52	T2200	REX Richmond Highway Express operates around the clock.	C
+GW28	T2200	REX Richmond Highway Express has been in service for more than a decade in Virginia.	E
+GW28	T2200	REX Richmond Highway Express costs only a dollar per ride.	N
+GW28	T2200	REX Richmond Highway Express has been serving multiple states for decades.	C
+GW74	T2200	The start of the REX Richmond Highway Express is also one of the landmarks served	E
+GW74	T2200	Eisenhower Avenue station is located in Huntington, Virginia	N
+GW74	T2200	REX Richmond Highway Express runs every 30 minutes starting at 4:30am on Saturdays	C
+GW86	T2201	Rickets can cause both physical and mental abnormalities.	E
+GW86	T2201	Rickets always involves a deficiency in Vitamin D.	N
+GW86	T2201	Rickets is rare outside North America, South America, Asia, and Australia.	C
+GW12	T2201	Rickets usually occurs in childhood and can be treated with vitamin D and calcium.	E
+GW12	T2201	Rickets can be diagnosed with blood tests and x-rays.	N
+GW12	T2201	Rickets is a celiac disease only found in Africa.	C
+GW52	T2201	Rickets typically occurs in kids.	E
+GW52	T2201	Surgery isn’t necessary for rickets.	N
+GW52	T2201	Rickets are rare East of the Atlantic.	C
+GW12	T2202	Located in Bavaria in Germany, the Rosenheim–Salzburg Railway also has the native name of Bahnstrecke Rosenheim-Salzburg.	E
+GW12	T2202	The Rosenheim–Salzburg Railway has 13 stations located throughout Bavaria and Salzburg.	N
+GW12	T2202	Deutsche Bahn Austrian Federal Railways are both the owner and operator of the Rosenheim–Salzburg Railway.	C
+GW63	T2202	More than 10 stations are still working in Rosenheim–Salzburg Railway	E
+GW63	T2202	Rosenheim–Salzburg Railway has never exceeded the speed of 99 mph.	N
+GW63	T2202	Triple track lanes are laid for a length of 90 km in the Rosenheim–Salzburg Railway	C
+GW52	T2202	The Rosenheim–Salzburg Railway hits speeds of nearly 100 mph.	E
+GW52	T2202	The Rosenheim–Salzburg Railway has always had 13 stations.	N
+GW52	T2202	The Rosenheim–Salzburg Railway was recently shut down.	C
+GW86	T2203	The Samsung Galaxy Note9 has multiple cameras.	E
+GW86	T2203	The Samsung Galaxy Note9 is still being manufactured.	N
+GW86	T2203	The Samsung Galaxy Note9 is the most recent model in a series of devices.	C
+GW52	T2203	The Samsung Galaxy Note9 was first released last year.	E
+GW52	T2203	The Samsung Galaxy Note9's is still in production.	N
+GW52	T2203	The Samsung Galaxy Note9 was the first in the Note series.	C
+GW106	T2203	Users can interact with their Galaxy Note 9 by pressing the Bixby button or using the S Pen.	E
+GW106	T2203	The model number for the AT&T variant of the Galaxy Note 9 in the United States is SM-N960A.	N
+GW106	T2203	The Galaxy Note 9 gained the ability to run on 5G networks after a software update in December of 2018.	C
+GW52	T2204	The San Francisco–Oakland Bay Bridge was opened in the 1930s.	E
+GW52	T2204	The San Francisco–Oakland Bay Bridge has undergone renovations over the years.	N
+GW52	T2204	The San Francisco–Oakland Bay Bridge has fewer than 100,000 cars pass over it every day.	C
+GW4	T2204	The San Francisco–Oakland Bay Bridge has been around for over 80 years.	E
+GW4	T2204	The San Francisco–Oakland Bay Bridge has always cost the same amount to cross.	N
+GW4	T2204	The San Francisco–Oakland Bay Bridge has only 10,000 people drive on it per day.	C
+GW86	T2204	The construction of the San Francisco–Oakland Bay Bridge took more than 3 years.	E
+GW86	T2204	The highest clearance above at any point on the San Francisco–Oakland Bay Bridge is 14.67 feet.	N
+GW86	T2204	The total length of the East portion of the San Francisco–Oakland Bay Bridge is greater than the total length of the West.	C
+GW74	T2205	The SAT is offered Worldwide in English.	E
+GW74	T2205	The SAT $60 in Canada	N
+GW74	T2205	It is  possible to get a score of 900 in mathematics	C
+GW4	T2205	The SAT is taken in person on paper.	E
+GW4	T2205	The SAT winds up bringing in millions of dollars per yera.	N
+GW4	T2205	The SAT was invented in the 1950s.	C
+GW28	T2205	The SAT is a standardized test used for admission to American undergraduate programs.	E
+GW28	T2205	The SAT is a secure and cheat-proof test taken by students worldwide.	N
+GW28	T2205	The SAT is is a multi-day test offered in multiple languages.	C
+GW28	T2206	Schizoaffective disorder is a treatable psychiatric condition	E
+GW28	T2206	Schizoaffective disorder affects mainly women.	N
+GW28	T2206	Schizoaffective disorder are due to environmental factors.	C
+GW106	T2206	Drug use is one factor known to increase schizoaffective disorder symptoms such as hallucinations and delusions.	E
+GW106	T2206	Suicide rates for those with depressive type schizoaffective disorder are lower than those afflicted with bipolar type.	N
+GW106	T2206	Discontinuing drug use can cure schizoaffective disorder.	C
+GW19	T2206	Despite advances in modern medicine, psychiatrists have not been able to identify the precise cause of schizophrenia	E
+GW19	T2206	Mood stabilizers are more effective at treating bipolar disorder than antipsychotics.	N
+GW19	T2206	Advances in modern medicine have allowed psychiatrists to treat schizoaphrenia with behavior modification.	C
+GW86	T2207	Schizophrenia can result in death.	E
+GW86	T2207	Schizophrenia sometimes occurs in individuals older than 30.	N
+GW86	T2207	Schizophrenia is an acute condition.	C
+GW106	T2207	Autism and Schizophrenia share many of the same symptoms.	E
+GW106	T2207	People with schizophrenia have a shorter than average life expectancy only if they also suffer from concurrent heart disease.	N
+GW106	T2207	Most sufferers of schizophrenia are not able to hold a job.	C
+GW52	T2207	Schizophrenia results in over 15,000 deaths per year.	E
+GW52	T2207	Schizophrenia can be onset at any age.	N
+GW52	T2207	Schizophrenia does not come with a shorter life expectancy.	C
+GW60	T2208	THE SQA has a budget of around 11,333 pounds per staff person.	E
+GW60	T2208	Dave Middleton loves in Glasgow.	N
+GW60	T2208	David Middleton does not speak English at work.	C
+GW12	T2208	Information on the SQA can be found at www.sqa.org.uk.	E
+GW12	T2208	The Scottish Qualifications Authority, located in Scotland, has a staff of 750.	N
+GW12	T2208	David Middleton is the president of the Scottish Qualifications Authority.	C
+GW52	T2208	The Scottish Qualifications Authority has a budget exceeding 10 million.	E
+GW52	T2208	The SQA can be considered a small business.	N
+GW52	T2208	The HQ of the SQA is in England.	C
+GW52	T2209	Seoul Subway Line 3 opened over 30 years ago.	E
+GW52	T2209	Seoul Subway Line 3 has never been renovated.	N
+GW52	T2209	Seoul Subway Line 3 has the same line length for all routes.	C
+GW74	T2209	there are 8 more Korail station  than there are number of tracks	E
+GW74	T2209	There were 44 station when Seoul Subway Line 3 opented in 1985	N
+GW74	T2209	There are more Termini than there are number of tracks	C
+GW12	T2209	The native name of Seoul Subway Line 3 is Sam Hoseon.	E
+GW12	T2209	The Seoul Subway Line 3 is a rapid transit subway system that has 3 stations.	N
+GW12	T2209	Seoul Subway Line 3 opened in the winter of 1985.	C
+GW52	T2210	The Settle–Carlisle line opened in the 1870s.	E
+GW52	T2210	The Settle–Carlisle line has dropped in usage over the years.	N
+GW52	T2210	The Settle–Carlisle line length is 100 miles.	C
+GW12	T2210	Settle–Carlisle line is the main line of the National Rail System.	E
+GW12	T2210	North West England is the only locale of the Settle–Carlisle line.	N
+GW12	T2210	Network Rail and Neville Hill are owners of the Settle–Carlisle line.	C
+GW25	T2210	The Settle–Carlisle line has 10 stations located in Northern England.	E
+GW25	T2210	The Settle–Carlisle line is a heavily traveled rail line.	N
+GW25	T2210	The Settle–Carlisle is owned by Northern Rail and offers 5 services.	C
+GW105	T2211	Senior citizens are more at risk for Shingles.	E
+GW105	T2211	Shingles will last for 3 weeks.	N
+GW105	T2211	Shingles can be diagnosed through a blood test.	C
+GW52	T2211	Shingles affects 1 out of every 3 people at some point in their life.	E
+GW52	T2211	Shingles has a common onset age.	N
+GW52	T2211	Shingles take over a month to clear.	C
+GW25	T2211	Shingles can be prevented with a vaccine and can be treated with medication.	E
+GW25	T2211	An outbreak of the Varicella zoster virus is based on symptoms where a painful rash presents itself on the legs.	N
+GW25	T2211	Herpes simplex, angina, and insect bites are the only maladies associated with chickenpox.	C
+GW106	T2212	All occupants of Singapore Airlines Flight 368 were able to evacuate the plane without injury.	E
+GW106	T2212	The aircraft fire that occurred during Singapore Airlines Flight 368 occurred after the plane had landed.	N
+GW106	T2212	The oil leak that caused the aircraft fire during Singapore Airlines Flight 368 occurred shortly after leaving the Malpensa Airport.	C
+GW52	T2212	SQ368's crash was non-fatal.	E
+GW52	T2212	The crew of the SQ368 reported seeing smoke.	N
+GW52	T2212	The SQ368 crash took place in the 1990s.	C
+GW74	T2212	There were more occupants than passengers on Singapore Airlines Flight 368	E
+GW74	T2212	Singapore Airlines always uses Boeing 777-312ER	N
+GW74	T2212	There were more injuries than fatalities	C
+GW86	T2213	Sleep paralysis is sometimes estimated to occur in half of people.	E
+GW86	T2213	Sleep paralysis always requires medical treatment.	N
+GW86	T2213	Sleep paralysis can last up to an hour.	C
+GW52	T2213	Sleep paralysis possibly affects half the population.	E
+GW52	T2213	Sleep paralysis has been growing in prognosis over time.	N
+GW52	T2213	Sleep paralysis can lasts for an hour.	C
+GW28	T2213	Sleep paralysis is a temporary medical condition where people lose motor function before or after sleeping.	E
+GW28	T2213	Sleep paralysis affects mostly women.	N
+GW28	T2213	Sleep paralysis can last for days	C
+GW95	T2214	Social workers all went to college.	E
+GW95	T2214	Most social workers work in chruches	N
+GW95	T2214	You can be a social worker if you have an Associates Degree	C
+GW28	T2214	Social work can lead to work in various roles and organizations after obtaining a degree.	E
+GW28	T2214	Social work is a well paid profession.	N
+GW28	T2214	Social workers can find employment with only a GED.	C
+GW52	T2214	Social work houses several degrees.	E
+GW52	T2214	Social work has increased since the turn of the 20th century.	N
+GW52	T2214	Social work only deals with physical health.	C
+GW25	T2215	Humphry Davy first discovered and isolated Sodium which has a silvery white metallic appearance.	E
+GW25	T2215	Most Alkali metals have a silvery white metallic appearance making them hard to distinguish.	N
+GW25	T2215	Sodium has a silvery gold metallic appearance and a remedial natural occurrence.	C
+GW4	T2215	Sodium is known for being white and silver in color.	E
+GW4	T2215	Sodium explodes when it interacts with water.	N
+GW4	T2215	Sodium was discovered in the 1500s.	C
+GW52	T2215	Sodium was first discovered in the 19th century.	E
+GW52	T2215	Sodium is currently used in many foods.	N
+GW52	T2215	Sodium was one of the first 10 elements discovered.	C
+GW52	T2216	The Xperia X8 debuted in this decade.	E
+GW52	T2216	The Xperia X8 is still produced currently.	N
+GW52	T2216	The Xperia X8 has 1GB of memory.	C
+GW86	T2216	The Sony Ericsson Xperia X8 has a larger memory than storage capacity.	E
+GW86	T2216	The Sony Ericsson Xperia X8 comes with 16 GB of removable storage.	N
+GW86	T2216	The Sony Ericsson Xperia X8 has been available for more than a decade.	C
+GW1	T2216	The Sony Ericsson Xperia X8 came out in the Summer of 2010.	E
+GW1	T2216	The Sony Ericsson Xperia X8 has better audio than the Sony Ericsson Xperia X10 Mini.	N
+GW1	T2216	The Sony Ericsson Xperia X8 weighs over 4 pounds.	C
+GW74	T2217	SSC CGL is designed to secure jobs in Government Organisations in India	E
+GW74	T2217	SSC CGL is offered in India at same time each year	N
+GW74	T2217	SSC CGL began in India in the 19th century	C
+GW4	T2217	The SSC Combined Graduate Level Examination requires someone to go to college first.	E
+GW4	T2217	The SSC Combined Graduate Level Examination makes a lot of money for India.	N
+GW4	T2217	The SSC Combined Graduate Level Examination has been practiced over 50 years.	C
+GW52	T2217	The SSC CGL started back in the 1970s.	E
+GW52	T2217	The SSC CGL has been offered outside of India.	N
+GW52	T2217	The SSC CGL is free for all test-takers.	C
+GW52	T2218	Subgame Perfect Equilibrium is used for games.	E
+GW52	T2218	Subgame Perfect Equilibrium is a recent piece of technology.	N
+GW52	T2218	The Subgame Perfect Equilibrium intersects with the evolutionarily diverse strategy.	C
+GW28	T2218	Subgame Perfect Equilibrium is a strategy employed in games.	E
+GW28	T2218	Subgame Perfect Equilibrium was created by a Harvard economist.	N
+GW28	T2218	Subgame Perfect Equilibrium is a standalone concept.	C
+GW12	T2218	Used for extensive form games, the Ultimatum game is an example of Subgame Perfect Equilibrium.	E
+GW12	T2218	Subgame Perfect Equilibrium intersects with Nash equilibrium.	N
+GW12	T2218	Subgame Perfect Equilibrium was proposed by more people than just Reinhard Selten.	C
+GW106	T2219	Sudan Airways Flight 139 crashed in the summer of 2003.	E
+GW106	T2219	Most of the passengers aboard Flight 139 were citizens of Sudan.	N
+GW106	T2219	More than 50% of crew and passengers aboard Flight 139 were eventually rescued within of a few miles of Khartoum International Airport.	C
+GW74	T2219	The crew and passengers totaled 117	E
+GW74	T2219	Sudan Airways only used Boeing 737-200C	N
+GW74	T2219	There were fewer fatalities than passengers	C
+GW12	T2219	Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.	E
+GW12	T2219	Sudan Airways Flight 139 was a Boeing with the aircraft name White Nile.	N
+GW12	T2219	There were 117 passengers and 106 fatalities with the crash of Sudan Airways Flight 139.	C
+GW105	T2220	Sushi Mizutani Restaurant has been around for eleven years.	E
+GW105	T2220	Hachiro Mizutani personally greets guests.	N
+GW105	T2220	Large groups can just show up to eat.	C
+GW1	T2220	Sushi Mizutani Restaurant closed in the Fall of 2016.	E
+GW1	T2220	Reservations are hard to get at Sushi Mizutani Restaurant.	N
+GW1	T2220	Sushi Mizutani Restaurant opened in the Summer of 2005.	C
+GW109	T2220	Owner maintained the dress code is business casual for all time.	E
+GW109	T2220	In this restaurant is most valuable for those time period.	N
+GW109	T2220	Food type is not sushi another kind of food they have to prepared well.	C
+GW86	T2221	Syncope usually occurs rapidly and lasts a brief time.	E
+GW86	T2221	Syncope usually results from a cardiac condition.	N
+GW86	T2221	Syncope occurs in approximately 5% of the population.	C
+GW28	T2221	Syncope is a medical condition of decreased blood flow to the brain that causes a person to faint.	E
+GW28	T2221	Syncope is easily and affordably treatable.	N
+GW28	T2221	Syncope causes hyper awareness when afflicted.	C
+GW52	T2221	Syncope occurs in less than 1% of the population.	E
+GW52	T2221	Syncope's symptoms are the same for all cases.	N
+GW52	T2221	Syncope lasts for a long time.	C
+GW52	T2222	Tangerine_Microtan_65 debuted in the 1970s.	E
+GW52	T2222	Tangerine_Microtan_65 is still in use today.	N
+GW52	T2222	Tangerine_Microtan_65 houses over 100KB of RAM.	C
+GW74	T2222	Tangerine_Microtan_65 cost £79.35 in kit form initially in 1979	E
+GW74	T2222	Tangerine_Microtan_65 was the top Personal Computer in 1979	N
+GW74	T2222	Tangerine_Microtan_65 initially cost £100 in 1979	C
+GW19	T2222	The Tangerine Microtan 65 personal computer was introduced approximately 40 years ago.	E
+GW19	T2222	The Tangerine Microtan 65 personal computer was an immediate favorite among techies upon its 1979 release.	N
+GW19	T2222	The Tangerine Microtan 65 personal computer debuted at the 2014 CES.	C
+GW4	T2223	People that are teachers usually require special education.	E
+GW4	T2223	People that are teachers always work at schools.	N
+GW4	T2223	People that are teachers usually teach subjects they have not studied before.	C
+GW12	T2223	A teacher is a professional occupation that takes place in a school.	E
+GW12	T2223	A teacher should have competency skills in planning and leadership.	N
+GW12	T2223	Psychology is the only competency required of a school teacher.	C
+GW86	T2223	A teacher is considered to be a professional.	E
+GW86	T2223	A teaching certificate from one country typically permits teaching in other countries.	N
+GW86	T2223	Teaching involves a single competency.	C
+GW86	T2224	The Telmac 1800 was one of a series of home computer models.	E
+GW86	T2224	The Telmac 1800 could display color graphics.	N
+GW86	T2224	The Telmac 1800 used floppy disks.	C
+GW52	T2224	The Telmac 1800 debuted over 40 years ago.	E
+GW52	T2224	The Telmac 1800 had expandable CPU.	N
+GW52	T2224	The Telmac 1800 was considered to be a microcomputer.	C
+GW12	T2224	The Telmac 1800 was a home computer released 42 years ago.	E
+GW12	T2224	Considered a computer kit, the Telmac 1800 had a 64 x 32 pixel display resolution.	N
+GW12	T2224	With 2 kB RAM, the Telmac 1800 only had the Telmac TMC-600 as a successor.	C
+GW52	T2225	The Tenth of Tevet is a Jewish event.	E
+GW52	T2225	The Tenth of Tevet typically takes place every year.	N
+GW52	T2225	The Tenth of Tevet, for 2019, takes place in 2019.	C
+GW4	T2225	The Tenth of Tevet starts before the sun is up	E
+GW4	T2225	The Tenth of Tevet has been practiced for over 1000 years	N
+GW4	T2225	The Tenth of Tevet is where people eat more food than normal	C
+GW74	T2225	The 2019 and 2020 date for Tenth of Tevet both happen in 2020	E
+GW74	T2225	All jews fast on Tenth of Tevet	N
+GW74	T2225	The 2018 date and the 2020 date for Tenth of Tevet  happen during different months	C
+GW1	T2226	Terbium was discovered and first isolated in the 19th century.	E
+GW1	T2226	Terbium is almost always a solid.	N
+GW1	T2226	Terbium is darker in color.	C
+GW4	T2226	Terbium has an atomic weight greater than 150.	E
+GW4	T2226	Terbium can be found in solid form.	N
+GW4	T2226	Terbium was founded in the late 1900s.	C
+GW28	T2226	Terbium is an element discovered and isolated by one man.	E
+GW28	T2226	Terbium is a rare element.	N
+GW28	T2226	Terbium was named after the person who discovered it.	C
+GW106	T2227	A college applicant can use a TOEFL score from an exam taken within the previous year.	E
+GW106	T2227	The TOEFL exam is required by most Ivy League colleges and universities in the United States.	N
+GW106	T2227	The math portion of the TOEFL exam accounts for 25% of the exam's total score.	C
+GW19	T2227	The standardized Test of English as a Foreign Language (TOEFL) is a globally recognized method of establishing language proficiency.	E
+GW19	T2227	The United Nations requires that job applicants pass the TOEFL.	N
+GW19	T2227	The TOEFL is only offered in Eastern European and Southeast Asian countries.	C
+GW52	T2227	TOEFL was started in the 1960s.	E
+GW52	T2227	TOEFL can be taken from every continent.	N
+GW52	T2227	TOEFL has a negative score measure.	C
+GW12	T2228	Tetanus and Lockjaw are the same disease.	E
+GW12	T2228	Lockjaw can be prevented with the tetanus vaccine.	N
+GW12	T2228	Muscle spasms, fever, and headache are risk factors of tetanus.	C
+GW105	T2228	Tetanus is an infectious disease that can show up anywhere from a few days to almost a month.	E
+GW105	T2228	Most patients experience Tetanus for 15 days.	N
+GW105	T2228	Most of the time tetanus is highly fatal.	C
+GW19	T2228	In 2015, less than 1/2 the people who contracted lockjaw died from the disease.	E
+GW19	T2228	Lockjaw has been eradicated in the United States.	N
+GW19	T2228	Lockjaw is an uncurable terminal disease.	C
+GW105	T2229	The Ledbury Restaurant was opened over a decade ago.	E
+GW105	T2229	The Ledbury Restaurant has a strong online presence.	N
+GW105	T2229	The Ledbury Restaurant can host hundreds of people at once.	C
+GW60	T2229	Brett Graham is a chef of British cuisine.	E
+GW60	T2229	Brett Graham lives in London.	N
+GW60	T2229	Brett Graham has been head chef at Ledbury Restaurant for 20 years.	C
+GW1	T2229	The Ledbury Restaurant opened in the 1st decade of the 21st century.	E
+GW1	T2229	Brett Graham was the original chef of The Ledbury Restaurant	N
+GW1	T2229	The Ledbury Restaurant can seat over 60 people.	C
+GW19	T2230	The Tukwila International Boulevard Station, a light rail station in Washington state, has been open for more than 10 years.	E
+GW19	T2230	Tukwila International Boulevard Station is a popular station for commuters traveling to downtown Seattle.	N
+GW19	T2230	Tukwila International Boulevard Station is a popular station in the Nation's capital.	C
+GW86	T2230	The Tukwila International Boulevard Station has as many side platforms as tracks.	E
+GW86	T2230	The Tukwila International Boulevard Station has wheelchair ramps.	N
+GW86	T2230	The Tukwila International Boulevard Station was opened less than a decade ago.	C
+GW28	T2230	Tukwila International Boulevard Station (Link Light Rail Station) is an American public transport station in the state of Washington	E
+GW28	T2230	Tukwila International Boulevard Station (Link Light Rail Station) accepts cash and digital payments.	N
+GW28	T2230	Tukwila International Boulevard Station (Link Light Rail Station) has an express track along with two local tracks.	C
+GW1	T2231	Type 1 diabetes has multiple symptoms.	E
+GW1	T2231	Type 1 diabetes was originally called juvenile diabetes.	N
+GW1	T2231	There is only 1 form of treatment for Type 1 diabetes.	C
+GW28	T2231	Type 1 diabetes can be treated but not prevented.	E
+GW28	T2231	Type 1 diabetes affects more women than men.	N
+GW28	T2231	The cause of Type 1 diabetes is a mystery and un-treatable	C
+GW74	T2231	There are more risk factors than causes	E
+GW74	T2231	celiac disease causes Frequent urination	N
+GW74	T2231	Usual onset and Duration are the same length of time	C
+GW12	T2232	Noninsulin-dependent diabetes mellitus (NIDDM) is another name for Type 2 diabetes.	E
+GW12	T2232	Type 2 diabetes is a long-term illness that occurs during childhood.	N
+GW12	T2232	People with Type 2 diabetes can expect to live ten years longer than the average person.	C
+GW28	T2232	Type 2 diabetes is a treatable disease that affects mostly older adults.	E
+GW28	T2232	Type 2 diabetes is caused by too much sugar intake.	N
+GW28	T2232	Type 2 diabetes can be cured with drugs.	C
+GW52	T2232	Type 2 Diabetes carries a shorter life expectancy than normal adults.	E
+GW52	T2232	Type 2 Diabetes is the most common type of diabetes.	N
+GW52	T2232	Type 2 Diabetes is diagnosed via sleep study.	C
+GW60	T2233	At most 0.5% of people will need a colonoscopy with tissue biopsies to diagnose Ulcerative colitis.	E
+GW60	T2233	More people die from Ulcerative colitis than from Crohn's  disease.	N
+GW60	T2233	Teenagers cannot get ulcerative colitis.	C
+GW52	T2233	Ulcerative colitis, when paired with Crohn's, causes over 47,000 deaths per year.	E
+GW52	T2233	Ulcerative colitis has no prevention methods.	N
+GW52	T2233	Ulcerative colitis affects more than 1% of the population.	C
+GW74	T2233	There are more symptoms than complications	E
+GW74	T2233	The duration of Ulcerative colitis is as long as the usual onset	N
+GW74	T2233	Diagnostic method outnumbers treatments	C
+GW4	T2234	The Unaza busline runs over 20 times a day.	E
+GW4	T2234	The Unaza busline drives over 50 miles an hour.	N
+GW4	T2234	The Unaza busline only come every half hour.	C
+GW86	T2234	The Unaza busline is non-operational for less than 6 hours a day.	E
+GW86	T2234	A trip on the Unaza busline sometimes takes more than 30 minutes.	N
+GW86	T2234	The Unaza busline runs less frequently on the weekends than during the week.	C
+GW52	T2234	The Unaza busline operates for over 3/4 of the day.	E
+GW52	T2234	The Unaza busline has yet to be modified or renovated.	N
+GW52	T2234	The Unaza busline is over 100 miles long.	C
+GW52	T2235	The University Clinical Aptitude Test has been taken by about 25000 people yearly.	E
+GW52	T2235	The University Clinical Aptitude Test is a significant determining factor on admission.	N
+GW52	T2235	The University Clinical Aptitude Test takes an entire day to complete.	C
+GW1	T2235	The University Clinical Aptitude Test takes about 120 minutes to take.	E
+GW1	T2235	The University Clinical Aptitude Test is the only test Pearson administers.	N
+GW1	T2235	The University Clinical Aptitude Test was first administered in the 20th century.	C
+GW105	T2235	Test takers can use process of elimination.	E
+GW105	T2235	Some test takers can complete the University Clinical Aptitude Test in as little as twenty minutes.	N
+GW105	T2235	Millions of people take the test each year.	C
+GW86	T2236	The crash of US Airways Flight 1549 was caused by animals.	E
+GW86	T2236	All of the crew of US Airways Flight 1549 suffered serious injuries.	N
+GW86	T2236	US Airways Flight 1549 crashed between its stopover point and its final destination.	C
+GW4	T2236	US Airways Flight 1549 took off from the east coast of the USA.	E
+GW4	T2236	US Airways Flight 1549 hit a goose while flying.	N
+GW4	T2236	US Airways Flight 1549 was able to complete their flight.	C
+GW52	T2236	US1549 crashed ten years ago.	E
+GW52	T2236	US1549 had reported no engine trouble before bird strike.	N
+GW52	T2236	US1549 crash resulted in 5 fatalities.	C
+GW52	T2237	The Utah Valley Express just opened last year.	E
+GW52	T2237	The Utah Valley Express operates around the clock.	N
+GW52	T2237	The Utah Valley Express travels at speeds above 60 mph.	C
+GW4	T2237	The Utah Valley Express has been around under 10 years.	E
+GW4	T2237	The Utah Valley Express took 5 years to build.	N
+GW4	T2237	The Utah Valley Express moves faster than cars on the freeway.	C
+GW19	T2237	The Utah Valley Express, a rapid bus service in southern Orem, Utah, has been operated by the Utah Transit Authority for over one year.	E
+GW19	T2237	No route changes were made to the rapid bus line in southern Orem, Utah when it was changed from the Provo Urem Max to the Utah Valley Express.	N
+GW19	T2237	The Utah Valley Express rapid bus line serves the metro Salt Lake City area in Utah.	C
+GW28	T2238	Vaisakhi, Baisakhi Punjabi: ਵਿਸਾਖੀ is a religious observance by both Sikhs and Hindus.	E
+GW28	T2238	Vaisakhi, Baisakhi Punjabi: ਵਿਸਾਖੀ shoot fireworks and exchange gifts as part of the celebrations.	N
+GW28	T2238	Vaisakhi, Baisakhi Punjabi: ਵਿਸਾਖੀ always fall on the same date every year.	C
+GW86	T2238	Vaisakhi is known by 4 different names.	E
+GW86	T2238	Vaisakhi is observed on the 13th or 14th of April every year.	N
+GW86	T2238	Vaisakhi is strictly a cultural observation.	C
+GW52	T2238	The Baisakh takes place at around the same time every year.	E
+GW52	T2238	The Baisakh has the same observances for all who celebrate.	N
+GW52	T2238	Baisakh occurs on the same day every year.	C
+GW86	T2239	Vesak is known by at least a half dozen official names.	E
+GW86	T2239	Vesak is observed by more Buddhists than Hindus worldwide.	N
+GW86	T2239	Vesak is celebrated on the same date each year.	C
+GW52	T2239	Buddha Day occurs on an annual basis.	E
+GW52	T2239	Buddha Day is celebrated by all of Asia.	N
+GW52	T2239	In 2018, Buddha Day was celebrated on the same day for every country in Asia.	C
+GW12	T2239	Vesak is an annual holiday and was celebrated on May 19 in 2019.	E
+GW12	T2239	Vesak is a religious holiday celebrating Gautama Buddha.	N
+GW12	T2239	Vesak is celebrated during the winter months.	C
+GW28	T2240	Vidyasagar Setu is a six-lane toll bridge.	E
+GW28	T2240	Vidyasagar Setu cost billions of US dollars.	N
+GW28	T2240	Vidyasagar Setu is known for its unique cantilever design.	C
+GW12	T2240	Vidyasagar Setu is also known as Second Hooghly Bridge and is a two-way with three lanes.	E
+GW12	T2240	The Braithwaite Burn and Jessop Construction Company Limited is the only company who was involved in the construction of the bridge.	N
+GW12	T2240	The Vidyasagar Setu opened in the spring of 1992.	C
+GW86	T2240	Vidyasagar Setu has six lanes in total.	E
+GW86	T2240	Vehicles using Vidyasagar Setu pay a toll for travelling in both directions.	N
+GW86	T2240	Vidyasagar Setu costs nothing for vehicles to use.	C
+GW28	T2241	Viva Purple is a public bus line that is over a decade old.	E
+GW28	T2241	Public Wifi is available on all Viva Purple buses.	N
+GW28	T2241	Viva Purple is arrives twice an hour.	C
+GW4	T2241	Viva Purple leaves four times an hour.	E
+GW4	T2241	Viva Purple has been running daily for over 14 years.	N
+GW4	T2241	The Viva Purple line only has a few hundred people ride it per year.	C
+GW52	T2241	Viva Purple enjoys ridership of over 5,000 people.	E
+GW52	T2241	Viva Purple operates on a 24 hour schedule.	N
+GW52	T2241	Viva Purple began operating in the 1990s.	C
+GW4	T2242	The Xiaomi Mi 2S has two different cameras on the back of it.	E
+GW4	T2242	The Xiaomi Mi 2S has a larger battery than an iPhone.	N
+GW4	T2242	The Xiaomi Mi 2S is smaller than 120mm wide.	C
+GW74	T2242	Storage is up to 30 GB more than memory	E
+GW74	T2242	Xiaomi Mi 2S with Android 4.1 Jelly Bean operating systems have 16 GB of storage	N
+GW74	T2242	Xiaomi Mi3 came before Xiaomi Mi2	C
+GW105	T2242	The Xiaomi Mi 2S is a smart phone.	E
+GW105	T2242	There is enough memory for hundreds of photos.	N
+GW105	T2242	The Xiaomi Mi 2S has plenty of removable storage.	C
+GW28	T2243	B1 is a bus route that operates daily in Zhengzhou.	E
+GW28	T2243	B1 is a cashless bus system and uses electronic forms of payment.	N
+GW28	T2243	B1 has operated continually for over a decade.	C
+GW12	T2243	Located in Zhengzhou, B1 is operated by the Zhengzhou Bus Communication Corporation.	E
+GW12	T2243	B1 starts at Zhongzhou Avenue and Nongye Road and ends on the Dianchang Road B/T.	N
+GW12	T2243	B1 operates daily every seven minutes.	C
+GW52	T2243	The B1 has been in service for a decade.	E
+GW52	T2243	The B1 is one of the most popular bus rides.	N
+GW52	T2243	The B1 operates on a 24-hour schedule.	C
+GW28	T2244	Indonesia AirAsia Flight 8501 destined for Singapore crashed into the sea killing all on board.	E
+GW28	T2244	Indonesia AirAsia Flight 8501 may have had a miscommunication between pilots that contributed to the accident.	N
+GW28	T2244	Indonesia AirAsia Flight 8501 was a Boeing jumbo that crashed while landing on the runway.	C
+GW52	T2244	QZ8501 crashed resulted in all fatalities on board.	E
+GW52	T2244	QZ8501 had reported engine issues prior to stalling.	N
+GW52	T2244	QZ8501 crash occurred in the 1990s.	C
+GW1	T2244	Everyone on board Indonesia AirAsia Flight 8501 perished.	E
+GW1	T2244	Indonesia AirAsia Flight 8501 is the only Indonesia AirAsia Flight 8501 to crash.	N
+GW1	T2244	Indonesia AirAsia Flight 8501 crashed in the Summer of 2014.	C

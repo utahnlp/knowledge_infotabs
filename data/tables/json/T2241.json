@@ -1,0 +1,38 @@
+{
+    "title": [
+        "Viva Purple"
+    ],
+    "System": [
+        "YRT/Viva"
+    ],
+    "Operator": [
+        "Tok Transit"
+    ],
+    "Vehicle": [
+        "Van Hool A330 , Van Hool AG300 , Nova Bus LF Series (articulated)"
+    ],
+    "Began service": [
+        "September 4, 2005"
+    ],
+    "Route type": [
+        "Bus rapid transit"
+    ],
+    "Locale": [
+        "York Region"
+    ],
+    "Communities served": [
+        "Richmond Hill; Markham"
+    ],
+    "Start": [
+        "Richmond Hill Centre Terminal"
+    ],
+    "End": [
+        "Markham Stouffville Hospital"
+    ],
+    "Frequency": [
+        "15 mins"
+    ],
+    "Ridership": [
+        "5,705"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": [
+    "b69 Vanderbilt Avenue Line"
+  ],
+  "System": [
+    "MTA Regional Bus Operations"
+  ],
+  "Operator": [
+    "New York City Transit Authority"
+  ],
+  "Garage": [
+    "Jackie Gleason Depot"
+  ],
+  "Began service": [
+    "1869"
+  ],
+  "Ended service": [
+    "August 20th, 1950 (Trolley)"
+  ],
+  "Locale": [
+    "Brooklyn"
+  ],
+  "Communities served": [
+    "Kensington, Park Slope, Clinton Hill, Dumbo"
+  ],
+  "Start": [
+    "Kensington -Cortelyou Road and McDonald Avenue"
+  ],
+  "Via": [
+    "McDonald Avenue, 7th Avenue, Vanderbilt via Brooklyn Navy Yard"
+  ],
+  "End": [
+    "Downtown Brooklyn  -Sands Street / York Street station"
+  ],
+  "Operates": [
+    "All times except late nights"
+  ],
+  "Annual patronage": [
+    "1,258,471 (2017)"
+  ],
+  "Transfers": [
+    "Yes"
+  ]
+}

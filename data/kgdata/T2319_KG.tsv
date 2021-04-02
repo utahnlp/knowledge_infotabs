@@ -1,0 +1,12 @@
+key	keyword	definition	description	source
+Reign	reign	"A reign is the period of a person's or dynasty's occupation of the office of monarch of a nation , of a people or of a spiritual community . In most hereditary monarchies and some elective monarchies there have been no limits on the duration of a sovereign's reign or incumbency, nor is there a term of office. Thus, a reign usually lasts until the monarch dies, unless the monarchy itself is abolished or the monarch abdicates or is deposed. In elective monarchies, there may be a fixed period of time for the duration of the monarch's tenure in office . The term of a reign can be indicated with the abbreviation ""r."" after a sovereign's name, such as the following: George VI, King of Great Britain, Ireland and the British Dominions, Emperor of India"	period in which a sovereign rules	wikipedia
+Reign	reign	royal authority; the dominion of a monarch	reign, sovereignty	wordnet
+Reign	reign	the period of rule of a monarch.	NA	owlbot
+Reign	reign	A reign is a period	NA	GenericsKB
+Predecessor	predecessor	In religion, a precursor , also known as forerunner , predecessor , harbinger or herald , is a holy person who announced the approaching appearance of a central figure of the religion or who identified a central figure of the religion during the latter’s childhood	holy person who announced the approaching appearance of a prophet	wikipedia
+Predecessor	predecessor	one who precedes you in time (as in holding a position or office)	predecessor	wordnet
+Predecessor	predecessor	a person who held a job or office before the current holder.	NA	owlbot
+Successor	successor	"Khalifa or Khalifah is a name or title which means ""successor"", ""ruler"" or ""leader"""	family name	wikipedia
+Successor	successor	a person who inherits some title or office	successor, heir	wordnet
+Successor	successor	a person or thing that succeeds another.	NA	owlbot
+Successor	successor	Successors are offsprings	NA	GenericsKB

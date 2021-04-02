@@ -1,0 +1,32 @@
+key	keyword	definition	description	source
+Date	date	Date is a modern dansband from Sweden	Swedish dansband	wikipedia
+Date	date	the specified day of the month	date, day_of_the_month	wordnet
+Date	date	the day of the month or year as specified by a number.	NA	owlbot
+Date	date	Date is a day	NA	GenericsKB
+Location	location	In geography, location and place are used to denote a point or an area on the Earth's surface or elsewhere. The term location generally implies a higher degree of certainty than place , the latter often indicating an entity with an ambiguous boundary, relying more on human or social attributes of place identity and sense of place than on geometry.	point or an area on the Earth's surface or elsewhere	wikipedia
+Location	location	the act of putting something in a certain place	placement, location, locating, position, positioning, emplacement	wordnet
+Location	location	a particular place or position.	NA	owlbot
+Location	location	Location has a significant impact on crime in India 	NA	GenericsKB
+Event type	event	A ceremony is a unified ritualistic event with a purpose, usually consisting of a number of artistic components, performed on a special occasion	event of ritual significance, performed on a special occasion	wikipedia
+Event type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Event type	event	a phenomenon that follows and is caused by some previous phenomenon	consequence, effect, outcome, result, event, issue, upshot	wordnet
+Event type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Event type	event	Event is a entity	NA	GenericsKB
+Event type	type	Type is a creation of both art and science	NA	GenericsKB
+Distance	distance	"Distance is a numerical measurement of how far apart objects or points are. In physics or everyday usage, distance may refer to a physical length or an estimation based on other criteria . In most cases, ""distance from A to B"" is interchangeable with ""distance from B to A"". In mathematics, a distance function or metric is a generalization of the concept of physical distance, a way of describing what it means for elements of some space to be ""close to"" or ""far away from"" each other. In psychology or social sciences distance is a non numerical measurement; Psychological distance is defined as ""the different ways in which an object might be removed from"" the self along dimensions such as ""time, space, social distance, and hypotheticality."	length of straight line that connects two points in a measurable space or in an observable physical space	wikipedia
+Distance	distance	size of the gap between two places	distance, length	wordnet
+Distance	distance	the full length of a race.	NA	owlbot
+Distance	distance	Distance also is a factor affecting demand	NA	GenericsKB
+Established	established	The European Single Market , Internal Market or Common Market is a single market which seeks to guarantee the free movement of goods, capital, services, and labour – the ‘ four freedoms ‘ – within the European Union 	single market of the European Union and participating non-EU countries	wikipedia
+Established	established	set up or found	establish, set_up, found, launch	wordnet
+Established	established	set up on a firm or permanent basis.	NA	owlbot
+Course records	course	 Bosnian Coarse-Haired Hound, developed by 19th century Bosnian hunters as a scent hound	Wikimedia disambiguation page	wikipedia
+Course records	records	The archaeological record is the body of physical evidence about the past	body of physical (i.e. not written) evidence about the past	wikipedia
+Course records	course	a body of students who are taught together	class, form, grade, course	wordnet
+Course records	records	an extreme attainment; the best (or worst) performance ever attested (as in a sport)	record	wordnet
+Course records	course	A course is education	NA	GenericsKB
+Course records	records	Records are accomplishment	NA	GenericsKB
+Official site	official site	A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server. Notable examples are wikipedia.org, google.com, and amazon.com. All publicly accessible websites collectively constitute the World Wide Web. There are also private websites that can only be accessed on a private network, such as a company's internal website for its employees. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social networking. Hyperlinking between web pages guides the navigation of the site, which often starts with a home page. Users can access websites on a range of devices, including desktops, laptops, tablets, and smartphones. The software application used on these devices is called a web browser.	set of related web pages served from a single web domain	wikipedia
+Official site	official	someone who administers the rules of a game or sport	official	wordnet
+Official site	site	assign a location to	locate, place, site	wordnet
+Official site	official site	Official sites have communities	NA	GenericsKB

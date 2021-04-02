@@ -1,0 +1,78 @@
+key	keyword	definition	description	source
+Builders	builders	Builder is a United States Navy occupational rating	United States Navy occupational rating	wikipedia
+Builders	builders	someone who contracts for and supervises construction (as of a building)	builder, constructor	wordnet
+Builders	builders	a person who constructs something by putting parts or material together.	NA	owlbot
+Builders	builder	Builders adopt construction	NA	GenericsKB
+Preceded by:	preceded	furnish with a preface or introduction	precede, preface, premise, introduce	wordnet
+Preceded by:	preceded	come before (something) in time.	NA	owlbot
+Succeeded by:	succeed	Sixteen ships of the Royal Navy have been named HMS Success , whilst another was planned: * HMS Success was a 34-gun ship, previously the French ship Jules	Wikimedia disambiguation page	wikipedia
+Succeeded by:	succeeded	be the successor (of)	succeed, come_after, follow	wordnet
+Succeeded by:	succeeded	take over a throne, office, or other position from.	NA	owlbot
+Subclasses:	subclasses	 Superclass , a book about global governance by David Rothkopf and The Superclass List 	Wikimedia disambiguation page	wikipedia
+Subclasses:	subclasses	(biology) a taxonomic category below a class and above an order	subclass	wordnet
+Subclasses:	subclasses	a secondary or subordinate class.	NA	owlbot
+Subclasses:	subclasses	A subclass is taxon	NA	GenericsKB
+Built:	built	A building, or edifice, is a structure with a roof and walls standing more or less permanently in one place, such as a house or factory	structure, typically with a roof and walls, standing more or less permanently in one place	wikipedia
+Built:	built	order, supervise, or finance the construction of	build	wordnet
+In commission:	commission	In art, a commission is the act of requesting the creation of a piece, often on behalf of another	hiring and payment for the creation of a piece of art	wikipedia
+In commission:	commission	a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)	commission	wordnet
+In commission:	commission	a sum, typically a set percentage of the value involved, paid to an agent in a commercial transaction.	NA	owlbot
+In commission:	commission	Commission is charged in currency of trade	NA	GenericsKB
+Completed:	completed	"Compleat is an archaic variant of the word ""complete"	Wikimedia disambiguation page	wikipedia
+Completed:	completed	successfully completed or brought to an end	accomplished, completed, realized, realised	wordnet
+Completed:	completed	provide with the item or items necessary to make (something) full or entire.	NA	owlbot
+Active:	active	tending to become more severe or wider in scope	active	wordnet
+Active:	active	an active form of a verb.	NA	owlbot
+Active:	active	Actives are people	NA	GenericsKB
+Type:	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type:	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Type:	type	a design on either side of a medal or coin.	NA	owlbot
+Type:	type	A type is a kind	NA	GenericsKB
+Displacement:	displacement	Angular displacement of a body is the angle in radians through which a point revolves around a centre or line has been rotated in a specified sense about a specified axis	angle in radians (degrees, revolutions) through which a point or line has been rotated in a specified sense about a specified axis	wikipedia
+Displacement:	displacement	(chemistry) a reaction in which an elementary substance displaces and sets free a constituent element from a compound	displacement, displacement_reaction	wordnet
+Displacement:	displacement	the action of moving something from its place or position.	NA	owlbot
+Displacement:	displacement	Displacement is a replacement	NA	GenericsKB
+Length:	length	Length is a measure of distance. In the International System of Quantities, length is a quantity with dimension distance. In most systems of measurement a base unit for length is chosen, from which all other units are derived. In the International System of Units system the base unit for length is the metre. Length is commonly understood to mean the most extended dimension of a fixed object. However, this is not always the case and may depend on the position the object is in. Various terms for the length of a fixed object are used, and these include height, which is vertical length or vertical extent, and width , breadth or depth. Height is used when there is a base from which vertical measurements can be taken. Width or breadth usually refer to a shorter dimension when length is the longest one. Depth is used for the third dimension of a three dimensional object. Length is the measure of one spatial dimension, whereas area is a measure of two dimensions and volume is a measure of three dimensions .	measured dimension of an object in a physical space	wikipedia
+Length:	length	the linear extent in space from one end to the other; the longest dimension of something that is fixed in place	length	wordnet
+Length:	length	the measurement or extent of something from end to end; the greater of two or the greatest of three dimensions of an object.	NA	owlbot
+Length:	length	Length equals meters	NA	GenericsKB
+Beam:	beam	The Mill is a VFX and Creative Content studio headquartered in London, England, with three offices in the United States and one office in India	Post-production company	wikipedia
+Beam:	beam	(nautical) breadth amidships	beam	wordnet
+Beam:	beam	a long, sturdy piece of squared timber or metal used to support the roof or floor of a building.	NA	owlbot
+Beam:	beam	A beam is a structural member	NA	GenericsKB
+Draught:	draught	Air draft is the distance from the surface of the water to the highest point on a vessel	distance from water to the highest point on a vessel or lowest point on a bridge span, etc.	wikipedia
+Draught:	draught	the depth of a vessel's keel below the surface (especially when loaded)	draft, draught	wordnet
+Draught:	draught	the depth of water needed to float a ship.	NA	owlbot
+Draught:	draught	Draught is induced by engine exhaust steam	NA	GenericsKB
+Propulsion:	propulsion	Propulsion is the action or process of pushing or pulling to drive an object forward. The term is derived from two Latin words: pro , meaning before or forward ; and pellere , meaning to drive. A propulsion system consists of a source of mechanical power, and a propulsor . A technological system uses an engine or motor as the power source , and wheels and axles, propellers, or a propulsive nozzle to generate the force. Components such as clutches or gearboxes may be needed to connect the motor to axles, wheels, or propellers. Biological propulsion systems use an animal's muscles as the power source, and limbs such as wings, fins or legs as the propulsors. A technological/biological system may use human, or trained animal, muscular work to power a mechanical device.	means of creating force leading to movement	wikipedia
+Propulsion:	propulsion	a propelling force	propulsion	wordnet
+Propulsion:	propulsion	the action of driving or pushing forwards.	NA	owlbot
+Propulsion:	propulsion	Propulsion is acts	NA	GenericsKB
+Speed:	speed	In everyday use and in kinematics, the speed of an object is the magnitude of the change of its position; it is thus a scalar quantity. The average speed of an object in an interval of time is the distance travelled by the object divided by the duration of the interval; the instantaneous speed is the limit of the average speed as the duration of the time interval approaches zero. Speed has the dimensions of distance divided by time. The SI unit of speed is the metre per second, but the most common unit of speed in everyday usage is the kilometre per hour or, in the US and the UK, miles per hour. For air and marine travel the knot is commonly used. The fastest possible speed at which energy or information can travel, according to special relativity, is the speed of light in a vacuum c = 299792458 metres per second . Matter cannot quite reach the speed of light, as this would require an infinite amount of energy. In relativity physics, the concept of rapidity replaces the classical idea of speed.	magnitude of velocity of motion	wikipedia
+Speed:	speed	the ratio of the focal length to the diameter of a (camera) lens system	focal_ratio, f_number, stop_number, speed	wordnet
+Speed:	speed	the light-gathering power or f-number of a camera lens.	NA	owlbot
+Speed:	speed	Speed also translates into efficiency of operations	NA	GenericsKB
+Range:	range	All-electric range is the driving range of a vehicle using only power from its electric battery pack to traverse a given driving cycle	NA	wikipedia
+Range:	range	an area in which something acts or operates or has power or control:	scope, range, reach, orbit, compass, ambit	wordnet
+Range:	range	the distance within which a person can see or hear.	NA	owlbot
+Range:	range	Range is a function of the fuel, which is either pure hydrogen or methanol	NA	GenericsKB
+Complement:	complement	In computer programming, a bitwise operation operates on one or more bit patterns or binary numerals at the level of their individual bits	computer operation that operates on values at the level of their individual bits	wikipedia
+Complement:	complement	a complete number or quantity	complement	wordnet
+Complement:	complement	a number or quantity of something, especially that required to make a group complete.	NA	owlbot
+Complement:	complement	Complement consists of enzymes that kill cells when activated by antibody molecules	NA	GenericsKB
+Armament:	armament	A weapon , arm or armament is any implement or device that can be used with intent to inflict damage or harm. Weapons are used to increase the efficacy and efficiency of activities such as hunting, crime, law enforcement, self-defense, and warfare. In broader context, weapons may be construed to include anything used to gain a tactical, strategic, material or mental advantage over an adversary or enemy target. While ordinary objects – sticks, rocks, bottles, chairs, vehicles – can be used as weapons, many are expressly designed for the purpose; these range from simple implements such as clubs, axes and swords, to complicated modern firearms, tanks, intercontinental ballistic missiles, biological weapons, and cyberweapons. Something that has been re-purposed, converted, or enhanced to become a weapon of war is termed weaponized , such as a weaponized virus or weaponized laser.	instrument used to inflict damage or harm upon living beings, structures, or systems	wikipedia
+Armament:	armament	weaponry used by military or naval force	armament	wordnet
+Armament:	armament	military weapons and equipment.	NA	owlbot
+Armament:	armament	An armament is an arms	NA	GenericsKB
+Aircraft carried:	aircraft	An aircraft is a vehicle that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or by using the dynamic lift of an airfoil, or in a few cases the downward thrust from jet engines. Common examples of aircraft include airplanes, helicopters, airships , gliders, paramotors and hot air balloons. The human activity that surrounds aircraft is called aviation. The science of aviation, including designing and building aircraft, is called aeronautics. Crewed aircraft are flown by an onboard pilot, but unmanned aerial vehicles may be remotely controlled or self-controlled by onboard computers. Aircraft may be classified by different criteria, such as lift type, aircraft propulsion, usage and others.	machine that is able to fly by gaining support from the air other than the reactions of the air against the earth’s surface	wikipedia
+Aircraft carried:	carry	A carny is a carnival employee	NA	wikipedia
+Aircraft carried:	aircraft	a vehicle that can fly	aircraft	wordnet
+Aircraft carried:	carried	serve as a means for expressing something	carry, convey, express	wordnet
+Aircraft carried:	aircraft	Aircraft also generate more atmospheric pollution per person km than road vehicles	NA	GenericsKB
+Aircraft carried:	carry	Carry is a transfer	NA	GenericsKB
+Aviation facilities:	aviation	Aviation is the activities surrounding mechanical flight and the aircraft industry. Aircraft includes fixed-wing and rotary-wing types, morphable wings, wing-less lifting bodies, as well as lighter-than-air craft such as hot air balloons and airships. Aviation began in the 18th century with the development of the hot air balloon, an apparatus capable of atmospheric displacement through buoyancy. Some of the most significant advancements in aviation technology came with the controlled gliding flying of Otto Lilienthal in 1896; then a large step in significance came with the construction of the first powered airplane by the Wright brothers in the early 1900s. Since that time, aviation has been technologically revolutionized by the introduction of the jet which permitted a major form of transport throughout the world.	design, development, production, operation and use of aircraft	wikipedia
+Aviation facilities:	facility	 Faculty , the academic staff of a university 	Wikimedia disambiguation page	wikipedia
+Aviation facilities:	aviation	the aggregation of a country's military aircraft	aviation, air_power	wordnet
+Aviation facilities:	facilities	a service that an organization or a piece of equipment offers you	facility	wordnet
+Aviation facilities:	aviation	Aviation brings families together across continents and links customers to businesses across oceans	NA	GenericsKB
+Aviation facilities:	facility	Facilities are sites	NA	GenericsKB

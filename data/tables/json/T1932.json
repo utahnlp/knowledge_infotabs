@@ -1,0 +1,45 @@
+{
+    "title": ["Irish Republic"], 
+    "Status": [
+        "Revolutionary state"
+    ], 
+    "Capital": [
+        "Dublin"
+    ], 
+    "Common languages": [
+        "Irish", 
+        "English"
+    ], 
+    "Religion":[
+        "Christianity (Catholicism)",
+        "Christianity (Anglicanism)",
+        "Christianity (Presbyterianism)"
+    ],
+    "Government": [
+        "Republic"
+    ], 
+    "President of Dail Eireann (to August 1921) President of the Irish Republic (from August 1921)":[
+        "Cathal Brugha (21 Jan - 1 Apr 1919)",
+        "Eamon de Valera (Apr 1919 - Jan 1922)",
+        "Arthur Griffith (Jan- Aug 1922)",
+        "W.T. Cosgrave (Aug - Dec 1922)"
+    ], 
+    "Legislature": [
+        "Dail"
+    ], 
+    "Historical era": [
+        "Interwar period"
+    ], 
+    "Proclamation of the Irish Republic ": [
+        "24 April 1916"
+    ], 
+    "Independence declared ": [
+        "21 January 1919"
+    ], 
+    "Anglo-Irish Treaty adopted ": [
+        "7 January 1922"
+    ], 
+    "Irish Free State established ": [
+        "6 December 1922"
+    ]
+}

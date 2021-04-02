@@ -1,0 +1,39 @@
+{ 
+    "title": ["Inca Empire"], 
+    "Capital": [
+        "Cusco   (1438 - 1533)"
+    ], 
+    "Common languages": [
+        "Quechua (official)", 
+        "Aymara", 
+        "Puquina", 
+        "Jaqi family", 
+        "Muchik",
+        "scores of smaller languages."
+    ], 
+    "Government": [
+        "Divine, absolute monarchy"
+    ], 
+    "Sapa Inca":  [
+        "Pachacuti (1438 - 1471)", 
+        "Tupac Inca Yupanqui (1471 - 1493)",
+        "Huayna Capac (1493 - 1527)",
+        "Huascar (1527 - 1532)",
+        "Atahualpa (1532 - 1533)"
+    ],  
+    "Historical era": [
+        "Pre-Columbian era"
+    ], 
+    "Pachacuti created the Tawantinsuyu ": [
+        "1438"
+    ], 
+    "Civil war between Huascar and Atahualpa ": [
+        "1529 - 1532"
+    ], 
+    "Spanish conquest led by Francisco Pizarro ": [
+        "1533"
+    ], 
+    "End of the last Inca resistance ": [
+        "1572"
+    ]
+}

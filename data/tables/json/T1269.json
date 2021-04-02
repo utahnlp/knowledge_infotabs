@@ -1,0 +1,77 @@
+{
+  "title": [
+    "Kuznestov class"
+  ],
+  "Builders": [
+    "Chernomorskiy Shipyard 444Dalian Shipbuilding Industry"
+  ],
+  "Preceded by:": [
+    "Kiev  class"
+  ],
+  "Succeeded by:": [
+    "Ulyanovsk  class (cancelled)",
+    "Type 002 class (under construction)",
+    "Project 23000E (planned)"
+  ],
+  "Subclasses:": [
+    "Type 001"
+  ],
+  "Built:": [
+    "1 April 1982-present"
+  ],
+  "In commission:": [
+    "25 December 1990-present"
+  ],
+  "Completed:": [
+    "2"
+  ],
+  "Active:": [
+    "1 (+1 undergoing refit)"
+  ],
+  "Type:": [
+    "Aircraft cruiser/Aircraft carrier"
+  ],
+  "Displacement:": [
+    "43,000 tonnes (42,000 long tons; 47,000 short tons),  light",
+    "55,000 tonnes (54,000 long tons; 61,000 short tons),  standard",
+    "58,600 tonnes (57,700 long tons; 64,600 short tons),  max"
+  ],
+  "Length:": [
+    "305 m (1,001 ft)"
+  ],
+  "Beam:": [
+    "72 m (236 ft)"
+  ],
+  "Draught:": [
+    "11 m (36 ft)"
+  ],
+  "Propulsion:": [
+    "Steam turbines 80,000 shp (60,000 kW)",
+    "200,000 shp (150,000 kW)"
+  ],
+  "Speed:": [
+    "29 kn (54 km/h; 33 mph)"
+  ],
+  "Range:": [
+    "8,500 nmi (15,700 km; 9,800 mi) @ 18 kn (33 km/h; 21 mph) 3,800 nmi (7,000 km; 4,400 mi) @ 29 kn (54 km/h; 33 mph)"
+  ],
+  "Complement:": [
+    "1,500"
+  ],
+  "Armament:": [
+    "12 P-700 Granit (SS-N-19 Shipwreck) anti-ship missiles",
+    "192 3K95 Kinzhal (SA-N-9 Gauntlet) SAMs",
+    "8 Kashtan CIWS mounts",
+    "6 AK-630 AA guns",
+    "1 UDAV-1 ASW rocket launcher"
+  ],
+  "Aircraft carried:": [
+    "30-50",
+    "18-32 × fixed wing aircraft",
+    "18-24 × helicopters"
+  ],
+  "Aviation facilities:": [
+    "Angled arrested landing flight deck",
+    "Bow ski-jump"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+    "title": [
+        "Junyo"
+    ],
+    "Preceded by":[
+    	"Shokaku class"
+    ],
+    "Succeeded by":[
+    	"Taiho"
+    ],
+    "Built":[
+    	"1939-1942"
+    ],
+    "In commission":[
+    	"1942-1945"
+    ],
+    "Completed":[
+    	"2"
+    ],
+    "Lost":[
+    	"1"
+    ],
+    "Scrapped":[
+    	"1"
+    ],
+    "Type":[
+    	"Airfact carrier"
+    ],
+    "Displacement":[
+    	"24,150 metric tons (23,770 long tons) (standard)"
+    ],
+    "Length":[
+    	"219.32 m (719 ft 7 in) (o/a)"
+    ],
+    "Beam":[
+    	"26.7 m (87 ft 7 in)"
+    ],
+    "Draft":[
+    	"8.15 m (26 ft 9 in)"
+    ],
+    "Installed power":[
+    	"56,250 shp (41,950 kW) 6 Kampon water-tube boilers"
+    ],
+    "Propulsion":[
+    	"2 shafts",
+    	"2 geared steam turbine sets"
+    ],
+    "Speed":[
+    	"25.5 knots (47.2 km/h; 29.3 mph)"
+    ],
+    "Range":[
+    	"11,700 nmi (21,700 km; 13,500 mi) at 18 knots (33 km/h; 21 mph)"
+    ],
+    "Complement":[
+    	"1,187 - 1,224"
+    ],
+    "Sensors and processing systems":[
+    	"1 × Type 2, Mark 2, Model 1 air search radar"
+    ],
+    "Arnament":[
+    	"6 × twin 12.7 cm (5.0 in) Type 89 dual-purpose guns",
+		"8 × triple 25 mm (1.0 in) Type 96 AA guns"
+    ],
+    "Armor":[
+    	"Belt: 25-50 mm (0.98 - 1.97)"
+    ],
+    "Aircraft carried":[
+    	"54"
+    ]
+}

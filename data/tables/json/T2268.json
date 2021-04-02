@@ -1,0 +1,45 @@
+{
+    "title": [
+        "Union Turnpike Manhattan-Queens Express"
+    ],
+    "System": [
+        "MTA Regional Bus Operations"
+    ],
+    "Operator": [
+        "MTA Bus Company"
+    ],
+    "Garage": [
+        "College Point Depot"
+    ],
+    "Vehicle": [
+        "Motor Coach Industries D4500",
+        "Motor Coach Industries D4500CL"
+    ],
+    "Began service": [
+        "February 26, 1968 (QM1)"
+    ],
+    "Locale": [
+        "Queens, Manhattan"
+    ],
+    "Communities served": [
+        "Queens:  Kew Gardens Hills, Hillcrest, Fresh Meadows, Oakland Gardens, Bellaire, Little Neck, Glen Oaks, Floral Park"
+    ],
+    "Start": [
+        "Fresh Meadows, Queens - 188th Street & Horace Harding Expressway (QM1, QM7, QM31) , Glen Oaks, Queens - 260th Street & Union Turnpike (QM5, QM8, QM35) , Glen Oaks, Queens / Lake Success, Nassau County - North Shore Towers (QM6, QM36)"
+    ],
+    "Via": [
+        "Union Turnpike, Queens Boulevard, Long Island Expressway & Midtown Tunnel (westbound) / Queensboro Bridge (eastbound)"
+    ],
+    "End": [
+        "Midtown Manhattan - Sixth Avenue (QM1, QM5, QM6) , Midtown Manhattan - Third Avenue (QM31, QM35, QM36) , Downtown Manhattan - Downtown Loop (QM7, QM8)"
+    ],
+    "Annual patronage": [
+        "QM1/QM31:  115,135 (2016) ,   QM5/QM35:  502,997 (2016) ,   QM6/QM36:  270,411 (2016) ,   QM7:   167,127 (2016) ,   QM8:   148,744 (2016)"
+    ],
+    "Transfers": [
+        "Yes"
+    ],
+    "Timetable": [
+        "QM1/QM5/QM6/QM31/QM35/QM36 , QM7/QM8"
+    ]
+}

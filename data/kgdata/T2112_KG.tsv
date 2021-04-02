@@ -1,0 +1,17 @@
+key	keyword	definition	description	source
+Subset of	subset	In mathematics, a set A is a subset of a set B , or equivalently B is a superset of A , if A is contained in B. That is, all elements of A are also elements of B. A and B may be equal; if they are unequal, then A is a proper subset of B. The relationship of one set being a subset of another is called inclusion or sometimes containment. A is a subset of B may also be expressed as B includes A , or A is included in B. The subset relation defines a partial order on sets. In fact, the subsets of a given set form a Boolean algebra under the subset relation, in which the join and meet are given by intersection and union, and the subset relation itself is the Boolean inclusion relation.	"set A is a subset of a set B, or equivalently B is a superset of A, if A is ""contained"" inside B, that is, all elements of A are also elements of B. A and B may coincide"	wikipedia
+Subset of	subset	a set whose members are members of another set; a set contained within another set	subset	wordnet
+Subset of	subset	a part of a larger group of related things.	NA	owlbot
+Subset of	subset	A subset is a set	NA	GenericsKB
+Superset of	superset	In mathematics, a set A is a subset of a set B , or equivalently B is a superset of A , if A is contained in B. That is, all elements of A are also elements of B. A and B may be equal; if they are unequal, then A is a proper subset of B. The relationship of one set being a subset of another is called inclusion or sometimes containment. A is a subset of B may also be expressed as B includes A , or A is included in B. The subset relation defines a partial order on sets. In fact, the subsets of a given set form a Boolean algebra under the subset relation, in which the join and meet are given by intersection and union, and the subset relation itself is the Boolean inclusion relation.	"set A is a subset of a set B, or equivalently B is a superset of A, if A is ""contained"" inside B, that is, all elements of A are also elements of B. A and B may coincide"	wikipedia
+Superset of	superset			wordnet
+Intersects with	intersects	meet at a point	intersect, cross	wordnet
+Intersects with	intersects	divide (something) by passing or lying across it.	NA	owlbot
+Proposed by	propose	A term of business proposal is a written offer from a seller to a prospective sponsor	written offer from a seller to a prospective buyer	wikipedia
+Proposed by	proposed	put forward; nominate for appointment to an office or for an honor or position	nominate, propose	wordnet
+Proposed by	proposed	make an offer of marriage to someone.	NA	owlbot
+Used for		Jesús Alejandro Cruz Gutiérrez is a Mexican politician from the Institutional Revolutionary Party. From 2000 to 2003 he served as Deputy of the LVIII Legislature of the Mexican Congress representing Chiapas.	Mexican politician	wikipedia
+Example	example	 Exemplar, a well-known science problem and its solution, from Thomas Kuhn's The Structure of Scientific Revolutions 	Wikimedia disambiguation page	wikipedia
+Example	example	an item of information that is typical of a class or group	example, illustration, instance, representative	wordnet
+Example	example	a thing characteristic of its kind or illustrating a general rule.	NA	owlbot
+Example	example	An example is information	NA	GenericsKB

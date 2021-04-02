@@ -1,0 +1,44 @@
+{
+  "title": [
+    "Aerotrain"
+  ],
+  "Type": [
+    "People mover"
+  ],
+  "Status": [
+    "Operational"
+  ],
+  "Locale": [
+    "Kuala Lumpur International Airport, Malaysia"
+  ],
+  "Stations": [
+    "2"
+  ],
+  "Services": [
+    "1"
+  ],
+  "Opened": [
+    "1998"
+  ],
+  "Owner": [
+    "Malaysia Airports Holdings Berhad"
+  ],
+  "Operator(s)": [
+    "Engineering Transportation, Malaysia Airport (Sepang) Sdn. Bhd."
+  ],
+  "Character": [
+    "Serves sterile parts of the airport"
+  ],
+  "Rolling stock": [
+    "3-car 2 trainsets of Bombardier Innovia APM 100"
+  ],
+  "Track length": [
+    "1.2 km (0.75 mi)"
+  ],
+  "Operating speed": [
+    "Maximum speed 56.3 km/h (35 mph), Minimum speed 46.7 km/h (29 mph)"
+  ],
+  "Highest elevation": [
+    "Partially underground"
+  ]
+}

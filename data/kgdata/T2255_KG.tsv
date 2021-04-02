@@ -1,0 +1,46 @@
+key	keyword	definition	description	source
+Date	date	the specified day of the month	date, day_of_the_month	wordnet
+Date	date	establish or ascertain the date of (an object or event).	NA	owlbot
+Date	date	Date is a day	NA	GenericsKB
+Summary	summary	a brief statement that presents the main points in a concise form	summary, sum-up	wordnet
+Summary	summary	a brief statement or account of the main points of something.	NA	owlbot
+Summary	summary	A summary is a statement	NA	GenericsKB
+Site	site	assign a location to	locate, place, site	wordnet
+Site	site	an area of ground on which a town, building, or monument is constructed.	NA	owlbot
+Site	site	A site is a tract	NA	GenericsKB
+Aircraft type	aircraft	An aircraft is a vehicle that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or by using the dynamic lift of an airfoil, or in a few cases the downward thrust from jet engines. Common examples of aircraft include airplanes, helicopters, airships , gliders, paramotors and hot air balloons. The human activity that surrounds aircraft is called aviation. The science of aviation, including designing and building aircraft, is called aeronautics. Crewed aircraft are flown by an onboard pilot, but unmanned aerial vehicles may be remotely controlled or self-controlled by onboard computers. Aircraft may be classified by different criteria, such as lift type, aircraft propulsion, usage and others.	machine that is able to fly by gaining support from the air other than the reactions of the air against the earth’s surface	wikipedia
+Aircraft type	aircraft	a vehicle that can fly	aircraft	wordnet
+Aircraft type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Aircraft type	aircraft	Aircraft avoid flying at the altitude at which lenticulus clouds form	NA	GenericsKB
+Aircraft type	type	TYPE displays the value of a variable or any arithmetic expression	NA	GenericsKB
+Operator	operator	someone who owns or operates a business	operator	wordnet
+Operator	operator	a person or company that runs a business.	NA	owlbot
+Operator	operator	Operators are businessmans	NA	GenericsKB
+Registration	registration	(music) the sound property resulting from a combination of organ stops used to perform a particular piece of music; the technique of selecting and adjusting organ stops	registration	wordnet
+Registration	registration	A registration is an entrance	NA	GenericsKB
+Flight origin	flight	Flight is the process by which an object moves through an atmosphere without contact with the surface. This can be achieved by generating aerodynamic lift associated with propulsive thrust, aerostatically using buoyancy, or by ballistic movement. Many things can fly, from natural aviators such as birds, bats, and insects, to human inventions like aircraft, including airplanes, helicopters, balloons, and rockets which may carry spacecraft. The engineering aspects of flight are the purview of aerospace engineering which is subdivided into aeronautics, the study of vehicles that travel through the air, and astronautics, the study of vehicles that travel through space, and ballistics, the study of the flight of projectiles.	process by which an object moves, through an atmosphere or beyond it	wikipedia
+Flight origin	flight	passing above and beyond ordinary bounds	flight	wordnet
+Flight origin	origin	the point of intersection of coordinate axes; where the values of the coordinates are all zero	origin	wordnet
+Flight origin	flight	Flight also allows birds to nest in sites that are inaccessible to cer- tain predators	NA	GenericsKB
+Flight origin	origin	Origin is a location	NA	GenericsKB
+Destination	destination	written directions for finding some location; written on letters or packages that are to be delivered to that location	address, destination, name_and_address	wordnet
+Destination	destination	the place to which someone or something is going or being sent.	NA	owlbot
+Destination	destination	Destinations have adults	NA	GenericsKB
+Passengers	passengers	A passenger is a person who travels in a vehicle but bears little or no responsibility for the tasks required for that vehicle to arrive at its destination or otherwise operate the vehicle. The vehicles may be bicycles, buses, passenger trains, airliners, ships, ferryboats, and other methods of transportation. Crew members , as well as the driver or pilot of the vehicle, are usually not considered to be passengers. For example, a flight attendant on an airline would not be considered a passenger while on duty and the same with those working in the kitchen or restaurant on board a ship as well as cleaning staff, but an employee riding in a company car being driven by another person would be considered a passenger, even if the car was being driven on company business.	person who travels in a vehicle without operating it	wikipedia
+Passengers	passengers	a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it	passenger, rider	wordnet
+Passengers	passengers	a traveller on a public or private conveyance other than the driver, pilot, or crew.	NA	owlbot
+Passengers	passenger	A passenger is a traveler	NA	GenericsKB
+Crew	crew	A crew is a body or a class of people who work at a common activity, generally in a structured or hierarchical organization. A location in which a crew works is called a crewyard or a workyard. The word has nautical resonances: the tasks involved in operating a ship, particularly a sailing ship, providing numerous specialities within a ship's crew, often organised with a chain of command. Traditional nautical usage strongly distinguishes officers from crew, though the two groups combined form the ship's company. Members of a crew are often referred to by the title Crewman. Crew also refers to the sport of rowing, where teams row competitively in racing shells.	body or a class of people who work at a common activity, generally in a structured or hierarchical organization	wikipedia
+Crew	crew	the men and women who man a vehicle (ship, aircraft, etc.)	crew	wordnet
+Crew	crew	a group of people who work on and operate a ship, aircraft, etc.	NA	owlbot
+Crew	crew	A crew is an unit	NA	GenericsKB
+Fatalities	fatalities	a death resulting from an accident or a disaster	fatality, human_death	wordnet
+Fatalities	fatalities	an occurrence of death by accident, in war, or from disease.	NA	owlbot
+Fatalities	fatality	Most fatalities caused by floods occur at night or when people become trapped in automobiles	NA	GenericsKB
+Injuries	injuries	Injury , also known as physical trauma , is damage to the body caused by external force. This may be caused by accidents, falls, hits, weapons, and other causes. Major trauma is injury that has the potential to cause prolonged disability or death. In 2013, 4.8 million people world-wide died from injuries, up from 4.3 million in 1990. More than 30% of these deaths were transport-related injuries. In 2013, 367,000 children under the age of five died from injuries, down from 766,000 in 1990. Injuries are the cause of 9% of all deaths, and are the sixth-leading cause of death in the world.	physiological wound caused by an external source	wikipedia
+Injuries	injuries	a casualty to military personnel resulting from combat	wound, injury, combat_injury	wordnet
+Injuries	injuries	an instance of being injured.	NA	owlbot
+Injuries	injury	Injuries also occur when birds are hit by cars or when chicks fall from nests	NA	GenericsKB
+Survivors	survivors	one who lives through affliction	survivor, subsister	wordnet
+Survivors	survivors	a person who survives, especially a person remaining alive after an event in which others have died.	NA	owlbot
+Survivors	survivor	Survivor is a individual	NA	GenericsKB

@@ -1,0 +1,42 @@
+{
+    "title": [
+        "World War I"
+    ],
+    "Date":[
+    	"28 July 1914 – 11 November 1918 (4 years, 3 months and 2 weeks)"
+    ],
+    "Peace treaties":[
+    	"Treaty of Versailles Signed 28 June 1919 (4 years and 11 months)",
+    	"Treaty of Saint-Germain-en-Laye Signed 10 September 1919 (5 years, 1 month, 1 week and 6 days)",
+		"Treaty of Neuilly-sur-Seine Signed 27 November 1919 (4 years, 1 month, 1 week and 6 days)",
+    	"Treaty of Trianon Signed 4 June 1920 (5 years, 10 months and 1 week)",
+    	"Treaty of Sèvres Signed 10 August 1920 (6 years, 1 week and 6 days)",
+    	"United States–Austria Peace Treaty Signed 24 August 1921 (3 years, 8 months, 2 weeks and 3 days)",
+    	"United States–Germany Peace Treaty Signed 25 August 1921 (4 years, 4 months, 2 weeks and 5 days)",
+    	"United States–Hungary Peace Treaty Signed 29 August 1921 (3 years, 8 months, 3 weeks and 1 day)",
+    	"Treaty of Lausanne Signed 24 July 1923 (8 years, 8 months, 3 weeks and 4 days)"
+    ],
+    "Location":[
+    	"Europe", 
+    	"Africa", 
+    	"the Middle East", 
+    	"the Pacific Islands", 
+    	"China", 
+    	"Indian Ocean", 
+    	"North and South Atlantic Ocean"
+    ],
+    "Result":[
+    	"Allied victory",
+		"Central Powers victory on the Eastern Front nullified by defeat on the Western Front",
+		"Fall of all continental empires in Europe (including Germany, Russia, Turkey and Austria-Hungary)",
+		"Russian Revolution and Russian Civil War – the collapse of the Russian Empire and the subsequent formation of the Soviet Union",
+		"Beginning of Turkish War of Independence",
+		"Widespread unrest and revolutions throughout Europe and Asia",
+		"Rise of Fascism in Europe",
+		"Creation of the League of Nations "
+    ],
+    "Territorial changes":[
+    	"Formation of new countries in Europe and the Middle East",
+    	"ransfer of German colonies and territories, regions of the former Ottoman Empire, regions of the former Austro-Hungarian Empire and Soviet Union territories to other countries"
+    ]
+}

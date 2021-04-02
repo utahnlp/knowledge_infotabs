@@ -1,0 +1,32 @@
+{
+  "title": [
+    "Tangerine_Microtan_65"
+  ],
+  "Manufacturer": [
+    "Tangerine Computer Systems"
+  ],
+  "Type": [
+    "Personal Computer"
+  ],
+  "Release date": [
+    "1979; 40 years ago (1979)"
+  ],
+  "Introductory price": [
+    "£90.85 , £79.35 (in kit form)"
+  ],
+  "CPU": [
+    "6502 clocked at 0.75MHz"
+  ],
+  "Memory": [
+    "1KB-48KB RAM, 1KB-14KB ROM"
+  ],
+  "Display": [
+    "32 x 16 monochrome text, 64 x 64 with graphic characters"
+  ],
+  "Input": [
+    "Keyboard"
+  ],
+  "Successor": [
+    "Oric-1"
+  ]
+}

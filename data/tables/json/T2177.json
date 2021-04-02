@@ -1,0 +1,41 @@
+{
+  "title": [
+    "NWFB Route 8"
+  ],
+  "Operator": [
+    "New World First Bus"
+  ],
+  "Vehicle": [
+    "Alexander Dennis Enviro500 MMC"
+  ],
+  "Start": [
+    "Heng Fa Chuen"
+  ],
+  "Via": [
+    "Island Eastern Corridor"
+  ],
+  "End": [
+    "Wan Chai North"
+  ],
+  "Length": [
+    "14 km"
+  ],
+  "Other routes": [
+    "NWFB Route N8"
+  ],
+  "Competition": [
+    "MTR Island line"
+  ],
+  "Level": [
+    "05:30-00:00"
+  ],
+  "Alt. level": [
+    "06:15-00:45"
+  ],
+  "Frequency": [
+    "11 - 20 mins."
+  ],
+  "Journey time": [
+    "48 mins."
+  ]
+}

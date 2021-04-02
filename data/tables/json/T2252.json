@@ -1,0 +1,47 @@
+{
+    "title": [
+        "Bittern Line"
+    ],
+    "Type": [
+        "Heavy rail"
+    ],
+    "System": [
+        "National Rail"
+    ],
+    "Status": [
+        "Operational"
+    ],
+    "Locale": [
+        "Norfolk, England"
+    ],
+    "Termini": [
+        "Norwich , Sheringham"
+    ],
+    "Stations": [
+        "10"
+    ],
+    "Opened": [
+        "1874-77"
+    ],
+    "Owner": [
+        "Network Rail"
+    ],
+    "Operator(s)": [
+        "Greater Anglia"
+    ],
+    "Character": [
+        "Rural line"
+    ],
+    "Rolling stock": [
+        "Class 153 \"Sprinter\" , Class 156 \"Sprinter\" ,  Class 170 \"Turbostar\""
+    ],
+    "Line length": [
+        "30 miles 22 chains (48.7 km)"
+    ],
+    "Number of tracks": [
+        "1-2"
+    ],
+    "Track gauge": [
+        "4 ft 8  1 \u2044 2  in (1,435 mm) standard gauge"
+    ]
+}

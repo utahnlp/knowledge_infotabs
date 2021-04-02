@@ -1,0 +1,45 @@
+key	keyword	definition	description	source
+Type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Type	type	a design on either side of a medal or coin.	NA	owlbot
+Type	type	A type is a kind	NA	GenericsKB
+System	system	A system is a group of interacting or interrelated entities that form a unified whole. A system is described by its spatial and temporal boundaries, surrounded and influenced by its environment, described by its structure and purpose and expressed in its functioning. Systems are the subjects of study of systems theory.	set of interacting or interdependent components	wikipedia
+System	system	an organized structure for arranging or classifying	arrangement, organization, organisation, system	wordnet
+System	system	a set of things working together as parts of a mechanism or an interconnecting network; a complex whole.	NA	owlbot
+System	system	A system is instrumentation	NA	GenericsKB
+Status	status	A city is a large human settlement	large permanent human settlement	wikipedia
+Status	status	a state at a particular time	condition, status	wordnet
+Status	status	the situation at a particular time during a process.	NA	owlbot
+Status	status	Status affects values	NA	GenericsKB
+Locale	locale	A locale , is the main local organizational unit of the 'Ndrangheta with jurisdiction over criminal activities in an entire town or an area in a large urban center	Wikimedia list article	wikipedia
+Locale	locale	the scene of any event or action (especially the place of a meeting)	venue, locale, locus	wordnet
+Locale	locale	a place where something happens or is set, or that has particular events associated with it.	NA	owlbot
+Locale	locale	Locale is the locale in which custom is running	NA	GenericsKB
+Termini	termini	Roma Termini is the main railway station of Rome, Italy	Italian railway station	wikipedia
+Termini	termini	either end of a railroad or bus route	terminus	wordnet
+Stations	stations	A bus station is a structure where city or intercity buses stop to pick up and drop off passengers	structure, larger than a bus stop, where city or intercity buses stop to pick up and drop off passengers	wikipedia
+Stations	stations	a facility equipped with special equipment and personnel for a particular purpose	station	wordnet
+Stations	stations	a place where passenger trains stop on a railway line, typically with platforms and buildings.	NA	owlbot
+Stations	station	A station is a facility	NA	GenericsKB
+Opened	opened	"OpenEd is an online catalog of educational assessments, homework assignments, videos, games and lesson plans aligned to every Common Core standard and several other standards, and includes the only open source formative item bank. The site offers the ability for teachers to assign resources to their students online, letting students take assessments, do homework etc on their own computers or tablets. Assignments done online are graded automatically and presented to the teacher in a mastery chart. OpenEd's slogan mentions ""assessment to instruction"" meaning, formative assessments given on OpenEd can access OpenEd's large catalog on a per student basis to recommend the right resource to each student individually. The company has stated that functionality of searching the site and most of its resources are free and will continue to be free going forward. However, the company is also distributing premium content from publishers such as Pearson and Houghton Mifflin Harcourt to teachers for $9.95 per month. Currently 450,000 teachers or about 15% of all USA teachers are registered users. Recently, the company has been providing its resources with alignments to other tech companies. The API for finding standard and skill-aligned resources is used by ed tech leaders such as ACT , Pearson PLC, Pacific Metrics and many more."		wikipedia
+Opened	opened	make available	open, open_up	wordnet
+Opened	opened	make or become formally ready for customers, visitors, or business.	NA	owlbot
+Opened	open	Opens are areas	NA	GenericsKB
+Closed	closed	In the game of poker, a betting round is said to be closed if no player will have the right to raise in the round	poker	wikipedia
+Closed	closed	cease to operate or cause to cease operating	close_up, close, fold, shut_down, close_down	wordnet
+Closed	closed	not open.	NA	owlbot
+Closed	close	Closes cause closes	NA	GenericsKB
+Operator(s)	operator	 cooperators of Opus Dei 	Wikimedia disambiguation page	wikipedia
+Operator(s)	operator	someone who owns or operates a business	operator	wordnet
+Operator(s)	operator	a person who operates equipment or a machine.	NA	owlbot
+Operator(s)	operator	Operators are located in subways	NA	GenericsKB
+Track length	track	An audio signal is a representation of sound, typically using either a level of electrical voltage for analog signals, or a series of binary numbers for digital signals	representation of sound, typically as an electrical voltage; can be created synthetically through the generation of electric signals from electronic devices	wikipedia
+Track length	length	Length is a measure of distance. In the International System of Quantities, length is a quantity with dimension distance. In most systems of measurement a base unit for length is chosen, from which all other units are derived. In the International System of Units system the base unit for length is the metre. Length is commonly understood to mean the most extended dimension of a fixed object. However, this is not always the case and may depend on the position the object is in. Various terms for the length of a fixed object are used, and these include height, which is vertical length or vertical extent, and width , breadth or depth. Height is used when there is a base from which vertical measurements can be taken. Width or breadth usually refer to a shorter dimension when length is the longest one. Depth is used for the third dimension of a three dimensional object. Length is the measure of one spatial dimension, whereas area is a measure of two dimensions and volume is a measure of three dimensions .	measured dimension of an object in a physical space	wikipedia
+Track length	track	a pair of parallel rails providing a runway for wheels	track	wordnet
+Track length	length	the linear extent in space from one end to the other; the longest dimension of something that is fixed in place	length	wordnet
+Track length	track	Tracks are a record of who has passed through an area - coyote or rabbit, mouse or wolf	NA	GenericsKB
+Track length	length	Length comes into the body giving muscles space to work and joints freedom to function properly	NA	GenericsKB
+Electrification	electrification	"Electrification is the process of powering by electricity and, in many contexts, the introduction of such power by changing over from an earlier power source. The broad meaning of the term, such as in the history of technology, economic history, and economic development, usually applies to a region or national economy. Broadly speaking, electrification was the build- out of the electricity generation and electric power distribution systems that occurred in Britain, the United States, and other now-developed countries from the mid-1880s until around 1950 and is still in progress in rural areas in some developing countries. This included the transition in manufacturing from line shaft and belt drive using steam engines and water power to electric motors. The electrification of particular sectors of the economy is called by terms such as factory electrification , household electrification , rural electrification or railway electrification. It may also apply to changing industrial processes such as smelting, melting, separating or refining from coal or coke heating, or chemical processes to some type of electric process such as electric arc furnace, electric induction or resistance heating, or electrolysis or electrolytic separating. Electrification was called ""the greatest engineering achievement of the 20th Century"" by the National Academy of Engineering."	process of changing something to use electricity power	wikipedia
+Electrification	electrification	the act of providing electricity	electrification	wordnet
+Electrification	electrification	Electrification is the process of powering by electricity and is usually associated with changing over from another power source. The broad meaning of the term, such as in the history of technology and economic history, usually applies to a region or national economy.	NA	owlbot
+Electrification	electrification	Electrification is development	NA	GenericsKB

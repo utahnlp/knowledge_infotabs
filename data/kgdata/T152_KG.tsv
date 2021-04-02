@@ -1,0 +1,27 @@
+key	keyword	definition	description	source
+Born	born	""" Born "" is a song written and performed by Barry Gibb that was included as the first track on his debut album The Kid's No Good in 1970"	song written and performed by Barry Gibb	wikipedia
+Born	born	bring forth,	bear, turn_out	wordnet
+Born	born	existing as a result of birth.	NA	owlbot
+Born	born	Borns start with cries	NA	GenericsKB
+Died	died	Death is the permanent cessation of all biological functions that sustain a living organism. Phenomena which commonly bring about death include aging, physiological or organ failure, predation, poisoning, malnutrition, disease, suicide, homicide, asphyxia, drowning, severe burns, drug intoxication, starvation, dehydration, electrocution, intense heat or cold, radiation toxicity, warfare attacks such as bombings, as well as explosions and accidents or major trauma resulting in fatal injury. The remains of a living organism begin to decompose shortly after death. It is an inevitable process eventually occurring in all living organisms. As of the early 21st century, over 150,000 humans die each day. Death, particularly of humans, has commonly been considered a sad or unpleasant occasion, due to the affection for the deceased and the termination of social and familial bonds. Other concerns include fear of death, necrophobia, anxiety, sorrow, grief, emotional pain, depression, sympathy, compassion, solitude, or saudade. Many cultures and religions have the idea of an afterlife, and also hold the idea of judgement and reward for good deeds or punishment for sin.	permanent cessation of vital functions	wikipedia
+Died	died	pass from physical life and lose all bodily attributes and functions necessary to sustain life	die, decease, perish, go, exit, pass_away, expire, pass, kick_the_bucket, cash_in_one's_chips, buy_the_farm, conk, give-up_the_ghost, drop_dead, pop_off, choke, croak, snuff_it	wordnet
+Died	died	(of a person, animal, or plant) stop living.	NA	owlbot
+Died	die	Dies  dreams	NA	GenericsKB
+Resting place	resting place	"A cemetery or graveyard is a place where the remains of dead people are buried or otherwise interred. The word cemetery implies that the land is specifically designated as a burial ground and originally applied to the Roman catacombs. The term graveyard is often used interchangeably with cemetery, but a graveyard primarily refers to a burial ground within a churchyard. The intact or cremated remains of people may be interred in a grave, commonly referred to as burial, or in a tomb, an ""above-ground grave"" , a mausoleum, columbarium, niche, or other edifice. In Western cultures, funeral ceremonies are often observed in cemeteries. These ceremonies or rites of passage differ according to cultural practices and religious beliefs. Modern cemeteries often include crematoria, and some grounds previously used for both, continue as crematoria as a principal use long after the interment areas have been filled."	place of burial	wikipedia
+Resting place	resting	stay the same; remain in a certain state	stay, remain, rest	wordnet
+Resting place	place	a general vicinity	place	wordnet
+Resting place	resting place	used in reference to the grave or death.	NA	owlbot
+Resting place	rest	A rest is a part	NA	GenericsKB
+Resting place	place	A place is a point	NA	GenericsKB
+Education	education	Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits. Educational methods include teaching, training, storytelling, discussion and directed research. Education frequently takes place under the guidance of educators, however learners can also educate themselves. Education can take place in formal or informal settings and any experience that has a formative effect on the way one thinks, feels, or acts may be considered educational. The methodology of teaching is called pedagogy. Formal education is commonly divided formally into such stages as preschool or kindergarten, primary school, secondary school and then college, university, or apprenticeship. A right to education has been recognized by some governments and the United Nations. In most regions, education is compulsory up to a certain age. There is a movement for education reform, and in particular for evidence-based education.	learning in which knowledge and skills are transferred through teaching	wikipedia
+Education	education	the gradual process of acquiring knowledge	education	wordnet
+Education	education	an enlightening experience.	NA	owlbot
+Education	education	Education aims at the person who makes the value of the individual important	NA	GenericsKB
+Period	period	An era is a span of time defined for the purposes of chronology or historiography, as in the regnal eras in the history of a given monarchy, a calendar era used for a given calendar, or the geological eras defined for the history of Earth	an approximation of spatio-temporal bounds marked by cultural or natural phenomena	wikipedia
+Period	period	the interval taken to complete one cycle of a regularly repeating phenomenon	period	wordnet
+Period	period	Rhetoric	NA	owlbot
+Period	period	Period is characterized by the rise of state societies, cities, and a great deal of warfare	NA	GenericsKB
+Relatives	relatives	Relatives is a 1985 Australian film about a family reunion	1985 Australian film	wikipedia
+Relatives	relatives	a person related by blood or marriage	relative, relation	wordnet
+Relatives	relatives	a person connected by blood or marriage.	NA	owlbot
+Relatives	relative	A relative is a person	NA	GenericsKB

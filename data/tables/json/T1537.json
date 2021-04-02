@@ -1,0 +1,25 @@
+{
+    "title": [
+        "Surface temp."
+    ],
+    "Surface pressure": [
+        "20-200 kPa; 70 kPa"
+    ],
+    "Scale height": [
+        "27 km (17 mi)"
+    ],
+    "Composition by volume": [
+        "89% +- 2.0%    hydrogen (H  2 )",
+        "10% +- 2.0%    helium (He)",
+        "0.3% +- 0.1%    methane (CH  4 )",
+        "0.026% +- 0.004%    ammonia (NH  3 )",
+        "0.0028% +- 0.001%    hydrogen deuteride (HD)",
+        "0.0006% +- 0.0002%    ethane (C  2 H  6 )",
+        "0.0004% +- 0.0004%    water (H  2 O)"
+    ],
+    "Ices":[
+        "ammonia (NH  3 )",
+        "water (H  2 O)",
+        "ammonium hydrosulfide (NH  4 SH)"
+    ]
+}

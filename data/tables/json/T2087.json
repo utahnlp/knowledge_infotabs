@@ -1,0 +1,44 @@
+{
+  "title": [
+    "Cincinnati Bell Connector"
+  ],
+  "Other name(s)": [
+    "Cincinnati Streetcar"
+  ],
+  "Type": [
+    "Streetcar"
+  ],
+  "Locale": [
+    "Cincinnati, Ohio, U.S."
+  ],
+  "Stations": [
+    "18"
+  ],
+  "Services": [
+    "1"
+  ],
+  "Line number": [
+    "100"
+  ],
+  "Opened": [
+    "September 9, 2016 (2016-09-09)"
+  ],
+  "Owner": [
+    "City of Cincinnati"
+  ],
+  "Operator(s)": [
+    "Transdev"
+  ],
+  "Character": [
+    "Street running"
+  ],
+  "Rolling stock": [
+    "Five CAF Urbos 3"
+  ],
+  "Line length": [
+    "5.8 km (3.6 mi)"
+  ],
+  "Electrification": [
+    "750 V DC, overhead wires"
+  ]
+}

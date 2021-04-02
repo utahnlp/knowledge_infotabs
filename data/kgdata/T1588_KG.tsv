@@ -1,0 +1,18 @@
+key	keyword	definition	description	source
+Born	born	""" Born "" is a song written and performed by Barry Gibb that was included as the first track on his debut album The Kid's No Good in 1970"	song written and performed by Barry Gibb	wikipedia
+Born	born	British nuclear physicist (born in Germany) honored for his contributions to quantum mechanics (1882-1970)	Born, Max_Born	wordnet
+Born	born	existing as a result of birth.	NA	owlbot
+Born	born	Borns start with cries	NA	GenericsKB
+Occupation(s)	occupation	A job , employment , work or occupation , is a person's role in society	activity done by a person to earn money	wikipedia
+Occupation(s)	occupation	any activity that occupies a person's attention	occupation	wordnet
+Occupation(s)	occupation	a job or profession.	NA	owlbot
+Occupation(s)	occupation	An occupation is an activity	NA	GenericsKB
+Instruments	instruments	An experimental musical instrument is a musical instrument that modifies or extends an existing instrument or class of instruments, or defines or creates a new class of instrument	NA	wikipedia
+Instruments	instruments	a person used by another to gain an end	instrument, pawn, cat's-paw	wordnet
+Instruments	instruments	an object or device for producing musical sounds.	NA	owlbot
+Instruments	instrument	Instruments are assistants	NA	GenericsKB
+Years active	year	A year is the orbital period of a planetary body, for example, the Earth, moving in its orbit around the Sun. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by change in weather, the hours of daylight, and, consequently, vegetation and soil fertility. In temperate and subpolar regions around the planet, four seasons are generally recognized: spring, summer, autumn and winter. In tropical and subtropical regions, several geographical sectors do not present defined seasons; but in the seasonal tropics, the annual wet and dry seasons are recognized and tracked. A calendar year is an approximation of the number of days of the Earth's orbital period, as counted in a given calendar. The Gregorian calendar, or modern calendar, presents its calendar year to be either a common year of 365 days or a leap year of 366 days, as do the Julian calendars; see below. For the Gregorian calendar, the average length of the calendar year across the complete leap cycle of 400 years is 365.2425 days. The ISO standard ISO 80000-3, Annex C, supports the symbol a to represent a year of either 365 or 366 days. In English, the abbreviations y and yr are commonly used. In astronomy, the Julian year is a unit of time; it is defined as 365.25 days of exactly 86,400 seconds , totalling exactly 31,557,600 seconds in the Julian astronomical year. The word year is also used for periods loosely associated with, but not identical to, the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Similarly, year can mean the orbital period of any planet; for example, a Martian year and a Venusian year are examples of the time a planet takes to transit one complete orbit. The term can also be used in reference to any long period or cycle, such as the Great Year.	estimated period of time for the Earth's orbit around the Sun and observed at a fixed geographic point, lasting about 365.25 days on average to the nearest half day; base later modified to define or adjust various calendars	wikipedia
+Years active	years	a late time of life	old_age, years, age, eld, geezerhood	wordnet
+Years active	active	tending to become more severe or wider in scope	active	wordnet
+Years active	year	Year is the year	NA	GenericsKB
+Years active	active	Actives are people	NA	GenericsKB

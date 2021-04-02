@@ -1,0 +1,53 @@
+{
+  "title": [
+    "J4 College Park-Bethesda Metro Extra line"
+  ],
+  "System": [
+    "Metrobus"
+  ],
+  "Operator": [
+    "Washington Metropolitan Area Transit Authority"
+  ],
+  "Garage": [
+    "Montgomery"
+  ],
+  "Livery": [
+    "MetroExtra"
+  ],
+  "Status": [
+    "In Service"
+  ],
+  "Began service": [
+    "April 15, 2002"
+  ],
+  "Locale": [
+    "Prince George's County, Montgomery County"
+  ],
+  "Communities served": [
+    "College Park, Maryland, University Of Maryland, Langley Park, Maryland, Takoma Park, Maryland, Silver Spring, Maryland, Rock Creek Forest, Chevy Chase, Maryland, Bethesda, Maryland"
+  ],
+  "Landmarks served": [
+    "College Park-University of Maryland station, University Of Maryland, Langley Park, Maryland, Takoma Park, Maryland, Takoma Langley Crossroads Transit Center, Silver Spring station, Rock Creek Forest, Chevy Chase, Maryland, Bethesda station"
+  ],
+  "Start": [
+    "College Park-University of Maryland station"
+  ],
+  "Via": [
+    "River Road, Paint Branch Parkway, Campus Drive, University Boulevard, New Hampshire Avenue, Piney Branch Road, Flower Avenue, Wayne Avenue, Colesville Road, East-West Highway"
+  ],
+  "End": [
+    "Bethesda station"
+  ],
+  "Level": [
+    "Weekday Peak Hour Service Only"
+  ],
+  "Frequency": [
+    "20 minutes"
+  ],
+  "Operates": [
+    "5:20 AM - 9:30 AM, 3:25 PM - 7:45 PM"
+  ],
+  "Transfers": [
+    "SmarTrip only"
+  ]
+}

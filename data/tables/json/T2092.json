@@ -1,0 +1,59 @@
+{
+  "title": [
+    "16G, 16H Columbia Pike-Pentagon City line"
+  ],
+  "System": [
+    "Metrobus"
+  ],
+  "Operator": [
+    "Washington Metropolitan Area Transit Authority"
+  ],
+  "Garage": [
+    "Four Mile Run"
+  ],
+  "Livery": [
+    "Local"
+  ],
+  "Status": [
+    "In Service"
+  ],
+  "Began service": [
+    "September 7, 2003"
+  ],
+  "Ended service": [
+    "16K: June 24, 2018"
+  ],
+  "Locale": [
+    "Fairfax County , Arlington County"
+  ],
+  "Communities served": [
+    "Skyline City, Columbia Forest, Arlington Mill, Barcroft, Arlington Heights, Penrose, Pentagon City"
+  ],
+  "Landmarks served": [
+    "United States Air Force Memorial, Pentagon City station"
+  ],
+  "Start": [
+    "Arlington Mill (16G)  , Skyline City (16H)"
+  ],
+  "Via": [
+    "Columbia Pike"
+  ],
+  "End": [
+    "Pentagon City station"
+  ],
+  "Level": [
+    "Daily"
+  ],
+  "Frequency": [
+    "10-15 minutes (Rush Hour)  , 20-25 minutes (Midday and Weekday Evening Service)  , 30 minutes (Weekends)"
+  ],
+  "Operates": [
+    "4:52 AM - 11:24 PM (Weekdays)  , 5:35 AM - 11:22 PM (Weekends)"
+  ],
+  "Transfers": [
+    "SmarTrip only"
+  ],
+  "Timetable": [
+    "Columbia Pike-Pentagon City Line"
+  ]
+}

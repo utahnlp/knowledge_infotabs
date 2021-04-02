@@ -1,0 +1,35 @@
+{
+  "title": [
+    "Migraine"
+  ],
+  "Specialty": [
+    "Neurology"
+  ],
+  "Symptoms": [
+    "Headaches, nausea, sensitivity to light, sensitivity to sound, sensitivity to smell"
+  ],
+  "Usual onset": [
+    "Around puberty"
+  ],
+  "Duration": [
+    "Recurrent, long term"
+  ],
+  "Causes": [
+    "Environmental and genetic"
+  ],
+  "Risk factors": [
+    "Family history, female"
+  ],
+  "Differential diagnosis": [
+    "Subarachnoid hemorrhage, venous thrombosis, idiopathic intracranial hypertension, brain tumor, tension headache, sinusitis, cluster headache"
+  ],
+  "Prevention": [
+    "Metoprolol, valproate, topiramate"
+  ],
+  "Medication": [
+    "Ibuprofen, paracetamol (acetaminophen), triptans, ergotamines"
+  ],
+  "Frequency": [
+    "~15%"
+  ]
+}

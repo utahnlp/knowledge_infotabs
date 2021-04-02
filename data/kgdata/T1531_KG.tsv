@@ -1,0 +1,12 @@
+key	keyword	definition	description	source
+Country of origin	country of origin	"Country of origin , represents the country or countries of manufacture, production, design, or brand origin where an article or product comes from. For multinational brands, COO may include multiple countries within the value-creation process. There are differing rules of origin under various national laws and international treaties. Country of origin labelling is also known as place-based branding , the made-in image or the ""nationality bias."" In some regions or industries, country of origin labelling may adopt unique local terms such as terroir used to describe wine appellations based on the specific region where grapes are grown and wine manufactured. Place-based branding has a very ancient history. Archaeological evidence points to packaging specifying the place of manufacture dating back to some 4,000 years ago. Over time, informal labels evolved into formal, often regulated labels providing consumers with information about product quality, manufacturer name and place of origin."	country of manufacture, production, or growth where an article or product comes from	wikipedia
+Country of origin	country	the territory occupied by a nation	country, state, land	wordnet
+Country of origin	origin	the descendants of one individual	lineage, line, line_of_descent, descent, bloodline, blood_line, blood, pedigree, ancestry, origin, parentage, stemma, stock	wordnet
+Country of origin	country of origin	A country of origin is a country	NA	GenericsKB
+Weight	weight	a system of units used to express the weight of something	system_of_weights, weight	wordnet
+Weight	weight	assign a handicap weight to (a horse).	NA	owlbot
+Weight	weight	Weight affects health	NA	GenericsKB
+Coat	coat	A coat is a garment worn on the upper body by either sex, for warmth or fashion. Coats typically have long sleeves and are open down the front, closing by means of buttons, zippers, hook-and-loop fasteners, toggles, a belt, or a combination of some of these. Other possible features include collars, shoulder straps and hoods.	warming outerwear garment for men and women	wikipedia
+Coat	coat	an outer garment that has sleeves and covers the body from shoulder down; worn outdoors	coat	wordnet
+Coat	coat	an animal's covering of fur or hair.	NA	owlbot
+Coat	coat	A coat is a garment	NA	GenericsKB

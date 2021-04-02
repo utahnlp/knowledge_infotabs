@@ -1,0 +1,42 @@
+{
+    "title": ["Hungary"], 
+    "Religion": [
+        "54.3% Christianity",
+        "39% Catholicism",  
+        "13.8% Protestantism",  
+        "3.3% other Christians",  
+        "0.2% Orthodox Church",  
+        "1% Judaism",  
+        "0.05% Buddhism",  
+        "0.01% other",  
+        "18.2% not religious",  
+        "27.2% unanswered"
+    ], 
+    "Ethnic Groups":[
+        "83.7% Hungarians",
+        "3.1% Roma",
+        "1.3% Germans",
+        "14.7% not declared"
+    ],
+    "Other languages": [
+        "Hungarian"
+    ], 
+    "Demonym(s)": [
+        "Hungarian"
+    ], 
+    "Government": [
+        "Unitary parliamentary republic"
+    ], 
+    "President ": [
+        "Janos Ader"
+    ], 
+    "Prime Minister ": [
+        "Viktor Orban"
+    ], 
+    "Speaker of the National Assembly ": [
+        "Laszlo Kover"
+    ], 
+    "Legislature": [
+        "Orszaggyules"
+    ]
+}

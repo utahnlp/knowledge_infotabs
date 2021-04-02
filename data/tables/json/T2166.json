@@ -1,0 +1,35 @@
+{
+  "title": [
+    "MicroBee"
+  ],
+  "Developer": [
+    "Applied Technology"
+  ],
+  "Type": [
+    "Home computers"
+  ],
+  "Release date": [
+    "February 1982; 37 years ago (1982-02)"
+  ],
+  "Introductory price": [
+    "A$399 in Kit Form"
+  ],
+  "Discontinued": [
+    "1990; 29 years ago (1990)"
+  ],
+  "Operating system": [
+    "MicroWorld BASIC  ,  DGOS ( David Griffiths Operating System )"
+  ],
+  "CPU": [
+    "Zilog Z80 @ 2 MHz"
+  ],
+  "Memory": [
+    "16 kB or 32 kB"
+  ],
+  "Graphics": [
+    "Synertek 6545 CRT controller for 64 × 16 characters (512 × 256 pixels)"
+  ],
+  "Sound": [
+    "Monotonic sound generator & speaker, 2 octaves"
+  ]
+}

@@ -1,0 +1,75 @@
+key	keyword	definition	description	source
+Name:	name	"A name is a term used for identification. They can identify a class or category of things, or a single thing, either uniquely, or within a given context. The entity identified by a name is called its referent. A personal name identifies, not necessarily uniquely, a specific individual human. The name of a specific entity is sometimes called a proper name and is, when consisting of only one word, a proper noun. Other nouns are sometimes called "" common names "" or "" general names "". A name can be given to a person, place, or thing; for example, parents can give their child a name or a scientist can give an element a name. Caution must be exercised when translating, for there are ways that one language may prefer one type of name over another. For example, the French sometimes refer to Aristotle as ""le Stagirite"" from one spelling of his place of birth, and English speakers often refer to Shakespeare as ""The Bard"", recognizing him as a paragon writer of the language."	word or term used for identification; see also proper noun (Q147276) and personal name (Q1071027)	wikipedia
+Name:	name	A name is a part	NA	GenericsKB
+Builders:	builders	Builder is a United States Navy occupational rating	United States Navy occupational rating	wikipedia
+Builders:	builders	someone who contracts for and supervises construction (as of a building)	builder, constructor	wordnet
+Builders:	builders	a person who constructs something by putting parts or material together.	NA	owlbot
+Builders:	builder	Builder is a individual	NA	GenericsKB
+Preceded by:	preceded	be earlier in time; go back further	predate, precede, forego, forgo, antecede, antedate	wordnet
+Preceded by:	preceded	come before (something) in time.	NA	owlbot
+Succeeded by:	succeed	The United Chinese Community Enrichment Services Society or S	NA	wikipedia
+Succeeded by:	succeeded	be the successor (of)	succeed, come_after, follow	wordnet
+Succeeded by:	succeeded	achieve the desired aim or result.	NA	owlbot
+Built:	built	A building, or edifice, is a structure with a roof and walls standing more or less permanently in one place, such as a house or factory	structure, typically with a roof and walls, standing more or less permanently in one place	wikipedia
+Built:	built	order, supervise, or finance the construction of	build	wordnet
+In commission:	commission	In art, a commission is the act of requesting the creation of a piece, often on behalf of another	hiring and payment for the creation of a piece of art	wikipedia
+In commission:	commission	a special group delegated to consider some matter;  - Milton Berle	committee, commission	wordnet
+In commission:	commission	an instruction, command, or role given to a person or group.	NA	owlbot
+In commission:	commission	Commission is charged in currency of trade	NA	GenericsKB
+Completed:	completed	"Compleat is an archaic variant of the word ""complete"	Wikimedia disambiguation page	wikipedia
+Completed:	completed	bring to a whole, with all the necessary parts or elements	complete	wordnet
+Completed:	completed	provide with the item or items necessary to make (something) full or entire.	NA	owlbot
+Type:	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type:	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Type:	type	a design on either side of a medal or coin.	NA	owlbot
+Type:	type	A type is a kind	NA	GenericsKB
+Displacement:	displacement	Angular displacement of a body is the angle in radians through which a point revolves around a centre or line has been rotated in a specified sense about a specified axis	angle in radians (degrees, revolutions) through which a point or line has been rotated in a specified sense about a specified axis	wikipedia
+Displacement:	displacement	(chemistry) a reaction in which an elementary substance displaces and sets free a constituent element from a compound	displacement, displacement_reaction	wordnet
+Displacement:	displacement	the action of moving something from its place or position.	NA	owlbot
+Displacement:	displacement	Displacement is a replacement	NA	GenericsKB
+Length:	length	Length is a measure of distance. In the International System of Quantities, length is a quantity with dimension distance. In most systems of measurement a base unit for length is chosen, from which all other units are derived. In the International System of Units system the base unit for length is the metre. Length is commonly understood to mean the most extended dimension of a fixed object. However, this is not always the case and may depend on the position the object is in. Various terms for the length of a fixed object are used, and these include height, which is vertical length or vertical extent, and width , breadth or depth. Height is used when there is a base from which vertical measurements can be taken. Width or breadth usually refer to a shorter dimension when length is the longest one. Depth is used for the third dimension of a three dimensional object. Length is the measure of one spatial dimension, whereas area is a measure of two dimensions and volume is a measure of three dimensions .	measured dimension of an object in a physical space	wikipedia
+Length:	length	the linear extent in space from one end to the other; the longest dimension of something that is fixed in place	length	wordnet
+Length:	length	a piece or stretch of something.	NA	owlbot
+Length:	length	Length equals meters	NA	GenericsKB
+Beam:	beam	The Mill is a VFX and Creative Content studio headquartered in London, England, with three offices in the United States and one office in India	Post-production company	wikipedia
+Beam:	beam	(nautical) breadth amidships	beam	wordnet
+Beam:	beam	a long, sturdy piece of squared timber or metal used to support the roof or floor of a building.	NA	owlbot
+Beam:	beam	A beam is a structural member	NA	GenericsKB
+Draft:	draft	Air draft is the distance from the surface of the water to the highest point on a vessel	distance from water to the highest point on a vessel or lowest point on a bridge span, etc.	wikipedia
+Draft:	draft	the depth of a vessel's keel below the surface (especially when loaded)	draft, draught	wordnet
+Draft:	draft	a written order to pay a specified sum.	NA	owlbot
+Draft:	draft	A draft is an instrument	NA	GenericsKB
+Depth:	depth	Vertical position or vertical location is a position along a vertical direction above or below a given vertical datum	NA	wikipedia
+Depth:	depth	the extent downward or backward or inward	depth, deepness	wordnet
+Depth:	depth	the distance from the top or surface to the bottom of something.	NA	owlbot
+Depth:	depth	Depth affects variation	NA	GenericsKB
+Installed power:	instal	A military base is a facility directly owned and operated by or for the military or one of its branches that shelters military equipment and personnel, and facilitates training and operations	facility directly owned and operated by or for the military	wikipedia
+Installed power:	installed	set up for use	install, instal, put_in, set_up	wordnet
+Installed power:	power	(physics) the rate of doing work; measured in watts (= joules/second)	power	wordnet
+Installed power:	power	Power also scales with the clock frequency	NA	GenericsKB
+Propulsion:	propulsion	Propulsion is the action or process of pushing or pulling to drive an object forward. The term is derived from two Latin words: pro , meaning before or forward ; and pellere , meaning to drive. A propulsion system consists of a source of mechanical power, and a propulsor . A technological system uses an engine or motor as the power source , and wheels and axles, propellers, or a propulsive nozzle to generate the force. Components such as clutches or gearboxes may be needed to connect the motor to axles, wheels, or propellers. Biological propulsion systems use an animal's muscles as the power source, and limbs such as wings, fins or legs as the propulsors. A technological/biological system may use human, or trained animal, muscular work to power a mechanical device.	means of creating force leading to movement	wikipedia
+Propulsion:	propulsion	a propelling force	propulsion	wordnet
+Propulsion:	propulsion	the action of driving or pushing forwards.	NA	owlbot
+Propulsion:	propulsion	Propulsion is forces	NA	GenericsKB
+Speed:	speed	In everyday use and in kinematics, the speed of an object is the magnitude of the change of its position; it is thus a scalar quantity. The average speed of an object in an interval of time is the distance travelled by the object divided by the duration of the interval; the instantaneous speed is the limit of the average speed as the duration of the time interval approaches zero. Speed has the dimensions of distance divided by time. The SI unit of speed is the metre per second, but the most common unit of speed in everyday usage is the kilometre per hour or, in the US and the UK, miles per hour. For air and marine travel the knot is commonly used. The fastest possible speed at which energy or information can travel, according to special relativity, is the speed of light in a vacuum c = 299792458 metres per second . Matter cannot quite reach the speed of light, as this would require an infinite amount of energy. In relativity physics, the concept of rapidity replaces the classical idea of speed.	magnitude of velocity of motion	wikipedia
+Speed:	speed	the ratio of the focal length to the diameter of a (camera) lens system	focal_ratio, f_number, stop_number, speed	wordnet
+Speed:	speed	each of the possible gear ratios of a bicycle.	NA	owlbot
+Speed:	speed	Speed also affects the ability to stop	NA	GenericsKB
+Range:	range	All-electric range is the driving range of a vehicle using only power from its electric battery pack to traverse a given driving cycle	NA	wikipedia
+Range:	range	an area in which something acts or operates or has power or control:	scope, range, reach, orbit, compass, ambit	wordnet
+Range:	range	the distance within which a person can see or hear.	NA	owlbot
+Range:	range	Range is a function of the fuel, which is either pure hydrogen or methanol	NA	GenericsKB
+Complement:	complement	In computer programming, a bitwise operation operates on one or more bit patterns or binary numerals at the level of their individual bits	computer operation that operates on values at the level of their individual bits	wikipedia
+Complement:	complement	a word or phrase used to complete a grammatical construction	complement	wordnet
+Complement:	complement	a thing that contributes extra features to something else in such a way as to improve or emphasize its quality.	NA	owlbot
+Complement:	complement	Complement inactivating proteins and intraspecies venom variation in Crotalus oreganus helleri	NA	GenericsKB
+Armament:	armament	A weapon , arm or armament is any implement or device that can be used with intent to inflict damage or harm. Weapons are used to increase the efficacy and efficiency of activities such as hunting, crime, law enforcement, self-defense, and warfare. In broader context, weapons may be construed to include anything used to gain a tactical, strategic, material or mental advantage over an adversary or enemy target. While ordinary objects – sticks, rocks, bottles, chairs, vehicles – can be used as weapons, many are expressly designed for the purpose; these range from simple implements such as clubs, axes and swords, to complicated modern firearms, tanks, intercontinental ballistic missiles, biological weapons, and cyberweapons. Something that has been re-purposed, converted, or enhanced to become a weapon of war is termed weaponized , such as a weaponized virus or weaponized laser.	instrument used to inflict damage or harm upon living beings, structures, or systems	wikipedia
+Armament:	armament	weaponry used by military or naval force	armament	wordnet
+Armament:	armament	military weapons and equipment.	NA	owlbot
+Armament:	armament	An armament is an arms	NA	GenericsKB
+Aircraft carried:	aircraft	An aircraft is a vehicle that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or by using the dynamic lift of an airfoil, or in a few cases the downward thrust from jet engines. Common examples of aircraft include airplanes, helicopters, airships , gliders, paramotors and hot air balloons. The human activity that surrounds aircraft is called aviation. The science of aviation, including designing and building aircraft, is called aeronautics. Crewed aircraft are flown by an onboard pilot, but unmanned aerial vehicles may be remotely controlled or self-controlled by onboard computers. Aircraft may be classified by different criteria, such as lift type, aircraft propulsion, usage and others.	machine that is able to fly by gaining support from the air other than the reactions of the air against the earth’s surface	wikipedia
+Aircraft carried:	carry	A carny is a carnival employee	NA	wikipedia
+Aircraft carried:	aircraft	a vehicle that can fly	aircraft	wordnet
+Aircraft carried:	carried	serve as a means for expressing something	carry, convey, express	wordnet
+Aircraft carried:	aircraft	Aircraft also generate more atmospheric pollution per person km than road vehicles	NA	GenericsKB
+Aircraft carried:	carry	Carry is transportation	NA	GenericsKB

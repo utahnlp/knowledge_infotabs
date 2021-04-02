@@ -1,0 +1,35 @@
+{
+  "title": [
+    "Cardiac arrest"
+  ],
+  "Description": [
+    "CPR being administered during a simulation of cardiac arrest."
+  ],
+  "Specialty": [
+    "Cardiology, emergency medicine"
+  ],
+  "Symptoms": [
+    "Loss of consciousness, abnormal or no breathing"
+  ],
+  "Usual onset": [
+    "Older age"
+  ],
+  "Causes": [
+    "Coronary artery disease, congenital heart defect, major blood loss, lack of oxygen, very low potassium, heart failure"
+  ],
+  "Diagnostic method": [
+    "Finding no pulse"
+  ],
+  "Prevention": [
+    "Not smoking, physical activity, maintaining a healthy weight"
+  ],
+  "Treatment": [
+    "Cardiopulmonary resuscitation (CPR), defibrillation"
+  ],
+  "Prognosis": [
+    "Survival rate ~ 10% (outside of hospital) 25% (in hospital)"
+  ],
+  "Frequency": [
+    "13 per 10,000 people per year (outside hospital in the US)"
+  ]
+}

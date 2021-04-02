@@ -1,0 +1,53 @@
+{
+  "title": [
+    "q111q113, q114 Jamaica−Far Rockaway line"
+  ],
+  "System": [
+    "MTA Regional Bus Operations"
+  ],
+  "Operator": [
+    "MTA Bus Company"
+  ],
+  "Garage": [
+    "Baisley Park Depot"
+  ],
+  "Vehicle": [
+    "New Flyer Industries XD60 Xcelsior (Articulated)",
+    "Orion VII (supplemental service)"
+  ],
+  "Began service": [
+    "1897 (trolley line) , 1930 (Rockaway-Nassau bus) , 1933 (full bus route)"
+  ],
+  "Locale": [
+    "Queens; Nassau County"
+  ],
+  "Communities served": [
+    "Queens:  Jamaica, South Jamaica, Springfield Gardens, Rosedale, Far Rockaway ,  Nassau County:  Woodmere, Cedarhurst, Inwood, Lawrence"
+  ],
+  "Start": [
+    "Jamaica, Queens - Parsons Boulevard & Hillside Avenue"
+  ],
+  "Via": [
+    "Guy R. Brewer Boulevard, 147th Avenue (Q111, Q114)"
+  ],
+  "End": [
+    "Q111:  Rosedale, Queens - Francis Lewis Boulevard & 148th Avenue",
+    "Cedarhurst, Nassau County - Peninsula Boulevard and Rockaway Turnpike (select rush hours only)",
+    "Q113/Q114:  Far Rockaway, Queens - Seagirt Boulevard & Beach 20th Street"
+  ],
+  "Length": [
+    "Q111:  6.5 miles (10.5 km) ,  Q113/Q114:  12 miles (19 km)"
+  ],
+  "Operates": [
+    "24 hours (Q111, Q114)"
+  ],
+  "Annual patronage": [
+    "Q111:  3,529,904 (2017) ,  Q113:  1,238,145 (2017) ,  Q114:  2,027,002 (2017)"
+  ],
+  "Transfers": [
+    "Yes"
+  ],
+  "Timetable": [
+    "Q111 Q113/Q114"
+  ]
+}

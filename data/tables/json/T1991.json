@@ -1,0 +1,19 @@
+{
+    "title": ["Inc Kola"],
+    "Type": [
+        "Soft drink"
+    ], 
+    "Manufacturer": [
+        "Corporacion Jose R. Lindley S.A."
+    ], 
+    "Country of origin": [
+        "Peru"
+    ], 
+    "Introduced": [
+        "1935"
+    ], 
+    "Related products": [
+        "Coca-Cola", 
+        "Kola Real"
+    ]
+}

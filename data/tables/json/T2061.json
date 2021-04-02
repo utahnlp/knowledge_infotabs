@@ -1,0 +1,32 @@
+{
+  "title": [
+    "Apple I"
+  ],
+  "Developer": [
+    "Steve Wozniak"
+  ],
+  "Type": [
+    "Personal computer/Kit computer"
+  ],
+  "Release date": [
+    "April 11, 1976; 43 years ago (1976-04-11)"
+  ],
+  "Introductory price": [
+    "US$666.66 (equivalent to $2,935 in 2018)"
+  ],
+  "Discontinued": [
+    "September 30, 1977 (1977-09-30)"
+  ],
+  "CPU": [
+    "MOS 6502 @ 1 MHz"
+  ],
+  "Memory": [
+    "4 KB standard , expandable to 8 KB or 48 KB using expansion cards"
+  ],
+  "Graphics": [
+    "40×24 characters, hardware-implemented scrolling"
+  ],
+  "Successor": [
+    "Apple II"
+  ]
+}

@@ -1,0 +1,21 @@
+key	keyword	definition	description	source
+Type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Type	type	a person or thing exemplifying the ideal or defining characteristics of something.	NA	owlbot
+Type	type	A type is a kind	NA	GenericsKB
+Body	body	This is a list of automotive parts mostly for vehicles using internal combustion engines which are manufactured components of automobiles:	Wikimedia list article	wikipedia
+Body	body	a collection of particulars considered as a system	body	wordnet
+Body	body	(in pottery) a clay used for making the main part of ceramic ware, as distinct from a glaze.	NA	owlbot
+Body	body	Bodies are fueled by calories	NA	GenericsKB
+Mayor	mayor	In many countries, a mayor is the highest-ranking official in a municipal government such as that of a city or a town. Worldwide, there is a wide variance in local laws and customs regarding the powers and responsibilities of a mayor as well as the means by which a mayor is elected or otherwise mandated. Depending on the system chosen, a mayor may be the chief executive officer of the municipal government, may simply chair a multi-member governing body with little or no independent power, or may play a solely ceremonial role. Options for selection of a mayor include direct election by the public, or selection by an elected governing council or board.	head of municipal government such as a town or city	wikipedia
+Mayor	mayor	the head of a city government	mayor, city_manager	wordnet
+Mayor	mayor	(in England, Wales, and Northern Ireland) the head of a town, borough, or county council, elected by council members and generally having purely ceremonial duties.	NA	owlbot
+Mayor	mayor	A mayor is civil authority	NA	GenericsKB
+Administrator	administrator	In law an administrator can be: * a person appointed by the court to handle the estate of someone who died without a will 	person appointed by a court to handle some business	wikipedia
+Administrator	administrator	the party appointed by a probate court to distribute the estate of someone who dies without a will or without naming an executor	administrator	wordnet
+Administrator	administrator	a person who dispenses or administers something.	NA	owlbot
+Administrator	administrator	Administrators are heads	NA	GenericsKB
+Municipal clerk	municipal clerk	A clerk is a senior official of many municipal governments in the English- speaking world. In some communities, including most in the United States, the position is elected, but in many others, the clerk is appointed to their post. In almost all cases, the actual title of the clerk reflects the type of municipality he or she works for, thus, instead of simply being known as the clerk , the position is generally referred to as the town clerk , township clerk , city clerk , village clerk , borough clerk , board secretary , or county clerk. Other titles also exist, such as recorder. The office has existed for centuries, though in some places it is now being merged with other positions. The duties of a municipal clerk vary even more than their titles. Particularly in the United States, it is difficult to fully describe a clerk's duties, because there are hundreds of different jobs a clerk may fulfill. In some U.S. states, there are provisions in the state constitutions delineating the clerk's duties, but in other states, each municipality decides for itself what role the clerk plays.	political office of a municipal government	wikipedia
+Municipal clerk	municipal	relating or belonging to or characteristic of a municipality	municipal	wordnet
+Municipal clerk	clerk	a salesperson in a store	salesclerk, shop_clerk, clerk, shop_assistant	wordnet
+Municipal clerk	clerk	Clerks are located in airports	NA	GenericsKB

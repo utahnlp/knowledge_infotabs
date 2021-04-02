@@ -1,0 +1,33 @@
+key	keyword	definition	description	source
+Type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type	type	all of the tokens of the same symbol	type	wordnet
+Type	type	a person or thing exemplifying the ideal or defining characteristics of something.	NA	owlbot
+Type	type	A type is a kind	NA	GenericsKB
+Mayor	mayor	In many countries, a mayor is the highest-ranking official in a municipal government such as that of a city or a town. Worldwide, there is a wide variance in local laws and customs regarding the powers and responsibilities of a mayor as well as the means by which a mayor is elected or otherwise mandated. Depending on the system chosen, a mayor may be the chief executive officer of the municipal government, may simply chair a multi-member governing body with little or no independent power, or may play a solely ceremonial role. Options for selection of a mayor include direct election by the public, or selection by an elected governing council or board.	head of municipal government such as a town or city	wikipedia
+Mayor	mayor	the head of a city government	mayor, city_manager	wordnet
+Mayor	mayor	(in England, Wales, and Northern Ireland) the head of a town, borough, or county council, elected by council members and generally having purely ceremonial duties.	NA	owlbot
+Mayor	mayor	A mayor is civil authority	NA	GenericsKB
+Vice Mayor	vice mayor	The deputy mayor is an elective or appointive office of the second-ranking official that is present in many, but not all, local governments.	governance position - the second in command mayor	wikipedia
+Vice Mayor	vice	moral weakness	frailty, vice	wordnet
+Vice Mayor	mayor	the head of a city government	mayor, city_manager	wordnet
+Vice Mayor	vice	Vice is located in workshops	NA	GenericsKB
+Vice Mayor	mayor	Mayor is a person	NA	GenericsKB
+Representative, 1st District	representative	House of Representatives is the name of legislative bodies in many countries and sub-national entitles	general term for legislative bodies	wikipedia
+Representative, 1st District	district	"A district is a type of administrative division that, in some countries, is managed by local government. Across the world, areas known as ""districts"" vary greatly in size, spanning regions or counties, several municipalities, subdivisions of municipalities, school district, or political district."	type of administrative division, in some countries	wikipedia
+Representative, 1st District	representative	an advocate who represents someone else's policy or purpose	spokesperson, interpreter, representative, voice	wordnet
+Representative, 1st District	st			wordnet
+Representative, 1st District	district	regulate housing in; of certain areas of towns	zone, district	wordnet
+Representative, 1st District	representative	Representative is a person	NA	GenericsKB
+Representative, 1st District	district	Districts are television shows	NA	GenericsKB
+Representative, 2nd District	representative	A legislator is a person who writes and passes laws, especially someone who is a member of a legislature	member of a legislature	wikipedia
+Representative, 2nd District	nd	APA Style is a writing style and format for academic documents such as scholarly journal articles and books	Academic format of citation made by American Psychological Association (APA) wwrt	wikipedia
+Representative, 2nd District	district	"A district is a type of administrative division that, in some countries, is managed by local government. Across the world, areas known as ""districts"" vary greatly in size, spanning regions or counties, several municipalities, subdivisions of municipalities, school district, or political district."	type of administrative division, in some countries	wikipedia
+Representative, 2nd District	representative	an advocate who represents someone else's policy or purpose	spokesperson, interpreter, representative, voice	wordnet
+Representative, 2nd District	nd	a state of north central United States bordering on Canada	North_Dakota, Peace_Garden_State, ND	wordnet
+Representative, 2nd District	district	regulate housing in; of certain areas of towns	zone, district	wordnet
+Representative, 2nd District	representative	Representative is a somebody	NA	GenericsKB
+Representative, 2nd District	district	Districts are television shows	NA	GenericsKB
+Electorate	electorate	An election is a formal group decision-making process by which a population chooses an individual to hold public office	process by which a population chooses an individual to hold public office	wikipedia
+Electorate	electorate	the body of enfranchised citizens; those qualified to vote	electorate	wordnet
+Electorate	electorate	all the people in a country or area who are entitled to vote in an election.	NA	owlbot
+Electorate	electorate	An electorate is a people	NA	GenericsKB

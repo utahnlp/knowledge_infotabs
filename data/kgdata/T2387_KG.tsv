@@ -1,0 +1,9 @@
+key	keyword	definition	description	source
+Venue	venue	A sports venue is a building, structure, or place in which a sporting competition is held	building, structure, or place dedicated to sports	wikipedia
+Venue	venue	the scene of any event or action (especially the place of a meeting)	venue, locale, locus	wordnet
+Venue	venue	the place where something happens, especially an organized event such as a concert, conference, or sports competition.	NA	owlbot
+Venue	venue	Venues are jurisdiction	NA	GenericsKB
+Dates	dates	A calendar date is a reference to a particular day represented within a calendar system	particular day represented within a calendar system	wikipedia
+Dates	dates	the particular day, month, or year (usually according to the Gregorian calendar) that an event occurred	date	wordnet
+Dates	dates	establish or ascertain the date of (an object or event).	NA	owlbot
+Dates	date	Date is a day	NA	GenericsKB

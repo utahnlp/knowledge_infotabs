@@ -1,0 +1,13 @@
+key	keyword	definition	description	source
+Born	born	""" Born "" is a song written and performed by Barry Gibb that was included as the first track on his debut album The Kid's No Good in 1970"	song written and performed by Barry Gibb	wikipedia
+Born	born	bring forth,	bear, turn_out	wordnet
+Born	born	existing as a result of birth.	NA	owlbot
+Born	born	Borns start with cries	NA	GenericsKB
+Spouse	spouse	A spouse is a significant other in a marriage, civil union, or common-law marriage. The term is gender neutral, whereas a male spouse is a husband and a female spouse is a wife. Although a spouse is a form of significant other, the latter term also includes non-marital partners who play a social role similar to that of a spouse, but do not have rights and duties reserved by law to a spouse.	partner in a marriage, civil union, domestic partnership or common-law marriage	wikipedia
+Spouse	spouse	a person's partner in marriage	spouse, partner, married_person, mate, better_half	wordnet
+Spouse	spouse	a husband or wife, considered in relation to their partner.	NA	owlbot
+Spouse	spouse	A spouse is a relative	NA	GenericsKB
+Issue	issue	In genealogy and wills, a person's issue is his or her lineal descendants	genealogical and legal term referring to one's lineal descendants	wikipedia
+Issue	issue	some situation or event that is thought about	topic, subject, issue, matter	wordnet
+Issue	issue	a result or outcome of something.	NA	owlbot
+Issue	issue	An issue is content	NA	GenericsKB

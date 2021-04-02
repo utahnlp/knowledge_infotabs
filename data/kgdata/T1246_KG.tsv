@@ -1,0 +1,53 @@
+key	keyword	definition	description	source
+Formation	formation	 Form , a document with spaces in which to write or enter data 	Wikimedia disambiguation page	wikipedia
+Formation	formation	the act of forming or establishing something	constitution, establishment, formation, organization, organisation	wordnet
+Formation	formation	a thing that has been formed.	NA	owlbot
+Formation	formation	Formation based upon common bonds is a central tenet of the traditional concept of community	NA	GenericsKB
+Type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Type	type	a person or thing exemplifying the ideal or defining characteristics of something.	NA	owlbot
+Type	type	Type is a creation of both art and science	NA	GenericsKB
+Purpose	purpose	Intention is a mental state that represents a commitment to carrying out an action or actions in the future. Intention involves mental activities such as planning and forethought.	mental state representing commitment to perform an action	wikipedia
+Purpose	purpose	an anticipated outcome that is intended or that guides your planned actions	purpose, intent, intention, aim, design	wordnet
+Purpose	purpose	have as one's intention or objective.	NA	owlbot
+Purpose	purpose	Purpose is what gives life meaning	NA	GenericsKB
+Headquarters	headquarters	Headquarters denotes the location where most, if not all, of the important functions of an organization are coordinated. In the United States, the corporate headquarters represents the entity at the center or the top of a corporation taking full responsibility for managing all business activities. In the United Kingdom, the term head office is most commonly used for the headquarters of large corporations. The term is also used regarding military organizations.	location where key leadership and coordination functions take place, often recognized as the central home for a disparate organization	wikipedia
+Headquarters	headquarters	provide with headquarters	headquarter	wordnet
+Headquarters	headquarters	have headquarters at a specified location.	NA	owlbot
+Region served	region	In geography, regions are areas that are broadly divided by physical characteristics , human impact characteristics , and the interaction of humanity and the environment . Geographic regions and sub-regions are mostly described by their imprecisely defined, and sometimes transitory boundaries, except in human geography, where jurisdiction areas such as national borders are defined in law. Apart from the global continental regions, there are also hydrospheric and atmospheric regions that cover the oceans, and discrete climates above the land and water masses of the planet. The land and water global regions are divided into subregions geographically bounded by large geological features that influence large-scale ecologies, such as plains and features. As a way of describing spatial areas, the concept of regions is important and widely used among the many branches of geography, each of which can describe areas in regional terms. For example, ecoregion is a term used in environmental geography, cultural region in cultural geography, bioregion in biogeography, and so on. The field of geography that studies regions themselves is called regional geography. In the fields of physical geography, ecology, biogeography, zoogeography, and environmental geography, regions tend to be based on natural features such as ecosystems or biotopes, biomes, drainage basins, natural regions, mountain ranges, soil types. Where human geography is concerned, the regions and subregions are described by the discipline of ethnography. A region has its own nature that could not be moved. The first nature is its natural environment . The second nature is its physical elements complex that were built by people in the past. The third nature is its socio-cultural context that could not be replaced by new immigrants.	2D or 3D defined space, mainly in terrestrial and astrophysics sciences	wikipedia
+Region served	region	a knowledge domain that you are interested in or are communicating about	region, realm	wordnet
+Region served	served	provide (usually but not necessarily food)	serve, serve_up, dish_out, dish_up, dish	wordnet
+Region served	region	Region is the hiking region defined on the main hiking page 	NA	GenericsKB
+Executive Director	executive director	An executive director is a member of a board of directors for an organisation, but the meaning of the term varies between countries.	chief executive officer (CEO) or managing director of an organization, company, or corporation	wikipedia
+Executive Director	executive	someone who manages a government agency or department	administrator, executive	wordnet
+Executive Director	director	the person who leads a musical group	conductor, music_director, director	wordnet
+Executive Director	executive director	Executive directors are workers	NA	GenericsKB
+Main organ	main	Main is a brand of cigarettes, currently owned and manufactured by House of Prince, a subsidiary of British American Tobacco	NA	wikipedia
+Main organ	organ	A division of a business, sometimes called a business sector or business unit , is one of the parts into which a business, organization or company is divided	distinct and large part of an organization	wikipedia
+Main organ	main	most important element	chief, main, primary, principal, master	wordnet
+Main organ	organ	a fully differentiated structural and functional unit in an animal that is specialized for some particular function	organ	wordnet
+Main organ	main	Mains are part of infrastructures	NA	GenericsKB
+Main organ	organ	Organs absorb nutrients	NA	GenericsKB
+Budget	budget	A budget is a financial plan for a defined period, often one year. It may also include planned sales volumes and revenues, resource quantities, costs and expenses, assets, liabilities and cash flows. Companies, governments, families and other organizations use it to express strategic plans of activities or events in measurable terms. A budget is the sum of money allocated for a particular purpose and the summary of intended expenditures along with proposals for how to meet them. It may include a budget surplus, providing money for use at a future time, or a deficit in which expenses exceed income.	balance sheet or statement of estimated receipts and expenditures	wikipedia
+Budget	budget	a sum of money allocated for a particular purpose	budget	wordnet
+Budget	budget	an estimate of income and expenditure for a set period of time.	NA	owlbot
+Budget	budget	Budget is a fund	NA	GenericsKB
+Staff	staff	A flag is a piece of fabric with a distinctive design and colours	piece of fabric with a distinctive design, used as a symbol	wikipedia
+Staff	staff	a rod carried as a symbol	staff	wordnet
+Staff	staff	a group of officers assisting an officer in command of an army formation or administration headquarters.	NA	owlbot
+Staff	staff	Staff create healthy environments	NA	GenericsKB
+Volunteers	volunteers	"Volunteering is generally considered an altruistic activity where an individual or group freely gives time ""to benefit another person, group or organization"". Volunteering is also renowned for skill development and is often intended to promote goodness or to improve human quality of life. Volunteering may have positive benefits for the volunteer as well as for the person or community served. It is also intended to make contacts for possible employment. Many volunteers are specifically trained in the areas they work, such as medicine, education, or emergency rescue. Others serve on an as-needed basis, such as in response to a natural disaster. In a military context a volunteer is someone who joins an armed force of their own volition rather than being conscripted, and is usually paid."	unpaid work undertaken freely by individuals as a service to others	wikipedia
+Volunteers	volunteers	a person who performs voluntary work	volunteer, unpaid_worker	wordnet
+Volunteers	volunteers	a person who freely offers to take part in an enterprise or undertake a task.	NA	owlbot
+Volunteers	volunteer	Volunteers are people who care	NA	GenericsKB
+Website	website	A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server. Notable examples are wikipedia.org, google.com, and amazon.com. All publicly accessible websites collectively constitute the World Wide Web. There are also private websites that can only be accessed on a private network, such as a company's internal website for its employees. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social networking. Hyperlinking between web pages guides the navigation of the site, which often starts with a home page. Users can access websites on a range of devices, including desktops, laptops, tablets, and smartphones. The software application used on these devices is called a web browser.	set of related web pages served from a single web domain	wikipedia
+Website	website	a computer connected to the internet that maintains a series of web pages on the World Wide Web	web_site, website, internet_site, site	wordnet
+Website	website	Websites are an important aspect of a company's image, in any language	NA	GenericsKB
+Remarks	remark	Remark Holdings is a Las Vegas, Nevada based digital media company with crowd counting, artificial intelligence for a Chinese Social Credit System, and content platform verticals	NA	wikipedia
+Remarks	remarks	a statement that expresses a personal opinion or belief or adds information	remark, comment, input	wordnet
+Remarks	remarks	say something as a comment; mention.	NA	owlbot
+Remarks	remark	A remark is a statement	NA	GenericsKB
+Formerly called	call	Bird vocalization includes both bird calls and bird songs	bird calls and bird songs; capability of birds to communicate through sound	wikipedia
+Formerly called	called	pay a brief visit	visit, call_in, call	wordnet
+Formerly called	called	cry out (a word or words).	NA	owlbot
+Formerly called	call	Calls are decisions	NA	GenericsKB

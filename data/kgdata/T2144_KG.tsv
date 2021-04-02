@@ -1,0 +1,53 @@
+key	keyword	definition	description	source
+System	system	A system is a group of interacting or interrelated entities that form a unified whole. A system is described by its spatial and temporal boundaries, surrounded and influenced by its environment, described by its structure and purpose and expressed in its functioning. Systems are the subjects of study of systems theory.	set of interacting or interdependent components	wikipedia
+System	system	a complex of methods or rules governing behavior	system, system_of_rules	wordnet
+System	system	a set of things working together as parts of a mechanism or an interconnecting network; a complex whole.	NA	owlbot
+System	system	A system is instrumentation	NA	GenericsKB
+Status	status	A city is a large human settlement	large permanent human settlement	wikipedia
+Status	status	a state at a particular time	condition, status	wordnet
+Status	status	the situation at a particular time during a process.	NA	owlbot
+Status	status	Status affects metabolism	NA	GenericsKB
+Locale	locale	A locale , is the main local organizational unit of the 'Ndrangheta with jurisdiction over criminal activities in an entire town or an area in a large urban center	Wikimedia list article	wikipedia
+Locale	locale	the scene of any event or action (especially the place of a meeting)	venue, locale, locus	wordnet
+Locale	locale	a place where something happens or is set, or that has particular events associated with it.	NA	owlbot
+Locale	locale	Locale is the locale in which custom is running	NA	GenericsKB
+Termini	termini	Roma Termini is the main railway station of Rome, Italy	Italian railway station	wikipedia
+Termini	termini	either end of a railroad or bus route	terminus	wordnet
+Stations	stations	A bus station is a structure where city or intercity buses stop to pick up and drop off passengers	structure, larger than a bus stop, where city or intercity buses stop to pick up and drop off passengers	wikipedia
+Stations	stations	(nautical) the location to which a ship or fleet is assigned for duty	station	wordnet
+Stations	stations	a place or building where a specified activity or service is based.	NA	owlbot
+Stations	station	A station is a facility	NA	GenericsKB
+Services	services	The civil service is a collective term for a sector of government composed mainly of career bureaucrats hired on professional merit rather than appointed or elected, whose institutional tenure typically survives transitions of political leadership	branch of governmental service or employees of a government agency	wikipedia
+Services	services	employment in or work for another	service	wordnet
+Services	services	a system supplying a public need such as transport, communications, or utilities such as electricity and water.	NA	owlbot
+Services	service	A service is work	NA	GenericsKB
+Opened	opened	"OpenEd is an online catalog of educational assessments, homework assignments, videos, games and lesson plans aligned to every Common Core standard and several other standards, and includes the only open source formative item bank. The site offers the ability for teachers to assign resources to their students online, letting students take assessments, do homework etc on their own computers or tablets. Assignments done online are graded automatically and presented to the teacher in a mastery chart. OpenEd's slogan mentions ""assessment to instruction"" meaning, formative assessments given on OpenEd can access OpenEd's large catalog on a per student basis to recommend the right resource to each student individually. The company has stated that functionality of searching the site and most of its resources are free and will continue to be free going forward. However, the company is also distributing premium content from publishers such as Pearson and Houghton Mifflin Harcourt to teachers for $9.95 per month. Currently 450,000 teachers or about 15% of all USA teachers are registered users. Recently, the company has been providing its resources with alignments to other tech companies. The API for finding standard and skill-aligned resources is used by ed tech leaders such as ACT , Pearson PLC, Pacific Metrics and many more."		wikipedia
+Opened	opened	make available	open, open_up	wordnet
+Opened	opened	make or become formally ready for customers, visitors, or business.	NA	owlbot
+Opened	open	Opens are areas	NA	GenericsKB
+Owner	owner	Ownership is the state or fact of exclusive rights and control over property, which may be any asset, including an object, land or real estate, or intellectual property. Ownership involves multiple rights, collectively referred to as title, which may be separated and held by different parties. The process and mechanics of ownership are fairly complex: one can gain, transfer, and lose ownership of property in a number of ways. To acquire property one can purchase it with money, trade it for other property, win it in a bet, receive it as a gift, inherit it, find it, receive it as damages, earn it by doing work or performing services, make it, or homestead it. One can transfer or lose ownership of property by selling it for money, exchanging it for other property, giving it as a gift, misplacing it, or having it stripped from one's ownership through legal means such as eviction, foreclosure, seizure, or taking. Ownership is self-propagating in that the owner of any property will also own the economic benefits of that property.	legal term	wikipedia
+Owner	owner	(law) someone who owns (is legal possessor of) a business	owner, proprietor	wordnet
+Owner	owner	a person who owns something.	NA	owlbot
+Owner	owner	An owner is a businessman	NA	GenericsKB
+Operator(s)	operator	 cooperators of Opus Dei 	Wikimedia disambiguation page	wikipedia
+Operator(s)	operator	someone who owns or operates a business	operator	wordnet
+Operator(s)	operator	a person or company that runs a business.	NA	owlbot
+Operator(s)	operator	Operators are located in subways	NA	GenericsKB
+Depot(s)	depot	A bus station is a structure where city or intercity buses stop to pick up and drop off passengers	structure, larger than a bus stop, where city or intercity buses stop to pick up and drop off passengers	wikipedia
+Depot(s)	depot	station where transport vehicles load or unload passengers or goods	terminal, terminus, depot	wordnet
+Depot(s)	depot	a place where buses, trains, or other vehicles are housed and maintained and from which they are dispatched for service.	NA	owlbot
+Depot(s)	depot	A depot is a station	NA	GenericsKB
+Rolling stock	rolling stock	"The term rolling stock in the rail transport industry refers to railway vehicles, including both powered and unpowered vehicles, for example locomotives, railroad cars, coaches, private railroad cars and wagons. In the US, the definition has been expanded from the older broadly defined ""trains"" to include wheeled vehicles used by businesses on roadways."	railway vehicles, both powered & unpowered	wikipedia
+Rolling stock	rolling	propelling something on wheels	wheeling, rolling	wordnet
+Rolling stock	stock	a supply of something available for future use	store, stock, fund	wordnet
+Rolling stock	rolling stock	locomotives, carriages, wagons, or other vehicles used on a railway.	NA	owlbot
+Rolling stock	rolling stock	Rolling stock is a container	NA	GenericsKB
+Line length	line length	In typography, line length is the width of a block of typeset text, usually measured in units of length like inches or points or in characters per line . A block of text or paragraph has a maximum line length that fits a determined design. If the lines are too short then the text becomes disjointed; if they are too long the content loses rhythm as the reader searches for the start of each line. Line length is determined by typographic parameters based on a formal grid and template with several goals in mind; balance and function for fit and readability with a sensitivity to aesthetic style in typography. Typographers adjust line length to aid legibility or copy fit. Text can be flush left and ragged right, flush right and ragged left, or justified where all lines are of equal length. In a ragged right setting line lengths vary to create a ragged right edge of lines varying in length. Sometimes this can be visually satisfying. For justified and ragged right settings typographers can adjust line length to avoid unwanted hyphens, rivers of white space, and orphaned words/characters at the end of lines .	typographic term	wikipedia
+Line length	line	a length (straight or curved) without breadth or thickness; the trace of a moving point	line	wordnet
+Line length	length	the linear extent in space from one end to the other; the longest dimension of something that is fixed in place	length	wordnet
+Line length	line	Line is a indication	NA	GenericsKB
+Line length	length	Length comes into the body giving muscles space to work and joints freedom to function properly	NA	GenericsKB
+Operating speed	operating speed	"The operating speed of a road is the speed at which motor vehicles generally operate on that road. The precise definition of ""operating speed"", however, is open to debate. Some sources, such as the AASHTO, have changed their definitions recently to match the common use of the word. In 1994, the AASHTO Green Book defined the operating speed as ""the highest overall speed at which a driver can travel on a given highway under favorable weather conditions and under prevailing traffic conditions without at any time exceeding the safe speed as determined by the design speed on a section-by-section basis,"" a definition which a majority of US states still use. In July 2001, however, the AASHTO revised their definition for the new edition of the Green Book and defined it as ""the speed at which drivers are observed operating their vehicles during free- flow conditions."""		wikipedia
+Operating speed	operating	perform a movement in military or naval tactics in order to secure an advantage in attack or defense	manoeuver, maneuver, manoeuvre, operate	wordnet
+Operating speed	speed	a central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression	amphetamine, pep_pill, upper, speed	wordnet
+Operating speed	speed	Speed also translates into efficiency of operations	NA	GenericsKB

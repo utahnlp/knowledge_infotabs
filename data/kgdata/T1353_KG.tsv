@@ -1,0 +1,82 @@
+key	keyword	definition	description	source
+Preceded by	preceded	move ahead (of others) in time or space	precede, lead	wordnet
+Preceded by	preceded	come before (something) in time.	NA	owlbot
+Succeeded by	succeed	The United Chinese Community Enrichment Services Society or S	NA	wikipedia
+Succeeded by	succeeded	be the successor (of)	succeed, come_after, follow	wordnet
+Succeeded by	succeeded	take over a throne, office, or other position from.	NA	owlbot
+Built	built	A building, or edifice, is a structure with a roof and walls standing more or less permanently in one place, such as a house or factory	structure, typically with a roof and walls, standing more or less permanently in one place	wikipedia
+Built	built	order, supervise, or finance the construction of	build	wordnet
+In commission	commission	A commission is a formal document issued to appoint a named person to high office or as a commissioned officer in a territory's armed forces	document appointing an individual as an officer, used by the government, military and organizations	wikipedia
+In commission	commission	a special group delegated to consider some matter;  - Milton Berle	committee, commission	wordnet
+In commission	commission	a group of people entrusted by a government or other official body with authority to do something.	NA	owlbot
+In commission	commission	Commissions are authorization	NA	GenericsKB
+Completed	completed	"Compleat is an archaic variant of the word ""complete"	Wikimedia disambiguation page	wikipedia
+Completed	completed	bring to a whole, with all the necessary parts or elements	complete	wordnet
+Completed	completed	provide with the item or items necessary to make (something) full or entire.	NA	owlbot
+Lost	lost	Alice Lichtenstein is an American novelist	American writer	wikipedia
+Lost	lost	people who are destined to die soon	doomed, lost	wordnet
+Lost	lost	that has been taken away or cannot be recovered.	NA	owlbot
+Scrapped	scrapped	Scrap consists of recyclable materials left over from product manufacturing and consumption, such as parts of vehicles, building supplies, and surplus materials. Unlike waste, scrap has monetary value, especially recovered metals, and non-metallic materials are also recovered for recycling.	recyclable materials left over from product manufacturing and consumption	wikipedia
+Scrapped	scrapped	make into scrap or refuse	scrap	wordnet
+Scrapped	scrapped	engage in a minor fight or quarrel.	NA	owlbot
+Scrapped	scrap	Scrap is a fragment	NA	GenericsKB
+Type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Type	type	a design on either side of a medal or coin.	NA	owlbot
+Type	type	A type is a kind	NA	GenericsKB
+Displacement	displacement	In geometry and mechanics, a displacement is a vector whose length is the shortest distance from the initial to the final position of a point P undergoing motion	vector that is the shortest distance from the initial to the final position of a point P	wikipedia
+Displacement	displacement	(chemistry) a reaction in which an elementary substance displaces and sets free a constituent element from a compound	displacement, displacement_reaction	wordnet
+Displacement	displacement	the action of moving something from its place or position.	NA	owlbot
+Displacement	displacement	Displacement is a replacement	NA	GenericsKB
+Length	length	Length is a measure of distance. In the International System of Quantities, length is a quantity with dimension distance. In most systems of measurement a base unit for length is chosen, from which all other units are derived. In the International System of Units system the base unit for length is the metre. Length is commonly understood to mean the most extended dimension of a fixed object. However, this is not always the case and may depend on the position the object is in. Various terms for the length of a fixed object are used, and these include height, which is vertical length or vertical extent, and width , breadth or depth. Height is used when there is a base from which vertical measurements can be taken. Width or breadth usually refer to a shorter dimension when length is the longest one. Depth is used for the third dimension of a three dimensional object. Length is the measure of one spatial dimension, whereas area is a measure of two dimensions and volume is a measure of three dimensions .	measured dimension of an object in a physical space	wikipedia
+Length	length	the linear extent in space from one end to the other; the longest dimension of something that is fixed in place	length	wordnet
+Length	length	a piece or stretch of something.	NA	owlbot
+Length	length	Length equals meters	NA	GenericsKB
+Beam	beam	The Mill is a VFX and Creative Content studio headquartered in London, England, with three offices in the United States and one office in India	Post-production company	wikipedia
+Beam	beam	a column of light (as from a beacon)	beam, beam_of_light, light_beam, ray, ray_of_light, shaft, shaft_of_light, irradiation	wordnet
+Beam	beam	a ray or shaft of light.	NA	owlbot
+Beam	beam	A beam is a piece	NA	GenericsKB
+Draft	draft	A demand draft is a negotiable instrument similar to a bill of exchange	NA	wikipedia
+Draft	draft	a document ordering the payment of money; drawn by one person or bank on another	draft, bill_of_exchange, order_of_payment	wordnet
+Draft	draft	a written order to pay a specified sum.	NA	owlbot
+Draft	draft	Drafts are doses	NA	GenericsKB
+Installed power	instal	A military base is a facility directly owned and operated by or for the military or one of its branches that shelters military equipment and personnel, and facilitates training and operations	facility directly owned and operated by or for the military	wikipedia
+Installed power	installed	set up for use	install, instal, put_in, set_up	wordnet
+Installed power	power	(physics) the rate of doing work; measured in watts (= joules/second)	power	wordnet
+Installed power	power	Power begins to be converted into heat	NA	GenericsKB
+Propulsion	propulsion	Propulsion is the action or process of pushing or pulling to drive an object forward. The term is derived from two Latin words: pro , meaning before or forward ; and pellere , meaning to drive. A propulsion system consists of a source of mechanical power, and a propulsor . A technological system uses an engine or motor as the power source , and wheels and axles, propellers, or a propulsive nozzle to generate the force. Components such as clutches or gearboxes may be needed to connect the motor to axles, wheels, or propellers. Biological propulsion systems use an animal's muscles as the power source, and limbs such as wings, fins or legs as the propulsors. A technological/biological system may use human, or trained animal, muscular work to power a mechanical device.	means of creating force leading to movement	wikipedia
+Propulsion	propulsion	a propelling force	propulsion	wordnet
+Propulsion	propulsion	the action of driving or pushing forwards.	NA	owlbot
+Propulsion	propulsion	Propulsion is acts	NA	GenericsKB
+Speed	speed	In everyday use and in kinematics, the speed of an object is the magnitude of the change of its position; it is thus a scalar quantity. The average speed of an object in an interval of time is the distance travelled by the object divided by the duration of the interval; the instantaneous speed is the limit of the average speed as the duration of the time interval approaches zero. Speed has the dimensions of distance divided by time. The SI unit of speed is the metre per second, but the most common unit of speed in everyday usage is the kilometre per hour or, in the US and the UK, miles per hour. For air and marine travel the knot is commonly used. The fastest possible speed at which energy or information can travel, according to special relativity, is the speed of light in a vacuum c = 299792458 metres per second . Matter cannot quite reach the speed of light, as this would require an infinite amount of energy. In relativity physics, the concept of rapidity replaces the classical idea of speed.	magnitude of velocity of motion	wikipedia
+Speed	speed	changing location rapidly	speed, speeding, hurrying	wordnet
+Speed	speed	the light-gathering power or f-number of a camera lens.	NA	owlbot
+Speed	speed	Speed also affects the ability to stop	NA	GenericsKB
+Range	range	All-electric range is the driving range of a vehicle using only power from its electric battery pack to traverse a given driving cycle	NA	wikipedia
+Range	range	an area in which something acts or operates or has power or control:	scope, range, reach, orbit, compass, ambit	wordnet
+Range	range	the distance within which a person can see or hear.	NA	owlbot
+Range	range	Range is a function of the fuel, which is either pure hydrogen or methanol	NA	GenericsKB
+Complement	complement	In computer programming, a bitwise operation operates on one or more bit patterns or binary numerals at the level of their individual bits	computer operation that operates on values at the level of their individual bits	wikipedia
+Complement	complement	a word or phrase used to complete a grammatical construction	complement	wordnet
+Complement	complement	a number or quantity of something, especially that required to make a group complete.	NA	owlbot
+Complement	complement	Complement destroys bacteria, produces inflammation, and regulates immune reactions	NA	GenericsKB
+Sensors and processing systems	sensor	In the broadest definition, a sensor is a device, module, machine, or subsystem whose purpose is to detect events or changes in its environment and send the information to other electronics, frequently a computer processor. A sensor is always used with other electronics. Sensors are used in everyday objects such as touch-sensitive elevator buttons and lamps which dim or brighten by touching the base, besides innumerable applications of which most people are never aware. With advances in micromachinery and easy-to-use microcontroller platforms, the uses of sensors have expanded beyond the traditional fields of temperature, pressure or flow measurement, for example into MARG sensors. Moreover, analog sensors such as potentiometers and force-sensing resistors are still widely used. Applications include manufacturing and machinery, airplanes and aerospace, cars, medicine, robotics and many other aspects of our day-to-day life. There are a wide range of other sensors, measuring chemical & physical properties of materials. A few examples include optical sensors for Refractive index measurement, vibrational sensors for fluid viscosity measurement and electro- chemical sensor for monitoring pH of fluids. A sensor's sensitivity indicates how much the sensor's output changes when the input quantity being measured changes. For instance, if the mercury in a thermometer moves 1 cm when the temperature changes by 1 °C, the sensitivity is 1 cm/°C . Some sensors can also affect what they measure; for instance, a room temperature thermometer inserted into a hot cup of liquid cools the liquid while the liquid heats the thermometer. Sensors are usually designed to have a small effect on what is measured; making the sensor smaller often improves this and may introduce other advantages. Technological progress allows more and more sensors to be manufactured on a microscopic scale as microsensors using MEMS technology. In most cases, a microsensor reaches a significantly faster measurement time and higher sensitivity compared with macroscopic approaches. Due the increasing demand for rapid, affordable and reliable information in today's world, disposable sensors—low-cost and easy‐to‐use devices for short‐term monitoring or single‐shot measurements—have recently gained growing importance. Using this class of sensors, critical analytical information can be obtained by anyone, anywhere and at any time, without the need for recalibration and worrying about contamination.	device that measures a physical quantity and converts it into a signal	wikipedia
+Sensors and processing systems	processing	3% s puʁ ˈsẽ	Brazilian TV series	wikipedia
+Sensors and processing systems	system	A system is a group of interacting or interrelated entities that form a unified whole. A system is described by its spatial and temporal boundaries, surrounded and influenced by its environment, described by its structure and purpose and expressed in its functioning. Systems are the subjects of study of systems theory.	set of interacting or interdependent components	wikipedia
+Sensors and processing systems	sensors	any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner	detector, sensor, sensing_element	wordnet
+Sensors and processing systems	processing	preparing or putting through a prescribed procedure	processing	wordnet
+Sensors and processing systems	systems	(physical chemistry) a sample of matter in which substances in different phases are in equilibrium	system	wordnet
+Sensors and processing systems	sensor	Sensor is a device	NA	GenericsKB
+Sensors and processing systems	processing	Processing cows Processing cows usually revolves around pregnancy testing	NA	GenericsKB
+Sensors and processing systems	system	System clock The oscillator that controls the timing of signals on a circuit board	NA	GenericsKB
+Arnament	arnament			wordnet
+Armor	armor	"Armour or armor is a protective covering that is used to prevent damage from being inflicted to an object, individual or vehicle by direct contact weapons or projectiles, usually during combat, or from damage caused by a potentially dangerous environment or activity . Personal armour is used to protect soldiers and war animals. Vehicle armour is used on warships and armoured fighting vehicles. A second use of the term armour describes armoured forces, armoured weapons, and their role in combat. After the evolution of armoured warfare, mechanised infantry and their weapons came to be referred to collectively as ""armour""."	protective covering or reinforcement for objects, persons, or animals that is used to prevent damage from direct contact weapons or projectiles, usually in combat	wikipedia
+Armor	armor	protective covering made of metal and used in combat	armor, armour	wordnet
+Armor	armor	the protective layer or shell of some animals and plants.	NA	owlbot
+Armor	armor	Armor has edges	NA	GenericsKB
+Aircraft carried	aircraft	An aircraft is a vehicle that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or by using the dynamic lift of an airfoil, or in a few cases the downward thrust from jet engines. Common examples of aircraft include airplanes, helicopters, airships , gliders, paramotors and hot air balloons. The human activity that surrounds aircraft is called aviation. The science of aviation, including designing and building aircraft, is called aeronautics. Crewed aircraft are flown by an onboard pilot, but unmanned aerial vehicles may be remotely controlled or self-controlled by onboard computers. Aircraft may be classified by different criteria, such as lift type, aircraft propulsion, usage and others.	machine that is able to fly by gaining support from the air other than the reactions of the air against the earth’s surface	wikipedia
+Aircraft carried	carry	A carny is a carnival employee	NA	wikipedia
+Aircraft carried	aircraft	a vehicle that can fly	aircraft	wordnet
+Aircraft carried	carried	serve as a means for expressing something	carry, convey, express	wordnet
+Aircraft carried	aircraft	Aircraft also generate more atmospheric pollution per person km than road vehicles	NA	GenericsKB
+Aircraft carried	carry	Carry is transportation	NA	GenericsKB

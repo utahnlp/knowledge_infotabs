@@ -1,0 +1,61 @@
+{
+  "title": [
+    "2.2 & 2.5 engine"
+  ],
+  "Manufacturer": [
+    "Chrysler"
+  ],
+  "Production": [
+    "1981-1995"
+  ],
+  "Configuration": [
+    "inline-four"
+  ],
+  "Displacement": [
+    "2213 cc (135.0 cu in)",
+    "2501 cc (152.6 cu in)"
+  ],
+  "Cylinder bore": [
+    "87.5 mm (3.44 in)"
+  ],
+  "Piston stroke": [
+    "92 mm (3.62 in)",
+    "104 mm (4.09 in)"
+  ],
+  "Block material": [
+    "Cast Iron"
+  ],
+  "Head material": [
+    "Aluminum"
+  ],
+  "Valvetrain": [
+    "Double overhead camshafts",
+    "Single overhead camshaft"
+  ],
+  "Compression ratio": [
+    "8.1:1",
+    "8.5:1",
+    "8.9:1",
+    "9.0: 1",
+    "9.5:1"
+  ],
+  "Fuel system": [
+    "Carburetor",
+    "Single-point fuel injection",
+    "Multi-point fuel injection"
+  ],
+  "Fuel type": [
+    "Gasoline",
+    "Methanol"
+  ],
+  "Oil system": [
+    "Wet sump"
+  ],
+  "Cooling system": [
+    "Water-cooled"
+  ],
+  "Successor": [
+    "AMC straight-4 engine",
+    "Chrysler 1.8, 2.0 & 2.4 engine"
+  ]
+}

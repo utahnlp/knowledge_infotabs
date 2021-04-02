@@ -1,0 +1,65 @@
+{
+  "title": [
+    "REX Richmond Highway Express"
+  ],
+  "System": [
+    "Metrobus"
+  ],
+  "Operator": [
+    "Washington Metropolitan Area Transit Authority"
+  ],
+  "Garage": [
+    "Cinder Bed"
+  ],
+  "Vehicle": [
+    "New Flyer DE40LFA"
+  ],
+  "Livery": [
+    "Richmond Highway Express"
+  ],
+  "Status": [
+    "In Service"
+  ],
+  "Began service": [
+    "September 26, 2004"
+  ],
+  "Predecessors": [
+    "Metrobus 9A"
+  ],
+  "Locale": [
+    "City of Alexandria , Fairfax County"
+  ],
+  "Communities served": [
+    "Old Town Alexandria, Huntington, Virginia, Groveton, Virginia, Hybla Valley, Virginia, Mount Vernon, Virginia, Woodlawn, Virginia"
+  ],
+  "Landmarks served": [
+    "King Street-Old Town station, Eisenhower Avenue station, Huntington station, Fort Belvoir"
+  ],
+  "Start": [
+    "King Street-Old Town station"
+  ],
+  "Via": [
+    "Richmond Highway"
+  ],
+  "End": [
+    "Fort Belvoir"
+  ],
+  "Length": [
+    "15 miles (24.14 km)"
+  ],
+  "Level": [
+    "Daily"
+  ],
+  "Frequency": [
+    "10-25 minutes (Rush Hour) , 30 minutes (Midday and Weekday Evening Service) , 30 minutes (Saturday) , 60 minutes (Sunday)"
+  ],
+  "Operates": [
+    "5:00 AM - 11:39 PM (Weekdays) , 5:00 AM - 10:56 PM (Saturdays) , 5:00 AM - 10:00 PM (Sundays)"
+  ],
+  "Transfers": [
+    "SmarTrip only"
+  ],
+  "Timetable": [
+    "Richmond Highway Express"
+  ]
+}

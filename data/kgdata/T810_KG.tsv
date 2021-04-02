@@ -1,0 +1,22 @@
+key	keyword	definition	description	source
+Type	type	Categorization is an activity that consists of putting things into categories based on their similarities or common criteria	cognitive process in which ideas and objects are recognized, differentiated, and understood	wikipedia
+Type	type	(biology) the taxonomic group whose characteristics are used to define the next higher taxon	type	wordnet
+Type	type	a design on either side of a medal or coin.	NA	owlbot
+Type	type	A type is a kind	NA	GenericsKB
+Mayor	mayor	In many countries, a mayor is the highest-ranking official in a municipal government such as that of a city or a town. Worldwide, there is a wide variance in local laws and customs regarding the powers and responsibilities of a mayor as well as the means by which a mayor is elected or otherwise mandated. Depending on the system chosen, a mayor may be the chief executive officer of the municipal government, may simply chair a multi-member governing body with little or no independent power, or may play a solely ceremonial role. Options for selection of a mayor include direct election by the public, or selection by an elected governing council or board.	head of municipal government such as a town or city	wikipedia
+Mayor	mayor	the head of a city government	mayor, city_manager	wordnet
+Mayor	mayor	(in England, Wales, and Northern Ireland) the head of a town, borough, or county council, elected by council members and generally having purely ceremonial duties.	NA	owlbot
+Mayor	mayor	A mayor is civil authority	NA	GenericsKB
+Vice mayor	vice mayor	The deputy mayor is an elective or appointive office of the second-ranking official that is present in many, but not all, local governments.	governance position - the second in command mayor	wikipedia
+Vice mayor	vice	moral weakness	frailty, vice	wordnet
+Vice mayor	mayor	the head of a city government	mayor, city_manager	wordnet
+Vice mayor	vice	Vice is located in workshops	NA	GenericsKB
+Vice mayor	mayor	A mayor is civil authority	NA	GenericsKB
+City council	city council	A city council , town council , town board , or board of aldermen is the legislative body that governs a city, town, municipality, or local government area.	legislative body that governs a city, municipality or local government area	wikipedia
+City council	city	people living in a large densely populated municipality	city, metropolis	wordnet
+City council	council	(Christianity) an assembly of theologians and bishops and other representatives of different churches or dioceses that is convened to regulate matters of discipline or doctrine	council	wordnet
+City council	city council	City councils are councils	NA	GenericsKB
+City Manager	city manager	A city manager is an official appointed as the administrative manager of a city, in a council–manager form of city government. Local officials serving in this position are sometimes referred to as the chief executive officer or chief administrative officer in some municipalities.	official appointed as the administrative manager of a city, in a council-manager form of city government	wikipedia
+City Manager	city	people living in a large densely populated municipality	city, metropolis	wordnet
+City Manager	manager	someone who controls resources and expenditures	director, manager, managing_director	wordnet
+City Manager	city manager	A city manager is civil authority	NA	GenericsKB

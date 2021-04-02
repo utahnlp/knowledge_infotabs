@@ -1,0 +1,54 @@
+{ 
+    "title": ["Igor Tamm"], 
+    "Born": [
+        "8 July 1895  Vladivostok, Russian Empire"
+    ], 
+    "Birth name":[
+        "Igor Yevgenyevich Tamm"
+    ],
+    "Died": [
+        "12 April 1971 (aged 75)   Moscow, Russian SFSR, Soviet Union"
+    ], 
+    "Resting place": [
+        "Novodevichy Cemetery, Moscow"
+    ], 
+    "Nationality": [
+        "Soviet Union"
+    ], 
+    "Alma mater": [
+        "Moscow State University", 
+        "Edinburgh University"
+    ], 
+    "Known for": [
+        "Tamm states", 
+        "Neutron magnetic moment", 
+        "Cherenkov-Vavilov effect", 
+        "Frank-Tamm formula", 
+        "Tamm-Dancoff approximation", 
+        "Hydrogen bomb", 
+        "Tokamak", 
+        "Phonon"
+    ], 
+    "Awards": [
+        "1967  Lomonosov Gold Medal",  
+        "1958  Nobel Prize in Physics",   
+        "1954  Order of the Hero of Socialist Labour",  
+        "Stalin Prize"
+    ], 
+    "Fields": [
+        "Particle physics"
+    ], 
+    "Institutions": [
+        "Second Moscow State University", 
+        "Moscow State University",  
+        "Moscow Institute of Physics and Technology",  
+        "Lebedev Physical Institute"
+    ], 
+    "Doctoral students": [
+        "Vitaly Ginzburg", 
+        "Andrey Sakharov", 
+        "Leonid Keldysh", 
+        "Leonid Brekhovskikh", 
+        "Anatoly Vlasov"
+    ]
+}

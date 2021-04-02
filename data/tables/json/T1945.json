@@ -1,0 +1,28 @@
+{ 
+    "title": ["Jacques Cousteau"], 
+    "Born": [
+        "11 June 1910  Saint-Andre-de-Cubzac, France"
+    ], 
+    "Birth name":[
+        "Jacques-Yves Cousteau"
+    ],
+    "Died": [
+        "25 June 1997 (aged 87)  Paris, France"
+    ], 
+    "Nationality": [
+        "French"
+    ], 
+    "Occupation": [
+        "Oceanographer"
+    ], 
+    "Spouse(s)": [
+        "Simone Melchior Cousteau (1937-1990, her death)",
+        "Francine Triplet Cousteau (1991-1997)"
+    ], 
+    "Children": [
+        "Jean-Michel", 
+        "Philippe Cousteau", 
+        "Diane", 
+        "Pierre-Yves"
+    ]
+}
