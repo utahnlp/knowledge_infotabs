@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ```
 
-## 1. KG data(optional)
+## 1. KG data (optional)
 We are using bert-as-service which utlise cloud TPU for disambiguation purpose. Look up [here](https://github.com/hanxiao/bert-as-service) for the documentation. For convenience we have already provided the extracted kg data which can be found in ```/data/kgdata/```
 
 ```
@@ -74,7 +74,7 @@ python3 extract_kg.py
 
 The data is extracted into ```/data/kgdata/```
 
-## 2. Preprocessing 
+## 2. Preprocessing (optional)
 ```data/maindata``` and ```data/tables``` will be the primary folders we use for the preprocessing
 
 ### 2.1 Preprocessing
