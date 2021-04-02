@@ -11,7 +11,7 @@ def config(parser):
     parser.add_argument(
         '--json_dir', default="./../data/tables/json/", type=str)
     parser.add_argument(
-        '--data_dir', default="./../temp/data/drr/", type=str)
+        '--data_dir', default="./../../temp/data/drr/", type=str)
     parser.add_argument(
         '--splits',
         default=[
@@ -25,7 +25,7 @@ def config(parser):
     parser.add_argument(
         '--KG_dir', default="./../data/kg_explicit/", type=str)
     parser.add_argument(
-        '--output_dir', default="./../temp/data/kg_explicit", type=str)
+        '--output_dir', default="./../../temp/data/kg_explicit", type=str)
     parser.add_argument(
         '--kg_threshold', default=4, type=int)
     parser.add_argument(

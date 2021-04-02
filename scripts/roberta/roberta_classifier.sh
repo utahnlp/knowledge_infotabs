@@ -7,11 +7,11 @@ python3 roberta_classifier.py \
 	--mode "train" \
 	--epochs 15 \
 	--batch_size 8 \
-	--in_dir "./../temp/processed/bpr/" \
+	--in_dir "./../../temp/processed/bpr/" \
 	--embed_size 1024 \
-	--model_dir "./../temp/models/bpr/" \
+	--model_dir "./../../temp/models/bpr/" \
 	--model_name "" \
-	--save_dir "./../temp/models/" \
+	--save_dir "./../../temp/models/" \
 	--save_folder "bpr/" \
 	--nooflabels 3 \
 	--save_enable 0 \
@@ -29,11 +29,11 @@ python3 roberta_classifier.py \
 	--mode "train" \
 	--epochs 15 \
 	--batch_size 8 \
-	--in_dir "./../temp/processed/bpr/" \
+	--in_dir "./../../temp/processed/bpr/" \
 	--embed_size 1024 \
-	--model_dir "./../temp/models/kg_implicit/" \
+	--model_dir "./../../temp/models/kg_implicit/" \
 	--model_name "" \
-	--save_dir "./../temp/models/" \
+	--save_dir "./../../temp/models/" \
 	--save_folder "kg_implicit/" \
 	--nooflabels 3 \
 	--save_enable 0 \
@@ -51,11 +51,11 @@ python3 roberta_classifier.py \
 	--mode "train" \
 	--epochs 15 \
 	--batch_size 8 \
-	--in_dir "./../temp/processed/drr/" \
+	--in_dir "./../../temp/processed/drr/" \
 	--embed_size 1024 \
-	--model_dir "./../temp/models/drr/" \
+	--model_dir "./../../temp/models/drr/" \
 	--model_name "" \
-	--save_dir "./../temp/models/" \
+	--save_dir "./../../temp/models/" \
 	--save_folder "drr/" \
 	--nooflabels 3 \
 	--save_enable 0 \
@@ -73,11 +73,11 @@ python3 roberta_classifier.py \
 	--mode "train" \
 	--epochs 15 \
 	--batch_size 8 \
-	--in_dir "./../temp/processed/kg_explicit/" \
+	--in_dir "./../../temp/processed/kg_explicit/" \
 	--embed_size 1024 \
-	--model_dir "./../temp/models/kg_explicit/" \
+	--model_dir "./../../temp/models/kg_explicit/" \
 	--model_name "" \
-	--save_dir "./../temp/models/" \
+	--save_dir "./../../temp/models/" \
 	--save_folder "kg_explicit/" \
 	--nooflabels 3 \
 	--save_enable 0 \
@@ -94,11 +94,11 @@ python3 roberta_classifier.py \
 	--mode "train" \
 	--epochs 15 \
 	--batch_size 8 \
-	--in_dir "./../temp/processed/drr_ablation/" \
+	--in_dir "./../../temp/processed/drr_ablation/" \
 	--embed_size 1024 \
-	--model_dir "./../temp/models/drr_ablation/" \
+	--model_dir "./../../temp/models/drr_ablation/" \
 	--model_name "" \
-	--save_dir "./../temp/models/" \
+	--save_dir "./../../temp/models/" \
 	--save_folder "drr_ablation/" \
 	--nooflabels 3 \
 	--save_enable 0 \
@@ -113,11 +113,11 @@ python3 roberta_classifier.py \
 	--mode "train" \
 	--epochs 15 \
 	--batch_size 8 \
-	--in_dir "./../temp/processed/kg_explicit_ablation/" \
+	--in_dir "./../../temp/processed/kg_explicit_ablation/" \
 	--embed_size 1024 \
-	--model_dir "./../temp/models/kg_explicit_ablation/" \
+	--model_dir "./../../temp/models/kg_explicit_ablation/" \
 	--model_name "" \
-	--save_dir "./../temp/models/" \
+	--save_dir "./../../temp/models/" \
 	--save_folder "kg_explicit_ablation/" \
 	--nooflabels 3 \
 	--save_enable 0 \
@@ -132,11 +132,11 @@ python3 roberta_classifier.py \
 	--mode "train" \
 	--epochs 15 \
 	--batch_size 8 \
-	--in_dir "./../temp/processed/opr/" \
+	--in_dir "./../../temp/processed/opr/" \
 	--embed_size 1024 \
-	--model_dir "./../temp/models/kg_implicit_ablation/" \
+	--model_dir "./../../temp/models/kg_implicit_ablation/" \
 	--model_name "" \
-	--save_dir "./../temp/models/" \
+	--save_dir "./../../temp/models/" \
 	--save_folder "kg_implicit_ablation/" \
 	--nooflabels 3 \
 	--save_enable 0 \

@@ -12,7 +12,7 @@ import time, os, sys
 
 def preprocess_config(parser):
 	parser.add_argument('--max_len', default= 512, type=int)
-	parser.add_argument('--data_dir', default="./../../temp/data/", type=str)
+	parser.add_argument('--data_dir', default="./../../../temp/data/", type=str)
 	parser.add_argument('--in_dir', default="parapremise",type=str)
 	parser.add_argument('--out_dir',default="../processed/parapremise",type=str)
 	parser.add_argument('--single_sentence', default=0,type=int)

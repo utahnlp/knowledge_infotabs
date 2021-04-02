@@ -42,7 +42,7 @@ def config(parser):
      type=str)
     parser.add_argument(
     '--save_dir',
-    default="./../../temp/parapremise",
+    default="./../../../temp/parapremise",
      type=str)
     parser.add_argument(
         '--map', default="mnli", type=str)

@@ -67,7 +67,7 @@ The data is extracted into ```/data/kgdata/```
 ### 2.1 Preprocessing
 Preprocessing is divided into two steps
 
-First generate the premises for the steps BPR, DRR and KG explicit from the json files. Assume the data is downloaded and unpacked into ```data/maindata/```.  For convenience we have already provided the preprocessed files in ```/scripts/temp/data/``` . However you can also generate them as follows:
+First generate the premises for the steps BPR, DRR and KG explicit from the json files. Assume the data is downloaded and unpacked into ```data/maindata/```.  For convenience we have already provided the preprocessed files in ```/temp/data/``` . However you can also generate them as follows:
  
 There are four ```.py``` files for preprocessing ```bpr.py, opr.py, drr.py, kg_explicit.py```
 
@@ -81,7 +81,7 @@ important argument details in bpr.py
 --mode set as 1 to add newline character between every sentence (this makes it easier to split sentences while performing drr step as splitting by . splits abbreviations and leads to unfavourale situations). Set to 0 for normal paragraph used in bpr. Default value is set to 0.
 --map set to "mnli" for mapping C-0, N-1 and E-2 (we use this as while using implicit knowledge the model is pretrained considering this mapping and hence it makes things easier). We set this to default as opposed to the mapping E-0, N-1 and C-2 used in the InfoTabS code.
 --data_dir set to the directory containing the maindata and the hypothesis etc. i.e. we set it to a folder named ./../data/maindata/ in this case
---save_dir set to the directory where the generated bpr data will be saved. Here we have set it to ./../temp/data/bpr/
+--save_dir set to the directory where the generated bpr data will be saved. Here we have set it to ./../../temp/data/bpr/
 --cat_dir set to the directory containing the table_categories.tsv file with the categories of each table
 --splits data split names for which the bpr is to be generated. Default is set to all the splits ["train","dev","test_alpha1","test_alpha2","test_alpha3","test_alpha2_orignal"]
 
@@ -97,8 +97,8 @@ important argument details in bpr.py
 important argument details in drr.py
 
 --json_dir set as the directory path of the json files, i.e we set it to a folder named ./../data/tables/json/ in this case
---data_dir set to the directory containing the data after running bpr.py with mode set to 1 (with newline character between sentences) i.e. we set it to a folder named ./../temp/drr/ in this case
---save_dir set to the directory where the generated drr data will be saved. Here we have set it to ./../temp/data/drr/
+--data_dir set to the directory containing the data after running bpr.py with mode set to 1 (with newline character between sentences) i.e. we set it to a folder named ./../../temp/drr/ in this case
+--save_dir set to the directory where the generated drr data will be saved. Here we have set it to ./../../temp/data/drr/
 --threshold this can be used to vary the value of our hyperparameter k (considers the top k rows)
 --splits data split names for which the drr is to be generated. Default is set to all the splits [train, dev, test_alpha1, test_alpha2, test_alpha3, test_alpha2_orignal]
 --sort set to 1 to arrange the sentences in order of obtained alignment scores from highest to lowest. Before adding KG explicit we additionally sort the important rows so that rows required for inference and their corresponding KG explicit are less likely to exceede BERT tokenisation limit on knowledge addition. Default value is set to 0(no sorted order)
@@ -113,11 +113,11 @@ important argument details in drr.py
 important argument details in kg_explicit.py
 
 --json_dir set as the directory path of the json files, i.e we set it to a folder named ./../data/tables/json/ in this case
---data_dir set to the directory containing the data after running bpr.py with mode set to 1 (with newline character between sentences) i.e. we set it to a folder named ./../temp/drr/ in this case
+--data_dir set to the directory containing the data after running bpr.py with mode set to 1 (with newline character between sentences) i.e. we set it to a folder named ./../../temp/drr/ in this case
 --KG_dir set to the directory containing the extracted KG explicit data (from sources such as Wordnet and Wikipedia) i.e. here we have set it to 
 --threshold this can be used to vary the value of our hyperparameter k (considers the top k rows)
 --splits data split names for which the drr is to be generated. Default is set to all the splits [train, dev, test_alpha1, test_alpha2, test_alpha3, test_alpha2_orignal]
---output_dir set to the directory where the generated data along with KG explicit will be stored i.e. ./../temp/data/kg_explicit
+--output_dir set to the directory where the generated data along with KG explicit will be stored i.e. ./../../temp/data/kg_explicit
 --kg_threshold this can be used to vary the amount of knowledge added (hyperparameter k1). We will add knowledge for the keys of the top k1 rows.
 --order default value is set to end. In this case the knowledge is added to the end of the paragraph otherwise it is added to the start.
 
@@ -130,8 +130,8 @@ To generate all the premises for main results from the json files, use ```json_t
 
 cd scripts
 cd preprocess
-mkdir -p./../temp
-mkdir -p ./../temp/data
+mkdir -p ./../../temp
+mkdir -p ./../../temp/data
 bash json_to_all.sh
 
 ```
@@ -142,8 +142,8 @@ Now, generate the premises for ablation studies from the json file, use ```json_
 
 cd scripts
 cd preprocess
-mkdir -p./../temp
-mkdir -p ./../temp/data
+mkdir -p./../../temp
+mkdir -p ./../../temp/data
 bash json_to_ablation.sh
 
 ```
@@ -205,7 +205,7 @@ Then we need to batch the examples and vectorize them:
 ```
 
 cd ../roberta
-mkdir ../temp/processed                         
+mkdir ../../temp/processed                         
 bash preprocess_roberta.sh 
 
 ```
@@ -229,7 +229,7 @@ temp/processed/
 
 ```
 
-mkdir -p ./../temp/models/
+mkdir -p ./../../temp/models/
 
 ```
 The above directory will contain all the trained models
@@ -271,7 +271,7 @@ important argument details which could be reset as needed for training and predi
 -- embed_size: set embedding size, i.e., (768/1024). Use 768 for Bert-small and 1024 for Bert-Large.
 -- model_dir: use the model directory containing the train model (only used while prediction, i.e., model is "test")
 -- model_name: model finename usually is in format 'model_<batch_number>_<dev_accuracy>' (only used while prediction, i.e., model is "test")
--- save_folder: name the primary models directory appropriately as ./../.../temp/models/ (only used while training i.e., model is "train")
+-- save_folder: name the primary models directory appropriately as ./../../temp/models/ (only used while training i.e., model is "train")
 -- save_dir: name the primary models directory appropriately, usually same as the in_dir final directory (only used while training, i.e., model is "train")
 -- nooflabels: set as 3 as three labels entailment, neutral and contradiction)
 -- save_enable: set as 1 to save prediction files as predict_<datsetname>.json in model_dir. json contains accuracy, predicted label and gold label (in the same sequence order as the dataset set tsv in temp/data/)  (only used while prediction, i.e., model is "test")

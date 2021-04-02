@@ -396,7 +396,7 @@ def config(parser):
     parser.add_argument(
         '--data_dir', default="./../data/maindata/", type=str)
     parser.add_argument(
-        '--save_dir', default="./../temp/bpr/", type=str)
+        '--save_dir', default="./../../temp/bpr/", type=str)
     parser.add_argument('--cat_dir', default="./../data/tables/", type=str)
     parser.add_argument(
         '--splits',

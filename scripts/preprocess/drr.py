@@ -151,9 +151,9 @@ def config(parser):
     parser.add_argument(
         '--json_dir', default="./../data/tables/json/", type=str)
     parser.add_argument(
-        '--data_dir', default="./../temp/data/drr/", type=str)
+        '--data_dir', default="./../../temp/data/drr/", type=str)
     parser.add_argument(
-        '--save_dir', default="./../temp/data/drr/", type=str)
+        '--save_dir', default="./../../temp/data/drr/", type=str)
     parser.add_argument(
         '--sort', default="0", type=str)
     parser.add_argument(
