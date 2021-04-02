@@ -298,7 +298,7 @@ important argument details which could be reset as needed for training and predi
 
 ```
 
-The commands in the file roberta_classifier.sh can be referred to for replicating thr results of Table 2 and Table 3 in the paper. Seeds used to replicate paper results can be found in the same bash file as well
+The commands in the file ```roberta_classifier.sh``` can be referred to for replicating the results of ```Table 2``` and ```Table 3``` in the paper. Seeds used to replicate paper results can be found in the same bash file as well.
 
 After training you would see a ```temp/models/``` folder. ```temp/models/``` will contain sub-folders for several premise types. Furthermore, prediction would create ```predict_<split>.json``` files. For example,
 
