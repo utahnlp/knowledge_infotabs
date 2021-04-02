@@ -5,27 +5,21 @@
     <img width="70%" src="logo_infotabs.png" />
 </p>
 
-Implementation of the knowledge incorporation for semi-structured inference(InfoTabS) our [NAACL 2021](https://2021.naacl.org/) paper: [Incorporating External Knowledge to Enhance Tabular Reasoning](). 
+Implementation of the knowledge incorporation for semi-structured inference (InfoTabS) our [NAACL 2021](https://2021.naacl.org/) paper: [Incorporating External Knowledge to Enhance Tabular Reasoning](). 
 
 ## 0. Prerequisites
 Download and unpack INFOTABS dataset into ```./data``` in the main code folder. This step is optional as we have already provided the INFOTABS data which can be found in ```/data/maindata/``` and ```/data/tables/ ```
 
 
 ```
-
 conda env create --name myenv --file environment.yaml
 conda activate myenv
-
-
 ```
 
 some packages in the conda environment are required to be installed by pip
 
 ```
-
 pip install -r requirements.txt
-
-
 ```
 
 ## 1. KG data (optional)
@@ -36,7 +30,6 @@ We are using bert-as-service which utlise cloud TPU for disambiguation purpose. 
 cd scripts
 cd kg_extraction
 
-
 ```
 
 However you can extract kg as follows:
@@ -45,9 +38,7 @@ However you can extract kg as follows:
 ### 1.1 Download pre-trained BERT Model:
 
 ```
-
 mkdir -p tmp
-
 ```
 
 Download the BERT-Base, Uncased model, from [here](https://github.com/hanxiao/bert-as-service) and uncompress the zip file into the folder ```tmp```. 
@@ -59,17 +50,13 @@ Download the BERT-Base, Uncased model, from [here](https://github.com/hanxiao/be
 
 bert-serving-start -model_dir tmp/uncased_L-12_H-768_A-12/ -max_seq_len NONE -pooling_strategy NONE -show_tokens_to_client 
 
-
 ```
 
 ### 1.3 KG Extraction:
 We can extract the KG data by running the following line of code in a different terminal to the server:
 
 ```
-
 python3 extract_kg.py 
-
-
 ```
 
 The data is extracted into ```/data/kgdata/```
@@ -84,15 +71,15 @@ First generate the premises for the steps BPR, DRR and KG explicit from the json
  
 There are four ```.py``` files for preprocessing ```bpr.py, opr.py, drr.py, kg_explicit.py```
 
-```bpr.py``` : It is used to generate data for the Better Paragraph Representation(BPR) step. We also use this file to generate better paragraph representation but with a newline character in between sentences to split the sentences better for the DRR or Distracting Row Removal step.
+```bpr.py``` : It is used to generate data for the Better Paragraph Representation (BPR) step. We also use this file to generate better paragraph representation but with a newline character in between sentences to split the sentences better for the DRR or Distracting Row Removal step.
 
 ```
 
 important argument details in bpr.py
 
 --json_dir set as the directory path of the json files, i.e we set it to a folder named ./../data/tables/json/ in this case
---mode set as 1 to add newline character between every sentence(this makes it easier to split sentences while performing drr step as splitting by . splits abbreviations and leads to unfavourale situations). Set to 0 for normal paragraph used in bpr. Default value is set to 0.
---map set to "mnli" for mapping C-0, N-1 and E-2(we use this as while using implicit knowledge the model is pretrained considering this mapping and hence it makes things easier). We set this to default as opposed to the mapping E-0, N-1 and C-2 used in the InfoTabS code.
+--mode set as 1 to add newline character between every sentence (this makes it easier to split sentences while performing drr step as splitting by . splits abbreviations and leads to unfavourale situations). Set to 0 for normal paragraph used in bpr. Default value is set to 0.
+--map set to "mnli" for mapping C-0, N-1 and E-2 (we use this as while using implicit knowledge the model is pretrained considering this mapping and hence it makes things easier). We set this to default as opposed to the mapping E-0, N-1 and C-2 used in the InfoTabS code.
 --data_dir set to the directory containing the maindata and the hypothesis etc. i.e. we set it to a folder named ./../data/maindata/ in this case
 --save_dir set to the directory where the generated bpr data will be saved. Here we have set it to ./../temp/data/bpr/
 --cat_dir set to the directory containing the table_categories.tsv file with the categories of each table
@@ -103,16 +90,16 @@ important argument details in bpr.py
 
 ```opr.py```: It is used to generate the same data for Paragraph Representation as used in the InfoTabS paper, same as  [infotabs](https://github.com/utahnlp/infotabs-code/blob/master/scripts/preprocess/json_to_para.py). This is used to generate data for testing out DRR step in the ablation. Important arguments are the same as bpr.py. Refer above.
 
-```drr.py```: It is used to generate the data for the Distracting Row Removal(DRR) step.
+```drr.py```: It is used to generate the data for the Distracting Row Removal (DRR) step.
 
 ```
 
 important argument details in drr.py
 
 --json_dir set as the directory path of the json files, i.e we set it to a folder named ./../data/tables/json/ in this case
---data_dir set to the directory containing the data after running bpr.py with mode set to 1(with newline character between sentences) i.e. we set it to a folder named ./../temp/drr/ in this case
+--data_dir set to the directory containing the data after running bpr.py with mode set to 1 (with newline character between sentences) i.e. we set it to a folder named ./../temp/drr/ in this case
 --save_dir set to the directory where the generated drr data will be saved. Here we have set it to ./../temp/data/drr/
---threshold this can be used to vary the value of our hyperparameter k(considers the top k rows)
+--threshold this can be used to vary the value of our hyperparameter k (considers the top k rows)
 --splits data split names for which the drr is to be generated. Default is set to all the splits [train, dev, test_alpha1, test_alpha2, test_alpha3, test_alpha2_orignal]
 --sort set to 1 to arrange the sentences in order of obtained alignment scores from highest to lowest. Before adding KG explicit we additionally sort the important rows so that rows required for inference and their corresponding KG explicit are less likely to exceede BERT tokenisation limit on knowledge addition. Default value is set to 0(no sorted order)
 
@@ -126,12 +113,12 @@ important argument details in drr.py
 important argument details in kg_explicit.py
 
 --json_dir set as the directory path of the json files, i.e we set it to a folder named ./../data/tables/json/ in this case
---data_dir set to the directory containing the data after running bpr.py with mode set to 1(with newline character between sentences) i.e. we set it to a folder named ./../temp/drr/ in this case
---KG_dir set to the directory containing the extracted KG explicit data(from sources such as Wordnet and Wikipedia) i.e. here we have set it to 
---threshold this can be used to vary the value of our hyperparameter k(considers the top k rows)
+--data_dir set to the directory containing the data after running bpr.py with mode set to 1 (with newline character between sentences) i.e. we set it to a folder named ./../temp/drr/ in this case
+--KG_dir set to the directory containing the extracted KG explicit data (from sources such as Wordnet and Wikipedia) i.e. here we have set it to 
+--threshold this can be used to vary the value of our hyperparameter k (considers the top k rows)
 --splits data split names for which the drr is to be generated. Default is set to all the splits [train, dev, test_alpha1, test_alpha2, test_alpha3, test_alpha2_orignal]
 --output_dir set to the directory where the generated data along with KG explicit will be stored i.e. ./../temp/data/kg_explicit
---kg_threshold this can be used to vary the amount of knowledge added(hyperparameter k1). We will add knowledge for the keys of the top k1 rows.
+--kg_threshold this can be used to vary the amount of knowledge added (hyperparameter k1). We will add knowledge for the keys of the top k1 rows.
 --order default value is set to end. In this case the knowledge is added to the end of the paragraph otherwise it is added to the start.
 
 
@@ -217,11 +204,9 @@ Then we need to batch the examples and vectorize them:
 
 ```
 
-
 cd ../roberta
 mkdir ../temp/processed                         
 bash preprocess_roberta.sh 
-
 
 ```
 
@@ -279,7 +264,6 @@ important argument details which could be reset as needed for training and predi
 
 ```
 
-
 -- mode: set "train" for training, set "test" for prediction
 -- epochs: set training epochs number (only used while training, i.e., model is "train")
 -- batch_size: set batch size for training (only used while training)
@@ -309,8 +293,8 @@ temp/models/
 └── bpr                                             # bpr
     ├── model_<epoch_no>_<dev_accuracy>             # save models after every epoch
     ├── scores_<epoch_no>_dev.json                  # development prediction json results
-    ├── scores_<epoch_no>_test.json             # test alpha1 prediction json results
-    └── predict_<split>.json                    # prediction json (when predicting with argument "-- save_enable" set to 1)
+    ├── scores_<epoch_no>_test.json                 # test alpha1 prediction json results
+    └── predict_<split>.json                        # prediction json (when predicting with argument "-- save_enable" set to 1)
 
 ```
 
