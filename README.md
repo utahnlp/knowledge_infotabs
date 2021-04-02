@@ -1,7 +1,7 @@
 # Incorporating External Knowledge to Enhance Tabular Reasoning
 
 <p align="center">
-    <img width="20%" src="logo_knowledge.jpg" /> 
+    <img width="15%" src="logo_knowledge.jpg" /> 
     <img width="80%" src="logo_infotabs.png" />
 </p>
 
