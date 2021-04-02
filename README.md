@@ -320,7 +320,7 @@ temp/models/
 
 @inproceedings{gupta-etal-2021-infotabskg,
     title = "Incorporating External Knowledge to Enhance Tabular Reasoning",
-    author = "Jayakumar , Neeraja  and
+    author = "J. Neeraja  and
       Gupta, Vivek  and
       Srikumar, Vivek",
     booktitle = "Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics",
