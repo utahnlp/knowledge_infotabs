@@ -1,8 +1,8 @@
 # Incorporating External Knowledge to Enhance Tabular Reasoning
 
 <p align="center">
-    <img width="15%" src="logo_knowledge.jpg" /> 
-    <img width="80%" src="logo_infotabs.png" />
+    <img width="18%" src="logo_knowledge.jpg" /> 
+    <img width="75%" src="logo_infotabs.png" />
 </p>
 
 Implementation of the knowledge incorporation for semi-structured inference(InfoTabS) our [NAACL 2021](https://2021.naacl.org/) paper: [Incorporating External Knowledge to Enhance Tabular Reasoning](). 
