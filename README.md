@@ -318,16 +318,19 @@ temp/models/
     abstract = "In this paper, we observe that semi-structured tabulated text is ubiquitous; understanding them requires not only comprehending the meaning of text fragments, but also implicit relationships between them. We argue that such data can prove as a testing ground for understanding how we reason about information. To study this, we introduce a new dataset called INFOTABS, comprising of human-written textual hypotheses based on premises that are tables extracted from Wikipedia info-boxes. Our analysis shows that the semi-structured, multi-domain and heterogeneous nature of the premises admits complex, multi-faceted reasoning. Experiments reveal that, while human annotators agree on the relationships between a table-hypothesis pair, several standard modeling strategies are unsuccessful at the task, suggesting that reasoning about tables can pose a difficult modeling challenge.",
 }
 
-@inproceedings{neeraja-etal-2021-infotabskg,
+@inproceedings{neeraja-etal-2021-incorporating,
     title = "Incorporating External Knowledge to Enhance Tabular Reasoning",
-    author = "J. Neeraja  and
+    author = "Neeraja, J.  and
       Gupta, Vivek  and
       Srikumar, Vivek",
-    booktitle = "Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics",
-    month = june,
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
     year = "2021",
     address = "Online",
-    publisher = "Association for Computational Linguistics"
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.naacl-main.224",
+    pages = "2799--2809",
+    abstract = "Reasoning about tabular information presents unique challenges to modern NLP approaches which largely rely on pre-trained contextualized embeddings of text. In this paper, we study these challenges through the problem of tabular natural language inference. We propose easy and effective modifications to how information is presented to a model for this task. We show via systematic experiments that these strategies substantially improve tabular inference performance.",
 }
 
 ```
