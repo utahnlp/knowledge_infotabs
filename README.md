@@ -5,7 +5,7 @@
     <img width="70%" src="logo_infotabs.png" />
 </p>
 
-Implementation of the knowledge incorporation for semi-structured inference (InfoTabS) our [NAACL 2021](https://2021.naacl.org/) paper: [Incorporating External Knowledge to Enhance Tabular Reasoning](https://vgupta123.github.io/docs/Knowledge_InfoTabS_Camera_Ready.pdf). 
+Implementation of the knowledge incorporation for semi-structured inference (InfoTabS) our [NAACL 2021](https://2021.naacl.org/) paper: [Incorporating External Knowledge to Enhance Tabular Reasoning](https://knowledge-infotabs.github.io/). 
 
 ## 0. Prerequisites
 Download and unpack INFOTABS dataset into ```./data``` in the main code folder. This step is optional as we have already provided the INFOTABS data which can be found in ```/data/maindata/``` and ```/data/tables/ ```
